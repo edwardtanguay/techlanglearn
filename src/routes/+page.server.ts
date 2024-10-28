@@ -6,5 +6,5 @@ export async function load() {
 	const filePath = path.join(process.cwd(), 'src', 'data', 'svelte5GuideForBeginners.md');
 	const markdown = fs.readFileSync(filePath, 'utf-8');
 	const content = marked(markdown);
-	return { content }
+	return { content };
 }

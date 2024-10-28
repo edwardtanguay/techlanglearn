@@ -1,0 +1,33 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+h1.main {
+	font-size: 1.8rem;
+}
+
+.markdown-tutorial {
+	h1 {
+		font-size: 1.4rem;
+		background-color: #ccc;
+	}
+
+	h2 {
+		font-size: 1.2;
+		color: #555;
+		font-variant: small-caps;
+	}
+
+	ul {
+		list-style: disc;
+		margin-left: 1.5rem;
+	}
+
+	code {
+		color: brown;
+	}
+
+	a {
+		text-decoration: underline;
+	}
+}
