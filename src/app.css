@@ -1,3 +1,11 @@
 @import 'tailwindcss/base';
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
+
+h1.main {
+	font-size: 1.8rem;
+}
+
+h1 {
+	font-size: 1.4rem;
+}
