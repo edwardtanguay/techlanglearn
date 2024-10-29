@@ -22,8 +22,13 @@ h1.main {
 	h2 {
 		font-size: 1.2;
 		color: green;
+		background-color: rgb(213, 247, 213);
+		border: 1px solid rgb(163, 238, 163);
 		font-weight: bold;
 		font-variant: small-caps;
+		width: fit-content;
+		padding: 0 .3rem;
+		border-radius: .3rem;
 	}
 
 	ul {

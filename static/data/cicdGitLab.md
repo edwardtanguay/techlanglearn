@@ -6,32 +6,60 @@
 - GitLab
 - 4.7
 
-## intro - 0:57, 2024-10-29 01:25:33
+## intro - 0:57, 2024-10-28
 
 - esta es solo una introducción básica
 
-## what is GitLab - 1:39, 2024-10-29 01:36:07
+## what is GitLab - 1:39, 2024-10-28
 
 - GitLab es más una solución de extremo a extremo que GitHub
 - te permite reemplazar Jenkins
 - el CD rara vez se automatiza
 
-## what problem needs solving - 2:54, nnn
+## what problem needs solving - 2:54, 2024-10-29
 
-- nnn
+- Software Development Lifecycle (SDLC)
+  - analysis
+  - design
+  - development
+  - deployment and delivery
+  - maintenance
+
+## set up a project - 3:33, nnn
 
 ## vocab - spanish
 
-
-
-
-
-
-
-
-
-
 ```
+work back and forth
+trabajar de un lado de otro
+
+the other thing that happens
+la otra cosa que sucede
+
+I'm testing a hunch
+pruebo una corazonada
+
+testing a hunch
+probando una corazonada
+
+app developer
+desarrollador de aplicaciones
+
+this is because it is very difficult to distinguish
+esto se debe a que es muy difícil distinguir
+
+it is assumed that
+se supone que
+
+this concept helps to emphasize
+Este concepto ayuda a enfatizar
+
+let's drink to software development
+brindemos por el desarrollo de software; [day-sah-ROY-yoh]
+
+it consists of the following parts
+es consta de las siguientes partes; [see-g|ee-EN-tays]
+
 so let's take a look at the general process
 así que echemos un vistazo el proceso general
 
