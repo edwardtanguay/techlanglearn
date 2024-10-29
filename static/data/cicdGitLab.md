@@ -22,10 +22,22 @@
 
 ## vocab - spanish
 
-```
-entrega continua
-continuous delivery
 
-en gran medida
+
+
+
+
+
+
+
+
+```
+so let's take a look at the general process
+así que echemos un vistazo el proceso general
+
+continuous delivery
+entrega continua
+
 to a large extent
+en gran medida
 ```
