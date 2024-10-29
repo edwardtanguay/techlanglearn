@@ -2,6 +2,11 @@
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
 
+
+body {
+	background-color: #eee;
+}
+
 h1.main {
 	font-size: 1.8rem;
 }
