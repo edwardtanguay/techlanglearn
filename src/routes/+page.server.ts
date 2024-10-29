@@ -8,9 +8,15 @@ export async function load() {
 	// const filePath = path.join(process.cwd(), 'src', 'data', 'svelte5GuideForBeginners.md');
 	// const markdown = fs.readFileSync(filePath, 'utf-8');
 
-	const fileUrl = `${PUBLIC_BASE_URL}/data/svelte5GuideForBeginners.md`;
-	const res = await fetch(fileUrl);
-	const markdown = await res.text();
-	const content = marked(markdown);
+	const tutorialIdCodes = ['svelte5GuideForBeginners', 'cicdGitLab'];
+
+	let content = '';
+	for (const tutorialIdCode of tutorialIdCodes) {
+		const fileUrl = `${PUBLIC_BASE_URL}/data/${tutorialIdCode}.md`;
+		const res = await fetch(fileUrl);
+		const markdown = await res.text();
+		content += marked(markdown);
+	}
+
 	return { content };
 }

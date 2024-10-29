@@ -2,7 +2,7 @@
 
 - https://www.youtube.com/watch?v=tErKyuUTzsM
 - 21:40
-- English
+- english
 - svelte5
 - 4.8
 
