@@ -8,7 +8,7 @@
 
 ## watchlog
 
-- 2024-10-28: 00:00 - 04:18 
+- 2024-10-28: 00:00 - 04:18
 
 ## Svelte 3
 
@@ -17,12 +17,12 @@
 - Svelte 3 introduced stores
 - writable(0)
 - so Svelte introduced $
-	- only works inside svelte components
-  
+  - only works inside svelte components
+
 ## Svelte 5
 
 - runes
   - reduce complexity
-
 - create SvelteKit 5 site
   - `npx sv create`
+- nnn
