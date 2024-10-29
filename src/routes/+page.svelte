@@ -20,6 +20,6 @@
 	</header>
 
 	<div class="markdown-tutorial">
-		{@html $page.data.content}
+		{@html $page.data.htmlContent}
 	</div>
 </main>

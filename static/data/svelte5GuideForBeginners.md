@@ -19,10 +19,22 @@
 - so Svelte introduced $
   - only works inside svelte components
 
-## Svelte 5
+## Svelte 5 and runes
 
 - runes
   - reduce complexity
 - create SvelteKit 5 site
   - `npx sv create`
-- nnn
+
+## side effects
+
+- effect, notice lack of dependency arrays
+
+```ts
+let count = $state(0);
+let double = $derived(count * 2);
+
+$effect(() => {
+  console.log(111, count);
+});
+```

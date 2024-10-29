@@ -1,7 +1,6 @@
 import { marked } from 'marked';
 import { PUBLIC_BASE_URL } from '$env/static/public'; // Import your base URL
-
-console.log(111, PUBLIC_BASE_URL);
+// import * as qstr from '../tools';
 
 export async function load() {
 	// KEEP: CODE THAT LOADS FROM FILE SYSTEM INSTEAD OF FETCHING FROM STATIC FILE
@@ -10,13 +9,15 @@ export async function load() {
 
 	const tutorialIdCodes = ['svelte5GuideForBeginners', 'cicdGitLab'];
 
-	let content = '';
+	let rawHtmlContent = '';
 	for (const tutorialIdCode of tutorialIdCodes) {
 		const fileUrl = `${PUBLIC_BASE_URL}/data/${tutorialIdCode}.md`;
 		const res = await fetch(fileUrl);
 		const markdown = await res.text();
-		content += marked(markdown);
+		rawHtmlContent += marked(markdown);
 	}
 
-	return { content };
+	// const htmlContent = rawHtmlContent;
+
+	return { htmlContent: rawHtmlContent };
 }
