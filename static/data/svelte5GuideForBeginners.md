@@ -1,13 +1,14 @@
 # Svelte 5 Guide For Beginners
 
 - https://www.youtube.com/watch?v=tErKyuUTzsM
+- 21:40
 - English
 - svelte5
 - 4.8
 
 ## watchlog
 
-- 2024-10-28: 00:00 - nnn
+- 2024-10-28: 00:00 - 04:18 
 
 ## Svelte 3
 
