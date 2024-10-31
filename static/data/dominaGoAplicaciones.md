@@ -66,6 +66,9 @@
 ## VOCAB - SPANISH
 
 ```
+on the one hand
+por un lado
+
 to check that the token passed in the header
 de comprobar que el token que se pasa en la cabacera
 
