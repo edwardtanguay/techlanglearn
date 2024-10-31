@@ -32,13 +32,81 @@
 - project deployment target: vercel
 - Web IDE
 
-## Lean manufacturing models - 3:18, nnn
+## Lean manufacturing models - 3:18, 2024-10-31
+
+- just-in-time manufacturing
+  - smaller batches
+  - los materiales se compran justo antes de que se necesiten
+  - los inventarios de productos terminados se mantienen bajos
+- theory of constraints
+  - what is holding it back
+- **increasing cadence**
+  - more frequent and smaller changes
+  - get features to users more quickly
+  - improved quality and stability
+  - reduce the delta, i.e. the amount of change in each release
+  - easier to fix bugs when there are smaller changes
+  - hotfixes just go out with the next scheduled deployment
+
+## Continuous integration - 5:15, 2024-10-31
+
+- an automated system
+- merge right after the changes are complete
+- alternative is where some poor developer is tasked with combining all the changes into one deployment
+- you need to QA every change as soon as it's ready to merge
+- require that a test is passed before code can be merged
+- driven by when the work is ready
+- los cambios principales se han fusionado a lo largo del sprint.
+- las pruebas más caras deberían ser las últimas
+- testing
+  - syntax testing and linting - making sure the text of your code is valid and conform
+  - unit testing - individual functions, components, APIs
+  - integration testing - whether specific functions, components, APIs work correctly together
+  - end-to-end testing - test the application as the user experiences it, all the real-world scenarios that your code might encounter
+- your tests should happen in a pipeline
+- find out if there is something broken within minutes of submitting your merge request
+- fail early and often
+- quit as soon as something goes wrong
+- quickly fix issue and retest
+- put time and effort into comprehensive tests
+
+## Creating a pipeline, 3:34, nnn
 
 - 
 
 ## vocab - spanish
 
 ```
+that investment will pay for itself many times over
+esa inversión amortizará muchos veces
+
+it would be nice to find out
+sería bueno averiguarlo
+
+the next level
+el siguiente nivel
+
+each layer of testing
+cada capa de prueba
+
+if you have ever seen a documentary
+si alguna vez has visto un documental
+
+it's pretty easy to find out
+es bastante fácil averiguar
+
+due to the delta
+debido al delta
+
+both approaches
+ambos enfoques
+
+pr. 1930
+meel NOH-vay see-EN-troh TRAYN-tah
+
+in the last century
+en el siglo pasado
+
 click on the tab
 haga clic en la pestaña
 
