@@ -19,6 +19,14 @@
   - frontend is in [SvelteKit5](https://svelte.dev/blog/svelte-5-is-alive) released Oct 22, 2024
   - eventually the Go script will save the data in an [ArangoDB](https://arangodb.com) database and a Go backend will serve the data via [GraphQL](https://graphql.org)
 
+## live site
+
+- I practice **Minimal Viable Product** and **iterative development** in this project
+- this means that, while the site is very new
+- I am already watching videos and taking tech and language notes 
+- these are available on this [live site](https://techlanglearn.vercel.app)
+- many of the videos I am currently watching (Go, SvelteKit 5) help me build skills to develop the site
+
 ## setup
 
 - `npm i`
