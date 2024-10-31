@@ -1,10 +1,15 @@
 # techlanglearn
 
 - on this site I record notes on watching video tutorials in numerous languages at:
-  - **LinkedInLearning** - has tutorials in English, German, French and Spanish - has accurate subtitles in dozens of languages - so I can watch e.g. Spanish tutorials with Spanish subtitles - I can also watch English tutorials with Dutch, Polish or Italian subtitles
-  - **YouTube** - has tutorials in English, German, French and Spanish
-    - subtitles are automated and hence error prone, but help in understanding the language
-    - you can also watch most videos with subtitles in another language, but of course also automated
+  - **LinkedInLearning** 
+		- has tutorials in English, German, French and Spanish 
+		- has accurate subtitles in dozens of languages 
+		- so I can watch e.g. Spanish tutorials with Spanish subtitles 
+		- I can also watch English tutorials with Dutch, Polish or Italian subtitles
+  - **YouTube** 
+		- has tutorials in English, German, French and Spanish
+		- subtitles are automated and hence error prone, but help in understanding the language
+		- you can also watch most videos with subtitles in another language, but of course also automated
 - I not only record notes on the technical aspects of the videos
   - but also useful phrases that I want to learn in various languages
 - hence this site helps me improve my web development skills as well as my foreign language skills, mostly in Spanish, French and Italian, hence the name **techlanglearn**
