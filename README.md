@@ -1,6 +1,6 @@
 # techlanglearn
 
-- on this site I record notes on watching a wide range of tech video tutorials in numerous foreign languages:
+- on this site I record notes while watching a wide range of tech video tutorials in numerous foreign languages, mainly using the following sources for tutorials:
   - **LinkedInLearning** 
     - has tutorials in English, German, French and Spanish 
     - has accurate subtitles in dozens of languages 
