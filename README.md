@@ -7,7 +7,7 @@
     - you can also watch most videos with subtitles in another language, but of course also automated
 - I not only record notes on the technical aspects of the videos
   - but also useful phrases that I want to learn in various languages
-- hence this site helps me learn both tech and language, hence the name **techlanglearn**
+- hence this site helps me improve my web development skills as well as my foreign language skills, mostly in Spanish, French and Italian, hence the name **techlanglearn**
 - in addition, the site uses tools, frameworks and programming languages that I want to learn including:
   - [Go](https://go.dev) to parse the .md files with a CLI script, using [Cobra](https://cobra.dev)
   - frontend is in [SvelteKit5](https://svelte.dev/blog/svelte-5-is-alive) released Oct 22, 2024
