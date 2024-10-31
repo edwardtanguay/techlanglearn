@@ -14,7 +14,7 @@
   - but also useful phrases that I want to learn in various languages
   - these are presented to me to take as flashcards along with the tech notes that I take
 - hence this site helps me improve my web development skills as well as my foreign language skills, mostly in Spanish, French and Italian, hence the name **techlanglearn**
-- in addition, the site uses tools, frameworks and programming languages that I want to learn including:
+- in addition, I use frameworks, programming languages, and tools that I want to get practice experience with and improve my skills in, including:
   - [Go](https://go.dev) to parse the .md files with a CLI script, using [Cobra](https://cobra.dev)
   - frontend is in [SvelteKit5](https://svelte.dev/blog/svelte-5-is-alive) released Oct 22, 2024
   - eventually the Go script will save the data in an [ArangoDB](https://arangodb.com) database and a Go backend will serve the data via [GraphQL](https://graphql.org)
