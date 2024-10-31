@@ -1,38 +1,23 @@
-# create-svelte
+# techlanglearn
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+- on this site I record notes on watching video tutorials in numerous languages at:
+  - **LinkedInLearning** - has tutorials in English, German, French and Spanish - has accurate subtitles in dozens of languages - so I can watch e.g. Spanish tutorials with Spanish subtitles - I can also watch English tutorials with Dutch, Polish or Italian subtitles
+  - **YouTube** - has tutorials in English, German, French and Spanish
+    - subtitles are automated and hence error prone, but help in understanding the language
+    - you can also watch most videos with subtitles in another language, but of course also automated
+- I not only record notes on the technical aspects of the videos
+  - but also useful phrases that I want to learn in various languages
+- hence this site helps me learn both tech and language, hence the name **techlanglearn**
+- in addition, the site uses tools, frameworks and programming languages that I want to learn including:
+  - [Go](https://go.dev) to parse the .md files with a CLI script, using [Cobra](https://cobra.dev)
+  - frontend is in [SvelteKit5](https://svelte.dev/blog/svelte-5-is-alive) released Oct 22, 2024
+  - eventually the Go script will save the data in an [ArangoDB](https://arangodb.com) database and a Go backend will serve the data via [GraphQL](https://graphql.org)
 
-## Creating a project
+## setup
 
-If you're seeing this, you've probably already done this step. Congrats!
+- `npm i`
+- `npm run dev`
 
-```bash
-# create a new project in the current directory
-npx sv create
+## parse md files to json (under construction)
 
-# create a new project in my-app
-npx sv create my-app
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+- `npm run pd` (pd = parse data)
