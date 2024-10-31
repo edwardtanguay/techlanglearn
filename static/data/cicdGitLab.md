@@ -70,13 +70,208 @@
 - quickly fix issue and retest
 - put time and effort into comprehensive tests
 
-## Creating a pipeline, 3:34, nnn
+## Creating a pipeline, 3:34, 2024-10-31
+
+- I don't have a template like he does
+  - ok, I have to choose, on the left: Build > Pipelines
+  - use **Bash template**
+  - will be using built-in containers in this course
+  - you don't need containers, you could deploy to a cloud service
+  - before_script is a global section
+  - test1 and test2 run in parallel
+  - deploy at end
+  - doesn't make changes at the moment
+  - main branch and commit changes
+
+## Running your pipeline, 2:43, 2024-10-31
+
+- click on the hash to go to pipeline
+- can click on rerun icon
+- regardless of which you click on, they all go to same logs
+- rerunning my second test, it failed
+
+## Going deeper with pipelines, 5:05, 2024-10-31
+
+- there is no interaction between the stages
+- I don't have lint button
+- edit pipeline
+- "file.txt" assumes root of repository
+
+```
+- stages:
+  - "build"
+  - "test"
+  - "deploy"
+```
+
+- and then this:
+
+```
+build1:
+  stage: build
+  script:
+    - echo "Do your build here"
+    - echo "this is a file"|tee file.txt
+  artifacts:
+    paths:
+      - "file.txt"
+
+test1:
+  stage: test
+  script:
+    - echo "Do a test here"
+    - echo "For example run a test suite"
+    - cat file.txt
+  dependencies:
+    - "build1"
+```
+
+- he advises to start with basic pipelines
+
+## Adding a test, 6:32, 2024-10-31
+
+- testing this:
+
+```
+test1:
+  stage: test
+  script:
+    - echo "testing for string 'gitlab'"
+    - grep "gitlab" file.txt
+  dependencies:
+    - "build1"
+```
+
+- worked, test1 failed, but it didn't show exactly where
+- now adding variable
+- it's not clear if there is one pipeline or many
+- can't see where he added the variable to override
+- my variable in settings/CICD didn't work
+- he has "Run pipeline"
+- I have "New pipeline" same place, same button
+- okay, but "New pipeline" goes to "Run pipeline" page
+- great, it worked then
+
+```
+image: busybox:latest
+
+variables:
+  MY_WORD2: "gitlab"
+
+stages:
+  - build
+  - test
+  - deploy
+
+before_script:
+  - echo "note_beforescript"
+
+after_script:
+  - echo "note_afterscript"
+
+build1:
+  stage: build
+  script:
+    - echo "note_build1"
+    - echo "$APP_TITLE"
+    - echo "this is a file $MY_WORD2"|tee file.txt
+  artifacts:
+    paths:
+      - "file.txt"
+
+test1:
+  stage: test
+  script:
+    - echo "note_test"
+    - echo "testing for string 'gitlab'"
+    - grep "gitlab" file.txt
+  dependencies:
+    - "build1"
+
+test2:
+  stage: test
+  script:
+    - echo "note_test2"
+    - echo "Do another parallel test here"
+    - echo "For example run a lint test"
+
+deploy1:
+  stage: deploy
+  script:
+    - echo "note_deploy"
+  environment: production
+```
+
+## Generate a website, 3:48, 2024-10-31
+
+- now a more realistic example
+- create markdown file: website.md
+- `image: alpine:latest`, it can do more than busybox
+- this works:
+
+```
+image: alpine:latest
+
+stages:
+  - build
+  - test
+  - deploy
+
+render_website:
+  stage: build
+  script:
+    - apk add markdown
+    - markdown website.md | tee index.html
+  artifacts:
+    paths:
+      - "index.html"
+
+test_website:
+  stage: test
+  script:
+    - apk add libxml2-utils
+    - xmllint --html index.html
+  dependencies:
+    - "render_website"
+
+deploy_website:
+  stage: deploy
+  script:
+    - echo "note_deploy"
+  environment: production
+``` 
+
+## CD concepts, 5:26, 2024-10-31
 
 - 
 
-## vocab - spanish
+## VOCAB - SPANISH
 
 ```
+and I will delete some of these comments
+y borraré algunos de estos comentarios
+
+it may be tempting to create
+puede ser tentador crear
+
+let's go back
+regresemos
+
+I got to this page by browsing
+llegué a esta página navegando
+
+so we can move on
+así que podemos seguir adelante
+
+something starts to happen
+algo comienza a suceder
+
+below the image
+debajo de la imagen
+
+so let's take a look
+así que echemos un vistazo
+
 that investment will pay for itself many times over
 esa inversión amortizará muchos veces
 
