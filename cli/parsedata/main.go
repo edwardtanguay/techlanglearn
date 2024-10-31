@@ -14,7 +14,7 @@ func main() {
 		Use:   "parsedata",
 		Short: "Reads the .md files and parses them into JSON files that contain data from the md files, plus extended HTML to be displayed on the site.",
 		Run: func(cmd *cobra.Command, args []string) {
-			fmt.Printf("TODO: parse these files:\n\n")
+			fmt.Printf("This script will parse these files:\n\n")
 			mdPathAndFileNames, _ := getMdFiles("../../static/data")
 			for _, mdPathAndFileName := range mdPathAndFileNames {
 				fileName := filepath.Base(mdPathAndFileName)
