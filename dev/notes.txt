@@ -1,0 +1,9 @@
+- installing Cobra
+	- **/cli/parsedata/go.mod**
+		----------------------------------------------------
+		module tanguay.info/techlanglearn
+
+		go 1.22.1
+
+		require github.com/spf13/cobra v1.8.1
+		----------------------------------------------------
