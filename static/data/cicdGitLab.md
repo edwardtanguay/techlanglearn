@@ -25,11 +25,38 @@
   - deployment and delivery
   - maintenance
 
-## set up a project - 3:33, nnn
+## set up a project - 3:33, 2024-10-31
+
+- me estoy registrando para una cuenta de GitLab.com
+- "create blank project": gitlabcicd-showcase
+- project deployment target: vercel
+- Web IDE
+
+## Lean manufacturing models - 3:18, nnn
+
+- 
 
 ## vocab - spanish
 
 ```
+click on the tab
+haga clic en la pestaña
+
+we will not cover in this course
+no cubriremos en este curso
+
+take a couple of minutes and
+tómate un par de minutos y
+
+a branch called main
+una rama llamada main
+
+a couple of things I want to point out
+un par de cosas que quiero señalar
+
+we will leave these unset
+dejaremos estos sin establecer
+
 work back and forth
 trabajar de un lado de otro
 

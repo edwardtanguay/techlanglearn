@@ -1,3 +1,9 @@
+- videos to watch
+	- Cobra
+		- https://www.youtube.com/watch?v=3qjkoWumAaI - 4 min
+		- https://www.youtube.com/watch?v=yiFhQGJeRJk - 26 min, woman/jazz
+	- CI/CD
+		- https://www.linkedin.com/learning/instructors/josh-samuelson
 - installing Cobra
 	- **/cli/parsedata/go.mod**
 		----------------------------------------------------
