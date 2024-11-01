@@ -239,15 +239,131 @@ deploy_website:
   script:
     - echo "note_deploy"
   environment: production
-``` 
+```
 
 ## CD concepts, 5:26, 2024-10-31
 
-- 
+- continuous delivery happens in an environment
+- environment
+  - standalone hardware and software stack
+  - can run entire application
+  - configured for a specific purpose
+    - development
+      - developer's laptop
+      - one development environment per developer
+      - easily repared or replaced if broken
+      - if they delete data in the database by mistake, they should be able to quickly restore it
+    - QA
+      - intended for testing
+      - similar to production
+      - usually has only dummy data
+    - staging
+      - a clone of production
+      - matches as closely as possible to production
+      - including data in database as long as it doesn't violate privacy laws
+      - point is to test something in production without releasing it in production
+    - production
+      - customer-facing servers
+      - also automated testing in prod
+      - should be easy to roll back if there is a problem
+- code promotion
+  - your environments correlate to your branches
+  - GitFlow
+    - dev and QA is where feature branches can be developed and tested
+    - long-running development branch
+    - dev branch is deployed to QA
+    - push to release branch and tagged
+    - pushed to prod
+
+## Environments, 6:43, 2024-11-01
+
+- creates new user with IAM server
+- you get an access key ID and a secret access key##accessandsec
+- sets up a bucket
+- in GitLab he creates a new environment and calls it qa##thenwissinew
+
+## Environment variables, 4:28, 2024-11-01
+
+- settings > ci/cd > variables
+- adds variables for AWS
+- build > pipeline editor
+- creates variable: S3_BUCKET
+- in render_website, adds `mkdir -p public`
+- deploy_website
+  - `apk add aws-cli`
+  - `aws s3 cp ./public/ s3://$S3_BUCKET/ --recursive`
+  - `dependencies:`
+    - `render_website`
+
+## First deployment pipeline, 5:22, 2024-11-01
+
+- view pipeline
+- it was deployed
+- changes name from `deploy_website` to `deploy_qa`
+- every commit to our repo will trigger a deployment
+  - so we will add a rules section to the deploy job
+
+```
+rules:
+  - when: manual
+```
+
+- adds `deploy_staging`
+- adds job-level variable
+- now he has three deploy jobs##nowhas3deploy
+
+## Automating deployments, 5:40, nnn
+
+- nnn
 
 ## VOCAB - SPANISH
 
 ```
+we will return to our project
+volveremos a nuestro proyecto
+
+for everything else
+para todo lo demás
+
+I saved that earlier
+lo guardé antes
+
+it's right here
+está justo aquí
+
+necesitamos permitir al usuario cargar archivos
+we need to allow the user to upload files
+
+we will need to add some permissions
+necesitaremos agregar algunos permisos
+
+and we will have to check this box
+y tendremos que marcar esta casilla
+
+and then scroll down and then back up
+y luego desplácese hacia abajo y luego hacia arriba
+
+you can repeat the steps
+puedes repetir los pasos
+
+you'll want to copy this password
+querrás copiar esta contraseña
+
+you will have to regenerate it
+tendrás de regenerarlo
+
+make sure you save them because otherwise you will lose them
+asegúrate de guardarlos porque de lo contrario los perderás
+
+I am going to use it to paste some text into the input box
+voy a usarlo para pegar algo de texto en el cuadro de entrada
+
+just follow exactly what I do and you should be fine
+solo sigue exactamente lo que hago y deberías estar bien
+
+we didn't do anything with it
+no hicimos nada con él
+
 and I will delete some of these comments
 y borraré algunos de estos comentarios
 
@@ -266,7 +382,7 @@ así que podemos seguir adelante
 something starts to happen
 algo comienza a suceder
 
-below the image
+belw the image
 debajo de la imagen
 
 so let's take a look
