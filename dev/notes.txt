@@ -4,7 +4,8 @@
 		- .. make getLanguagePhrases
 			- .. just print out lines
 				- x put in tools
-			- x main accessible
+				- x main accessible
+				- .. make function general
 
 - videos to watch
 	- Go Mux

@@ -6,14 +6,18 @@ import (
 	"strings"
 )
 
-func getMdFiles(dirPath string) ([]string, error) {
+func getMdFiles(dirPath, ext string) ([]string, error) {
 	var fileList []string
+
+	if !strings.HasPrefix(ext, ".") {
+		ext = "." + ext
+	}
 
 	err := filepath.Walk(dirPath, func(path string, info os.FileInfo, err error) error {
 		if err != nil {
 			return err
 		}
-		if !info.IsDir() && strings.HasSuffix(info.Name(), ".md") {
+		if !info.IsDir() && strings.HasSuffix(info.Name(), ext) {
 			fileList = append(fileList, path)
 		}
 		return nil
