@@ -2,9 +2,7 @@ package main
 
 import (
 	"fmt"
-	"os"
 	"path/filepath"
-	"strings"
 
 	"github.com/spf13/cobra"
 )
@@ -32,34 +30,4 @@ func main() {
 	if err := rootCmd.Execute(); err != nil {
 		fmt.Println(err)
 	}
-}
-
-func getMdFiles(dirPath string) ([]string, error) {
-	var fileList []string
-
-	err := filepath.Walk(dirPath, func(path string, info os.FileInfo, err error) error {
-		if err != nil {
-			return err
-		}
-		if !info.IsDir() && strings.HasSuffix(info.Name(), ".md") {
-			fileList = append(fileList, path)
-		}
-		return nil
-	})
-
-	if err != nil {
-		return nil, err
-	}
-
-	return fileList, nil
-}
-
-func getLinesFromFile(fileName string) []string {
-	byteContents, err := os.ReadFile(fileName)
-	if err != nil {
-		panic(err)
-	}
-	contents := string(byteContents)
-	lines := strings.Split(contents, "\n")
-	return lines
 }

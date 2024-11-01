@@ -1,8 +1,13 @@
 - todo
 	- .. npm run pd creates JSON files
-		- .. show lines for each file
+		- x show lines for each file
+		- .. make getLanguagePhrases
+			- .. just print out lines
+				- .. put in tools
 
 - videos to watch
+	- Go Mux
+		- https://www.youtube.com/watch?v=7nvNdrFXzWM
 	- Go
 		- SP: essential training Go
 			- https://www.linkedin.com/learning/go-esencial-3/estructura-basica-de-un-programa
@@ -18,6 +23,11 @@
 			- https://www.linkedin.com/learning/go-recipes-practical-projects/recipes-for-practical-projects-with-go
 		- challenges, etc.
 			- https://www.linkedin.com/learning/go-essentials-concurrency-connectivity-and-high-performance-apps/solution-maps?resume=false
+	- Go tools
+		- Go, Mux, JWT
+			- https://www.youtube.com/watch?v=7nvNdrFXzWM
+		- GORM/Gin
+			- https://www.youtube.com/watch?v=lf_kiH_NPvM&t=14s
 	- Cobra
 		- https://www.youtube.com/watch?v=3qjkoWumAaI - 4 min
 		- https://www.youtube.com/watch?v=yiFhQGJeRJk - 26 min, woman/jazz
