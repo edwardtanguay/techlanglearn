@@ -1,4 +1,4 @@
-module tanguay.info/techlanglearn
+module github.com/edwardtanguay/techlanglearn
 
 go 1.22.1
 

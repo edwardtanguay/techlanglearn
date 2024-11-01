@@ -2,10 +2,10 @@
 	- .. npm run pd creates JSON files
 		- x show lines for each file
 		- x make parseProcess.go with func parseDataFiles func getLanguagePhrases(lines)
-		- .. pass in directory	
+		- x pass in directory	
 			
-		- make parseFlashcards
-			- first just print out lines of that area
+		- .. make parseFlashcards
+			- .. first just print out lines of that area
 
 	- create json files
 	- show flashcards at top of page
