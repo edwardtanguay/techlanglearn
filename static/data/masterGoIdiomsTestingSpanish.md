@@ -18,13 +18,40 @@ https://www.linkedin.com/learning/domina-go-idioms-y-pruebas-de-codigo
 - the name of the package is the name of the directory
 - lowercase is hidden##lowercasehidd
 
-## Dependencias cíclicas en proyectos Go, 2:17, nnn
+## Dependencias cíclicas en proyectos Go, 2:17, 2024-11-01
+
+- Go detects circular dependenciees
+- it helps you detect if package 1 uses package 2 but also package 2 uses package 1
+- solves this by creating an abstraction
+
+## El paquete Internal de Go, 1:44, 2024-11-01
+
+- it's important to have libraries on the same level as main.go
+- talks about loading in imports that you need
+- e.g. import "myapp/internal/helper"
+
+## Implementación del Standard Layout en Go, 3:13, nnn
 
 - nnn
 
 ## VOCAB - SPANISH
 
 ```
+our hierarchy
+nuestra jerarquía
+
+which helps us
+lo cual nos ayuda
+
+which is a mistake
+lo cual es un error
+
+although it seems to make sense
+aunque parece tener sentido
+
+for this reason
+por ello
+
 in such a way that
 de tal forma de
 
