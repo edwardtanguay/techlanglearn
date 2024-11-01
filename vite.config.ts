@@ -14,5 +14,12 @@ export default defineConfig({
 	test: {
 		include: ['src/**/*.{test,spec}.{js,ts}']
 	},
-	logLevel: 'error'
+	logLevel: 'error',
+	css: {
+		preprocessorOptions: {
+			scss: {
+				api: 'modern-compiler' // or "modern"
+			}
+		}
+	}
 });
