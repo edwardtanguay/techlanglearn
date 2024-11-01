@@ -8,7 +8,9 @@
 
 ## watchlog
 
-- 2024-10-28: 00:00 - 04:18
+- 2024-10-28: 00:00
+- 2024-11-01: 04:18
+- 10:08
 
 ## Svelte 3
 
@@ -35,6 +37,19 @@ let count = $state(0);
 let double = $derived(count * 2);
 
 $effect(() => {
-  console.log(111, count);
+	console.log(111, count);
 });
 ```
+
+- don't do this:##dontdothis1
+- instead do this: ##insteidjdo1
+- runes:: function-like symbols that provide isntructions to the Svelte provider
+- runes are easy to type because they look like functions
+- signal:: a reactive variable that causes parts of the component to automatically update when the variable's value changes
+- [example](https://github.com/edwardtanguay/sveltekit5-showcase/blob/dev/src/lib/state/createUser.svelte.ts)
+
+## universal reactivity
+
+- universal reactivity:: a concept that means you can use the same logic inside and outside of Svelte components
+- problem:##countprobl
+- do it like this, thanks to the magic of signals##thankmagisig
