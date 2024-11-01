@@ -35,14 +35,18 @@ func parse(directory string) {
 }
 
 func getFlashcards(lines []string) ([]string, error) {
+	foundFirstBackticks := false
 	foundVocab := false
 	flashcards := []string{}
 	for _, line := range lines {
+		if foundVocab && foundFirstBackticks {
+			flashcards = append(flashcards, line)
+		}
 		if strings.Contains(line, "## VOCAB") {
 			foundVocab = true
 		}
-		if foundVocab {
-			flashcards = append(flashcards, line)
+		if strings.Contains(line, "```") {
+			foundFirstBackticks = true
 		}
 	}
 	return flashcards, nil
