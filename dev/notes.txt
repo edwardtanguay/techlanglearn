@@ -1,3 +1,6 @@
+- todo
+	- .. npm run pd creates JSON files
+
 - videos to watch
 	- Cobra
 		- https://www.youtube.com/watch?v=3qjkoWumAaI - 4 min
