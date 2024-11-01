@@ -3,6 +3,21 @@
 		- .. show lines for each file
 
 - videos to watch
+	- Go
+		- SP: essential training Go
+			- https://www.linkedin.com/learning/go-esencial-3/estructura-basica-de-un-programa
+		- SP: advanced concepts in Go
+			- https://www.linkedin.com/learning/domina-go-idioms-y-pruebas-de-codigo/para-aquellos-que-desean-dominar-go
+		- design patterns
+			- https://www.linkedin.com/learning/go-design-patterns/go-design-patterns
+		- generics
+			- https://www.linkedin.com/learning/generics-in-go/generics-in-go-1-18
+		- advanced concepts in Go
+			- https://www.linkedin.com/learning/advanced-go-programming-data-structures-code-architecture-and-testing/advancing-in-go
+		- measuring time, etc.
+			- https://www.linkedin.com/learning/go-recipes-practical-projects/recipes-for-practical-projects-with-go
+		- challenges, etc.
+			- https://www.linkedin.com/learning/go-essentials-concurrency-connectivity-and-high-performance-apps/solution-maps?resume=false
 	- Cobra
 		- https://www.youtube.com/watch?v=3qjkoWumAaI - 4 min
 		- https://www.youtube.com/watch?v=yiFhQGJeRJk - 26 min, woman/jazz
