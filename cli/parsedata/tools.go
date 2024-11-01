@@ -6,7 +6,7 @@ import (
 	"strings"
 )
 
-func getMdFiles(dirPath, ext string) ([]string, error) {
+func getFilesFromDirectory(dirPath, ext string) ([]string, error) {
 	var fileList []string
 
 	if !strings.HasPrefix(ext, ".") {
