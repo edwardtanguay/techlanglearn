@@ -3,7 +3,8 @@
 		- x show lines for each file
 		- .. make getLanguagePhrases
 			- .. just print out lines
-				- .. put in tools
+				- x put in tools
+			- x main accessible
 
 - videos to watch
 	- Go Mux
