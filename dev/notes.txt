@@ -1,8 +1,11 @@
 - todo
 	- .. npm run pd creates JSON files
 		- x show lines for each file
-		- .. make parseProcess.go with func parseDataFiles func getLanguagePhrases(lines)
-			- .. just print out lines first
+		- x make parseProcess.go with func parseDataFiles func getLanguagePhrases(lines)
+		- .. pass in directory	
+			
+		- make parseFlashcards
+			- first just print out lines of that area
 
 	- create json files
 	- show flashcards at top of page
