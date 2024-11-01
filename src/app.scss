@@ -37,17 +37,19 @@ h1.main {
 	}
 
 	pre {
-		background-color: #ccc;
+		background-color: #ddd;
 		width: fit-content;
+		min-width: 35rem;
 		font-size: 0.8rem;
 		margin-top: 0.2rem;
 		padding: 0.5rem;
 		border-radius: 0.3rem;
 		margin-left: 1rem;
+		line-height: 0.9rem;
 		code {
 			color: black;
-			background-color: #ccc;
-			font-size: 0.8rem;
+			background-color: #ddd;
+			font-size: 0.7rem;
 			padding: 0.1rem 0;
 			border-radius: 0.1rem;
 		}
@@ -55,7 +57,7 @@ h1.main {
 
 	code {
 		color: black;
-		background-color: #ccc;
+		background-color: #ddd;
 		font-size: 0.8rem;
 		padding: 0.1rem 0.4rem;
 		border-radius: 0.1rem;
