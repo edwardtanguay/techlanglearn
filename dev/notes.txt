@@ -5,7 +5,8 @@
 		- x pass in directory	
 			
 		- .. make parseFlashcards
-			- .. only after VOCAB
+			- x only after VOCAB
+			- .. go through flashcardLines and create Flashcards
 
 	- create json files
 	- show flashcards at top of page
