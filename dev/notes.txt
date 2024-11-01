@@ -1,5 +1,6 @@
 - todo
 	- .. npm run pd creates JSON files
+		- .. show lines for each file
 
 - videos to watch
 	- Cobra
