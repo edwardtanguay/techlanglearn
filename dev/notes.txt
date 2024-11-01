@@ -5,7 +5,7 @@
 		- x pass in directory	
 			
 		- .. make parseFlashcards
-			- .. first just print out lines of that area
+			- .. only after VOCAB
 
 	- create json files
 	- show flashcards at top of page

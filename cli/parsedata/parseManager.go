@@ -35,9 +35,13 @@ func parse(directory string) {
 }
 
 func getFlashcards(lines []string) ([]string, error) {
+	foundVocab := false
 	flashcards := []string{}
 	for _, line := range lines {
-		if strings.Contains(line, "the") {
+		if strings.Contains(line, "## VOCAB") {
+			foundVocab = true
+		}
+		if foundVocab {
 			flashcards = append(flashcards, line)
 		}
 	}
