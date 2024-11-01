@@ -1,11 +1,11 @@
 - todo
 	- .. npm run pd creates JSON files
 		- x show lines for each file
-		- .. make getLanguagePhrases
-			- .. just print out lines
+		- .. make parseProcess.go with func parseDataFiles func getLanguagePhrases(lines)
+			- .. just print out lines first
 				- x put in tools
 				- x main accessible
-				- .. make function general
+				- x make function general
 
 - videos to watch
 	- Go Mux

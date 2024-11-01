@@ -6,6 +6,15 @@ import (
 	"strings"
 )
 
+/*
+Get all files of a certain kind as a slice of strings.
+
+mdPathAndFileNames, _ := getFilesFromDirectory("../../static/data", "md")
+
+- use relative path
+
+- extension is mandatory
+*/
 func getFilesFromDirectory(dirPath, ext string) ([]string, error) {
 	var fileList []string
 
@@ -30,6 +39,13 @@ func getFilesFromDirectory(dirPath, ext string) ([]string, error) {
 	return fileList, nil
 }
 
+/*
+Get all lines from a file as a slice of strings.
+
+lines := getLinesFromFile("../../notes.txt")
+
+- use relative path
+*/
 func getLinesFromFile(fileName string) []string {
 	byteContents, err := os.ReadFile(fileName)
 	if err != nil {
