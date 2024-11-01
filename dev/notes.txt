@@ -3,16 +3,25 @@
 		- x show lines for each file
 		- .. make parseProcess.go with func parseDataFiles func getLanguagePhrases(lines)
 			- .. just print out lines first
-				- x put in tools
-				- x main accessible
-				- x make function general
 
+	- create json files
+	- show flashcards at top of page
+	- do not show page until they take flashcards
+
+
+	- copy in images and create img elements
+	- gif files too
+
+	- API at Hetzner
+		- https://showcase-go-api.tanguay.eu
+		- Go, Mux, JWT
+			- https://www.youtube.com/watch?v=7nvNdrFXzWM
+- learn
+	- 
 - videos to watch
 	- Go Mux
 		- https://www.youtube.com/watch?v=7nvNdrFXzWM
 	- Go
-		- SP: essential training Go
-			- https://www.linkedin.com/learning/go-esencial-3/estructura-basica-de-un-programa
 		- SP: advanced concepts in Go
 			- https://www.linkedin.com/learning/domina-go-idioms-y-pruebas-de-codigo/para-aquellos-que-desean-dominar-go
 		- design patterns
