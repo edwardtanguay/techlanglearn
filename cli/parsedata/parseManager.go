@@ -23,6 +23,7 @@ func parse(directory string) {
 
 		fileName := filepath.Base(mdPathAndFileName)
 		fmt.Printf("FILE: %s\n", fileName)
+		fmt.Println("=====================================================")
 
 		lines := getLinesFromFile(mdPathAndFileName)
 		flashcards, _ := getFlashcards(lines)
@@ -43,6 +44,7 @@ func getFlashcards(lines []string) ([]Flashcard, error) {
 	for _, line := range lines {
 		if foundVocab && foundFirstBackticks {
 			flashcardLines = append(flashcardLines, line)
+			fmt.Printf("RECORDING FLASHCARD, there are %v flashcard lines now\n", len(flashcardLines))
 		}
 		if strings.Contains(line, "## VOCAB") {
 			foundVocab = true
@@ -50,11 +52,10 @@ func getFlashcards(lines []string) ([]Flashcard, error) {
 		if strings.Contains(line, "```") {
 			foundFirstBackticks = true
 		}
-
 	}
-
+	fmt.Printf("FINISHED: there are %v flashcard lines now\n", len(flashcardLines))
 	fmt.Println(111, len(flashcardLines))
-	
+
 	// fmt.Printf("%v", flashcardLines)
 	// for _, flashcardLine := range flashcardLines {
 	// 	fmt.Printf("LINE: %s", flashcardLine)
