@@ -60,7 +60,9 @@ func getFlashcards(lines []string) ([]Flashcard, error) {
 	processingLineType := "front"
 	front := ""
 	back := ""
+	fmt.Printf("going through %d flashcards \n", len(flashcardLines))
 	for _, flashcardLine := range flashcardLines {
+		fmt.Printf("LINE: %s", flashcardLine)
 		switch processingLineType {
 		case "front":
 			front = flashcardLine
@@ -69,10 +71,10 @@ func getFlashcards(lines []string) ([]Flashcard, error) {
 			back = flashcardLine
 			processingLineType = "BLANK"
 		case "BLANK":
+			fmt.Printf("adding front: %s", front)
 			flashcards = append(flashcards, Flashcard{front, back})
 			processingLineType = "front"
 		}
-
 	}
 	return flashcards, nil
 }
