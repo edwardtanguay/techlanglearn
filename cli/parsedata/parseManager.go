@@ -26,11 +26,13 @@ func parse(directory string) {
 		flashcards, _ := getFlashcards(lines)
 
 		fmt.Println("=====================================================")
-		fmt.Printf("Number of flashcards: %v\n", len(flashcards))
+		fmt.Printf("Number of flashcards: %d\n", len(flashcards))
 		fmt.Println("=====================================================")
-		// for _, flashcard := range flashcards {
-		// 	fmt.Printf("FRONT: %v", flashcard.Front)
-		// }
+		for _, flashcard := range flashcards {
+			println("FRONT:", flashcard.Front)
+			println("BACK:", flashcard.Back)
+			println()
+		}
 		fmt.Println("=====================================================")
 
 	}
@@ -71,7 +73,6 @@ func getFlashcards(lines []string) ([]Flashcard, error) {
 			processingLineType = "BLANK"
 		case "BLANK":
 			flashcards = append(flashcards, Flashcard{front, back})
-			fmt.Printf("FRONTINSIDE: %s\n", front)
 			processingLineType = "front"
 		}
 	}
