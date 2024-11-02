@@ -1,17 +1,9 @@
 - todo
 	- .. npm run pd creates JSON files
-		- x show lines for each file
-		- x make parseProcess.go with func parseDataFiles func getLanguagePhrases(lines)
-		- x pass in directory	
-			
-		- .. make parseFlashcards
-			- x only after VOCAB
-			- .. go through flashcardLines and create Flashcards
-				- .. first get front and back as strings
-
-	- create json files
-	- show flashcards at top of page
-	- do not show page until they take flashcards
+		- .. create json files
+		- show flashcards at top of page, so you have to scroll down
+		- make them interactive
+		- do not show page until they take random 3 flashcards
 
 
 	- copy in images and create img elements
