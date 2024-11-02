@@ -27,7 +27,11 @@ func parse(directory string) {
 
 		fmt.Println("=====================================================")
 		fmt.Printf("Number of flashcards: %v\n", len(flashcards))
-		fmt.Printf("=====================================================\n\n")
+		fmt.Println("=====================================================")
+		// for _, flashcard := range flashcards {
+		// 	fmt.Printf("FRONT: %v", flashcard.Front)
+		// }
+		fmt.Println("=====================================================")
 
 	}
 }
