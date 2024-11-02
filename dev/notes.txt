@@ -1,6 +1,17 @@
 - todo
-	- .. npm run pd creates JSON files
-		- .. create json files
+	- x make custom theme and swithc out again
+	- x fix cards
+	- .. yellow
+	- ..names
+	- .. finish skeleton video
+
+
+
+	- try the appslate in skeleton
+
+
+	- npm run pd creates JSON files
+		- create json files
 		- show flashcards at top of page, so you have to scroll down
 		- make them interactive
 		- do not show page until they take random 3 flashcards
