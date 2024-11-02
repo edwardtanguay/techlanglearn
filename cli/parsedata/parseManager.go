@@ -16,27 +16,29 @@ parse("../../static/data")
 func parse(directory string) {
 	fmt.Printf("This script will parse these files:\n\n")
 
+	// var flashcards []Flashcard
+
 	mdPathAndFileNames, _ := getFilesFromDirectory(directory, "md")
 	for _, mdPathAndFileName := range mdPathAndFileNames {
 
-		lines := getLinesFromFile(mdPathAndFileName)
+		fileName := filepath.Base(mdPathAndFileName)
+		fmt.Printf("FILE: %s\n", fileName)
 
+		lines := getLinesFromFile(mdPathAndFileName)
 		flashcards, _ := getFlashcards(lines)
 
-		// display data
-		fileName := filepath.Base(mdPathAndFileName)
-		fmt.Printf("%s - %d lines\n", fileName, len(lines))
-		fmt.Print("=============================================================\n")
-		for _, flashcard := range flashcards {
-			fmt.Printf("FLASHCARD: %s\n", flashcard)
-		}
-		fmt.Print("=============================================================\n\n")
+		fmt.Println("=====================================================")
+		fmt.Printf("Number of lines: %v\n", len(lines))
+		fmt.Printf("Number of flashcards: %v\n", len(flashcards))
+		fmt.Printf("=====================================================\n\n")
+
 	}
 }
 
-func getFlashcards(lines []string) ([]string, error) {
+func getFlashcards(lines []string) ([]Flashcard, error) {
 	foundFirstBackticks := false
 	foundVocab := false
+	flashcards := []Flashcard{}
 	flashcardLines := []string{}
 	for _, line := range lines {
 		if foundVocab && foundFirstBackticks {
@@ -48,6 +50,34 @@ func getFlashcards(lines []string) ([]string, error) {
 		if strings.Contains(line, "```") {
 			foundFirstBackticks = true
 		}
+
 	}
-	return flashcardLines, nil
+
+	fmt.Println(111, len(flashcardLines))
+	
+	// fmt.Printf("%v", flashcardLines)
+	// for _, flashcardLine := range flashcardLines {
+	// 	fmt.Printf("LINE: %s", flashcardLine)
+	// }
+
+	// // create data
+	// processingLineType := "front"
+	// front := ""
+	// back := ""
+	// // fileName := filepath.Base(mdPathAndFileName)
+	// for _, flashcardLine := range flashcardLines {
+	// 	switch processingLineType {
+	// 	case "front":
+	// 		front = flashcardLine
+	// 		processingLineType = "back"
+	// 	case "back":
+	// 		back = flashcardLine
+	// 		processingLineType = "BLANK"
+	// 	case "BLANK":
+	// 		flashcards = append(flashcards, Flashcard{front, back})
+	// 		processingLineType = "front"
+	// 	}
+
+	// }
+	return flashcards, nil
 }
