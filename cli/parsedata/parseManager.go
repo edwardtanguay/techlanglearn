@@ -57,24 +57,27 @@ func getFlashcards(lines []string) ([]Flashcard, error) {
 	}
 
 	// create slice of flashcard instances
-	processingLineType := "front"
-	front := ""
-	back := ""
+	// processingLineType := "front"
+	// front := ""
+	// back := ""
+	println(flashcardLines)
 	fmt.Printf("going through %d flashcards \n", len(flashcardLines))
 	for _, flashcardLine := range flashcardLines {
-		fmt.Printf("LINE: %s", flashcardLine)
-		switch processingLineType {
-		case "front":
-			front = flashcardLine
-			processingLineType = "back"
-		case "back":
-			back = flashcardLine
-			processingLineType = "BLANK"
-		case "BLANK":
-			fmt.Printf("adding front: %s", front)
-			flashcards = append(flashcards, Flashcard{front, back})
-			processingLineType = "front"
-		}
+		println(flashcardLine)
+
+		// switch processingLineType {
+		// case "front":
+		// 	front = flashcardLine
+		// 	processingLineType = "back"
+		// case "back":
+		// 	back = flashcardLine
+		// 	processingLineType = "BLANK"
+		// case "BLANK":
+		// 	fmt.Printf("adding front: %s", front)
+		// 	flashcards = append(flashcards, Flashcard{front, back})
+		// 	processingLineType = "front"
+		// }
 	}
+
 	return flashcards, nil
 }
