@@ -44,7 +44,7 @@ func getFlashcards(lines []string) ([]Flashcard, error) {
 	for _, line := range lines {
 		if foundVocab && foundFirstBackticks {
 			flashcardLines = append(flashcardLines, line)
-			fmt.Printf("RECORDING FLASHCARD, there are %v flashcard lines now\n", len(flashcardLines))
+			// fmt.Printf("RECORDING FLASHCARD, there are %v flashcard lines now\n", len(flashcardLines))
 		}
 		if strings.Contains(line, "## VOCAB") {
 			foundVocab = true
@@ -54,12 +54,10 @@ func getFlashcards(lines []string) ([]Flashcard, error) {
 		}
 	}
 	fmt.Printf("FINISHED: there are %v flashcard lines now\n", len(flashcardLines))
-	fmt.Println(111, len(flashcardLines))
 
-	// fmt.Printf("%v", flashcardLines)
-	// for _, flashcardLine := range flashcardLines {
-	// 	fmt.Printf("LINE: %s", flashcardLine)
-	// }
+	for _, flashcardLine := range flashcardLines {
+		fmt.Printf("LINE: %s\n", flashcardLine)
+	}
 
 	// // create data
 	// processingLineType := "front"
