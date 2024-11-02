@@ -2,7 +2,7 @@
 
 https://www.youtube.com/watch?v=P_A0qQ7AuK8
 
-- 00:16:12
+- 16:12
 - english
 - Skeleton, Svelte
 - 4.6
@@ -10,7 +10,8 @@ https://www.youtube.com/watch?v=P_A0qQ7AuK8
 
 ## watchlog
 
-01:20 - 2024-11-02
+2024-11-02 - 01:20
+2024-11-02 - 16:12 
 
 ## intro
 
@@ -93,7 +94,6 @@ plugins: [
 - drawers
 - skeleton has a local storage store, which is like the svelte store
 - input chips
-- 
 
 
 ## VOCAB - SPANISH
