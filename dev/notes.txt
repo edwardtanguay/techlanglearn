@@ -14,6 +14,8 @@
 		- Go, Mux, JWT
 			- https://www.youtube.com/watch?v=7nvNdrFXzWM
 - learn
+	- Skeleton UI
+		- https://www.youtube.com/watch?v=P_A0qQ7AuK8
 	- 
 - videos to watch
 	- Go Mux
