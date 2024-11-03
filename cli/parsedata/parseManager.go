@@ -46,9 +46,14 @@ func getFlashcards(lines []string) ([]Flashcard, error) {
 	flashcardLines := []string{}
 
 	// get slice of all lines that have to do with flashcards
-	for _, line := range lines {
+	for _, rawLine := range lines {
+		line := strings.TrimSpace(rawLine)
 		if foundVocab && foundFirstBackticks {
-			flashcardLines = append(flashcardLines, line)
+			if (len(flashcardLines) == 0 && line == "") || line == "```" {
+				// don't save
+			} else {
+				flashcardLines = append(flashcardLines, line)
+			}
 		}
 		if strings.Contains(line, "## VOCAB") {
 			foundVocab = true
@@ -78,18 +83,8 @@ func getFlashcards(lines []string) ([]Flashcard, error) {
 	}
 
 	// if there were no cards but a marker was saved, then fix it
-	println("len", len(flashcards))
-	if len(flashcards) == 1 {
-		fmt.Printf("test: [%q]\n", "this is a test")
-		fmt.Printf("front: [%q]\n", flashcards[0].Front)
-		fmt.Printf("back: [%s]\n", flashcards[0].Back)
-		fmt.Printf("flashcard:[%+v]after\n", flashcards[0])
-		fmt.Printf("back:[%s]after\n", flashcards[0].Back)
-	}
 	if len(flashcards) == 1 && flashcards[0].Back == "```" {
 		println(111, "delete this")
-	} else {
-		println("no special case")
 	}
 
 	return flashcards, nil
