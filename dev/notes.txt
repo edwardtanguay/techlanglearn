@@ -1,6 +1,8 @@
 - todo
-	- .. npm run pd creates JSON files
-		- show 3 random flashcards at top of page
+	- x npm run pd creates JSON files
+	- .. show 3 random flashcards at top of page
+		- .. show mock text
+
 		
 		- make them interactive
 		- do not show page until they take random 3 flashcards

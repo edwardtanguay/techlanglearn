@@ -3,6 +3,13 @@
 </script>
 
 <main class="p-6">
+	<section class="font-mono bg-slate-400 p-6 rounded">
+		<h2 class="text-xl mb-3">Flashcards</h2>
+		<div>
+			<p>the front</p>
+			<p>the back</p>
+		</div>
+	</section>
 	<header>
 		<h1 class="main">Tech and Language Learning <span class="text-xs">by <a href="https://tanguay.info" target="_blank" class="underline">Edward Tanguay</a></span></h1>
 		<p>On this site I record my learning of tech topics while watching video tutorials in numerous languages.</p>
