@@ -4,7 +4,7 @@
 		- .. create json files
 			- .. create mock json files
 				- x get total flashcards and list
-				- .. make Log
+				- x make Log
 
 		- show 3 random flashcards at top of page
 		

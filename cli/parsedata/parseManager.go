@@ -16,7 +16,6 @@ func parse(directory string) {
 	mdPathAndFileNames, _ := getFilesFromDirectory(directory, "md")
 	flashcards := []Flashcard{}
 	for _, mdPathAndFileName := range mdPathAndFileNames {
-
 		lines := getLinesFromFile(mdPathAndFileName)
 		fileFlashcards, _ := getFlashcards(lines)
 		flashcards = append(flashcards, fileFlashcards...)

@@ -61,7 +61,9 @@ func getLinesFromFile(fileName string) []string {
 /*
 Output information in console in a uniform way
 
-devlog("nnn")
+devlog("no files are locked")
+
+devlog(fmt.Sprintf("There are %d flashcards.", len(flashcards)))
 */
 func devlog(line string) {
 	fmt.Printf(">>> %s", line)
