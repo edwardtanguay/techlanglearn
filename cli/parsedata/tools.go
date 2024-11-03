@@ -7,7 +7,7 @@ import (
 )
 
 /*
-Get all files of a certain kind as a slice of strings.
+Get all files of a certain kind as a slice of strings
 
 mdPathAndFileNames, _ := getFilesFromDirectory("../../static/data", "md")
 
@@ -40,7 +40,7 @@ func getFilesFromDirectory(dirPath, ext string) ([]string, error) {
 }
 
 /*
-Get all lines from a file as a slice of strings.
+Get all lines from a file as a slice of strings
 
 lines := getLinesFromFile("../../notes.txt")
 
@@ -54,4 +54,22 @@ func getLinesFromFile(fileName string) []string {
 	contents := string(byteContents)
 	lines := strings.Split(contents, "\n")
 	return lines
+}
+
+/*
+Write text to a file
+
+nnn
+
+- use relative path
+*/
+func writeFile(fileName string, content string) {
+	file, err := os.Create(fileName)
+	if err != nil {
+		println("file could not be created")
+	}
+	_, err2 := file.WriteString(content)
+	if err2 != nil {
+		println("could not write to file")
+	}
 }

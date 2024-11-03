@@ -1,22 +1,15 @@
 - todo
-	- x make custom theme and swithc out again
-	- x fix cards
-	- .. yellow
-	- ..names
-	- .. finish skeleton video
-
-
-
-	- try the appslate in skeleton
-
-
-	- npm run pd creates JSON files
-		- create json files
-		- show flashcards at top of page, so you have to scroll down
+	- .. npm run pd creates JSON files
+		- .. remove ```
+		- .. create json files
+			- .. create mock json files
+		- show 3 random flashcards at top of page
+		
 		- make them interactive
 		- do not show page until they take random 3 flashcards
 
-
+	- implement shadcn
+		- https://next.shadcn-svelte.com/docs/components/accordion
 	- copy in images and create img elements
 	- gif files too
 
@@ -25,8 +18,8 @@
 		- Go, Mux, JWT
 			- https://www.youtube.com/watch?v=7nvNdrFXzWM
 - learn
-	- Skeleton UI
-		- https://www.youtube.com/watch?v=P_A0qQ7AuK8
+	- shadcn/ui
+		- https://www.youtube.com/watch?v=wcTzlJi2Oz4&list=PL4cUxeGkcC9h1NXLUuiAQ7c4UtdEInqma
 	- 
 - videos to watch
 	- Go Mux
