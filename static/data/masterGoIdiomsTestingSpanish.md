@@ -1,7 +1,6 @@
 # Master Go: Idioms and Code Testing
 
-https://www.linkedin.com/learning/domina-go-idioms-y-pruebas-de-codigo
-
+- https://www.linkedin.com/learning/domina-go-idioms-y-pruebas-de-codigo
 - 01:10:00
 - spanish-spanish
 - Go

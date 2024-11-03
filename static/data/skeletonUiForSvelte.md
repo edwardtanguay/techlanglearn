@@ -1,7 +1,6 @@
 # Skeleton UI Library for Svelte
 
-https://www.youtube.com/watch?v=P_A0qQ7AuK8
-
+- https://www.youtube.com/watch?v=P_A0qQ7AuK8
 - 16:12
 - english
 - Skeleton, Svelte
@@ -10,8 +9,8 @@ https://www.youtube.com/watch?v=P_A0qQ7AuK8
 
 ## watchlog
 
-2024-11-02 - 01:20
-2024-11-02 - 16:12 
+- 2024-11-02 - 01:20
+- 2024-11-02 - 16:12 
 
 ## intro
 
