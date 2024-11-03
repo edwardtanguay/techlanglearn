@@ -15,7 +15,7 @@
 		"db:push": "drizzle-kit push",
 		"db:migrate": "drizzle-kit migrate",
 		"db:studio": "drizzle-kit studio",
-		"pd": "cd cli/parsedata && go run ."
+		"pd": "cd scripts/parsedata && go run ."
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "^3.0.0",

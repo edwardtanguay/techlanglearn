@@ -50,7 +50,7 @@
 	- CI/CD
 		- https://www.linkedin.com/learning/instructors/josh-samuelson
 - installing Cobra
-	- **/cli/parsedata/go.mod**
+	- **/scripts/parsedata/go.mod**
 		----------------------------------------------------
 		module tanguay.info/techlanglearn
 
