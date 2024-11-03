@@ -31,11 +31,42 @@
 
 ## Implementación del Standard Layout en Go, 3:13, nnn
 
-- nnn
+- a collection of patterns
+- https://github.com/golang-standards/project-layout
+- cmd
+  - executables
+  - each subfolder contains a main.go for that application
+- internal
+  - can only be imported by packages in your project
+  - protects internal details
+- pkg
+  - reusable code that can be used by other projects
+- api
+  - everything that pertains to an API
+  - HTTP handlers, GraphQL, etc.
+- web
+  - for websites, contains the HTML, JavaScript and CSS files
+  - also assets like images, audios that are served from the server
+- configs
+  - yaml and json
+- scripts
+  - all scripts for building, testing and deploying
+- test
+  - test helpers and data
+  - *_test.go can go in other directories where the files reside that they test
 
 ## VOCAB - SPANISH
 
 ```
+pr. cmd
+[say ehm-MAY day]
+
+we can find it in the repository
+podemos encontrarlo en el repositorio
+
+a set of organizational patterns
+un conjunto de patrones de organización
+
 our hierarchy
 nuestra jerarquía
 
