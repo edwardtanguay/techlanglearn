@@ -16,8 +16,8 @@
 		"back": "está justo aquí"
 	},
 	{
-		"front": "necesitamos permitir al usuario cargar archivos",
-		"back": "we need to allow the user to upload files"
+		"front": "we need to allow the user to upload files",
+		"back": "necesitamos permitir al usuario cargar archivos"
 	},
 	{
 		"front": "we will need to add some permissions",

@@ -331,8 +331,8 @@ lo guardé antes
 it's right here
 está justo aquí
 
-necesitamos permitir al usuario cargar archivos
 we need to allow the user to upload files
+necesitamos permitir al usuario cargar archivos
 
 we will need to add some permissions
 necesitaremos agregar algunos permisos
