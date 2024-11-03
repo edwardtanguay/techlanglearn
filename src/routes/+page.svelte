@@ -1,6 +1,9 @@
-<script>
+<script lang="ts">
 	import { page } from '$app/stores';
-	import flashcards from '../data/flashcards.json';
+	import _flashcards from '../data/flashcards.json';
+	import type { Flashcard } from '../types';
+
+	const flashcards:Flashcard[] = structuredClone(_flashcards);
 </script>
 
 <main class="p-6">
