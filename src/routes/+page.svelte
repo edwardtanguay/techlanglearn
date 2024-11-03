@@ -1,20 +1,25 @@
 <script lang="ts">
 	import { page } from '$app/stores';
-	import _flashcards from '../data/flashcards.json';
 	import { getRandomItemsFromArray } from '../tools';
 	import type { Flashcard } from '../types';
+	import * as dataModel from '../dataModel';
 
+	const _flashcards = dataModel.getFlashcards();
 	const flashcards: Flashcard[] = getRandomItemsFromArray(_flashcards, 3);
 </script>
 
 <main class="p-6">
-	<section class="rounded bg-slate-400 p-6 font-mono w-fit">
+	<section class="w-fit rounded bg-slate-400 p-6 font-mono">
 		<h2 class="mb-3 text-xl">Flashcards</h2>
 		<div class="flex flex-wrap gap-3">
 			{#each flashcards as flashcard}
 				<div class="w-fit rounded border border-slate-500 bg-slate-700 p-2 text-sm text-slate-300">
 					<p>{flashcard.front}</p>
-					<p>{flashcard.back}</p>
+					{#if flashcard.isOpen}
+						<p>{flashcard.back}</p>
+					{:else}
+						<p>{"_".repeat(flashcard.back.length)}</p>
+					{/if}
 				</div>
 			{/each}
 		</div>
