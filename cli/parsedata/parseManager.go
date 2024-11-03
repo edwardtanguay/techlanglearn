@@ -1,6 +1,7 @@
 package main
 
 import (
+	"encoding/json"
 	"fmt"
 	"strings"
 )
@@ -21,7 +22,12 @@ func parse(directory string) {
 		flashcards = append(flashcards, fileFlashcards...)
 	}
 	devlog(fmt.Sprintf("There are %d flashcards.", len(flashcards)))
-	writeFile("../../src/data/test.txt", "testcontent")
+
+	json, err := json.MarshalIndent(flashcards, "", "	")
+	if err != nil {
+		println("could not convert to JSON text")
+	}
+	writeTextFile("../../src/data/flashcards.json", string(json))
 }
 
 func getFlashcards(lines []string) ([]Flashcard, error) {

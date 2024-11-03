@@ -72,11 +72,11 @@ func devlog(line string) {
 /*
 Write text to a file
 
-nnn
+writeTextFile("../../src/data/test.txt", "testcontent")
 
 - use relative path
 */
-func writeFile(fileName string, content string) {
+func writeTextFile(fileName string, content string) {
 	file, err := os.Create(fileName)
 	if err != nil {
 		println("file could not be created")
