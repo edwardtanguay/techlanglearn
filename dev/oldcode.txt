@@ -1,0 +1,13 @@
+
+		// fmt.Println("=====================================================")
+		// fmt.Printf("Number of flashcards: %d\n", len(flashcards))
+		// fmt.Println("=====================================================")
+		// for _, flashcard := range flashcards {
+		// 	println("FRONT:", flashcard.Front)
+		// 	println("BACK:", flashcard.Back)
+		// 	println()
+		// }
+		// fmt.Println("=====================================================")
+
+		fileName := filepath.Base(mdPathAndFileName)
+		fmt.Printf("FILE: %s\n", fileName)

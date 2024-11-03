@@ -1,8 +1,10 @@
 - todo
 	- .. npm run pd creates JSON files
-		- .. remove ```
+		- x remove ```
 		- .. create json files
 			- .. create mock json files
+				- .. get total flashcards and list
+				
 		- show 3 random flashcards at top of page
 		
 		- make them interactive

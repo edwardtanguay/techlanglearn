@@ -2,7 +2,6 @@ package main
 
 import (
 	"fmt"
-	"path/filepath"
 	"strings"
 )
 
@@ -14,28 +13,15 @@ parse("../../static/data")
 - use relative path
 */
 func parse(directory string) {
-	fmt.Printf("This script will parse these files:\n\n")
-
 	mdPathAndFileNames, _ := getFilesFromDirectory(directory, "md")
+	flashcards := []Flashcard{}
 	for _, mdPathAndFileName := range mdPathAndFileNames {
 
-		fileName := filepath.Base(mdPathAndFileName)
-		fmt.Printf("FILE: %s\n", fileName)
-
 		lines := getLinesFromFile(mdPathAndFileName)
-		flashcards, _ := getFlashcards(lines)
-
-		fmt.Println("=====================================================")
-		fmt.Printf("Number of flashcards: %d\n", len(flashcards))
-		fmt.Println("=====================================================")
-		for _, flashcard := range flashcards {
-			println("FRONT:", flashcard.Front)
-			println("BACK:", flashcard.Back)
-			println()
-		}
-		fmt.Println("=====================================================")
-
+		fileFlashcards, _ := getFlashcards(lines)
+		flashcards = append(flashcards, fileFlashcards...)
 	}
+	fmt.Printf("There are %d flashcards.", len(flashcards))
 }
 
 func getFlashcards(lines []string) ([]Flashcard, error) {
@@ -67,7 +53,6 @@ func getFlashcards(lines []string) ([]Flashcard, error) {
 	processingLineType := "front"
 	front := ""
 	back := ""
-	fmt.Printf("going through %d flashcards \n", len(flashcardLines))
 	for _, flashcardLine := range flashcardLines {
 		switch processingLineType {
 		case "front":
