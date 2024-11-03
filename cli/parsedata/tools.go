@@ -1,9 +1,11 @@
 package main
 
 import (
+	"fmt"
 	"os"
 	"path/filepath"
 	"strings"
+
 )
 
 /*
@@ -54,6 +56,15 @@ func getLinesFromFile(fileName string) []string {
 	contents := string(byteContents)
 	lines := strings.Split(contents, "\n")
 	return lines
+}
+
+/*
+Output information in console in a uniform way
+
+devlog("nnn")
+*/
+func devlog(line string) {
+	fmt.Printf(">>> %s", line)
 }
 
 /*

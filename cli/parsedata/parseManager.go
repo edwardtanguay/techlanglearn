@@ -21,7 +21,7 @@ func parse(directory string) {
 		fileFlashcards, _ := getFlashcards(lines)
 		flashcards = append(flashcards, fileFlashcards...)
 	}
-	fmt.Printf("There are %d flashcards.", len(flashcards))
+	devlog(fmt.Sprintf("There are %d flashcards.", len(flashcards)))
 }
 
 func getFlashcards(lines []string) ([]Flashcard, error) {

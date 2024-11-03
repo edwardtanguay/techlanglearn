@@ -3,8 +3,9 @@
 		- x remove ```
 		- .. create json files
 			- .. create mock json files
-				- .. get total flashcards and list
-				
+				- x get total flashcards and list
+				- .. make Log
+
 		- show 3 random flashcards at top of page
 		
 		- make them interactive
