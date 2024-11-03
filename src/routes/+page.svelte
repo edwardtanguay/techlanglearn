@@ -1,17 +1,18 @@
 <script lang="ts">
 	import { page } from '$app/stores';
 	import _flashcards from '../data/flashcards.json';
+	import { getRandomItemsFromArray } from '../tools';
 	import type { Flashcard } from '../types';
 
-	const flashcards:Flashcard[] = structuredClone(_flashcards);
+	const flashcards: Flashcard[] = getRandomItemsFromArray(_flashcards, 3);
 </script>
 
 <main class="p-6">
-	<section class="rounded bg-slate-400 p-6 font-mono">
+	<section class="rounded bg-slate-400 p-6 font-mono w-fit">
 		<h2 class="mb-3 text-xl">Flashcards</h2>
-		<div class="flex gap-3 flex-wrap">
+		<div class="flex flex-wrap gap-3">
 			{#each flashcards as flashcard}
-				<div class="w-fit rounded border border-slate-500 p-2 bg-slate-700 text-slate-300 text-sm">
+				<div class="w-fit rounded border border-slate-500 bg-slate-700 p-2 text-sm text-slate-300">
 					<p>{flashcard.front}</p>
 					<p>{flashcard.back}</p>
 				</div>
