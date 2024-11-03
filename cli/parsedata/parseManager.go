@@ -21,6 +21,7 @@ func parse(directory string) {
 		flashcards = append(flashcards, fileFlashcards...)
 	}
 	devlog(fmt.Sprintf("There are %d flashcards.", len(flashcards)))
+	writeFile("../../src/data/test.txt", "testcontent")
 }
 
 func getFlashcards(lines []string) ([]Flashcard, error) {

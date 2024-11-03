@@ -83,6 +83,6 @@ func writeFile(fileName string, content string) {
 	}
 	_, err2 := file.WriteString(content)
 	if err2 != nil {
-		println("could not write to file")
+		fmt.Printf("Could not write to file: %s", err2.Error())
 	}
 }

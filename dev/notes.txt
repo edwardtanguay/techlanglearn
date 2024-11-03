@@ -2,9 +2,7 @@
 	- .. npm run pd creates JSON files
 		- x remove ```
 		- .. create json files
-			- .. create mock json files
-				- x get total flashcards and list
-				- x make Log
+			- .. create mock json files: src/data/test.txt
 
 		- show 3 random flashcards at top of page
 		
