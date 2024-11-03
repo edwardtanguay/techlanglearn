@@ -1,13 +1,10 @@
 - todo
-	- x npm run pd creates JSON files
-	- x show 3 random flashcards at top of page
-		- x show mock text
-		- x import and display first 3
-		- x randomize
-	- .. make interactive to test
-		- get flashcards from dataModel
-		
-		- make them interactive
+	- x restructure according to standard layout
+	- .. make all work
+	- implement webDataDirectory
+
+
+	- extend flashcard-taking experience
 		- do not show page until they take random 3 flashcards
 
 	- implement shadcn
