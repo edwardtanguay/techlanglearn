@@ -1,7 +1,9 @@
 - todo
 	- x npm run pd creates JSON files
 	- .. show 3 random flashcards at top of page
-		- .. show mock text
+		- x show mock text
+		- .. import and display first 3
+		- randomize
 
 		
 		- make them interactive
