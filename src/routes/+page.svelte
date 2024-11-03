@@ -14,7 +14,7 @@
 
 <main class="p-6">
 	<section class="w-fit rounded bg-slate-400 p-6 font-mono">
-		<h2 class="mb-3 text-xl">Flashcards</h2>
+		<h2 class="mb-3 text-xl">{flashcards.length} of {_flashcards.length} Flashcards</h2>
 		<div class="flex flex-wrap gap-3">
 			{#each flashcards as flashcard}
 				<!-- svelte-ignore a11y_positive_tabindex -->
@@ -23,7 +23,7 @@
 					role="button"
 					tabindex="1"
 					aria-pressed={flashcard.isOpen}
-					class="w-fit cursor-pointer rounded border border-slate-500 bg-slate-700 p-2 text-sm text-slate-300 hover:opacity-90 select-none"
+					class="w-fit cursor-pointer select-none rounded border border-slate-500 bg-slate-700 p-2 text-sm text-slate-300 hover:opacity-90"
 					on:click={() => handleFlashcardToggle(flashcard)}
 				>
 					<p>{flashcard.front}</p>

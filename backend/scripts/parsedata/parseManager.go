@@ -21,13 +21,13 @@ func parse(directory string) {
 		fileFlashcards, _ := getFlashcards(lines)
 		flashcards = append(flashcards, fileFlashcards...)
 	}
-	devlog(fmt.Sprintf("There are %d flashcards.", len(flashcards)))
+	devlog(fmt.Sprintf("There are %d flashcards.\n", len(flashcards)))
 
 	json, err := json.MarshalIndent(flashcards, "", "	")
 	if err != nil {
 		println("could not convert to JSON text")
 	}
-	writeTextFile("../../src/data/flashcards.json", string(json))
+	writeTextFile("../../../src/data/flashcards.json", string(json))
 }
 
 func getFlashcards(lines []string) ([]Flashcard, error) {

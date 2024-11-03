@@ -79,10 +79,10 @@ writeTextFile("../../src/data/test.txt", "testcontent")
 func writeTextFile(fileName string, content string) {
 	file, err := os.Create(fileName)
 	if err != nil {
-		println("file could not be created")
+		fmt.Printf("File could not be created: %s\n", err.Error())
 	}
 	_, err2 := file.WriteString(content)
 	if err2 != nil {
-		fmt.Printf("Could not write to file: %s", err2.Error())
+		fmt.Printf("Could not write to file: %s\n", err2.Error())
 	}
 }

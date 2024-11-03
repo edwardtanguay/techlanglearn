@@ -1,7 +1,10 @@
 - todo
 	- x restructure according to standard layout
+	- .. number of flashcards
 	- .. make all work
+	- move tools to pkg
 	- implement webDataDirectory
+	- implement tutorialsFileDirectory
 
 
 	- extend flashcard-taking experience
