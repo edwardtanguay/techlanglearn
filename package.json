@@ -41,7 +41,6 @@
 		"vitest": "^2.0.4"
 	},
 	"dependencies": {
-		"@inlang/paraglide-sveltekit": "^0.11.1",
 		"@libsql/client": "^0.9.0",
 		"drizzle-orm": "^0.33.0",
 		"gray-matter": "^4.0.3",
