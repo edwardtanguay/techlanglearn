@@ -6,6 +6,12 @@ body {
 	background-color: #eee;
 }
 
+nav {
+	a.active {
+		font-weight: bold;
+	}
+}
+
 h1.main {
 	font-size: 1.8rem;
 }
