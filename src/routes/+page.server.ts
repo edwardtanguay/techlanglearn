@@ -23,7 +23,5 @@ export async function load() {
 		rawHtmlContent += marked(markdown);
 	}
 
-	// const htmlContent = rawHtmlContent;
-
 	return { htmlContent: rawHtmlContent };
 }

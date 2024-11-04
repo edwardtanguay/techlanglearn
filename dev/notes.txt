@@ -1,9 +1,13 @@
 - todo
-	- .. remove paraglide
+	- x remove paraglide
+	- .. implement menu
+	
 	- implement Context:API
 
 
-
+	- page/menu/routing
+	- same responsiveness as react template
+	
 
 	- move tools to pkg
 
