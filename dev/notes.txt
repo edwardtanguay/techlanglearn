@@ -1,10 +1,11 @@
 - todo
-	- x restructure according to standard layout
-	- .. number of flashcards
-	- .. make all work
+	- .. remove paraglide
+	- implement Context:API
+
+
+
+
 	- move tools to pkg
-	- implement webDataDirectory
-	- implement tutorialsFileDirectory
 
 
 	- extend flashcard-taking experience
