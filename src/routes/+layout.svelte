@@ -1,6 +1,14 @@
 <script lang="ts">
 	import '../app.scss';
-	let { children } = $props();
 </script>
 
-{@render children()}
+<nav>
+	<ul>
+		<li><a href="/">Home</a></li>
+		<li><a href="/about">About</a></li>
+	</ul>
+</nav>
+
+<main>
+	<slot />
+</main>
