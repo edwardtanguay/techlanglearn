@@ -1,6 +1,8 @@
 - todo
 	- x remove paraglide
-	- .. implement menu
+	- x implement menu
+
+	- $ to derived
 	
 	- implement Context:API
 

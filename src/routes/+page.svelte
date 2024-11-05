@@ -5,7 +5,7 @@
 	import * as dataModel from '../dataModel';
 
 	const _flashcards = dataModel.getFlashcards();
-	$: flashcards = getRandomItemsFromArray(_flashcards, 3);
+	let flashcards = getRandomItemsFromArray(_flashcards, 3);
 
 	const handleFlashcardToggle = (flashcard: Flashcard) => {
 		flashcards = flashcards.map((f) => (f === flashcard ? { ...f, isOpen: !f.isOpen } : f));
