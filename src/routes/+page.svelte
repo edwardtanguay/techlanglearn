@@ -5,7 +5,9 @@
 	import * as dataModel from '../dataModel';
 
 	const _flashcards = dataModel.getFlashcards();
-	let flashcards = getRandomItemsFromArray(_flashcards, 3);
+	let flashcards = $state(getRandomItemsFromArray(_flashcards, 3));
+
+	const allOpen = $derived(flashcards[0].isOpen && flashcards[1].isOpen && flashcards[2].isOpen);
 
 	const handleFlashcardToggle = (flashcard: Flashcard) => {
 		flashcards = flashcards.map((f) => (f === flashcard ? { ...f, isOpen: !f.isOpen } : f));
@@ -13,7 +15,7 @@
 </script>
 
 <section class="w-fit rounded bg-slate-400 p-6 font-mono">
-	<h2 class="mb-3 text-xl">{flashcards.length} of {_flashcards.length} Flashcards</h2>
+	<h2 class="mb-3 text-xl">{flashcards.length} of {_flashcards.length} Flashcards <div>{allOpen ? 'all open ' : 'playing...'}</div></h2>
 	<div class="flex flex-wrap gap-3">
 		{#each flashcards as flashcard}
 			<!-- svelte-ignore a11y_positive_tabindex -->
