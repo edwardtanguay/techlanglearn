@@ -10,6 +10,7 @@
 
 - 04:18 - 2024-11-01
 - 10:08 - 2024-11-01
+- 10:58 - 2024-11-06
 
 ## Svelte 3
 
@@ -52,3 +53,7 @@ $effect(() => {
 - universal reactivity:: a concept that means you can use the same logic inside and outside of Svelte components
 - problem:##countprobl
 - do it like this, thanks to the magic of signals##thankmagisig
+
+## nested reactivity
+
+- these are the same:##thesesamems
