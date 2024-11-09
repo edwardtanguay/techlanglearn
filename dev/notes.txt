@@ -4,7 +4,7 @@
 		- x make mock times.json
 		- x mock count each file
 		- .. make easiest first feature that shows useful time information
-			- .. make getTimesFromFile() and add slice of objects like this:
+			- x make getTimesFromFile() and add slice of objects like this:
 				{
 					day: "2024-11-09",
 					time: "00:03:41"
@@ -13,6 +13,7 @@
 					day: "2024-11-09",
 					time: "00:02:58"
 				}
+			- .. save day
 
 
 

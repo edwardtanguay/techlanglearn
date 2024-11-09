@@ -24,10 +24,10 @@ func parseTimes(mdPathAndFileNames []string) error {
 	timeUnits := []TimeUnit{}
 	for _, mdPathAndFileName := range mdPathAndFileNames {
 		lines := getLinesFromFile(mdPathAndFileName)
-		fileTimeUnits, _ := getTimeUnits(lines)
+		fileTimeUnits, _ := getTimeUnitsFromFile(lines)
 		timeUnits = append(timeUnits, fileTimeUnits...)
 	}
-	devlog(fmt.Sprintf("%d time unites were created.\n", len(timeUnits)))
+	devlog(fmt.Sprintf("%d time unites were created.", len(timeUnits)))
 
 	jsonData, _ := json.MarshalIndent(timeUnits, "", "\t")
 	writeTextFile("../../../"+config.WebDataDirectory+"/times.json", string(jsonData))
@@ -39,10 +39,10 @@ func parseFlashcards(mdPathAndFileNames []string) error {
 	flashcards := []Flashcard{}
 	for _, mdPathAndFileName := range mdPathAndFileNames {
 		lines := getLinesFromFile(mdPathAndFileName)
-		fileFlashcards, _ := getFlashcards(lines)
+		fileFlashcards, _ := getFlashcardsFromFile(lines)
 		flashcards = append(flashcards, fileFlashcards...)
 	}
-	devlog(fmt.Sprintf("%d flashcards were created.\n", len(flashcards)))
+	devlog(fmt.Sprintf("%d flashcards were created.", len(flashcards)))
 
 	jsonData, err := json.MarshalIndent(flashcards, "", "	")
 	if err != nil {
@@ -52,7 +52,10 @@ func parseFlashcards(mdPathAndFileNames []string) error {
 	return nil
 }
 
-func getTimeUnits(lines []string) ([]TimeUnit, error) {
+func getTimeUnitsFromFile(lines []string) ([]TimeUnit, error) {
+	for _, rawLine := range lines {
+		devlog(rawLine)
+	}
 	timeUnits := []TimeUnit{
 		{
 			CalendarDate: "ccc",
@@ -62,7 +65,7 @@ func getTimeUnits(lines []string) ([]TimeUnit, error) {
 	return timeUnits, nil
 }
 
-func getFlashcards(lines []string) ([]Flashcard, error) {
+func getFlashcardsFromFile(lines []string) ([]Flashcard, error) {
 
 	foundFirstBackticks := false
 	foundVocab := false
