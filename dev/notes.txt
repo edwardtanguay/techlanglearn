@@ -1,31 +1,6 @@
 - todo
-	- x make parse call parseFlashcards
-	- x make parseTime
-		- x make mock times.json
-		- x mock count each file
-		- x make easiest first feature that shows useful time information
-			- x make getTimesFromFile() and add slice of objects like this:
-				{
-					day: "2024-11-09",
-					time: "00:03:41"
-				},
-				{
-					day: "2024-11-09",
-					time: "00:02:58"
-				}
-			- x record for times in chapter titles
-			- x also count the youtube videos
-		- x fill in days
-	- x sort decending order
-	- .. change from times to stats
-	- .. display infos
-		- x first put flashcards in component
-
-		rename timesinfo to state
-
-
-
-		- do Go example for: sending in a slice and having the function add to it (with & etc.)
+	- .. do Go example for: sending in a slice and having the function add to it (with & etc.)
+		- .. apply this in parsing file
 		
 
 
