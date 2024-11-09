@@ -78,7 +78,6 @@
 
 https://www.linkedin.com/learning/domina-go-idioms-y-pruebas-de-codigo/utilizando-la-biblioteca-estandar-de-go?resume=false
 
-
 ## VOCAB - SPANISH
 
 ```

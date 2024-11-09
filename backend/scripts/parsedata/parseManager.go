@@ -26,13 +26,8 @@ func parseStats(mdPathAndFileNames []string) error {
 	timeUnits := []TimeUnit{}
 	for _, mdPathAndFileName := range mdPathAndFileNames {
 		lines := getLinesFromFile(mdPathAndFileName)
-
-		// LinkedInLearning files
 		addLinkedInLearningTimeUnitsFromFile(lines, &timeUnits)
-
-		// other files (YouTube videos, other videos, articles)
-		otherFileTimeUnits, _ := getOtherTimeUnitsFromFile(lines)
-		timeUnits = append(timeUnits, otherFileTimeUnits...)
+		getOtherTimeUnitsFromFile(lines, &timeUnits)
 	}
 
 	totalTimeUnits := computeDurationPerDay(timeUnits)
@@ -82,7 +77,7 @@ func addLinkedInLearningTimeUnitsFromFile(lines []string, addTimeUnits *[]TimeUn
 	return nil
 }
 
-func getOtherTimeUnitsFromFile(lines []string) ([]TimeUnit, error) {
+func getOtherTimeUnitsFromFile(lines []string, addTimeUnits *[]TimeUnit) (error) {
 	timeUnits := []TimeUnit{}
 	recordingLines := false
 	for _, rawLine := range lines {
@@ -105,7 +100,8 @@ func getOtherTimeUnitsFromFile(lines []string) ([]TimeUnit, error) {
 			recordingLines = true
 		}
 	}
-	return timeUnits, nil
+	*addTimeUnits = append(*addTimeUnits, timeUnits...)
+	return nil
 }
 
 func getFlashcardsFromFile(lines []string) ([]Flashcard, error) {
