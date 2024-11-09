@@ -18,10 +18,10 @@ parse("../../static/data")
 func parse(directory string) {
 	mdPathAndFileNames, _ := getFilesFromDirectory(directory, "md")
 	parseFlashcards(mdPathAndFileNames)
-	parseTimes(mdPathAndFileNames)
+	parseStats(mdPathAndFileNames)
 }
 
-func parseTimes(mdPathAndFileNames []string) error {
+func parseStats(mdPathAndFileNames []string) error {
 	config, _ := LoadConfig()
 	timeUnits := []TimeUnit{}
 	for _, mdPathAndFileName := range mdPathAndFileNames {
@@ -38,12 +38,12 @@ func parseTimes(mdPathAndFileNames []string) error {
 
 	totalTimeUnits := computeDurationPerDay(timeUnits)
 	filledTimeUnits := fillInZeroDays(totalTimeUnits)
-	timesInfo := calculateTimesInfo(filledTimeUnits)
-	reversedTimesInfo := reverseOrderOfTimeUnits(timesInfo)
+	statsInfo := calculateStatsInfo(filledTimeUnits)
+	reversedstatsInfo := reverseOrderOfTimeUnits(statsInfo)
 
-	jsonData, _ := json.MarshalIndent(reversedTimesInfo, "", "\t")
+	jsonData, _ := json.MarshalIndent(reversedstatsInfo, "", "\t")
 
-	writeTextFile("../../../"+config.WebDataDirectory+"/times.json", string(jsonData))
+	writeTextFile("../../../"+config.WebDataDirectory+"/stats.json", string(jsonData))
 	return nil
 }
 
@@ -192,7 +192,7 @@ func fillInZeroDays(timeUnits []TimeUnit) []TimeUnit {
 	return filledTimeUnits
 }
 
-func calculateTimesInfo(timeUnits []TimeUnit) TimesInfo {
+func calculateStatsInfo(timeUnits []TimeUnit) TimesInfo {
 
 	dateSet := make(map[string]bool)
 	var totalDuration time.Duration

@@ -17,8 +17,11 @@
 			- x also count the youtube videos
 		- x fill in days
 	- x sort decending order
+	- .. change from times to stats
 	- .. display infos
 		- x first put flashcards in component
+
+		rename timesinfo to state
 
 
 

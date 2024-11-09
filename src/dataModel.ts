@@ -1,5 +1,7 @@
 import rawFlashcards from './data/flashcards.json';
 import type { Flashcard } from './types';
+import rawStats from './data/stats.json';
+import type { Stats } from './types';
 
 export const getFlashcards = (): Flashcard[] => {
 	const flashcards: Flashcard[] = [];
@@ -12,4 +14,8 @@ export const getFlashcards = (): Flashcard[] => {
 		flashcards.push(flashcard);
 	}
 	return flashcards;
+};
+
+export const getStats = (): Stats => {
+	return rawStats;
 };
