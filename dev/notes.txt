@@ -1,6 +1,6 @@
 - todo
 	- x make parse call parseFlashcards
-	- .. make parseTime
+	- x make parseTime
 		- x make mock times.json
 		- x mock count each file
 		- x make easiest first feature that shows useful time information
@@ -15,7 +15,11 @@
 				}
 			- x record for times in chapter titles
 			- x also count the youtube videos
-		- .. fill in days
+		- x fill in days
+	- .. sort decending order
+
+
+
 		- do Go example for: sending in a slice and having the function add to it (with & etc.)
 		
 

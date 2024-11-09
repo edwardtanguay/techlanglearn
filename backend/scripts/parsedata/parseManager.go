@@ -38,11 +38,10 @@ func parseTimes(mdPathAndFileNames []string) error {
 
 	totalTimeUnits := computeDurationPerDay(timeUnits)
 	filledTimeUnits := fillInZeroDays(totalTimeUnits)
-
-
 	timesInfo := calculateTimesInfo(filledTimeUnits)
+	reversedTimesInfo := reverseOrderOfTimeUnits(timesInfo)
 
-	jsonData, _ := json.MarshalIndent(timesInfo, "", "\t")
+	jsonData, _ := json.MarshalIndent(reversedTimesInfo, "", "\t")
 
 	writeTextFile("../../../"+config.WebDataDirectory+"/times.json", string(jsonData))
 	return nil
@@ -220,5 +219,20 @@ func calculateTimesInfo(timeUnits []TimeUnit) TimesInfo {
 		AverageDurationPerDay: formatDuration(averageDuration),
 		TotalDuration:         formatDuration(totalDuration),
 		TimeUnits:             timeUnits,
+	}
+}
+
+func reverseOrderOfTimeUnits(timesInfo TimesInfo) TimesInfo {
+	reversedTimeUnits := make([]TimeUnit, len(timesInfo.TimeUnits))
+
+	for i, unit := range timesInfo.TimeUnits {
+		reversedTimeUnits[len(timesInfo.TimeUnits)-1-i] = unit
+	}
+
+	return TimesInfo{
+		TotalDays:             timesInfo.TotalDays,
+		AverageDurationPerDay: timesInfo.AverageDurationPerDay,
+		TotalDuration:         timesInfo.TotalDuration,
+		TimeUnits:             reversedTimeUnits,
 	}
 }
