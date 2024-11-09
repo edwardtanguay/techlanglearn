@@ -55,7 +55,7 @@
   - test helpers and data
   - \*\_test.go can go in other directories where the files reside that they test
 
-## Ejemplo de layout: servicio de ArdanLabs en Go, 3:21, nnn
+## Ejemplo de layout: servicio de ArdanLabs en Go, 3:21, 2024-11-09
 
 - he looks at another project with a slightly different version of the starter kit
   - app
@@ -73,6 +73,11 @@
 - he imports the packages with github urls##thehandlsi
 - you can only call functions that are lower in alphabetical order##onlydownkjd
   - this avoids circular references
+
+## Utilizando la biblioteca estándar de Go, 3:13, nnn
+
+https://www.linkedin.com/learning/domina-go-idioms-y-pruebas-de-codigo/utilizando-la-biblioteca-estandar-de-go?resume=false
+
 
 ## VOCAB - SPANISH
 

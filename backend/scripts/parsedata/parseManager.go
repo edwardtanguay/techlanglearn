@@ -28,8 +28,7 @@ func parseStats(mdPathAndFileNames []string) error {
 		lines := getLinesFromFile(mdPathAndFileName)
 
 		// LinkedInLearning files
-		linkedInLearningFileTimeUnits, _ := getLinkedInLearningTimeUnitsFromFile(lines)
-		timeUnits = append(timeUnits, linkedInLearningFileTimeUnits...)
+		addLinkedInLearningTimeUnitsFromFile(lines, &timeUnits)
 
 		// other files (YouTube videos, other videos, articles)
 		otherFileTimeUnits, _ := getOtherTimeUnitsFromFile(lines)
@@ -65,7 +64,7 @@ func parseFlashcards(mdPathAndFileNames []string) error {
 	return nil
 }
 
-func getLinkedInLearningTimeUnitsFromFile(lines []string) ([]TimeUnit, error) {
+func addLinkedInLearningTimeUnitsFromFile(lines []string, addTimeUnits *[]TimeUnit) (error) {
 	timeUnits := []TimeUnit{}
 	for _, rawLine := range lines {
 		if strings.HasPrefix(rawLine, "##") {
@@ -79,7 +78,8 @@ func getLinkedInLearningTimeUnitsFromFile(lines []string) ([]TimeUnit, error) {
 			}
 		}
 	}
-	return timeUnits, nil
+	*addTimeUnits = append(*addTimeUnits, timeUnits...)
+	return nil
 }
 
 func getOtherTimeUnitsFromFile(lines []string) ([]TimeUnit, error) {
