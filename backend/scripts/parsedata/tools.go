@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 	"path/filepath"
+	"regexp"
 	"strings"
-
 )
 
 /*
@@ -85,4 +85,15 @@ func writeTextFile(fileName string, content string) {
 	if err2 != nil {
 		fmt.Printf("Could not write to file: %s\n", err2.Error())
 	}
+}
+
+/*
+Get a date in form of 2024-11-01 from a line, otherwise empty string
+
+nnn
+*/
+func getDateFromLine(line string) string {
+	re := regexp.MustCompile(`\d{4}-\d{2}-\d{2}`)
+	calendarDate := re.FindString(line)
+	return calendarDate;
 }
