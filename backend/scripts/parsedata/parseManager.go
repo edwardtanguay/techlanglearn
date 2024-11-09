@@ -53,19 +53,17 @@ func parseFlashcards(mdPathAndFileNames []string) error {
 }
 
 func getTimeUnitsFromFile(lines []string) ([]TimeUnit, error) {
+	timeUnits := []TimeUnit{}
 	for _, rawLine := range lines {
 		if strings.HasPrefix(rawLine, "##") {
 			calendarDate := getDateFromLine(rawLine)
 			if calendarDate != "" {
-				devlog(rawLine)
+				timeUnits = append(timeUnits, TimeUnit{
+					CalendarDate: calendarDate,
+					Duration:     "00:00:00",
+				})
 			}
 		}
-	}
-	timeUnits := []TimeUnit{
-		{
-			CalendarDate: "ccc",
-			Duration:     "ddd",
-		},
 	}
 	return timeUnits, nil
 }
