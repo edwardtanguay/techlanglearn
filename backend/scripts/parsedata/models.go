@@ -14,3 +14,10 @@ type TimeUnit struct {
 	CalendarDate string `json:"calendarDate"`
 	Duration  string `json:"duration"`
 }
+
+type TimesInfo struct {
+	TotalDays int
+	AverageDurationPerDay string
+	TotalDuration string
+	TimeUnits []TimeUnit
+}
