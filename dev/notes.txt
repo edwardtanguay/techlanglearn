@@ -3,7 +3,7 @@
 	- .. make parseTime
 		- x make mock times.json
 		- x mock count each file
-		- .. make easiest first feature that shows useful time information
+		- x make easiest first feature that shows useful time information
 			- x make getTimesFromFile() and add slice of objects like this:
 				{
 					day: "2024-11-09",
@@ -14,8 +14,11 @@
 					time: "00:02:58"
 				}
 			- x record for times in chapter titles
-			- .. also count the youtube videos
-			- do Go example for: sending in a slice and having the function add to it (with & etc.)
+			- x also count the youtube videos
+		- .. fill in days
+		- do Go example for: sending in a slice and having the function add to it (with & etc.)
+		
+
 
 	- x remove paraglide
 	- x implement menu

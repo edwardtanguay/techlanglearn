@@ -3,7 +3,9 @@ package main
 import (
 	"encoding/json"
 	"fmt"
+	"sort"
 	"strings"
+	"time"
 )
 
 /*
@@ -32,11 +34,11 @@ func parseTimes(mdPathAndFileNames []string) error {
 		// other files (YouTube videos, other videos, articles)
 		otherFileTimeUnits, _ := getOtherTimeUnitsFromFile(lines)
 		timeUnits = append(timeUnits, otherFileTimeUnits...)
-
 	}
 
 	totalTimeUnits := computeDurationPerDay(timeUnits)
-	jsonData, _ := json.MarshalIndent(totalTimeUnits, "", "\t")
+	filledTimeUnits := fillInZeroDays(totalTimeUnits)
+	jsonData, _ := json.MarshalIndent(filledTimeUnits, "", "\t")
 	writeTextFile("../../../"+config.WebDataDirectory+"/times.json", string(jsonData))
 	return nil
 }
@@ -151,4 +153,37 @@ func getFlashcardsFromFile(lines []string) ([]Flashcard, error) {
 	}
 
 	return flashcards, nil
+}
+
+func fillInZeroDays(timeUnits []TimeUnit) []TimeUnit {
+
+	layout := "2006-01-02"
+	sort.Slice(timeUnits, func(i, j int) bool {
+		date1, _ := time.Parse(layout, timeUnits[i].CalendarDate)
+		date2, _ := time.Parse(layout, timeUnits[j].CalendarDate)
+		return date1.Before(date2)
+	})
+
+	startDate, _ := time.Parse(layout, timeUnits[0].CalendarDate)
+	endDate, _ := time.Parse(layout, timeUnits[len(timeUnits)-1].CalendarDate)
+
+	dateMap := make(map[string]TimeUnit)
+	for _, unit := range timeUnits {
+		dateMap[unit.CalendarDate] = unit
+	}
+
+	var filledTimeUnits []TimeUnit
+	for date := startDate; !date.After(endDate); date = date.AddDate(0, 0, 1) {
+		dateStr := date.Format(layout)
+		if unit, exists := dateMap[dateStr]; exists {
+			filledTimeUnits = append(filledTimeUnits, unit)
+		} else {
+			filledTimeUnits = append(filledTimeUnits, TimeUnit{
+				CalendarDate: dateStr,
+				Duration:     "00:00:00",
+			})
+		}
+	}
+
+	return filledTimeUnits
 }
