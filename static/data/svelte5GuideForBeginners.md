@@ -11,6 +11,9 @@
 - 04:18 - 2024-11-01
 - 10:08 - 2024-11-01
 - 10:58 - 2024-11-06
+- 13:21 - 2024-11-07
+- 13:38 - 2024-11-07
+- 21:40 - 2024-11-09
 
 ## Svelte 3
 
@@ -57,3 +60,13 @@ $effect(() => {
 ## nested reactivity
 
 - these are the same:##thesesamems
+- uses a "proxy under the hood" so you don't have to use a getter/setter
+- update an array state variable simply with .push()##thepush23
+- another example#gif#addex101
+
+## shared state
+
+- runes are just reactive primitives
+- SolidJS is similar to Svelte because they both use signals
+- runes are just function-like symbols that give instructions to the Svelte compiler which then get turned to signals under the hood
+

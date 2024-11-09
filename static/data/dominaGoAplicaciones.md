@@ -117,7 +117,7 @@ lo más ligeros posibles
 will make a request
 hará una petition
 
-will return the list
+it will return the list
 devolverá la lista
 
 to test it

@@ -2,6 +2,8 @@
 	- x remove paraglide
 	- x implement menu
 
+	- make audio link
+
 	- $ to derived
 	
 	- implement Context:API
@@ -17,6 +19,8 @@
 	- extend flashcard-taking experience
 		- do not show page until they take random 3 flashcards
 
+	- coding videos
+		- https://www.youtube.com/watch?v=AzVXFKmu0bQ    
 	- implement shadcn
 		- https://next.shadcn-svelte.com/docs/components/accordion
 	- copy in images and create img elements
