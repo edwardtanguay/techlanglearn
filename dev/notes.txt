@@ -1,6 +1,7 @@
 - todo
-	- .. make parse call parseFlashcards
-	- make parseTime
+	- x make parse call parseFlashcards
+	- .. make parseTime
+		- .. make mock times.json
 
 
 

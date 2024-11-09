@@ -16,9 +16,17 @@ parse("../../static/data")
 func parse(directory string) {
 	mdPathAndFileNames, _ := getFilesFromDirectory(directory, "md")
 	parseFlashcards(mdPathAndFileNames)
+	parseTimes(mdPathAndFileNames)
 }
 
-func parseFlashcards(mdPathAndFileNames []string) (error) {
+func parseTimes(mdPathAndFileNames []string) error {
+	config, _ := LoadConfig()
+	json := "[111, 222]"
+	writeTextFile("../../../"+config.WebDataDirectory+"/times.json", json)
+	return nil
+}
+
+func parseFlashcards(mdPathAndFileNames []string) error {
 	config, _ := LoadConfig()
 	flashcards := []Flashcard{}
 	for _, mdPathAndFileName := range mdPathAndFileNames {
