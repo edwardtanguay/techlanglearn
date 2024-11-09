@@ -276,7 +276,7 @@
 		"back": "hará una petition"
 	},
 	{
-		"front": "will return the list",
+		"front": "it will return the list",
 		"back": "devolverá la lista"
 	},
 	{
@@ -338,6 +338,46 @@
 	{
 		"front": "via our browser",
 		"back": "mediante nuestro navegador"
+	},
+	{
+		"front": "above the current package",
+		"back": "por encima del paquete actual"
+	},
+	{
+		"front": "in such a way that",
+		"back": "de tal modo que"
+	},
+	{
+		"front": "higher layers of the application",
+		"back": "capas más altas de la aplicación"
+	},
+	{
+		"front": "therefore",
+		"back": "por tanto"
+	},
+	{
+		"front": "below it",
+		"back": "por debajo de él"
+	},
+	{
+		"front": "such as",
+		"back": "tales como"
+	},
+	{
+		"front": "deployment code",
+		"back": "código despliegue [des-SPLEE-gay]"
+	},
+	{
+		"front": "let's look at it with a small example",
+		"back": "veámoslo con un pequeño ejemplo"
+	},
+	{
+		"front": "and finally, I want to highlight the test directory",
+		"back": "y por último, quiero destacar el directorio de pruebas"
+	},
+	{
+		"front": "from outside the project",
+		"back": "desde fuera del proyecto"
 	},
 	{
 		"front": "pr. cmd",

@@ -14,8 +14,12 @@ parse("../../static/data")
 - use relative path
 */
 func parse(directory string) {
-	config, _ := LoadConfig()
 	mdPathAndFileNames, _ := getFilesFromDirectory(directory, "md")
+	parseFlashcards(mdPathAndFileNames)
+}
+
+func parseFlashcards(mdPathAndFileNames []string) (error) {
+	config, _ := LoadConfig()
 	flashcards := []Flashcard{}
 	for _, mdPathAndFileName := range mdPathAndFileNames {
 		lines := getLinesFromFile(mdPathAndFileName)
@@ -29,6 +33,7 @@ func parse(directory string) {
 		println("could not convert to JSON text")
 	}
 	writeTextFile("../../../"+config.WebDataDirectory+"/flashcards.json", string(json))
+	return nil
 }
 
 func getFlashcards(lines []string) ([]Flashcard, error) {

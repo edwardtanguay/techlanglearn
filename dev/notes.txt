@@ -1,4 +1,9 @@
 - todo
+	- .. make parse call parseFlashcards
+	- make parseTime
+
+
+
 	- x remove paraglide
 	- x implement menu
 
