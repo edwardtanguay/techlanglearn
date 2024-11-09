@@ -57,10 +57,11 @@ func getTimeUnitsFromFile(lines []string) ([]TimeUnit, error) {
 	for _, rawLine := range lines {
 		if strings.HasPrefix(rawLine, "##") {
 			calendarDate := getDateFromLine(rawLine)
+			duration := getDurationFromLine(rawLine)
 			if calendarDate != "" {
 				timeUnits = append(timeUnits, TimeUnit{
 					CalendarDate: calendarDate,
-					Duration:     "00:00:00",
+					Duration:     duration,
 				})
 			}
 		}

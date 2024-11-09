@@ -5,6 +5,7 @@ import (
 	"os"
 	"path/filepath"
 	"regexp"
+	"strconv"
 	"strings"
 )
 
@@ -90,10 +91,28 @@ func writeTextFile(fileName string, content string) {
 /*
 Get a date in form of 2024-11-01 from a line, otherwise empty string
 
-nnn
+calendarDate := getDateFromLine(rawLine)
 */
 func getDateFromLine(line string) string {
 	re := regexp.MustCompile(`\d{4}-\d{2}-\d{2}`)
 	calendarDate := re.FindString(line)
-	return calendarDate;
+	return calendarDate
+}
+
+func getDurationFromLine(line string) string {
+	re := regexp.MustCompile(`^\d{2}:\d{2}:\d{2}$`)
+	if re.MatchString(line) {
+		return line
+	}
+
+	reTime := regexp.MustCompile(`(\d{1,2}):(\d{2})`)
+	match := reTime.FindStringSubmatch(line)
+	if match == nil {
+		return ""
+	}
+
+	minutes, _ := strconv.Atoi(match[1])
+	seconds, _ := strconv.Atoi(match[2])
+
+	return fmt.Sprintf("00:%02d:%02d", minutes, seconds)
 }
