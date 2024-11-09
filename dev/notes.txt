@@ -16,7 +16,9 @@
 			- x record for times in chapter titles
 			- x also count the youtube videos
 		- x fill in days
-	- .. sort decending order
+	- x sort decending order
+	- .. display infos
+		- .. first put flashcards in component
 
 
 
