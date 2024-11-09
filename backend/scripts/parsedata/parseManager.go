@@ -27,9 +27,9 @@ func parseTimes(mdPathAndFileNames []string) error {
 		fileTimeUnits, _ := getTimeUnitsFromFile(lines)
 		timeUnits = append(timeUnits, fileTimeUnits...)
 	}
-	devlog(fmt.Sprintf("%d time units were created.", len(timeUnits)))
 
-	jsonData, _ := json.MarshalIndent(timeUnits, "", "\t")
+	totalTimeUnits := computeDurationPerDay(timeUnits)
+	jsonData, _ := json.MarshalIndent(totalTimeUnits, "", "\t")
 	writeTextFile("../../../"+config.WebDataDirectory+"/times.json", string(jsonData))
 	return nil
 }

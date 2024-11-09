@@ -5,8 +5,10 @@ import (
 	"os"
 	"path/filepath"
 	"regexp"
+	"sort"
 	"strconv"
 	"strings"
+	"time"
 )
 
 /*
@@ -115,4 +117,51 @@ func getDurationFromLine(line string) string {
 	seconds, _ := strconv.Atoi(match[2])
 
 	return fmt.Sprintf("00:%02d:%02d", minutes, seconds)
+}
+
+func durationToSeconds(duration string) int {
+	parts := strings.Split(duration, ":")
+	if len(parts) != 3 {
+		return 0
+	}
+	hours, _ := strconv.Atoi(parts[0])
+	minutes, _ := strconv.Atoi(parts[1])
+	seconds, _ := strconv.Atoi(parts[2])
+
+	return hours*3600 + minutes*60 + seconds
+}
+
+func secondsToDuration(seconds int) string {
+	hours := seconds / 3600
+	seconds %= 3600
+	minutes := seconds / 60
+	seconds %= 60
+
+	return fmt.Sprintf("%02d:%02d:%02d", hours, minutes, seconds)
+}
+
+func computeDurationPerDay(timeUnits []TimeUnit) []TimeUnit {
+	durationMap := make(map[string]int)
+
+	for _, timeUnit := range timeUnits {
+		seconds := durationToSeconds(timeUnit.Duration)
+		durationMap[timeUnit.CalendarDate] += seconds
+	}
+
+	var totalTimeUnits []TimeUnit
+
+	for date, totalSeconds := range durationMap {
+		totalTimeUnits = append(totalTimeUnits, TimeUnit{
+			CalendarDate: date,
+			Duration:     secondsToDuration(totalSeconds),
+		})
+	}
+
+	sort.Slice(totalTimeUnits, func(i, j int) bool {
+		date1, _ := time.Parse("2006-01-02", totalTimeUnits[i].CalendarDate)
+		date2, _ := time.Parse("2006-01-02", totalTimeUnits[j].CalendarDate)
+		return date1.Before(date2)
+	})
+
+	return totalTimeUnits
 }
