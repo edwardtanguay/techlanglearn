@@ -13,7 +13,8 @@
 					day: "2024-11-09",
 					time: "00:02:58"
 				}
-			- .. record for times in chapter titles
+			- x record for times in chapter titles
+			- .. also count the youtube videos
 
 
 
