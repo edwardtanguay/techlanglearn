@@ -45,11 +45,18 @@
 			- https://www.youtube.com/watch?v=yAzPz4NpRi4
 	- Go Mux
 		- https://www.youtube.com/watch?v=7nvNdrFXzWM
+	- Git
+		- https://www.linkedin.com/learning/git-intermediate-techniques-16077011/get-more-from-git
+		- https://www.linkedin.com/learning/git-workflows/github-flow-in-practice
+		- https://www.linkedin.com/learning/git-for-teams/using-git-for-team-collaboration
+		- https://www.linkedin.com/learning/git-branches-merges-and-remotes/mixed-reset
 	- Go
 		- SP: advanced concepts in Go
 			- https://www.linkedin.com/learning/domina-go-idioms-y-pruebas-de-codigo/para-aquellos-que-desean-dominar-go
 		- design patterns
 			- https://www.linkedin.com/learning/go-design-patterns/go-design-patterns
+		- very good overview, basic first
+			- https://www.linkedin.com/learning/go-for-developers-practical-techniques-for-effective-coding/go-fundamentals-introduction
 		- generics
 			- https://www.linkedin.com/learning/generics-in-go/generics-in-go-1-18
 		- advanced concepts in Go
@@ -58,6 +65,8 @@
 			- https://www.linkedin.com/learning/go-recipes-practical-projects/recipes-for-practical-projects-with-go
 		- challenges, etc.
 			- https://www.linkedin.com/learning/go-essentials-concurrency-connectivity-and-high-performance-apps/solution-maps?resume=false
+		- https://www.linkedin.com/learning/writing-command-line-applications-in-go/pipes-and-redirects	
+		- https://www.linkedin.com/learning/instructors/miki-tebeka
 	- Go tools
 		- Go, Mux, JWT
 			- https://www.youtube.com/watch?v=7nvNdrFXzWM
@@ -68,6 +77,8 @@
 		- https://www.youtube.com/watch?v=yiFhQGJeRJk - 26 min, woman/jazz
 	- CI/CD
 		- https://www.linkedin.com/learning/instructors/josh-samuelson
+	- RxJS
+		- https://www.linkedin.com/learning/learning-rxjs-22802739/observer-pattern-for-rxjs?resume=false
 - installing Cobra
 	- **/scripts/parsedata/go.mod**
 		----------------------------------------------------
@@ -77,3 +88,78 @@
 
 		require github.com/spf13/cobra v1.8.1
 		----------------------------------------------------
+
+
+- list of interesting topics and courses	
+	- Go
+	- GitLab:
+		- https://www.linkedin.com/learning/continuous-integration-and-continuous-delivery-with-gitlab/creating-a-pipeline
+		- https://www.linkedin.com/learning/gitlab-esencial/presentacion-del-curso-gitlab-esencial
+	- ENGLISH
+		- https://www.linkedin.com/learning/topics/web-development?durations=BETWEEN_10_TO_30_MIN~BETWEEN_30_TO_60_MIN~BETWEEN_1_TO_2_HOURS~BETWEEN_2_TO_3_HOURS~MORE_THAN_3_HOURS&entityType=COURSE&sortBy=RECENCY
+	- PWA
+		- https://www.linkedin.com/learning/react-building-progressive-web-apps-pwas/install-serve
+	- Next.js
+		- https://www.linkedin.com/learning/learning-next-js-24381329/adding-loading-skeletons
+	- notion
+		- https://www.linkedin.com/learning/learning-notion-22387995/manage-information-of-all-kinds-with-notion
+	- Make
+		- https://www.reddit.com/r/zapier/comments/12m4fmp/zapier_vs_make/?rdt=33484
+		- https://www.youtube.com/watch?v=JSA2oezQWOU&t=71s
+	- swagger
+		- https://www.linkedin.com/learning/building-apis-with-swagger-and-the-openapi-specification/building-apis-with-swagger
+	- search
+		- https://www.linkedin.com/learning/topics/tecnologia
+		- DEVOPS: https://www.linkedin.com/learning/topics/devops-16111846?sortBy=RECENCY
+	- AI
+		- https://www.linkedin.com/learning/create-your-own-code-assistant-with-llama-2-node-js-and-react-js/ai-powered-coding-create-your-own-ai-assistant-with-llama-2
+		- https://www.linkedin.com/learning/create-your-own-code-assistant-with-llama-2-node-js-and-react-js/setting-up-the-llamas-pen?resume=false
+	- cron jobs
+		- nnn
+	- Git
+		- https://www.linkedin.com/learning/8-git-commands-you-should-know-16027523/git-superpowers
+	- Clerk Authentication
+		- [Install and Setup Clerk Authentication In React JS 2024 ](https://www.youtube.com/watch?v=6g95ioeiE6Q&list=PLviSqSbWD51MZM4g6pL_PvSyndFfkMLLM)
+		- [Simple React Authentication with Clerk](https://www.youtube.com/watch?v=QQ2DkD6rqSs) 
+	- GraphQL
+		- [GraphQL for Enterprise Developers](https://www.linkedin.com/learning/graphql-for-enterprise-developers/challenge-building-a-subgraph?resume=false) - 2024
+		- [nnn](https://www.linkedin.com/learning/building-a-server-with-typescript-and-graphql/starting-the-server)[nnn] - 2024
+		- https://frontendmasters.com/courses/fullstack-typescript/ - 2022
+	- [React authentication from scratch](https://www.linkedin.com/learning/react-authentication/take-advantage-of-react-authentication)
+	- nvim
+		- [Full Neovim Setup from Scratch in 2024](https://www.youtube.com/watch?v=KYDG3AHgYEs) ***
+		- [Neovim Lazy Lua IDE - my simple but powerful setup for 2024](https://www.youtube.com/watch?v=VljhZ0e9zGE)
+	- Redis
+		- https://www.linkedin.com/learning/redis-essential-training-15012713
+	- Animations
+		- FR: https://www.linkedin.com/learning/css-animations-et-transitions-22819867/utiliser-la-transformation-translate?resume=false
+	- CSS Grid
+		- FR: https://www.linkedin.com/learning/css-apprendre-le-grid-layout/aligner-les-grid-items-horizontalement?resume=false
+	- ASP.NET/Node
+		- FR: https://www.linkedin.com/learning/construire-des-api-restful-avec-node-js/creer-les-schemas-de-donnees-post?resume=false
+	- Flask
+		- FR: https://www.linkedin.com/learning/l-essentiel-de-flask/utiliser-les-fichiers-d-exercice-avec-codespaces?autoSkip=true&resume=false
+	- Linux etc with Scott Simpson
+		- https://www.linkedin.com/learning/instructors/scott-simpson
+	- Docker
+		- https://www.linkedin.com/learning/paths/docker-foundations-professional-certificate
+	- spanish
+		- cursos en espanñol sobre desarrollo web
+			- https://www.linkedin.com/learning/topics/tecnologia?entityType=LEARNING_PATH&sortBy=RECENCY
+			- https://www.linkedin.com/learning/topics/desarrollo-web?durations=BETWEEN_10_TO_30_MIN~BETWEEN_30_TO_60_MIN~BETWEEN_1_TO_2_HOURS~BETWEEN_2_TO_3_HOURS~MORE_THAN_3_HOURS&entityType=COURSE&sortBy=RECENCY
+		- good teachers
+			- *** https://www.linkedin.com/learning/instructors/manuel-de-la-pena
+		- GitLab:
+			- https://www.linkedin.com/learning/gitlab-esencial/presentacion-del-curso-gitlab-esencial
+		- GitHub Actions
+			- https://www.linkedin.com/learning/github-actions-esencial/desde-los-procesos-mas-simples-hasta-los-mas-complejos-con-github-actions 
+		- Go
+			- SPANISH: https://www.linkedin.com/learning/domina-go-creacion-y-empaquetado-de-aplicaciones/creacion-y-empaquetado-de-aplicaciones-facil-con-go
+			- https://www.linkedin.com/learning/domina-go-creacion-y-empaquetado-de-aplicaciones/integracion-de-prompts-en-cli-en-go?resume=false
+			- https://www.linkedin.com/learning/domina-go-creacion-y-empaquetado-de-aplicaciones/creacion-y-empaquetado-de-aplicaciones-facil-con-go
+		- redis, good, 2023
+			- https://www.linkedin.com/learning/domina-redis/actualizar-agregar-valores-a-una-clave-en-redis-usando-node-js?resume=false
+		- Rust
+			- https://www.linkedin.com/learning/rust-esencial-24011472/rust-el-lenguaje-de-programacion
+		- Docker
+			- https://www.linkedin.com/learning/docker-esencial-23119241/aprende-gestion-de-contenedores-con-docker
