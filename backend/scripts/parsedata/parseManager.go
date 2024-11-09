@@ -24,8 +24,15 @@ func parseTimes(mdPathAndFileNames []string) error {
 	timeUnits := []TimeUnit{}
 	for _, mdPathAndFileName := range mdPathAndFileNames {
 		lines := getLinesFromFile(mdPathAndFileName)
-		fileTimeUnits, _ := getTimeUnitsFromFile(lines)
-		timeUnits = append(timeUnits, fileTimeUnits...)
+
+		// LinkedInLearning files
+		linkedInLearningFileTimeUnits, _ := getLinkedInLearningTimeUnitsFromFile(lines)
+		timeUnits = append(timeUnits, linkedInLearningFileTimeUnits...)
+
+		// other files (YouTube videos, other videos, articles)
+		otherFileTimeUnits, _ := getOtherTimeUnitsFromFile(lines)
+		timeUnits = append(timeUnits, otherFileTimeUnits...)
+
 	}
 
 	totalTimeUnits := computeDurationPerDay(timeUnits)
@@ -52,7 +59,7 @@ func parseFlashcards(mdPathAndFileNames []string) error {
 	return nil
 }
 
-func getTimeUnitsFromFile(lines []string) ([]TimeUnit, error) {
+func getLinkedInLearningTimeUnitsFromFile(lines []string) ([]TimeUnit, error) {
 	timeUnits := []TimeUnit{}
 	for _, rawLine := range lines {
 		if strings.HasPrefix(rawLine, "##") {
@@ -64,6 +71,32 @@ func getTimeUnitsFromFile(lines []string) ([]TimeUnit, error) {
 					Duration:     duration,
 				})
 			}
+		}
+	}
+	return timeUnits, nil
+}
+
+func getOtherTimeUnitsFromFile(lines []string) ([]TimeUnit, error) {
+	timeUnits := []TimeUnit{}
+	recordingLines := false
+	for _, rawLine := range lines {
+		if recordingLines && strings.HasPrefix(rawLine, "##") {
+			recordingLines = false
+		}
+
+		if recordingLines {
+			calendarDate := getDateFromLine(rawLine)
+			duration := getDurationFromLine(rawLine)
+			if calendarDate != "" {
+				timeUnits = append(timeUnits, TimeUnit{
+					CalendarDate: calendarDate,
+					Duration:     duration,
+				})
+			}
+		}
+
+		if strings.HasPrefix(rawLine, "## watchlog") {
+			recordingLines = true
 		}
 	}
 	return timeUnits, nil

@@ -15,8 +15,7 @@
 				}
 			- x record for times in chapter titles
 			- .. also count the youtube videos
-
-
+			- do Go example for: sending in a slice and having the function add to it (with & etc.)
 
 	- x remove paraglide
 	- x implement menu
