@@ -21,11 +21,15 @@ func parse(directory string) {
 
 func parseTimes(mdPathAndFileNames []string) error {
 	config, _ := LoadConfig()
-	jsonSlice := []string{}
+	timeUnits := []TimeUnit{}
 	for _, mdPathAndFileName := range mdPathAndFileNames {
-		jsonSlice = append(jsonSlice, mdPathAndFileName)
+		lines := getLinesFromFile(mdPathAndFileName)
+		fileTimeUnits, _ := getTimeUnits(lines)
+		timeUnits = append(timeUnits, fileTimeUnits...)
 	}
-	jsonData, _ := json.MarshalIndent(jsonSlice, "", "\t")
+	devlog(fmt.Sprintf("%d time unites were created.\n", len(timeUnits)))
+
+	jsonData, _ := json.MarshalIndent(timeUnits, "", "\t")
 	writeTextFile("../../../"+config.WebDataDirectory+"/times.json", string(jsonData))
 	return nil
 }
@@ -40,12 +44,22 @@ func parseFlashcards(mdPathAndFileNames []string) error {
 	}
 	devlog(fmt.Sprintf("%d flashcards were created.\n", len(flashcards)))
 
-	json, err := json.MarshalIndent(flashcards, "", "	")
+	jsonData, err := json.MarshalIndent(flashcards, "", "	")
 	if err != nil {
 		println("could not convert to JSON text")
 	}
-	writeTextFile("../../../"+config.WebDataDirectory+"/flashcards.json", string(json))
+	writeTextFile("../../../"+config.WebDataDirectory+"/flashcards.json", string(jsonData))
 	return nil
+}
+
+func getTimeUnits(lines []string) ([]TimeUnit, error) {
+	timeUnits := []TimeUnit{
+		{
+			CalendarDate: "ccc",
+			Duration: "ddd",
+		},
+	}
+	return timeUnits, nil
 }
 
 func getFlashcards(lines []string) ([]Flashcard, error) {
