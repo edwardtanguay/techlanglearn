@@ -21,7 +21,10 @@ func parse(directory string) {
 
 func parseTimes(mdPathAndFileNames []string) error {
 	config, _ := LoadConfig()
-	jsonSlice := []string{"nnn", "nnn"}
+	jsonSlice := []string{}
+	for _, mdPathAndFileName := range mdPathAndFileNames {
+		jsonSlice = append(jsonSlice, mdPathAndFileName)
+	}
 	jsonData, _ := json.MarshalIndent(jsonSlice, "", "\t")
 	writeTextFile("../../../"+config.WebDataDirectory+"/times.json", string(jsonData))
 	return nil
