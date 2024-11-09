@@ -1,7 +1,8 @@
 - todo
 	- x make parse call parseFlashcards
 	- .. make parseTime
-		- .. make mock times.json
+		- x make mock times.json
+		- .. mock count each file
 
 
 
@@ -41,6 +42,9 @@
 		- https://www.youtube.com/watch?v=wcTzlJi2Oz4&list=PL4cUxeGkcC9h1NXLUuiAQ7c4UtdEInqma
 	- 
 - videos to watch
+	- Polish
+		- Tanstack
+			- https://www.youtube.com/watch?v=yAzPz4NpRi4
 	- Go Mux
 		- https://www.youtube.com/watch?v=7nvNdrFXzWM
 	- Go
