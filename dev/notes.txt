@@ -18,7 +18,7 @@
 		- x fill in days
 	- x sort decending order
 	- .. display infos
-		- .. first put flashcards in component
+		- x first put flashcards in component
 
 
 

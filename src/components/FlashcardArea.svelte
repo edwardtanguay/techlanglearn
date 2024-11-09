@@ -14,7 +14,7 @@
 </script>
 
 
-<section class="w-fit rounded bg-slate-400 p-6 font-mono">
+<section class="w-fit rounded bg-slate-400 p-6 font-mono mb-3">
 	<h2 class="mb-3 text-xl">{flashcards.length} of {_flashcards.length} Flashcards </h2>
 	<div class="flex flex-wrap gap-3">
 		{#each flashcards as flashcard}
