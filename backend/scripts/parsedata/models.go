@@ -16,8 +16,8 @@ type TimeUnit struct {
 }
 
 type TimesInfo struct {
-	TotalDays int
-	AverageDurationPerDay string
-	TotalDuration string
-	TimeUnits []TimeUnit
+	TotalDays int `json:"totalDays"`
+	AverageDurationPerDay string `json:"averageDurationPerDay"`
+	TotalDuration string `json:"totalDuration"`
+	TimeUnits []TimeUnit `json:"timeUnits"`
 }

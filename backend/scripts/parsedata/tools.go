@@ -165,3 +165,17 @@ func computeDurationPerDay(timeUnits []TimeUnit) []TimeUnit {
 
 	return totalTimeUnits
 }
+
+
+// Helper function to parse duration from "hh:mm:ss" format
+func parseDuration(durationStr string) (time.Duration, error) {
+	return time.ParseDuration(fmt.Sprintf("%sh%sm%ss", durationStr[0:2], durationStr[3:5], durationStr[6:8]))
+}
+
+// Helper function to format a duration to "hh:mm:ss" format
+func formatDuration(d time.Duration) string {
+	hours := int(d.Hours())
+	minutes := int(d.Minutes()) % 60
+	seconds := int(d.Seconds()) % 60
+	return fmt.Sprintf("%02d:%02d:%02d", hours, minutes, seconds)
+}

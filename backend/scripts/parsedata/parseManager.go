@@ -38,7 +38,12 @@ func parseTimes(mdPathAndFileNames []string) error {
 
 	totalTimeUnits := computeDurationPerDay(timeUnits)
 	filledTimeUnits := fillInZeroDays(totalTimeUnits)
-	jsonData, _ := json.MarshalIndent(filledTimeUnits, "", "\t")
+
+
+	timesInfo := calculateTimesInfo(filledTimeUnits)
+
+	jsonData, _ := json.MarshalIndent(timesInfo, "", "\t")
+
 	writeTextFile("../../../"+config.WebDataDirectory+"/times.json", string(jsonData))
 	return nil
 }
@@ -186,4 +191,34 @@ func fillInZeroDays(timeUnits []TimeUnit) []TimeUnit {
 	}
 
 	return filledTimeUnits
+}
+
+func calculateTimesInfo(timeUnits []TimeUnit) TimesInfo {
+
+	dateSet := make(map[string]bool)
+	var totalDuration time.Duration
+
+	for _, unit := range timeUnits {
+		duration, err := parseDuration(unit.Duration)
+		if err != nil {
+			fmt.Printf("Error parsing duration for date %s: %v\n", unit.CalendarDate, err)
+			continue
+		}
+		totalDuration += duration
+		dateSet[unit.CalendarDate] = true
+	}
+
+	totalDays := len(dateSet)
+
+	var averageDuration time.Duration
+	if totalDays > 0 {
+		averageDuration = totalDuration / time.Duration(totalDays)
+	}
+
+	return TimesInfo{
+		TotalDays:             totalDays,
+		AverageDurationPerDay: formatDuration(averageDuration),
+		TotalDuration:         formatDuration(totalDuration),
+		TimeUnits:             timeUnits,
+	}
 }
