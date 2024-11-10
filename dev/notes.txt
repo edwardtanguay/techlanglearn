@@ -1,11 +1,7 @@
 - todo
-	- .. do Go example for: sending in a slice and having the function add to it (with & etc.)
-		- .. apply this in parsing file
-		
+	- .. add current day if after 5:00
+	- implement runestore		
 
-
-	- x remove paraglide
-	- x implement menu
 
 	- make audio link
 
@@ -43,6 +39,9 @@
 	- Polish
 		- Tanstack
 			- https://www.youtube.com/watch?v=yAzPz4NpRi4
+	- French
+		- Svelte5
+			- https://youtu.be/ZrfPO9L80jc?si=36XRVMqQivSXrP8H
 	- Go Mux
 		- https://www.youtube.com/watch?v=7nvNdrFXzWM
 	- Git
