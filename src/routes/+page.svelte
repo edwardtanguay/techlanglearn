@@ -8,7 +8,12 @@
 	const store = getStore();
 </script>
 
-<main class="{store.pageStatus === "loading" ? "blurArea" : ""}">
+<main>
+	{#if store.pageStatus === 'loading'}
+		<div class="overlay">
+			<div class="overlay-text">Parsing data...</div>
+		</div>
+	{/if}
 	{#if ['ready', 'loading'].includes(store.pageStatus)}
 		<FlashcardArea />
 		<StatsArea />
