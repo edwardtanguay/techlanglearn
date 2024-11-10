@@ -4,8 +4,8 @@
 	import FlashcardArea from '../components/FlashcardArea.svelte';
 	import StatsArea from '../components/StatsArea/StatsArea.svelte';
 
-	onMount(() => {
-		console.log('111134', 'loaded');
+	onMount(async() => {
+		await fetch('/api/pd')
 	})
 </script>
 
