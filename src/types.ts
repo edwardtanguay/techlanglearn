@@ -15,3 +15,5 @@ export type Stats = {
 	totalDuration: string;
 	timeUnits: TimeUnit[];
 };
+
+export type PageStatus = 'loading' | 'ready' | 'error';

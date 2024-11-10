@@ -66,6 +66,24 @@
 ## VOCAB - SPANISH
 
 ```
+in order to save it
+para guardarlo
+
+I will save that later
+lo guardaré más tarde
+
+it's right there
+esta justo ahí
+
+as dark as it can be
+tan oscuro como puede ser
+
+click on the button
+haga clic en el botón
+
+click on the left side
+haga clic en el lado izquierdo
+
 on the one hand
 por un lado
 

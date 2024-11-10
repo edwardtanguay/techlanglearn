@@ -1,7 +1,7 @@
 <script lang="ts">
 	import '../app.scss';
 	import { page } from '$app/stores';
-	import { getStore } from '../store';
+	import { getStore } from '../store.svelte';
 
 	const store = getStore();
 </script>

@@ -9,29 +9,20 @@
 			- x show error
 			- .. make environment variable: SITE_LOCATION = dev, vercel
 	- .. implement runestore		
-		- .. basic impelemntand "dev" or "vercel"
+		- x basic impelemntand "dev" or "vercel"
+		- .. make button in menu use the store
+			- .. put state back in store: pageStatus
 
 
 - upgrade version with every parse
+- make audio link
+- same responsiveness as react template
+- extend flashcard-taking experience
+	- do not show page until they take random 3 flashcards
+	- flashcards: make five steps, have to get it right five times
 
 
-	- make audio link
-
-	- $ to derived
-	
-	- implement Context:API
-
-
-	- page/menu/routing
-	- same responsiveness as react template
-	
-
-	- move tools to pkg
-
-
-	- extend flashcard-taking experience
-		- do not show page until they take random 3 flashcards
-
+- MORE VIDEOS
 	- coding videos
 		- https://www.youtube.com/watch?v=AzVXFKmu0bQ    
 	- implement shadcn
