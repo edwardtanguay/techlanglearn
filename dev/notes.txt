@@ -1,6 +1,8 @@
 - todo
-	- .. add current day if after 5:00
-	- reprocess data on reload
+	- x add current day if after 5:00
+	- .. reprocess data on reload
+		- .. run code on reload
+		- execute npm run pd
 	- implement runestore		
 
 
