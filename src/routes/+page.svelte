@@ -6,8 +6,6 @@
 
 	const store = getStore();
 
-	let message = $state('');
-
 	const reloadData = async () => {
 		store.setPageStatus('loading');
 		const response = await fetch('/api/pd');
@@ -16,7 +14,7 @@
 		} else {
 			const error = await response.json();
 			store.setPageStatus('error');
-			message = error.message;
+			store.setErrorMessage(error.message);
 		}
 	};
 </script>
@@ -35,5 +33,5 @@
 {:else if store.pageStatus === 'loading'}
 	<p>loading...</p>
 {:else if store.pageStatus === 'error'}
-	<p>error: {message}</p>
+	<p>error: {store.errorMessage}</p>
 {/if}
