@@ -8,19 +8,21 @@
 
 	let pageStatus: PageStatus = $state("loading")
 	let message = $state('');
+	const siteLocation = import.meta.env.VITE_SITE_LOCATION;
 
 	onMount(async () => {
 		const response = await fetch('/api/pd');
 		if (response.ok) {
+			console.log(111144, 'ok');
 			pageStatus = "ready"
 		} else {
+			console.log(111144, 'NOT OK');
 			const error = await response.json();
 			pageStatus = "error"
 			message = error.message;
 		}
 	});
 </script>
-
 {#if pageStatus === "ready"}
 	<FlashcardArea />
 	<StatsArea />

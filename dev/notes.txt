@@ -5,8 +5,9 @@
 		- x execute npm run pd
 		- x don't show till loaded
 		- .. don't load when online
-			- see what happens online
-			- .. show error
+			- x see what happens online
+			- x show error
+			- .. make environment variable: SITE_LOCATION = dev, vercel
 	- implement runestore		
 
 
