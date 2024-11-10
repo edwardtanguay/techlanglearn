@@ -26,7 +26,6 @@
 	};
 </script>
 
-<p class="text-red-600">{store.siteLocation}</p>
 {#if pageStatus === 'ready'}
 	{#if store.siteLocation === 'dev'}
 		<button class="mb-3 rounded border border-slate-600 bg-slate-400 px-1" onclick={reloadData}

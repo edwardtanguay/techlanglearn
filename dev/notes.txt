@@ -12,6 +12,9 @@
 		- .. basic impelemntand "dev" or "vercel"
 
 
+- upgrade version with every parse
+
+
 	- make audio link
 
 	- $ to derived

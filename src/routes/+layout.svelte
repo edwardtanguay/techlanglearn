@@ -13,7 +13,7 @@
 	</ul>
 	<div class="flex gap-3">
 		<p class="text-xs items-center flex">{store.siteLocation}</p>
-		<p class="mr-3 flex items-center text-xs">v0.001</p>
+		<p class="mr-3 flex items-center text-xs">v0.002</p>
 	</div>
 </nav>
 
