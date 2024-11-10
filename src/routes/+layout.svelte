@@ -30,7 +30,7 @@
 			>
 		{/if}
 		<p class="flex items-center text-xs">{store.siteLocation}</p>
-		<p class="mr-3 flex items-center text-xs">v0.002</p>
+		<p class="mr-3 flex items-center text-xs">v0.003</p>
 	</div>
 </nav>
 
