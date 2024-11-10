@@ -1,3 +1,4 @@
+mux; sp; 2020; 4.8; https://www.youtube.com/watch?v=pQAV8A9KLwk
 webassembly; de; 2024; 4.2; https://www.linkedin.com/learning/webassembly-grundlagen
 ansible; de; 2023; 4.1; https://www.linkedin.com/learning/ansible-grundkurs
 terraform; de; 2021;3.6; https://www.linkedin.com/learning/terraform-lernen

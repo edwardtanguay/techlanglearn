@@ -53,7 +53,7 @@
 - `go mod tidy`
 - `go run main.go`
 
-## Uso de Middleware en servicios web Go, 6:35, nnn
+## Uso de Middleware en servicios web Go, 6:35, 2024-11-10
 
 https://www.linkedin.com/learning/domina-go-creacion-y-empaquetado-de-aplicaciones/uso-de-middleware-en-servicios-web-go?resume=false
 
@@ -63,13 +63,31 @@ https://www.linkedin.com/learning/domina-go-creacion-y-empaquetado-de-aplicacion
 - /web/error/error.go
 - /web/middleware/error.go
 - /web/middleware/auth.go
--
+- shows how middleware works in an API
+  
+##  ¿Por qué es importante generar binarios en Go?, 1:39, nnn
+
+https://www.linkedin.com/learning/domina-go-creacion-y-empaquetado-de-aplicaciones/por-que-es-importante-generar-binarios-en-go?autoSkip=true&resume=false
+
+- nnn
 
 ## VOCAB - SPANISH
 
 ```
+common tasks such as counting requests
+tareas comunes como el conteo de peticiones
+
+we should see the message
+deberíamos ver el mensaje [gr. conditional]
+
+this time, we should get the correct answer
+esta vez, deberíamos recibir la respuesta correcta [gr. conditional]
+
+as expected, we have an error
+como era de esperar, tenemos un error
+
 whenever we returned an error previously
-siempre que devolviéramos un error anteriormente [subjunctive imperfect 1]
+siempre que devolviéramos un error anteriormente [gr. subjunctive imperfect 1]
 
 we will leave these set as they are
 dejaremos estos configurados como están
