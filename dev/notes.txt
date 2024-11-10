@@ -1,5 +1,6 @@
 - todo
 	- .. add current day if after 5:00
+	- reprocess data on reload
 	- implement runestore		
 
 

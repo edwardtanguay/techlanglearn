@@ -34,8 +34,9 @@ func parseStats(mdPathAndFileNames []string) error {
 	filledTimeUnits := fillInZeroDays(totalTimeUnits)
 	statsInfo := calculateStatsInfo(filledTimeUnits)
 	reversedstatsInfo := reverseOrderOfTimeUnits(statsInfo)
+	withAddedDayStatsInfo := addCurrentDayIfDoesntExist(reversedstatsInfo)
 
-	jsonData, _ := json.MarshalIndent(reversedstatsInfo, "", "\t")
+	jsonData, _ := json.MarshalIndent(withAddedDayStatsInfo, "", "\t")
 
 	writeTextFile("../../../"+config.WebDataDirectory+"/stats.json", string(jsonData))
 	return nil
@@ -231,4 +232,23 @@ func reverseOrderOfTimeUnits(timesInfo TimesInfo) TimesInfo {
 		TotalDuration:         timesInfo.TotalDuration,
 		TimeUnits:             reversedTimeUnits,
 	}
+}
+
+func addCurrentDayIfDoesntExist(timesInfo TimesInfo) TimesInfo {
+	now := time.Now()
+	currentDate := now.Format("2006-01-02")
+	lateEnough := now.Hour() >=5 
+
+	dateExists := false
+	for _, timeUnit := range timesInfo.TimeUnits {
+		if(timeUnit.CalendarDate == currentDate) {
+			dateExists = true
+			break
+		}
+	}
+
+	fmt.Println("111123", currentDate)
+	fmt.Println("111123", lateEnough)
+	fmt.Println("111123", dateExists)
+	return timesInfo
 }
