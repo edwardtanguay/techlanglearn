@@ -60,7 +60,7 @@ func parseFlashcards(mdPathAndFileNames []string) error {
 	return nil
 }
 
-func addLinkedInLearningTimeUnitsFromFile(lines []string, addTimeUnits *[]TimeUnit) (error) {
+func addLinkedInLearningTimeUnitsFromFile(lines []string, addTimeUnits *[]TimeUnit) error {
 	timeUnits := []TimeUnit{}
 	for _, rawLine := range lines {
 		if strings.HasPrefix(rawLine, "##") {
@@ -78,7 +78,7 @@ func addLinkedInLearningTimeUnitsFromFile(lines []string, addTimeUnits *[]TimeUn
 	return nil
 }
 
-func getOtherTimeUnitsFromFile(lines []string, addTimeUnits *[]TimeUnit) (error) {
+func getOtherTimeUnitsFromFile(lines []string, addTimeUnits *[]TimeUnit) error {
 	timeUnits := []TimeUnit{}
 	recordingLines := false
 	for _, rawLine := range lines {
@@ -237,18 +237,23 @@ func reverseOrderOfTimeUnits(timesInfo TimesInfo) TimesInfo {
 func addCurrentDayIfDoesntExist(timesInfo TimesInfo) TimesInfo {
 	now := time.Now()
 	currentDate := now.Format("2006-01-02")
-	lateEnough := now.Hour() >=5 
+	itsLateEnough := now.Hour() >= 5
 
 	dateExists := false
 	for _, timeUnit := range timesInfo.TimeUnits {
-		if(timeUnit.CalendarDate == currentDate) {
+		if timeUnit.CalendarDate == currentDate {
 			dateExists = true
 			break
 		}
 	}
 
-	fmt.Println("111123", currentDate)
-	fmt.Println("111123", lateEnough)
-	fmt.Println("111123", dateExists)
+	if !dateExists && itsLateEnough {
+		newTimeUnit := TimeUnit{
+			CalendarDate: currentDate,
+			Duration:     "00:00:00",
+		}
+		timesInfo.TimeUnits = append([]TimeUnit{newTimeUnit}, timesInfo.TimeUnits...)
+	}
+
 	return timesInfo
 }
