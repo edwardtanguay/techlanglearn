@@ -3,7 +3,8 @@
 	- .. reprocess data on reload
 		- x run code on reload
 		- x execute npm run pd
-		- .. don't show till loaded
+		- x don't show till loaded
+		- 
 		- don't load when online
 	- implement runestore		
 
@@ -54,6 +55,8 @@
 		- https://www.linkedin.com/learning/git-workflows/github-flow-in-practice
 		- https://www.linkedin.com/learning/git-for-teams/using-git-for-team-collaboration
 		- https://www.linkedin.com/learning/git-branches-merges-and-remotes/mixed-reset
+	- Nginx
+		- https://www.linkedin.com/learning/learning-nginx-17014605/configure-locations-part-1?resume=false
 	- Go
 		- SP: advanced concepts in Go
 			- https://www.linkedin.com/learning/domina-go-idioms-y-pruebas-de-codigo/para-aquellos-que-desean-dominar-go
@@ -143,10 +146,34 @@
 		- FR: https://www.linkedin.com/learning/construire-des-api-restful-avec-node-js/creer-les-schemas-de-donnees-post?resume=false
 	- Flask
 		- FR: https://www.linkedin.com/learning/l-essentiel-de-flask/utiliser-les-fichiers-d-exercice-avec-codespaces?autoSkip=true&resume=false
-	- Linux etc with Scott Simpson
-		- https://www.linkedin.com/learning/instructors/scott-simpson
+	- Devops
+		- https://www.linkedin.com/learning/build-a-ci-cd-pipeline/types-of-ci-jobs?resume=false
+	- CSS
+		- tranforms/transitions
+			- https://www.linkedin.com/learning/css-transforms-and-transitions/welcome
+		- animations
+			- https://www.linkedin.com/learning/vanilla-javascript-animations/756929
+		- Grid
+			- https://www.linkedin.com/learning/css-advanced-layouts-with-grid/grid-gap
+		- Flexbox
+			- https://www.linkedin.com/learning/building-responsive-forms-with-flexbox/basic-form-styling
+		- Scrolling and Parallax
+			- https://www.linkedin.com/learning/css-scrolling-and-parallax/why-are-scrolling-animations-useful
+	- Video
+		- https://www.linkedin.com/learning/delivering-video-in-web-experiences-17175150/design-web-video-experiences
+	- Linux
+		- Linux etc with Scott Simpson
+			- https://www.linkedin.com/learning/instructors/scott-simpson
+		- Rsync
+			- https://www.linkedin.com/learning/learning-rsync/learning-rsync
+		- Linux files
+			- https://www.linkedin.com/learning/linux-files-and-permissions-14025387/manage-files-and-permissions-in-linux
+		- Grant McWilliams
+			- https://www.linkedin.com/learning/instructors/grant-mcwilliams
 	- Docker
 		- https://www.linkedin.com/learning/paths/docker-foundations-professional-certificate
+		- SP: MySQL in Docker
+			- https://www.linkedin.com/learning/despliegue-de-mysql-con-docker/ejemplo-de-mysql-en-docker?resume=false
 	- spanish
 		- cursos en espanñol sobre desarrollo web
 			- https://www.linkedin.com/learning/topics/tecnologia?entityType=LEARNING_PATH&sortBy=RECENCY

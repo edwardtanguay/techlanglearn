@@ -8,7 +8,7 @@ export const GET: RequestHandler = async () => {
 				console.error(stderr);
 				reject(new Response(stderr, { status: 500 }));
 			} else {
-				resolve(new Response(stdout, { status: 200 }));
+				resolve(new Response(JSON.stringify({message: "data parsed"}), { status: 200 }));
 			}
 		});
 	});
