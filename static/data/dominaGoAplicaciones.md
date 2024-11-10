@@ -159,8 +159,11 @@ entendemos por prompt
 we will read the answer
 leeremos la respuesta
 
-el directorio raíz
 the root directory
+el directorio raíz
+
+we will return to the subject
+volveremos al tema
 
 which is responsible for making the request to the API
 que se engarga de hacer la petición a la API

@@ -332,8 +332,12 @@
 		"back": "leeremos la respuesta"
 	},
 	{
-		"front": "el directorio raíz",
-		"back": "the root directory"
+		"front": "the root directory",
+		"back": "el directorio raíz"
+	},
+	{
+		"front": "we will return to the subject",
+		"back": "volveremos al tema"
 	},
 	{
 		"front": "which is responsible for making the request to the API",

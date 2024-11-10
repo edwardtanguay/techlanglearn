@@ -11,7 +11,7 @@
 	- .. implement runestore		
 		- x basic impelemntand "dev" or "vercel"
 		- .. make button in menu use the store
-			- .. put state back in store: pageStatus
+			- x put state back in store: pageStatus
 
 
 - upgrade version with every parse
