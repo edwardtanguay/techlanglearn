@@ -31,6 +31,11 @@
 
 - `npm i`
 - `npm run dev`
+- **.env**
+
+```
+VITE_SITE_LOCATION=dev
+```
 
 ## parse md files to json (under construction)
 

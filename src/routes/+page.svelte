@@ -6,31 +6,34 @@
 
 	type PageStatus = 'loading' | 'ready' | 'error';
 
-	let pageStatus: PageStatus = $state("loading")
+	let pageStatus: PageStatus = $state('ready');
 	let message = $state('');
 	const siteLocation = import.meta.env.VITE_SITE_LOCATION;
 
-	onMount(async () => {
+	const reloadData = async () => {
+		pageStatus = 'loading';
 		const response = await fetch('/api/pd');
 		if (response.ok) {
 			console.log(111144, 'ok');
-			pageStatus = "ready"
+			pageStatus = 'ready';
 		} else {
 			console.log(111144, 'NOT OK');
 			const error = await response.json();
-			pageStatus = "error"
+			pageStatus = 'error';
 			message = error.message;
 		}
-	});
+	};
 </script>
-{#if pageStatus === "ready"}
+
+{#if pageStatus === 'ready'}
+	<button onclick={reloadData}>Parse data</button>
 	<FlashcardArea />
 	<StatsArea />
 	<div class="markdown-tutorial">
 		{@html $page.data.htmlContent}
 	</div>
-{:else if pageStatus === "loading"}
+{:else if pageStatus === 'loading'}
 	<p>loading...</p>
-{:else if pageStatus === "error"}
+{:else if pageStatus === 'error'}
 	<p>error: {message}</p>
 {/if}
