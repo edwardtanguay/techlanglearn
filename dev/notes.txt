@@ -8,7 +8,8 @@
 			- x see what happens online
 			- x show error
 			- .. make environment variable: SITE_LOCATION = dev, vercel
-	- implement runestore		
+	- .. implement runestore		
+		- .. basic impelemntand "dev" or "vercel"
 
 
 	- make audio link

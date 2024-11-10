@@ -212,10 +212,6 @@
 		"back": "por un lado"
 	},
 	{
-		"front": "to check that the token passed in the header",
-		"back": "de comprobar que el token que se pasa en la cabacera"
-	},
-	{
 		"front": "since we consider it an error",
 		"back": "puesto que lo consideramos un error"
 	},
