@@ -156,6 +156,9 @@ copia el texto de una sola vez, no lo escribe
 by prompt we understand
 entendemos por prompt
 
+you can see on the last line
+puedes verlo en la última línea
+
 we will read the answer
 leeremos la respuesta
 
