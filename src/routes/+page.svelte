@@ -26,7 +26,11 @@
 </script>
 
 {#if pageStatus === 'ready'}
-	<button onclick={reloadData}>Parse data</button>
+	{#if siteLocation === 'dev'}
+		<button class="mb-3 rounded border border-slate-600 bg-slate-400 px-1" onclick={reloadData}
+			>Parse data</button
+		>
+	{/if}
 	<FlashcardArea />
 	<StatsArea />
 	<div class="markdown-tutorial">
