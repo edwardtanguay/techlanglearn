@@ -4,21 +4,30 @@
 	import FlashcardArea from '../components/FlashcardArea.svelte';
 	import StatsArea from '../components/StatsArea/StatsArea.svelte';
 
-	let showSite = $state(false);
+	type PageStatus = 'loading' | 'ready' | 'error';
+
+	let pageStatus: PageStatus = $state("loading")
+	let message = $state('');
 
 	onMount(async () => {
 		const response = await fetch('/api/pd');
-		const data = await response.json();
-		showSite = true;
+		if (response.ok) {
+			pageStatus = "ready"
+		} else {
+			const error = await response.json();
+			message = error;
+		}
 	});
 </script>
 
-{#if showSite}
+{#if pageStatus === "ready"}
 	<FlashcardArea />
 	<StatsArea />
 	<div class="markdown-tutorial">
 		{@html $page.data.htmlContent}
 	</div>
-{:else}
+{:else if pageStatus === "loading"}
 	<p>loading...</p>
+{:else if pageStatus === "error"}
+	<p>error: {message}</p>
 {/if}

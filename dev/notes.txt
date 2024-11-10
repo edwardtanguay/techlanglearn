@@ -4,8 +4,9 @@
 		- x run code on reload
 		- x execute npm run pd
 		- x don't show till loaded
-		- 
-		- don't load when online
+		- .. don't load when online
+			- see what happens online
+			- .. show error
 	- implement runestore		
 
 
