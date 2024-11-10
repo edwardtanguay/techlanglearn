@@ -66,6 +66,9 @@
 ## VOCAB - SPANISH
 
 ```
+we will leave these set as they are
+dejaremos estos configurados como están
+
 in order to save it
 para guardarlo
 
