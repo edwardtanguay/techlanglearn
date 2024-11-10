@@ -1,18 +1,4 @@
 - todo
-	- x add current day if after 5:00
-	- .. reprocess data on reload
-		- x run code on reload
-		- x execute npm run pd
-		- x don't show till loaded
-		- .. don't load when online
-			- x see what happens online
-			- x show error
-			- .. make environment variable: SITE_LOCATION = dev, vercel
-	- .. implement runestore		
-		- x basic impelemntand "dev" or "vercel"
-		- .. make button in menu use the store
-			- x put state back in store: pageStatus
-
 
 - upgrade version with every parse
 - make audio link
