@@ -15,7 +15,8 @@
 			pageStatus = "ready"
 		} else {
 			const error = await response.json();
-			message = error;
+			pageStatus = "error"
+			message = error.message;
 		}
 	});
 </script>
