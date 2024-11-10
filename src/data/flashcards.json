@@ -372,6 +372,90 @@
 		"back": "mediante nuestro navegador"
 	},
 	{
+		"front": "as we have seen",
+		"back": "como hemos visto"
+	},
+	{
+		"front": "la variable habrá sido modificada",
+		"back": "the variable will have been modified"
+	},
+	{
+		"front": "will be applied to the struct",
+		"back": "se aplicarán a la struct"
+	},
+	{
+		"front": "this pointer will point to the memory address of the value",
+		"back": "este puntero apuntará a la dirección de memoria del valor"
+	},
+	{
+		"front": "let's store the value 17",
+		"back": "vamos a almacenar el valor 17"
+	},
+	{
+		"front": "an integer value",
+		"back": "un valor de tipo entero"
+	},
+	{
+		"front": "leaving the code much cleaner",
+		"back": "quedando el código mucho más limpio"
+	},
+	{
+		"front": "let's see this in an example",
+		"back": "veámoslo con un ejemplo"
+	},
+	{
+		"front": "if there is any error",
+		"back": "si hubiera algún error [subjunctive imperfect 1]"
+	},
+	{
+		"front": "each of which modifies a field",
+		"back": "cada una de las cuales modifica un campo"
+	},
+	{
+		"front": "a function that receives a pointer",
+		"back": "una función que recibe un puntero"
+	},
+	{
+		"front": "which value corresponds to which field",
+		"back": "qué valor corresponde a qué campo"
+	},
+	{
+		"front": "if we were to add new fields",
+		"back": "si añadiésimos nuevos campos [subjunctive imperfect 2]"
+	},
+	{
+		"front": "its wide range of packages",
+		"back": "su amplia gama de paquetes"
+	},
+	{
+		"front": "Go places a strong emphasis on testing",
+		"back": "Go pone un fuerte énfasis en las pruebas"
+	},
+	{
+		"front": "digital signatures",
+		"back": "firmas digitales"
+	},
+	{
+		"front": "the library provides many useful tools",
+		"back": "la librería proporciona muchas herramientas útiles"
+	},
+	{
+		"front": "to a large extent",
+		"back": "en gran medida"
+	},
+	{
+		"front": "high performance",
+		"back": "alto rendimiento"
+	},
+	{
+		"front": "the library is highly optimized",
+		"back": "la librería está altamente optimizada"
+	},
+	{
+		"front": "file management",
+		"back": "manejo de archivos"
+	},
+	{
 		"front": "above the current package",
 		"back": "por encima del paquete actual"
 	},

@@ -74,13 +74,100 @@
 - you can only call functions that are lower in alphabetical order##onlydownkjd
   - this avoids circular references
 
-## Utilizando la biblioteca estándar de Go, 3:13, nnn
+## Utilizando la biblioteca estándar de Go, 3:13, 2024-11-10
 
 https://www.linkedin.com/learning/domina-go-idioms-y-pruebas-de-codigo/utilizando-la-biblioteca-estandar-de-go?resume=false
+
+- he talks about the standard library in general
+
+## Utilizando opciones funcionales en Go, 3:59, 2024-11-10
+
+https://www.linkedin.com/learning/domina-go-idioms-y-pruebas-de-codigo/utilizando-opciones-funcionales-en-go?autoSkip=true&resume=false
+
+- creating a struct with a constructor
+- withName##thewithtyp
+- this is the difference##thisistheddddif
+- nnn
+
+## Manipulación de punteros en Go, 4:15, 2024-11-10
+
+https://www.linkedin.com/learning/domina-go-idioms-y-pruebas-de-codigo/manipulacion-de-punteros-en-go?autoSkip=true&resume=false
+
+- talks about & and \*
+- when you send a struct to a function, a copy is made
+
+## Gestión de contexto en aplicaciones Go, 4:39, nnn
+
+https://www.linkedin.com/learning/domina-go-idioms-y-pruebas-de-codigo/gestion-de-contexto-en-aplicaciones-go?autoSkip=true&resume=false
+
+- nnn
 
 ## VOCAB - SPANISH
 
 ```
+as we have seen
+como hemos visto
+
+la variable habrá sido modificada
+the variable will have been modified
+
+will be applied to the struct
+se aplicarán a la struct
+
+this pointer will point to the memory address of the value
+este puntero apuntará a la dirección de memoria del valor
+
+let's store the value 17
+vamos a almacenar el valor 17
+
+an integer value
+un valor de tipo entero
+
+leaving the code much cleaner
+quedando el código mucho más limpio
+
+let's see this in an example
+veámoslo con un ejemplo
+
+if there is any error
+si hubiera algún error [subjunctive imperfect 1]
+
+each of which modifies a field
+cada una de las cuales modifica un campo
+
+a function that receives a pointer
+una función que recibe un puntero
+
+which value corresponds to which field
+qué valor corresponde a qué campo
+
+if we were to add new fields
+si añadiésimos nuevos campos [subjunctive imperfect 2]
+
+its wide range of packages
+su amplia gama de paquetes
+
+Go places a strong emphasis on testing
+Go pone un fuerte énfasis en las pruebas
+
+digital signatures
+firmas digitales
+
+the library provides many useful tools
+la librería proporciona muchas herramientas útiles
+
+to a large extent
+en gran medida
+
+high performance
+alto rendimiento
+
+the library is highly optimized
+la librería está altamente optimizada
+
+file management
+manejo de archivos
+
 above the current package
 por encima del paquete actual
 

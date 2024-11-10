@@ -1,14 +1,24 @@
 - todo
-	- .. write "parsing data..."
+	- organize all Spanish
+	- show only one at random
+	- show GUESS, then GOT RIGHT, GOT WRONG
+	- when got right 3 times, then it is KNOWN
+	- show known on right
 
-- upgrade version with every parse
-- make audio link
-- same responsiveness as react template
-- extend flashcard-taking experience
-	- do not show page until they take random 3 flashcards
-	- flashcards: make five steps, have to get it right five times
+	- slider to rank: 0 to 5
+	- show higher ranked more often in randomizer 
 
+- pending
+	- when finished with Spanish
+		- save language with flashcards
+	- upgrade version with every parse
+	- make audio link
+	- same responsiveness as react template
+	- extend flashcard-taking experience
+		- do not show page until they take random 3 flashcards
+		- flashcards: make five steps, have to get it right five times
 
+- 
 - MORE VIDEOS
 	- coding videos
 		- https://www.youtube.com/watch?v=AzVXFKmu0bQ    
@@ -34,11 +44,13 @@
 			- https://youtu.be/ZrfPO9L80jc?si=36XRVMqQivSXrP8H
 	- Go Mux
 		- https://www.youtube.com/watch?v=7nvNdrFXzWM
+	
 	- Git
 		- https://www.linkedin.com/learning/git-intermediate-techniques-16077011/get-more-from-git
 		- https://www.linkedin.com/learning/git-workflows/github-flow-in-practice
 		- https://www.linkedin.com/learning/git-for-teams/using-git-for-team-collaboration
 		- https://www.linkedin.com/learning/git-branches-merges-and-remotes/mixed-reset
+		- de https://www.linkedin.com/learning/git-tipps-und-tricks/grosse-dateien-verwalten-mit-git-lfs?resume=false
 	- Nginx
 		- https://www.linkedin.com/learning/learning-nginx-17014605/configure-locations-part-1?resume=false
 	- Go
@@ -58,6 +70,11 @@
 			- https://www.linkedin.com/learning/go-essentials-concurrency-connectivity-and-high-performance-apps/solution-maps?resume=false
 		- https://www.linkedin.com/learning/writing-command-line-applications-in-go/pipes-and-redirects	
 		- https://www.linkedin.com/learning/instructors/miki-tebeka
+	- Monorepos
+		- de: https://www.linkedin.com/learning/monorepos-auf-github-grundlagen/mit-monorepos-eine-grosse-codebasis-effektiv-verwalten
+	- RxJS
+		- de: https://www.linkedin.com/learning/rxjs-lernen/creation-operatoren?resume=false
+	
 	- Go tools
 		- Go, Mux, JWT
 			- https://www.youtube.com/watch?v=7nvNdrFXzWM

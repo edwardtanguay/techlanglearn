@@ -53,7 +53,9 @@
 - `go mod tidy`
 - `go run main.go`
 
-## Uso de Middleware en servicios web Go, 6:35, 2024-10-30
+## Uso de Middleware en servicios web Go, 6:35, nnn
+
+https://www.linkedin.com/learning/domina-go-creacion-y-empaquetado-de-aplicaciones/uso-de-middleware-en-servicios-web-go?resume=false
 
 - /web/middleware/counter.go
 - un Mutex en Go es un primitivo de sincronización que se utiliza para controlar el acceso a recursos compartidos en la programación concurrente
@@ -61,11 +63,14 @@
 - /web/error/error.go
 - /web/middleware/error.go
 - /web/middleware/auth.go
-- continue 3:45
+-
 
 ## VOCAB - SPANISH
 
 ```
+whenever we returned an error previously
+siempre que devolviéramos un error anteriormente [subjunctive imperfect 1]
+
 we will leave these set as they are
 dejaremos estos configurados como están
 
@@ -115,7 +120,7 @@ that is in charge of counting the requests
 que se encargue de contar las peticiones
 
 that is in charge of counting the requests
-que se encargue de contar las peticiones
+que se encargue de contar las peticiones [en-KAR-gay]
 
 although we could have used any other
 aunque podríamos haber utilizado cualquier otro
@@ -128,9 +133,6 @@ arranca el servidor en el puerto 8080
 
 in isolation
 de manera aislada
-
-as light as possible
-lo más ligeros posibles
 
 will make a request
 hará una petition
