@@ -101,9 +101,28 @@ func getOtherTimeUnitsFromFile(lines []string, allTimeUnits *[]TimeUnit) error {
 			recordingLines = true
 		}
 	}
-	fmt.Println(11111, timeUnits )
-	*allTimeUnits = append(*allTimeUnits, timeUnits...)
+	intervalUnits, _ := convertToIntervalTimes(timeUnits)
+	*allTimeUnits = append(*allTimeUnits, intervalUnits...)
 	return nil
+}
+
+func convertToIntervalTimes(timeUnits []TimeUnit) ([]TimeUnit, error) {
+	intervalUnits := make([]TimeUnit, len(timeUnits))
+
+	if len(timeUnits) > 0 {
+		intervalUnits[0] = timeUnits[0]
+	}
+
+	for i := 1; i < len(timeUnits); i++ {
+		currentDuration, _ := parseDuration(timeUnits[i].Duration)
+		prevDuration, _ := parseDuration(timeUnits[i-1].Duration)
+		diff := currentDuration - prevDuration
+		intervalUnits[i] = TimeUnit{
+			CalendarDate: timeUnits[i].CalendarDate,
+			Duration:     formatDuration(diff),
+		}
+	}
+	return intervalUnits, nil
 }
 
 func getFlashcardsFromFile(lines []string) ([]Flashcard, error) {
