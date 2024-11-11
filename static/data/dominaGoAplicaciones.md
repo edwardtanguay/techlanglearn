@@ -64,24 +64,67 @@ https://www.linkedin.com/learning/domina-go-creacion-y-empaquetado-de-aplicacion
 - /web/middleware/error.go
 - /web/middleware/auth.go
 - shows how middleware works in an API
-  
-##  ¿Por qué es importante generar binarios en Go?, 1:39, nnn
+
+## ¿Por qué es importante generar binarios en Go?, 1:39, 2024-11-10
 
 https://www.linkedin.com/learning/domina-go-creacion-y-empaquetado-de-aplicaciones/por-que-es-importante-generar-binarios-en-go?autoSkip=true&resume=false
+
+- `go build -o pkm`
+- `./pkm get`
+- he created it on Mac, so it will not work on Windows or Linux
+  - and it won't even work on a Mac with ARM processors
+
+## Generación de binarios en Go, 2:02, 2024-11-10
+
+https://www.linkedin.com/learning/domina-go-creacion-y-empaquetado-de-aplicaciones/generacion-de-binarios-en-go?autoSkip=true&resume=false
+
+- you can build for numerous operating systems
+- variables GOOS and GOARCH
+- creates a Makefile
+- GOOS=darwin
+- build-all##creatsoall
+
+## Creación de imágenes Docker en Go, 3:06, nnn
+
+https://www.linkedin.com/learning/domina-go-creacion-y-empaquetado-de-aplicaciones/creacion-de-imagenes-docker-en-go?autoSkip=true&resume=false
 
 - nnn
 
 ## VOCAB - SPANISH
 
 ```
+as we see, the binaries will be generated
+como vemos, se va a generar los binarios
+
+having built it on our machine
+al haberlo construido en nuestra máquina
+
+Go stands out for the small size of its binaries
+Go destaca por el pequeño tamaño de sus binarios
+
+since we would be forcing him to install Go
+puesto que le estaríamos obligando a instalar Go [gr. present conditional]
+
+but we can't deliver it to the user like this
+pero no podemos entregarla así al usuario
+
+let's start with a small application
+partamos de una pequeña aplicación
+
+in which they are going to be executed
+en el que se vayan a ejecutar [gr. subjunctive present]
+
+we usually run our programs directly from the source code
+solemos ejecutar nuestros programas directamente desde el código fuente
+
 common tasks such as counting requests
 tareas comunes como el conteo de peticiones
 
 we should see the message
-deberíamos ver el mensaje [gr. conditional]
+deberíamos ver el mensaje [gr. present conditional]
 
 this time, we should get the correct answer
-esta vez, deberíamos recibir la respuesta correcta [gr. conditional]
+esta vez, deberíamos recibir la respuesta correcta [gr. present conditional]
 
 as expected, we have an error
 como era de esperar, tenemos un error

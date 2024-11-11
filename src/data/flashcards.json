@@ -208,6 +208,58 @@
 		"back": "en gran medida"
 	},
 	{
+		"front": "as we see, the binaries will be generated",
+		"back": "como vemos, se va a generar los binarios"
+	},
+	{
+		"front": "having built it on our machine",
+		"back": "al haberlo construido en nuestra máquina"
+	},
+	{
+		"front": "Go stands out for the small size of its binaries",
+		"back": "Go destaca por el pequeño tamaño de sus binarios"
+	},
+	{
+		"front": "since we would be forcing him to install Go",
+		"back": "puesto que le estaríamos obligando a instalar Go [gr. present conditional]"
+	},
+	{
+		"front": "but we can't deliver it to the user like this",
+		"back": "pero no podemos entregarla así al usuario"
+	},
+	{
+		"front": "let's start with a small application",
+		"back": "partamos de una pequeña aplicación"
+	},
+	{
+		"front": "in which they are going to be executed",
+		"back": "en el que se vayan a ejecutar [gr. subjunctive present]"
+	},
+	{
+		"front": "we usually run our programs directly from the source code",
+		"back": "solemos ejecutar nuestros programas directamente desde el código fuente"
+	},
+	{
+		"front": "common tasks such as counting requests",
+		"back": "tareas comunes como el conteo de peticiones"
+	},
+	{
+		"front": "we should see the message",
+		"back": "deberíamos ver el mensaje [gr. present conditional]"
+	},
+	{
+		"front": "this time, we should get the correct answer",
+		"back": "esta vez, deberíamos recibir la respuesta correcta [gr. present conditional]"
+	},
+	{
+		"front": "as expected, we have an error",
+		"back": "como era de esperar, tenemos un error"
+	},
+	{
+		"front": "whenever we returned an error previously",
+		"back": "siempre que devolviéramos un error anteriormente [gr. subjunctive imperfect 1]"
+	},
+	{
 		"front": "we will leave these set as they are",
 		"back": "dejaremos estos configurados como están"
 	},
@@ -273,7 +325,7 @@
 	},
 	{
 		"front": "that is in charge of counting the requests",
-		"back": "que se encargue de contar las peticiones"
+		"back": "que se encargue de contar las peticiones [en-KAR-gay]"
 	},
 	{
 		"front": "although we could have used any other",
@@ -290,10 +342,6 @@
 	{
 		"front": "in isolation",
 		"back": "de manera aislada"
-	},
-	{
-		"front": "as light as possible",
-		"back": "lo más ligeros posibles"
 	},
 	{
 		"front": "will make a request",

@@ -1,4 +1,18 @@
+go; sp;2023;4.96; https://www.linkedin.com/learning/domina-go
+gitlab;sp;2022; 4.91;https://www.linkedin.com/learning/gitlab-esencial
+docker; sp;2024;4.91;https://www.linkedin.com/learning/docker-esencial-23119241
+api, mongo, jwt; sp; 2024; 4.9; https://www.linkedin.com/learning/nodejs-restserver-con-clean-architecture
 mux; sp; 2020; 4.8; https://www.youtube.com/watch?v=pQAV8A9KLwk
+bash, linux;sp; 2022;4.78;https://www.linkedin.com/learning/aprende-shell-scripting-en-linux
+react, hooks; sp; 2021;4.3; https://www.linkedin.com/learning/react-hooks-esencial
+rust; sp; 2024;3.8; https://www.linkedin.com/learning/rust-avanzado-24014033
+rust; sp; 2024;4.1; https://www.linkedin.com/learning/rust-esencial-24011472
+typescript;sp;2024;4.6; https://www.linkedin.com/learning/domina-typescript
+githubActions;sp;2022;4.22; https://www.linkedin.com/learning/github-actions-esencial
+linux;sp;2022;4.12;https://www.linkedin.com/learning/aprende-a-usar-la-linea-de-comandos-de-linux
+functional, javascript;sp;2022;4.32;https://www.linkedin.com/learning/desafio-de-programacion-programacion-funcional-en-javascript
+redix;sp;2023;3.73;https://www.linkedin.com/learning/domina-redis
+docker;sp;2022;3.68;https://www.linkedin.com/learning/despliegue-de-mysql-con-docker
 webassembly; de; 2024; 4.2; https://www.linkedin.com/learning/webassembly-grundlagen
 ansible; de; 2023; 4.1; https://www.linkedin.com/learning/ansible-grundkurs
 terraform; de; 2021;3.6; https://www.linkedin.com/learning/terraform-lernen
@@ -11,4 +25,4 @@ ansible; fr; 2020; 4.1; https://www.linkedin.com/learning/l-essentiel-d-ansible/
 linux; fr; 2024; 3.9; https://www.linkedin.com/learning/linux-l-administration-avancee
 bash; fr; 2017; 3.7; https://www.linkedin.com/learning/decouvrir-l-ecriture-de-scripts-en-bash
 flexbox; fr; 2024; 4.3; https://www.linkedin.com/learning/css-maitriser-les-flexbox
-grid; fr; 2022; 4.4; https://www.linkedin.com/learning/la-mise-en-page-css-combiner-les-flex-et-les-grids
+grid, flexbox; fr; 2022; 4.4; https://www.linkedin.com/learning/la-mise-en-page-css-combiner-les-flex-et-les-grids
