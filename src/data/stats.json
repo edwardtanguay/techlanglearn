@@ -4,6 +4,10 @@
 	"totalDuration": "03:30:53",
 	"timeUnits": [
 		{
+			"calendarDate": "2024-11-11",
+			"duration": "00:00:00"
+		},
+		{
 			"calendarDate": "2024-11-10",
 			"duration": "00:21:43"
 		},

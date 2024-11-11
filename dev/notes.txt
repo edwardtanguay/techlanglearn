@@ -1,9 +1,14 @@
 - todo
-	- organize all Spanish
-	- show only one at random
-	- show GUESS, then GOT RIGHT, GOT WRONG
-	- when got right 3 times, then it is KNOWN
-	- show known on right
+	- .. fix total days
+
+
+
+	
+	- make flashcards useful
+		- show only one at random
+		- show GUESS, then GOT RIGHT, GOT WRONG
+		- when got right 3 times, then it is KNOWN
+		- show known on right
 
 	- slider to rank: 0 to 5
 	- show higher ranked more often in randomizer 
