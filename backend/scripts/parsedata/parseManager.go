@@ -253,6 +253,7 @@ func addCurrentDayIfDoesntExist(timesInfo TimesInfo) TimesInfo {
 			Duration:     "00:00:00",
 		}
 		timesInfo.TimeUnits = append([]TimeUnit{newTimeUnit}, timesInfo.TimeUnits...)
+		timesInfo = calculateStatsInfo(timesInfo.TimeUnits)
 	}
 
 	return timesInfo
