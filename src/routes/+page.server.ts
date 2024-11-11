@@ -8,11 +8,11 @@ export async function load() {
 	// const markdown = fs.readFileSync(filePath, 'utf-8');
 
 	const tutorialIdCodes = [
-		// 'skeletonUiForSvelte',
-		// 'masterGoIdiomsTestingSpanish',
-		// 'svelte5GuideForBeginners',
-		// 'cicdGitLab',
-		// 'dominaGoAplicaciones',
+		'skeletonUiForSvelte',
+		'masterGoIdiomsTestingSpanish',
+		'svelte5GuideForBeginners',
+		'cicdGitLab',
+		'dominaGoAplicaciones',
 		'svelte5IsATriumph'
 	];
 
