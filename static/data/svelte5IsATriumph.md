@@ -16,4 +16,7 @@
 - in Svelte 4 you had to spread values for state arrays
   - no longer the case in Svelte 5
 - $inspect(nnn) only works in development
-- .. try to make store
+- made store
+- in 5, use onclick instead of on:click
+
+

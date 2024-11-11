@@ -100,11 +100,31 @@ https://www.linkedin.com/learning/domina-go-idioms-y-pruebas-de-codigo/manipulac
 
 https://www.linkedin.com/learning/domina-go-idioms-y-pruebas-de-codigo/gestion-de-contexto-en-aplicaciones-go?autoSkip=true&resume=false
 
-- nnn
+- contexts have a life time which begins when they are created
+- if a parent context is canceled, the child context is canceled as well
+-
 
 ## VOCAB - SPANISH
 
 ```
+thirty, forty, fifty, sixty, seventy, eighty, ninety
+treinta, cuarenta, cincuenta, sesenta, setenta, ochenta, noventa
+
+the breakfast, the lunch, the dinner
+el desayuno, el almuerzo, la cena
+
+let's look at this with different examples
+veámoslo con diferentes ejemplos
+
+which begins when it is created
+que comienza cuando se crea
+
+freeing up resources if necessary
+liberando recursos si fuera necesario [gr. subjunctive imperfect 1]
+
+being able to define a time to cancel the operation
+pudiendo definir un tiempo para cancelar la operación
+
 as we have seen
 como hemos visto
 
@@ -130,7 +150,7 @@ let's see this in an example
 veámoslo con un ejemplo
 
 if there is any error
-si hubiera algún error [subjunctive imperfect 1]
+si hubiera algún error [gr. subjunctive imperfect 1]
 
 each of which modifies a field
 cada una de las cuales modifica un campo
@@ -142,7 +162,7 @@ which value corresponds to which field
 qué valor corresponde a qué campo
 
 if we were to add new fields
-si añadiésimos nuevos campos [subjunctive imperfect 2]
+si añadiésimos nuevos campos [gr. subjunctive imperfect 2]
 
 its wide range of packages
 su amplia gama de paquetes
