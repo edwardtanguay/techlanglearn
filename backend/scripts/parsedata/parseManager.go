@@ -78,7 +78,7 @@ func addLinkedInLearningTimeUnitsFromFile(lines []string, addTimeUnits *[]TimeUn
 	return nil
 }
 
-func getOtherTimeUnitsFromFile(lines []string, addTimeUnits *[]TimeUnit) error {
+func getOtherTimeUnitsFromFile(lines []string, allTimeUnits *[]TimeUnit) error {
 	timeUnits := []TimeUnit{}
 	recordingLines := false
 	for _, rawLine := range lines {
@@ -101,7 +101,8 @@ func getOtherTimeUnitsFromFile(lines []string, addTimeUnits *[]TimeUnit) error {
 			recordingLines = true
 		}
 	}
-	*addTimeUnits = append(*addTimeUnits, timeUnits...)
+	fmt.Println(11111, timeUnits )
+	*allTimeUnits = append(*allTimeUnits, timeUnits...)
 	return nil
 }
 
