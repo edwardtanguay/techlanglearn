@@ -20,3 +20,10 @@
 - made store
 - in 5, use onclick instead of on:click
 - ref works with $effect##thearotoref
+
+## VOCAB - SPANISH
+
+```
+111
+222
+```

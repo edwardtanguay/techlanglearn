@@ -1,7 +1,7 @@
 {
-	"totalDays": 15,
-	"averageDurationPerDay": "00:14:46",
-	"totalDuration": "03:41:31",
+	"totalDays": 3,
+	"averageDurationPerDay": "00:05:28",
+	"totalDuration": "00:16:26",
 	"timeUnits": [
 		{
 			"calendarDate": "2024-11-11",
@@ -9,59 +9,11 @@
 		},
 		{
 			"calendarDate": "2024-11-10",
-			"duration": "00:21:43"
+			"duration": "00:00:00"
 		},
 		{
 			"calendarDate": "2024-11-09",
-			"duration": "00:34:02"
-		},
-		{
-			"calendarDate": "2024-11-08",
-			"duration": "00:00:00"
-		},
-		{
-			"calendarDate": "2024-11-07",
-			"duration": "00:26:59"
-		},
-		{
-			"calendarDate": "2024-11-06",
-			"duration": "00:10:58"
-		},
-		{
-			"calendarDate": "2024-11-05",
-			"duration": "00:00:00"
-		},
-		{
-			"calendarDate": "2024-11-04",
-			"duration": "00:00:00"
-		},
-		{
-			"calendarDate": "2024-11-03",
-			"duration": "00:00:00"
-		},
-		{
-			"calendarDate": "2024-11-02",
-			"duration": "00:17:32"
-		},
-		{
-			"calendarDate": "2024-11-01",
-			"duration": "00:38:30"
-		},
-		{
-			"calendarDate": "2024-10-31",
-			"duration": "00:39:14"
-		},
-		{
-			"calendarDate": "2024-10-30",
-			"duration": "00:15:55"
-		},
-		{
-			"calendarDate": "2024-10-29",
-			"duration": "00:03:24"
-		},
-		{
-			"calendarDate": "2024-10-28",
-			"duration": "00:02:36"
+			"duration": "00:05:48"
 		}
 	]
 }
