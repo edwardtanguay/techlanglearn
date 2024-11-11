@@ -1,5 +1,7 @@
 - todo
-	- .. fix total days
+	- .. post
+	- fix watchlog
+		- reduce to one to test
 
 
 

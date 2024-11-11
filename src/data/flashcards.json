@@ -420,6 +420,30 @@
 		"back": "mediante nuestro navegador"
 	},
 	{
+		"front": "thirty, forty, fifty, sixty, seventy, eighty, ninety",
+		"back": "treinta, cuarenta, cincuenta, sesenta, setenta, ochenta, noventa"
+	},
+	{
+		"front": "the breakfast, the lunch, the dinner",
+		"back": "el desayuno, el almuerzo, la cena"
+	},
+	{
+		"front": "let's look at this with different examples",
+		"back": "veámoslo con diferentes ejemplos"
+	},
+	{
+		"front": "which begins when it is created",
+		"back": "que comienza cuando se crea"
+	},
+	{
+		"front": "freeing up resources if necessary",
+		"back": "liberando recursos si fuera necesario [gr. subjunctive imperfect 1]"
+	},
+	{
+		"front": "being able to define a time to cancel the operation",
+		"back": "pudiendo definir un tiempo para cancelar la operación"
+	},
+	{
 		"front": "as we have seen",
 		"back": "como hemos visto"
 	},
@@ -453,7 +477,7 @@
 	},
 	{
 		"front": "if there is any error",
-		"back": "si hubiera algún error [subjunctive imperfect 1]"
+		"back": "si hubiera algún error [gr. subjunctive imperfect 1]"
 	},
 	{
 		"front": "each of which modifies a field",
@@ -469,7 +493,7 @@
 	},
 	{
 		"front": "if we were to add new fields",
-		"back": "si añadiésimos nuevos campos [subjunctive imperfect 2]"
+		"back": "si añadiésimos nuevos campos [gr. subjunctive imperfect 2]"
 	},
 	{
 		"front": "its wide range of packages",

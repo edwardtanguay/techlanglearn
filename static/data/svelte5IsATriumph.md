@@ -9,6 +9,7 @@
 ## watchlog
 
 - 2024-11-09 - 5:48
+- 2024-11-11 - 10:38
 
 ## reactivity
 
@@ -18,5 +19,4 @@
 - $inspect(nnn) only works in development
 - made store
 - in 5, use onclick instead of on:click
-
-
+- ref works with $effect##thearotoref
