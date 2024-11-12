@@ -84,15 +84,59 @@ https://www.linkedin.com/learning/domina-go-creacion-y-empaquetado-de-aplicacion
 - GOOS=darwin
 - build-all##creatsoall
 
-## Creación de imágenes Docker en Go, 3:06, nnn
+## Creación de imágenes Docker en Go, 3:06, 2024-11-11
 
 https://www.linkedin.com/learning/domina-go-creacion-y-empaquetado-de-aplicaciones/creacion-de-imagenes-docker-en-go?autoSkip=true&resume=false
 
-- nnn
+- have to create a Dockerfile##thedodockfil
+  - FROM scratch
+  - ENTRYPOINT ["./pkm"]
+- now Makefile
+  - docker-run
+- executes
+  - `make-all`
+  - creates dist
+  - `docker images`
+  - `make docker-run`
+  - it works
+
+## Configuración de Goreleaser en proyectos Go: ejemplo práctico, 4:44, 2024-11-11 
+
+https://www.linkedin.com/learning/domina-go-creacion-y-empaquetado-de-aplicaciones/configuracion-de-goreleaser-en-proyectos-go-ejemplo-practico?autoSkip=true&resume=false
+
+- GoReleaser
+  - a release automation tool for Go projects
+  - simplifies and streamlines the process of building, packaging, and distributing Go applications
+  - widely used in continuous integration (CI) and continuous deployment (CD) pipelines to create consistent, ready-to-release binaries, Docker images, and release assets
+  - install
+    - `brew install goreleaser/tap/goreleaser
+    - add **.goreleaser.yml**
+    - it is a long file, 200+ lines
+    - announce: (in social media)
+  - now we are in **root.go**
+  - mpw om **main.go**
+    - add variables for GoReleaser
+  - SBOM
+    - Software Bill of Materials 
 
 ## VOCAB - SPANISH
 
 ```
+the file will be overwritten
+el archivo se sobrescribirá
+
+to a large extent
+en gran medida
+
+which does everything that has been done in the previous videos
+que hace todo lo que hace hecho en los vídeos anteriores
+
+this process will take some time
+este proceso tardará un tiempo
+
+so that it is capable
+para que sea capaz
+
 as we see, the binaries will be generated
 como vemos, se va a generar los binarios
 

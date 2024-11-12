@@ -208,6 +208,26 @@
 		"back": "en gran medida"
 	},
 	{
+		"front": "the file will be overwritten",
+		"back": "el archivo se sobrescribirá"
+	},
+	{
+		"front": "to a large extent",
+		"back": "en gran medida"
+	},
+	{
+		"front": "which does everything that has been done in the previous videos",
+		"back": "que hace todo lo que hace hecho en los vídeos anteriores"
+	},
+	{
+		"front": "this process will take some time",
+		"back": "este proceso tardará un tiempo"
+	},
+	{
+		"front": "so that it is capable",
+		"back": "para que sea capaz"
+	},
+	{
 		"front": "as we see, the binaries will be generated",
 		"back": "como vemos, se va a generar los binarios"
 	},
@@ -650,9 +670,5 @@
 	{
 		"front": "new heights",
 		"back": "nuevas alturas"
-	},
-	{
-		"front": "111",
-		"back": "222"
 	}
 ]

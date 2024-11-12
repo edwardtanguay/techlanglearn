@@ -1,3 +1,5 @@
+go, cobra; en; 4.92;https://www.youtube.com/watch?v=yiFhQGJeRJk
+
 go; sp;2023;4.96; https://www.linkedin.com/learning/domina-go
 gitlab;sp;2022; 4.91;https://www.linkedin.com/learning/gitlab-esencial
 docker; sp;2024;4.91;https://www.linkedin.com/learning/docker-esencial-23119241
