@@ -218,9 +218,6 @@ el tiempo que ha transcurrido
 the first thing it does is get the current time
 lo primero que hace es obtener la hora actual
 
-as soon as you enter
-nada más entrar
-
 that is in charge of counting the requests
 que se encargue de contar las peticiones
 
