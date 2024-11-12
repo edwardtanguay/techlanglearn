@@ -336,10 +336,6 @@
 		"back": "lo primero que hace es obtener la hora actual"
 	},
 	{
-		"front": "as soon as you enter",
-		"back": "nada más entrar"
-	},
-	{
 		"front": "that is in charge of counting the requests",
 		"back": "que se encargue de contar las peticiones"
 	},
@@ -438,6 +434,10 @@
 	{
 		"front": "via our browser",
 		"back": "mediante nuestro navegador"
+	},
+	{
+		"front": "once downloaded, you can start the program",
+		"back": "una vez descargado, puedes iniciar el programa"
 	},
 	{
 		"front": "as it can lead to over coupling",
