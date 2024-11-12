@@ -6,6 +6,8 @@
 	
 	- make flashcards useful
 		- show only one at random
+		- record how many times flipped
+		- record all entries
 		- show GUESS, then GOT RIGHT, GOT WRONG
 		- when got right 3 times, then it is KNOWN
 		- show known on right
