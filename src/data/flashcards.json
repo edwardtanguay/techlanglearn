@@ -440,6 +440,30 @@
 		"back": "mediante nuestro navegador"
 	},
 	{
+		"front": "as it can lead to over coupling",
+		"back": "ya que puede llevar a un acoplamiento excesivo"
+	},
+	{
+		"front": "the only one that fails",
+		"back": "el único que falla"
+	},
+	{
+		"front": "after which the context will be cancelled",
+		"back": "tras el cual se cancelerá el contexto"
+	},
+	{
+		"front": "the text string",
+		"back": "la cadena de texto"
+	},
+	{
+		"front": "let's make sure that",
+		"back": "vamos a aseguarnos que"
+	},
+	{
+		"front": "when this time is up",
+		"back": "cuando se cumpla este tiempo"
+	},
+	{
 		"front": "thirty, forty, fifty, sixty, seventy, eighty, ninety",
 		"back": "treinta, cuarenta, cincuenta, sesenta, setenta, ochenta, noventa"
 	},

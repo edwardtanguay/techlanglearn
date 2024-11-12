@@ -96,17 +96,42 @@ https://www.linkedin.com/learning/domina-go-idioms-y-pruebas-de-codigo/manipulac
 - talks about & and \*
 - when you send a struct to a function, a copy is made
 
-## Gestión de contexto en aplicaciones Go, 4:39, nnn
+## Gestión de contexto en aplicaciones Go, 4:39, 2024-11-12
 
 https://www.linkedin.com/learning/domina-go-idioms-y-pruebas-de-codigo/gestion-de-contexto-en-aplicaciones-go?autoSkip=true&resume=false
 
 - contexts have a life time which begins when they are created
 - if a parent context is canceled, the child context is canceled as well
--
+- WithValue
+- use contexts to prevent resource hogging, e.g. in web servers
+
+##  Explorando el paquete Sync en Go, 2:59, nnn
+
+https://www.linkedin.com/learning/domina-go-idioms-y-pruebas-de-codigo/explorando-el-paquete-sync-en-go?autoSkip=true&resume=false
+
+- nnn
 
 ## VOCAB - SPANISH
 
 ```
+as it can lead to over coupling
+ya que puede llevar a un acoplamiento excesivo
+
+the only one that fails
+el único que falla
+
+after which the context will be cancelled
+tras el cual se cancelerá el contexto
+
+the text string
+la cadena de texto
+
+let's make sure that
+vamos a aseguarnos que
+
+when this time is up
+cuando se cumpla este tiempo
+
 thirty, forty, fifty, sixty, seventy, eighty, ninety
 treinta, cuarenta, cincuenta, sesenta, setenta, ochenta, noventa
 

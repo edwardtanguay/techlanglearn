@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=wfBeEn8d-8A&list=PL3eAkoh7fypqxiqDq9OQGm3aJO7dZjSBI
+
 go, cobra; en; 4.92;https://www.youtube.com/watch?v=yiFhQGJeRJk
 
 go; sp;2023;4.96; https://www.linkedin.com/learning/domina-go
