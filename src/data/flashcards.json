@@ -436,8 +436,84 @@
 		"back": "mediante nuestro navegador"
 	},
 	{
+		"front": "but above all I hope this has been useful",
+		"back": "pero sobre todo espero que esto haya sido ùtil"
+	},
+	{
+		"front": "anyway, please give it a like so more people can see it",
+		"back": "de todos modos, dale me gusta para que más personas lo vean"
+	},
+	{
+		"front": "this is something you should keep in mind",
+		"back": "esto es algo que debes tener en cuenta"
+	},
+	{
+		"front": "this means that it can handle any character",
+		"back": "esto significa que puede manejar cualquier carácter"
+	},
+	{
+		"front": "the good news is that ink has no limitations",
+		"back": "la buena noticia es que ink no tiene limitaciones"
+	},
+	{
+		"front": "as the story grows, you may want to do things",
+		"back": "a medida que la historia crece, es posible que desees hacer cosas"
+	},
+	{
+		"front": "the variable cannot be changed after it has been declared for the first time",
+		"back": "la variable no se puede cambiar después de haber sido declarada por primera vez"
+	},
+	{
+		"front": "next, let's add a variable",
+		"back": "a continuación, agreguemos una variable"
+	},
+	{
+		"front": "there is nothing more to show",
+		"back": "no hay nada más que mostrar"
+	},
+	{
+		"front": "as you may have guessed",
+		"back": "como habrás adivinado"
+	},
+	{
+		"front": "this is because we need to activate it",
+		"back": "esto se debe a que necesitamos activarlo"
+	},
+	{
+		"front": "the text does not yet appear in the story",
+		"back": "el texto todavía no aparece en la historia"
+	},
+	{
+		"front": "if you go to the drop-down menu on the top left",
+		"back": "si vas al menu desplegable en la parte superior izquierda"
+	},
+	{
+		"front": "we will go to a new line",
+		"back": "iremos a una nueva línea"
+	},
+	{
+		"front": "to take a step back",
+		"back": "para retroceder un paso"
+	},
+	{
 		"front": "once downloaded, you can start the program",
 		"back": "una vez descargado, puedes iniciar el programa"
+	},
+	{
+		"front": "this way we can make sure that all goroutines have finished",
+		"back": "de esta manera, podemos asegurarnos que todas las gorutinas hayan finalizado"
+	},
+	{
+		"front": "an integer value",
+		"back": "un valor entero"
+	},
+	{
+		"front": "the shared resource can be a variable",
+		"back": "el recurso compartido puede ser una variable"
+	},
+	{
+		"front": "race conditions",
+		"back": "condiciones de carrera"
 	},
 	{
 		"front": "as it can lead to over coupling",

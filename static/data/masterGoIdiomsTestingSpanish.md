@@ -105,15 +105,38 @@ https://www.linkedin.com/learning/domina-go-idioms-y-pruebas-de-codigo/gestion-d
 - WithValue
 - use contexts to prevent resource hogging, e.g. in web servers
 
-##  Explorando el paquete Sync en Go, 2:59, nnn
+## Explorando el paquete Sync en Go, 2:59, 2024-11-13
 
 https://www.linkedin.com/learning/domina-go-idioms-y-pruebas-de-codigo/explorando-el-paquete-sync-en-go?autoSkip=true&resume=false
+
+- goroutine
+  - a lightweight, concurrent function execution
+  - a smaller, more efficient way to run tasks in parallel compared to traditional threads in other programming languages
+- mutex
+  - synchronization mechanism used to safely manage access to shared resources when multiple goroutines might access and modify them concurrently
+  - goroutines do not execute in a predictable order
+- sync.Once
+  - se utiliza para garantizar que una operación se ejecute solo una vez 
+
+## Creación de Goroutines en Go, 1:13, nnn
 
 - nnn
 
 ## VOCAB - SPANISH
 
 ```
+this way we can make sure that all goroutines have finished
+de esta manera, podemos asegurarnos que todas las gorutinas hayan finalizado
+
+an integer value
+un valor entero
+
+the shared resource can be a variable
+el recurso compartido puede ser una variable
+
+race conditions
+condiciones de carrera
+
 as it can lead to over coupling
 ya que puede llevar a un acoplamiento excesivo
 
