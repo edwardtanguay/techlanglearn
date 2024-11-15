@@ -10,6 +10,7 @@
 
 - 2024-11-09 - 5:48
 - 2024-11-11 - 10:38
+- 2024-11-14 - 12:47
 
 ## reactivity
 
@@ -20,3 +21,10 @@
 - made store
 - in 5, use onclick instead of on:click
 - ref works with $effect##thearotoref
+- you don't have to input $effect()
+- onMount() is replaced with $effect()
+
+## props
+
+- props have simple syntax##propstypeds
+- couldn't get children to work instead of slot, although it says slot is deprecated##couldchild

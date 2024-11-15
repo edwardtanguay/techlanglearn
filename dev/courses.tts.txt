@@ -1,9 +1,8 @@
-https://www.youtube.com/watch?v=wfBeEn8d-8A&list=PL3eAkoh7fypqxiqDq9OQGm3aJO7dZjSBI
 
+gitlab;sp;2022; 4.91;https://www.linkedin.com/learning/gitlab-esencial
 go, cobra; en; 4.92;https://www.youtube.com/watch?v=yiFhQGJeRJk
 
 go; sp;2023;4.96; https://www.linkedin.com/learning/domina-go
-gitlab;sp;2022; 4.91;https://www.linkedin.com/learning/gitlab-esencial
 docker; sp;2024;4.91;https://www.linkedin.com/learning/docker-esencial-23119241
 api, mongo, jwt; sp; 2024; 4.9; https://www.linkedin.com/learning/nodejs-restserver-con-clean-architecture
 mux; sp; 2020; 4.8; https://www.youtube.com/watch?v=pQAV8A9KLwk

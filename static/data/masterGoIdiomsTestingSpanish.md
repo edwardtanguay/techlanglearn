@@ -116,15 +116,40 @@ https://www.linkedin.com/learning/domina-go-idioms-y-pruebas-de-codigo/explorand
   - synchronization mechanism used to safely manage access to shared resources when multiple goroutines might access and modify them concurrently
   - goroutines do not execute in a predictable order
 - sync.Once
-  - se utiliza para garantizar que una operación se ejecute solo una vez 
+  - se utiliza para garantizar que una operación se ejecute solo una vez
 
-## Creación de Goroutines en Go, 1:13, nnn
+## Creación de Goroutines en Go, 1:13, 2024-11-14
 
-- nnn
+- goroutines are used for
+  - reading files
+  - downloading data from the Internet
+
+##  Creación de canales en Go, 2:36 
+
+- goroutine
+  - lightweight, concurrent function or method that runs independently
+  - prefixed by "go"
+  - great for tasks that need to run simultaneously, such as handling requests in a web server
+- channels
+  - provide a way for goroutines to communicate and synchronize by passing data between them
+- goroutines provide the ability to run tasks concurrently
+  - while channels manage the communication between these tasks
 
 ## VOCAB - SPANISH
 
 ```
+instead of writing this code
+en lugar de escribir este código
+
+expensive operations
+operaciones costosas
+
+expensive operations
+operaciones costosas
+
+a single thread
+un solo hilo
+
 this way we can make sure that all goroutines have finished
 de esta manera, podemos asegurarnos que todas las gorutinas hayan finalizado
 
