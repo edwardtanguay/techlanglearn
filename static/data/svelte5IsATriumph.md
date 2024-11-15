@@ -11,6 +11,7 @@
 - 2024-11-09 - 5:48
 - 2024-11-11 - 10:38
 - 2024-11-14 - 12:47
+- 2024-11-15 - 22:03
 
 ## reactivity
 
@@ -28,3 +29,22 @@
 
 - props have simple syntax##propstypeds
 - couldn't get children to work instead of slot, although it says slot is deprecated##couldchild
+
+## slots
+
+- will be deprecated
+- replaced by {@render children()}
+
+## form binding
+
+- simply `bind:checked={isAvailable}`
+- some changes in 5
+
+## webapp
+
+- everything is a function in 5
+- mount(App, ...)
+
+## fetching data
+
+- if you use SvelteKit, you probably won't be using this
