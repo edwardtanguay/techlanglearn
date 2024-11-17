@@ -17,11 +17,21 @@ https://www.linkedin.com/learning/gitlab-esencial/presentacion-del-curso-gitlab-
 
 ## Qué es un VCS, 3:35, nnn
 
-- nnn
+- he explains what a VCS is
+- 0:35
 
 ## VOCAB - SPANISH
 
 ```
+there will be many people you know who
+habrá mucha gente de la que conocéis que
+
+las siglas de
+the initials of
+
+pr. VCS 
+OO-vay-say-ESS-ay
+
 a free or paid web service
 un servicio web gratuito o de pago
 
