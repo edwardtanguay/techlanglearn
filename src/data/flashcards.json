@@ -436,6 +436,18 @@
 		"back": "mediante nuestro navegador"
 	},
 	{
+		"front": "a free or paid web service",
+		"back": "un servicio web gratuito o de pago"
+	},
+	{
+		"front": "tu código fuente",
+		"back": "your source code"
+	},
+	{
+		"front": "those who want to have a backup of their work",
+		"back": "aquellos que quieran tener un respaldo de su trabajo"
+	},
+	{
 		"front": "will return a result",
 		"back": "va a devolver un resultado"
 	},
@@ -524,7 +536,7 @@
 		"back": "que dentro tiene las protecciones"
 	},
 	{
-		"front": "a counter and a container//comparison",
+		"front": "a counter and a container //comparison",
 		"back": "un contador y un contenedor"
 	},
 	{
