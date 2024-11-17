@@ -508,6 +508,42 @@
 		"back": "una vez descargado, puedes iniciar el programa"
 	},
 	{
+		"front": "just once, as we expected",
+		"back": "una única vez, como esperábamos"
+	},
+	{
+		"front": "we can ensure that",
+		"back": "podemos asegurarnos que"
+	},
+	{
+		"front": "this is because",
+		"back": "esto se debe a que"
+	},
+	{
+		"front": "that has the protections inside",
+		"back": "que dentro tiene las protecciones"
+	},
+	{
+		"front": "a counter and a container//comparison",
+		"back": "un contador y un contenedor"
+	},
+	{
+		"front": "he works like a teacher but he doesn't know how to solve this problem //comparison",
+		"back": "él trabaja como profesor pero no sabe cómo solucionar este problema"
+	},
+	{
+		"front": "we see how to use",
+		"back": "vemos cómo utilizar"
+	},
+	{
+		"front": "a shared resource",
+		"back": "un recurso compartido"
+	},
+	{
+		"front": "a set of primitives",
+		"back": "un conjunto de primitivas"
+	},
+	{
 		"front": "instead of writing this code",
 		"back": "en lugar de escribir este código"
 	},

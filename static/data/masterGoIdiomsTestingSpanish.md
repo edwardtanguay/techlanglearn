@@ -124,7 +124,7 @@ https://www.linkedin.com/learning/domina-go-idioms-y-pruebas-de-codigo/explorand
   - reading files
   - downloading data from the Internet
 
-##  Creación de canales en Go, 2:36 
+## Creación de canales en Go, 2:36, 2024-11-16
 
 - goroutine
   - lightweight, concurrent function or method that runs independently
@@ -135,9 +135,50 @@ https://www.linkedin.com/learning/domina-go-idioms-y-pruebas-de-codigo/explorand
 - goroutines provide the ability to run tasks concurrently
   - while channels manage the communication between these tasks
 
+## Domina Go: Idioms y pruebas de código, 2:59, 2024-11-17
+
+https://www.linkedin.com/learning/domina-go-idioms-y-pruebas-de-codigo/explorando-el-paquete-sync-en-go?autoSkip=true&resume=false
+
+- muestra por qué necesitamos un WaitGroup
+- muestra cómo se ejecuta con y sin un WaitGroup
+- once.Do
+
+## Creación de Goroutines en Go, 1:13, nnn
+
+https://www.linkedin.com/learning/domina-go-idioms-y-pruebas-de-codigo/creacion-de-goroutines-en-go?autoSkip=true&resume=false
+
+- nnn
+
 ## VOCAB - SPANISH
 
 ```
+just once, as we expected
+una única vez, como esperábamos
+
+we can ensure that
+podemos asegurarnos que
+
+this is because
+esto se debe a que
+
+that has the protections inside
+que dentro tiene las protecciones
+
+a counter and a container //comparison
+un contador y un contenedor
+
+he works like a teacher but he doesn't know how to solve this problem //comparison
+él trabaja como profesor pero no sabe cómo solucionar este problema
+
+we see how to use
+vemos cómo utilizar
+
+a shared resource
+un recurso compartido
+
+a set of primitives
+un conjunto de primitivas
+
 instead of writing this code
 en lugar de escribir este código
 
