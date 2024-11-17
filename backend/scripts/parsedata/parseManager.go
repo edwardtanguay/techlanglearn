@@ -256,25 +256,46 @@ func reverseOrderOfTimeUnits(timesInfo TimesInfo) TimesInfo {
 
 func addCurrentDayIfDoesntExist(timesInfo TimesInfo) TimesInfo {
 	now := time.Now()
-	currentDate := now.Format("2006-01-02")
 	itsLateEnough := now.Hour() >= 5
 
-	dateExists := false
+	if !itsLateEnough {
+		return timesInfo
+	}
+
+	dateSet := make(map[string]bool)
 	for _, timeUnit := range timesInfo.TimeUnits {
-		if timeUnit.CalendarDate == currentDate {
-			dateExists = true
-			break
+		dateSet[timeUnit.CalendarDate] = true
+	}
+
+	var earliestDate time.Time
+	if len(timesInfo.TimeUnits) > 0 {
+		var err error
+		earliestDate, err = time.Parse("2006-01-02", timesInfo.TimeUnits[len(timesInfo.TimeUnits)-1].CalendarDate)
+		if err != nil {
+			panic("Invalid date format in TimeUnits")
+		}
+	} else {
+		earliestDate = now
+	}
+
+	missingDays := []TimeUnit{}
+	for date := earliestDate; !date.After(now); date = date.AddDate(0, 0, 1) {
+		dateStr := date.Format("2006-01-02")
+		if !dateSet[dateStr] {
+			missingDays = append(missingDays, TimeUnit{
+				CalendarDate: dateStr,
+				Duration:     "00:00:00",
+			})
 		}
 	}
 
-	if !dateExists && itsLateEnough {
-		newTimeUnit := TimeUnit{
-			CalendarDate: currentDate,
-			Duration:     "00:00:00",
-		}
-		timesInfo.TimeUnits = append([]TimeUnit{newTimeUnit}, timesInfo.TimeUnits...)
-		timesInfo = calculateStatsInfo(timesInfo.TimeUnits)
-	}
+	timesInfo.TimeUnits = append(missingDays, timesInfo.TimeUnits...)
+
+	sort.Slice(timesInfo.TimeUnits, func(i, j int) bool {
+		return timesInfo.TimeUnits[i].CalendarDate > timesInfo.TimeUnits[j].CalendarDate
+	})
+
+	timesInfo = calculateStatsInfo(timesInfo.TimeUnits)
 
 	return timesInfo
 }
