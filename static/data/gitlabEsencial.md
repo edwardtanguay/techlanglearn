@@ -15,21 +15,69 @@ https://www.linkedin.com/learning/gitlab-esencial/presentacion-del-curso-gitlab-
 
 - mostrará cómo instalar un servidor GitLab
 
-## Qué es un VCS, 3:35, nnn
+## Qué es un VCS, 3:35, 2024-11-18
 
 - he explains what a VCS is
-- 0:35
+
+##  Qué es GitLab, 1:58, nnn
+
+https://www.linkedin.com/learning/gitlab-esencial/que-es-gitlab?autoSkip=true&resume=false
+
+- nnn
+
 
 ## VOCAB - SPANISH
 
 ```
+that at first will be a bit crazy
+que al princípio serán un poco una locura
+
+a bunch of branches
+un montón de ramas
+
+you will get to this kind of drawings
+vais a llegar a este tipo de dibujos
+
+anyone who still had a downloaded repository
+cualquier persona que tuviera todavía un repositorio descargado
+
+in case the server was lost
+en caso de que se perdiera el servidor
+
+to upload them later
+para subirlas luego más tarde
+
+the windows and the advantages
+las ventanas y las ventajas
+
+this has certain advantages
+est tiene ciertas ventajas
+
+in such a way that
+de tal manera que
+
+if the server goes down
+si el servidor se cae
+
+performance issues
+los problemas de rendimiento
+
+you could go forward and backward
+podías ir adelante y atrás
+
+stored in a database
+almacenaba en una base de datos
+
+and I was checking the versions
+e iba revisando las versiones
+
 there will be many people you know who
 habrá mucha gente de la que conocéis que
 
 las siglas de
 the initials of
 
-pr. VCS 
+pr. VCS
 OO-vay-say-ESS-ay
 
 a free or paid web service
