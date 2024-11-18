@@ -19,16 +19,39 @@ https://www.linkedin.com/learning/gitlab-esencial/presentacion-del-curso-gitlab-
 
 - he explains what a VCS is
 
-##  Qué es GitLab, 1:58, nnn
+## Qué es GitLab, 1:58, 2024-11-18
 
 https://www.linkedin.com/learning/gitlab-esencial/que-es-gitlab?autoSkip=true&resume=false
 
-- nnn
+- está programando en Ruby
+- es simplemente un frontend de Git
+- prodrás integrar Mattermost
+  - fue creado por GitLab tambián
 
+## GitLab Community Edition vs. Enterprise Edition, 3:59, nnn
+
+https://www.linkedin.com/learning/gitlab-esencial/gitlab-community-edition-vs-enterprise-edition?autoSkip=true&resume=false
+
+-
 
 ## VOCAB - SPANISH
 
 ```
+it is quite similar to this tool
+es bastante parecida a esta herramientas
+
+that GitLab provides
+que provee GitLab
+
+the responsibility of each of them
+la responsabilidad de cada una de ellas
+
+and see where the changes occur
+y ver dónde se producen los cambios
+
+the first thing that may come to mind
+lo primero que nos puede venir a la cabeza
+
 that at first will be a bit crazy
 que al princípio serán un poco una locura
 
