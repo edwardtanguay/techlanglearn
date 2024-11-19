@@ -1,3 +1,8 @@
+- .. load list of courses to show from directory
+	- .. find list
+		- .. first make menu to click and jump to
+
+
 - .. show one at a time, input/button, save to local storage with date
 	- .. one at a time
 		- x create store with message as test
