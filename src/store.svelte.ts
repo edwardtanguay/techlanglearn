@@ -16,6 +16,10 @@ export const getStore = () => {
 		get errorMessage() {
 			return errorMessage;
 		},
+		get testMessage() {
+			return 'nnn222'
+		},
+
 		// actions
 		setPageStatus: (_pageStatus: PageStatus) => {
 			pageStatus = _pageStatus;

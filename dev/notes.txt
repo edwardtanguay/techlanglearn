@@ -1,3 +1,9 @@
+- .. show one at a time, input/button, save to local storage with date
+	- .. one at a time
+		- .. create store with message as test
+		
+
+=========================
 - todo
 	- automate courses
 		- read the directory to create the list of courses shown

@@ -2,6 +2,9 @@
 	import type { Flashcard } from '../types';
 	import * as dataModel from '../dataModel';
 	import { getRandomItemsFromArray } from '../tools';
+	import { getStore} from '../store.svelte';
+
+	const store = getStore();
 
 	const _flashcards = dataModel.getFlashcards();
 	let flashcards = $state(getRandomItemsFromArray(_flashcards, 3));
@@ -15,7 +18,7 @@
 
 
 <section class="w-fit rounded bg-slate-400 p-6 font-mono mb-3">
-	<!-- <h2 class="mb-3 text-xl">Take Flashcards:</h2> -->
+	<p>{store.testMessage}</p>
 	<div class="flex flex-wrap gap-3">
 		{#each flashcards as flashcard}
 			<!-- svelte-ignore a11y_positive_tabindex -->
