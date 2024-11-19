@@ -18,12 +18,25 @@ export async function load() {
 	];
 
 	let rawHtmlContent = '';
+	let rawMenuHtmlContent = '';
 	let rawHtmlBodyContent = '';
+
+	rawMenuHtmlContent += '<div id="top">&nbsp;</div><div class="bg-slate-300 p-3 mt-3 flex gap-3">';
+	rawMenuHtmlContent += tutorialIdCodes
+		.map((m) => `<a href="#${m}" class="underline">${m}</a>`)
+		.join('');
+	rawMenuHtmlContent += '</div>';
+
+	rawHtmlContent += rawMenuHtmlContent;
+
+	let count = 1;
 	for (const tutorialIdCode of tutorialIdCodes) {
 		const fileUrl = `${PUBLIC_BASE_URL}/data/${tutorialIdCode}.md`;
 		const res = await fetch(fileUrl);
 		const markdown = await res.text();
-		rawHtmlBodyContent += marked(markdown);
+		const topLink = count === 1 ? `<div><a href="#vocab" class="underline">vocab</a></div>` : `<div><a href="#top" class="underline">top</a></div>`;
+		rawHtmlBodyContent += `<div id="${tutorialIdCode}">${topLink}</div>` + marked(markdown);
+		count++;
 	}
 
 	rawHtmlContent += rawHtmlBodyContent;

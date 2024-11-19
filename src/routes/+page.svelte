@@ -13,7 +13,7 @@
 		<div class="overlay-text">Parsing data...</div>
 	</div>
 {/if}
-<main class="{store.pageStatus === 'loading' ? 'blurArea' : ''}">
+<main id="vocab" class={store.pageStatus === 'loading' ? 'blurArea' : ''}>
 	{#if ['ready', 'loading'].includes(store.pageStatus)}
 		<FlashcardArea />
 		<StatsArea />
