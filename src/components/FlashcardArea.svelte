@@ -1,20 +1,14 @@
 <script lang="ts">
 	import type { Flashcard } from '../types';
-	import { getStore} from '../store.svelte';
+	import { getStore } from '../store.svelte';
 
 	const store = getStore();
-
-	let flashcards = store.randomFlashcards;
-
-	const handleFlashcardToggle = (flashcard: Flashcard) => {
-		flashcards = flashcards.map((f) => (f === flashcard ? { ...f, isOpen: !f.isOpen } : f));
-	};
+	const randomFlashcards = store.randomFlashcards;
 </script>
 
-
-<section class="w-fit rounded bg-slate-400 p-6 font-mono mb-3">
+<section class="mb-3 w-fit rounded bg-slate-400 p-6 font-mono">
 	<div class="flex flex-wrap gap-3">
-		{#each flashcards as flashcard}
+		{#each randomFlashcards as flashcard}
 			<!-- svelte-ignore a11y_positive_tabindex -->
 			<!-- svelte-ignore a11y_click_events_have_key_events -->
 			<div
@@ -22,7 +16,7 @@
 				tabindex="1"
 				aria-pressed={flashcard.isOpen}
 				class="w-fit cursor-pointer select-none rounded border border-slate-500 bg-slate-700 p-2 text-sm text-slate-300 hover:opacity-90"
-				onclick={() => handleFlashcardToggle(flashcard)}
+				onclick={() => store.handleRandomFlashcardToggle(flashcard)}
 			>
 				<p>{flashcard.front}</p>
 				{#if flashcard.isOpen}

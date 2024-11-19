@@ -1,4 +1,4 @@
-import type { PageStatus } from './types';
+import type { Flashcard, PageStatus } from './types';
 import * as dataModel from './dataModel';
 import { getRandomItemsFromArray } from './tools';
 
@@ -9,7 +9,7 @@ let errorMessage = $state('');
 const flashcards = $state(dataModel.getFlashcards());
 
 // computed values
-const randomFlashcards = $derived(getRandomItemsFromArray(flashcards, 3));
+const randomFlashcards = $state(getRandomItemsFromArray(flashcards, 3));
 
 export const getStore = () => {
 	return {
@@ -38,6 +38,9 @@ export const getStore = () => {
 		},
 		setErrorMessage: (_errorMessage: string) => {
 			errorMessage = _errorMessage;
+		},
+		handleRandomFlashcardToggle: (f: Flashcard) => {
+			f.isOpen = !f.isOpen;
 		}
 	};
 };
