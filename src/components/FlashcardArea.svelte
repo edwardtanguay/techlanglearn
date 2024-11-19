@@ -1,15 +1,10 @@
 <script lang="ts">
 	import type { Flashcard } from '../types';
-	import * as dataModel from '../dataModel';
-	import { getRandomItemsFromArray } from '../tools';
 	import { getStore} from '../store.svelte';
 
 	const store = getStore();
 
-	const _flashcards = dataModel.getFlashcards();
-	let flashcards = $state(getRandomItemsFromArray(_flashcards, 3));
-
-	const allOpen = $derived(flashcards[0].isOpen && flashcards[1].isOpen && flashcards[2].isOpen);
+	let flashcards = store.randomFlashcards;
 
 	const handleFlashcardToggle = (flashcard: Flashcard) => {
 		flashcards = flashcards.map((f) => (f === flashcard ? { ...f, isOpen: !f.isOpen } : f));

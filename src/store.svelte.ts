@@ -1,8 +1,15 @@
 import type { PageStatus } from './types';
+import * as dataModel from './dataModel';
+import { getRandomItemsFromArray } from './tools';
 
+// values
 const siteLocation = import.meta.env.VITE_SITE_LOCATION === 'dev' ? 'dev' : 'online';
 let pageStatus: PageStatus = $state('ready');
 let errorMessage = $state('');
+const flashcards = $state(dataModel.getFlashcards());
+
+// computed values
+const randomFlashcards = $derived(getRandomItemsFromArray(flashcards, 3));
 
 export const getStore = () => {
 	return {
@@ -15,6 +22,14 @@ export const getStore = () => {
 		},
 		get errorMessage() {
 			return errorMessage;
+		},
+		get flashcards() {
+			return flashcards;
+		},
+
+		// computed values
+		get randomFlashcards() {
+			return randomFlashcards;
 		},
 
 		// actions
