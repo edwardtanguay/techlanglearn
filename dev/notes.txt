@@ -1,7 +1,8 @@
 - .. show one at a time, input/button, save to local storage with date
 	- .. one at a time
-		- .. create store with message as test
-		
+		- x create store with message as test
+		- .. move loading of flashcards back into store
+
 
 =========================
 - todo

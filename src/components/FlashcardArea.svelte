@@ -18,7 +18,6 @@
 
 
 <section class="w-fit rounded bg-slate-400 p-6 font-mono mb-3">
-	<p>{store.testMessage}</p>
 	<div class="flex flex-wrap gap-3">
 		{#each flashcards as flashcard}
 			<!-- svelte-ignore a11y_positive_tabindex -->
