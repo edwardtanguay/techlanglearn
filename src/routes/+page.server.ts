@@ -18,12 +18,15 @@ export async function load() {
 	];
 
 	let rawHtmlContent = '';
+	let rawHtmlBodyContent = '';
 	for (const tutorialIdCode of tutorialIdCodes) {
 		const fileUrl = `${PUBLIC_BASE_URL}/data/${tutorialIdCode}.md`;
 		const res = await fetch(fileUrl);
 		const markdown = await res.text();
-		rawHtmlContent += marked(markdown);
+		rawHtmlBodyContent += marked(markdown);
 	}
+
+	rawHtmlContent += rawHtmlBodyContent;
 
 	return { htmlContent: rawHtmlContent };
 }
