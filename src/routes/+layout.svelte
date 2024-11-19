@@ -25,7 +25,7 @@
 	</ul>
 	<div class="flex items-center gap-3">
 		{#if store.siteLocation === 'dev'}
-			<button class="rounded border text-xs border-slate-600 bg-slate-400 px-1" onclick={reloadData}
+			<button class="rounded border border-slate-600 bg-slate-400 px-1 text-xs" onclick={reloadData}
 				>Parse data</button
 			>
 		{/if}

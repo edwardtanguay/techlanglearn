@@ -1,9 +1,9 @@
 - .. load list of courses to show from directory
 	- x find list
 		- x first make menu to click and jump to
-	- .. give a space header
-	- make a back link
-
+	- x give a space header
+	- x make a back link
+	- .. make api route /all-files
 
 
 - .. show one at a time, input/button, save to local storage with date
