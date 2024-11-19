@@ -1,5 +1,3 @@
-gitlab;sp;2022; 4.91;
-
 # GitLab esencial
 
 - https://www.linkedin.com/learning/gitlab-esencial

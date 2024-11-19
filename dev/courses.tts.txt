@@ -1,5 +1,5 @@
+react, hooks; sp; 2021;4.3; https://www.linkedin.com/learning/react-hooks-esencial
 
-gitlab;sp;2022; 4.91;https://www.linkedin.com/learning/gitlab-esencial
 go, cobra; en; 4.92;https://www.youtube.com/watch?v=yiFhQGJeRJk
 
 go; sp;2023;4.96; https://www.linkedin.com/learning/domina-go
@@ -7,7 +7,6 @@ docker; sp;2024;4.91;https://www.linkedin.com/learning/docker-esencial-23119241
 api, mongo, jwt; sp; 2024; 4.9; https://www.linkedin.com/learning/nodejs-restserver-con-clean-architecture
 mux; sp; 2020; 4.8; https://www.youtube.com/watch?v=pQAV8A9KLwk
 bash, linux;sp; 2022;4.78;https://www.linkedin.com/learning/aprende-shell-scripting-en-linux
-react, hooks; sp; 2021;4.3; https://www.linkedin.com/learning/react-hooks-esencial
 rust; sp; 2024;3.8; https://www.linkedin.com/learning/rust-avanzado-24014033
 rust; sp; 2024;4.1; https://www.linkedin.com/learning/rust-esencial-24011472
 typescript;sp;2024;4.6; https://www.linkedin.com/learning/domina-typescript

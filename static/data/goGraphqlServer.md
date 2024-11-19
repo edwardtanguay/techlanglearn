@@ -30,11 +30,63 @@ https://www.youtube.com/watch?v=wfBeEn8d-8A&list=PL3eAkoh7fypqxiqDq9OQGm3aJO7dZj
 
 https://www.youtube.com/watch?v=ocNw1GHovUI&list=PL3eAkoh7fypqxiqDq9OQGm3aJO7dZjSBI&index=2
 
-- nnn
+- type safe
+- he starts from the very beginning: a new directory: gographql-server
+- repo: https://github.com/edwardtanguay/gographql-server
+- `git init -b dev`
+- `go mod init github.com/edwardtanguay/gographql-server`
+- `go get github.com/99designs/gqlgen`
+- generate project skeleton
+  - `go run github.com/99designs/gqlgen init`
+- will create GraphQL playground
+- graph
+  - schema.graphqls
+    - it has schemas todo, user, etc.
+  - generated.go
+    - it has schemas todo, user, etc.
+  - gqlgen.yml
+    - mentions resolvers
+  - schema.resolvers.go
+    - our own implementation of resolvers
+- now replace default schema
+  - schema.graphqls
+
+```
+type Video {
+  id: ID!
+  title: String!
+  url: String!
+  author: User!
+}
+
+type User {
+  id: ID!
+  name: String!
+}
+
+type Query {
+  videos: [Video!]!
+}
+
+input NewVideo {
+  title: String!
+  url: String!
+  userId: String!
+}
+
+type Mutation {
+  createVideo(input:NewVideo!): Video!
+}
+```
+
+- 
 
 ## VOCAB - SPANISH
 
 ```
+now let's move onto the terminal
+ahora pasemos a la terminal
+
 will return a result
 va a devolver un resultado
 

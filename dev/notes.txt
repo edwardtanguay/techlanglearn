@@ -3,6 +3,7 @@
 		- read the directory to create the list of courses shown
 		- click-and-create from courses.tts.txt
 		- show list of which are finished, how far along in each course
+		- show which courses was taken each day
 	
 	- make flashcards useful
 		- show only one at random

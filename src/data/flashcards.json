@@ -536,6 +536,10 @@
 		"back": "aquellos que quieran tener un respaldo de su trabajo"
 	},
 	{
+		"front": "now let's move onto the terminal",
+		"back": "ahora pasemos a la terminal"
+	},
+	{
 		"front": "will return a result",
 		"back": "va a devolver un resultado"
 	},
@@ -930,5 +934,57 @@
 	{
 		"front": "new heights",
 		"back": "nuevas alturas"
+	},
+	{
+		"front": "address the problems",
+		"back": "abordar los problemas"
+	},
+	{
+		"front": "the concept behind hooks",
+		"back": "el concepto que está detrás de los hooks"
+	},
+	{
+		"front": "conj: decir;present",
+		"back": "digo, dices, dice, decimos, decís, dicen"
+	},
+	{
+		"front": "conj: decir;preterite",
+		"back": "dije, dijiste, dijo, dijimos, dijiséis, dijeron"
+	},
+	{
+		"front": "just as his name says",
+		"back": "tal como su nombre el dice"
+	},
+	{
+		"front": "the same goes for events",
+		"back": "lo mismo ocurre con los eventos"
+	},
+	{
+		"front": "we replace it with a single line",
+		"back": "lo reemplazamos por una solo línea"
+	},
+	{
+		"front": "very similar",
+		"back": "muy parecidas"
+	},
+	{
+		"front": "what I'm showing you here",
+		"back": "que te estoy mostrando acá"
+	},
+	{
+		"front": "before starting I would like to talk to you about what they are",
+		"back": "antes de comenzar quisiera hablarte sobre qué son"
+	},
+	{
+		"front": "it will be a pleasure to be your instructor",
+		"back": "será un gusto ser tu instructor"
+	},
+	{
+		"front": "to debug and prevent possible errors",
+		"back": "a depurar y prevenir posibles errores"
+	},
+	{
+		"front": "stop using patterns unnecessarily complex",
+		"back": "dejar de usar patrones innecesariamente complejos"
 	}
 ]
