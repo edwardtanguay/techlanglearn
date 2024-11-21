@@ -19,11 +19,38 @@ https://www.linkedin.com/learning/react-avanzado-2/react-avanzado-mejorando-tu-c
 
 https://www.linkedin.com/learning/react-avanzado-2/nx-y-mono-repositorios?autoSkip=true&resume=false
 
-- nnn
+- `npx create-nx-workspace`
+- npx = Node package execute
+- y (yes)
+- Workspace name: @@1:45
 
 ## VOCAB - SPANISH
 
 ```
+for which we will need
+para lo cual necesitaremos
+
+but enough of theory
+pero basta de teoría
+
+if you click on the button
+si pulsas en el botón
+
+having everything under one roof
+teniendo todo bajo un mismo techo; pr=TAY-choh
+
+promote the reuse of components
+fomentar el reùso de componentes
+
+this makes more sense
+esto tiene más sentido
+
+hence the name
+de allí el nombre
+
+a set of tools
+un conjunto de herramientas
+
 and take your React skills to the next level
 y lleva tus habilidades con React
 

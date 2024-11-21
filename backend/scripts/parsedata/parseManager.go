@@ -57,6 +57,7 @@ func parseFlashcards(mdPathAndFileNames []string) error {
 		println("could not convert to JSON text")
 	}
 	writeTextFile("../../../"+config.WebDataDirectory+"/flashcards.json", string(jsonData))
+	writeTextFile("C:\\edward\\learn2024\\trilingual-little-prince\\src\\data\\flashcards.json", string(jsonData))
 	return nil
 }
 
