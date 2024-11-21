@@ -1,3 +1,8 @@
+react, monorepos; sp; 2022; 4.89 https://www.linkedin.com/learning/react-avanzado-2
+
+go: https://www.linkedin.com/learning/go-for-developers-practical-techniques-for-effective-coding
+
+
 react, hooks; sp; 2021;4.3; https://www.linkedin.com/learning/react-hooks-esencial
 
 go, cobra; en; 4.92;https://www.youtube.com/watch?v=yiFhQGJeRJk
@@ -30,3 +35,8 @@ flexbox; fr; 2024; 4.3; https://www.linkedin.com/learning/css-maitriser-les-flex
 grid, flexbox; fr; 2022; 4.4; https://www.linkedin.com/learning/la-mise-en-page-css-combiner-les-flex-et-les-grids
 
 go, goreleaser; en; 2024; 4.1; https://www.youtube.com/watch?v=JFhzuIffPCo | Automate your Go binary releases with GoReleaser and Github Actions
+
+git merges
+	- https://www.youtube.com/results?search_query=git+merge+conflict+tutorial
+	- https://www.linkedin.com/learning/git-branches-merges-and-remotes/mixed-reset
+	- https://www.linkedin.com/learning/git-for-teams/using-git-for-team-collaboration    
