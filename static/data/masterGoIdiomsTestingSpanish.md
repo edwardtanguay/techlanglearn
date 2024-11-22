@@ -242,8 +242,8 @@ pudiendo definir un tiempo para cancelar la operación
 as we have seen
 como hemos visto
 
-la variable habrá sido modificada
 the variable will have been modified
+la variable habrá sido modificada
 
 will be applied to the struct
 se aplicarán a la struct

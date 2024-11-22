@@ -95,8 +95,8 @@ e iba revisando las versiones
 there will be many people you know who
 habrá mucha gente de la que conocéis que
 
-las siglas de
 the initials of
+las siglas de
 
 pr. VCS
 OO-vay-say-ESS-ay

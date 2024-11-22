@@ -1,3 +1,7 @@
+easy-peasy: 
+	- https://www.youtube.com/watch?v=BAEVlanYyD4&list=PLM0LBHjz37LV91y4-B84-Kzo_D2U-ciB-&index=2
+	- https://www.youtube.com/watch?v=sPFaDYaTUeI&list=PLNTXksYYFsn9jnS_7Vpk9Qi2vb5N-MdOM
+
 react, monorepos; sp; 2022; 4.89 https://www.linkedin.com/learning/react-avanzado-2
 
 go: https://www.linkedin.com/learning/go-for-developers-practical-techniques-for-effective-coding

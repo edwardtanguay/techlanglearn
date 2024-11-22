@@ -100,7 +100,7 @@ https://www.linkedin.com/learning/domina-go-creacion-y-empaquetado-de-aplicacion
   - `make docker-run`
   - it works
 
-## Configuración de Goreleaser en proyectos Go: ejemplo práctico, 4:44, 2024-11-11 
+## Configuración de Goreleaser en proyectos Go: ejemplo práctico, 4:44, 2024-11-11
 
 https://www.linkedin.com/learning/domina-go-creacion-y-empaquetado-de-aplicaciones/configuracion-de-goreleaser-en-proyectos-go-ejemplo-practico?autoSkip=true&resume=false
 
@@ -117,7 +117,7 @@ https://www.linkedin.com/learning/domina-go-creacion-y-empaquetado-de-aplicacion
   - mpw om **main.go**
     - add variables for GoReleaser
   - SBOM
-    - Software Bill of Materials 
+    - Software Bill of Materials
 
 ## VOCAB - SPANISH
 
@@ -186,7 +186,7 @@ I will save that later
 lo guardaré más tarde
 
 it's right there
-esta justo ahí
+está justo ahí
 
 as dark as it can be
 tan oscuro como puede ser

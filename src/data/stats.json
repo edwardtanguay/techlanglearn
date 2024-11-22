@@ -1,8 +1,12 @@
 {
-	"totalDays": 25,
-	"averageDurationPerDay": "00:10:25",
+	"totalDays": 26,
+	"averageDurationPerDay": "00:10:01",
 	"totalDuration": "04:20:31",
 	"timeUnits": [
+		{
+			"calendarDate": "2024-11-22",
+			"duration": "00:00:00"
+		},
 		{
 			"calendarDate": "2024-11-21",
 			"duration": "00:21:11"
