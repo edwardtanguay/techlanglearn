@@ -1,24 +1,22 @@
-# Skeleton UI Library for Svelte
+# @@title
 
-https://www.youtube.com/watch?v=P_A0qQ7AuK8
+@@url
 
-- 00:16:12
-- english
-- Skeleton, Svelte
-- 4.6
-- intro to SkeletonUI for Svelte
+- @@duration
+- @@language
+- @@topics
+- @@rank
+- @@description
 
 ## watchlog
 
 00:00 - nnn
 
-## intro
+## notes
 
--
+- nnn
 
 ## VOCAB - SPANISH
 
 ```
-
-
 ```
