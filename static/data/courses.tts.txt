@@ -13,8 +13,10 @@ go, cobra; en; 4.92;https://www.youtube.com/watch?v=yiFhQGJeRJk
 
 go; sp;2023;4.96; https://www.linkedin.com/learning/domina-go
 docker; sp;2024;4.91;https://www.linkedin.com/learning/docker-esencial-23119241
-api, mongo, jwt; sp; 2024; 4.9; https://www.linkedin.com/learning/nodejs-restserver-con-clean-architecture
+
+>>create>> api, mongo, jwt; sp; 03:50:00; 2023; 4.9; https://www.linkedin.com/learning/nodejs-restserver-con-clean-architecture; good, long, new course in Spanish to recap MERN skills including Mongo in Docker, authentication, etc.
 >>create>> mux; sp; 00:51:10; 2020; 4.8; https://www.youtube.com/watch?v=pQAV8A9KLwk; seems like a decent tutorial how to build a Go/Mux API in Spanish
+
 bash, linux;sp; 2022;4.78;https://www.linkedin.com/learning/aprende-shell-scripting-en-linux
 rust; sp; 2024;3.8; https://www.linkedin.com/learning/rust-avanzado-24014033
 rust; sp; 2024;4.1; https://www.linkedin.com/learning/rust-esencial-24011472
