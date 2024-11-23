@@ -36,7 +36,8 @@ func createTutorialFile(tutorial Tutorial) {
 	} else {
 		devlog(fmt.Sprintf("Sorry, %s is not yet a supported platform.", tutorial.Platform))
 	}
-	fmt.Printf("%s\n", tutorial.FileIdCode)
+	// tutorialFileName := tutorial.FileIdCode + ".md"
+	writeTextFile("../../static/data/nnn.md", "test content")
 }
 
 func parseTutorialLine(line string) Tutorial {
