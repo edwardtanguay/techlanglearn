@@ -86,7 +86,7 @@ func buildFileIdCode(tutorial Tutorial) string {
 		platformAbbreviation = "ll"
 	}
 
-	camelCase := convertToCamelCase(tutorial.Title)
+	snakeCase := convertToSnakeCase(tutorial.Title)
 
-	return fmt.Sprintf("%s-%s-%s", platformAbbreviation, tutorial.Language, camelCase)
+	return fmt.Sprintf("%s-%s-%s", tutorial.Language, platformAbbreviation, snakeCase)
 }

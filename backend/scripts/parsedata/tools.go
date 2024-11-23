@@ -182,7 +182,7 @@ func formatDuration(d time.Duration) string {
 	return fmt.Sprintf("%02d:%02d:%02d", hours, minutes, seconds)
 }
 
-func convertToCamelCase(line string) string {
+func convertToSnakeCase(line string) string {
 	re := regexp.MustCompile(`[^\w\s]`)
 	cleanLine := re.ReplaceAllString(line, "")
 	lowercaseLine := strings.ToLower(cleanLine)
