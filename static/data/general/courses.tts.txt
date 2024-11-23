@@ -5,14 +5,12 @@ react, monorepos; sp; 2022; 4.89 https://www.linkedin.com/learning/react-avanzad
 
 go: https://www.linkedin.com/learning/go-for-developers-practical-techniques-for-effective-coding
 
-
 react, hooks; sp; 2021;4.3; https://www.linkedin.com/learning/react-hooks-esencial
 
 go, cobra; en; 4.92;https://www.youtube.com/watch?v=yiFhQGJeRJk
 
 go; sp;2023;4.96; https://www.linkedin.com/learning/domina-go
 docker; sp;2024;4.91;https://www.linkedin.com/learning/docker-esencial-23119241
-
 
 bash, linux;sp; 2022;4.78;https://www.linkedin.com/learning/aprende-shell-scripting-en-linux
 rust; sp; 2024;3.8; https://www.linkedin.com/learning/rust-avanzado-24014033
