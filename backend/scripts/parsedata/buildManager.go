@@ -6,7 +6,7 @@ import (
 )
 
 func build(directory string) {
-	mdPathAndFileNames, _ := getFilesFromDirectory(directory, "tts.txt")
+	mdPathAndFileNames, _ := getFilesFromDirectory(directory + "/general", "tts.txt")
 	buildTutorials(mdPathAndFileNames)
 }
 
