@@ -6,7 +6,7 @@ import (
 )
 
 func build(directory string) {
-	mdPathAndFileNames, _ := getFilesFromDirectory(directory + "/general", "tts.txt")
+	mdPathAndFileNames, _ := getFilesFromDirectory(directory+"/general", "tts.txt")
 	buildTutorials(mdPathAndFileNames)
 }
 
@@ -34,10 +34,14 @@ func createTutorialFile(tutorial Tutorial) {
 	tutorialPathAndFileName := "../../../static/data/" + tutorial.FileIdCode + ".md"
 	if tutorial.Platform == "youtube" {
 		devlog(fmt.Sprintf("Creating Youtube file for \"%s\"", tutorial.Title))
-		writeTextFile(tutorialPathAndFileName, "test content")
+		createFileWithTemplateAndData(tutorialPathAndFileName, "../../../static/data/templates/template-youtube.tuttmpl.txt", tutorial)
 	} else {
 		devlog(fmt.Sprintf("Sorry, %s is not yet a supported platform.", tutorial.Platform))
 	}
+}
+
+func createFileWithTemplateAndData(targetPathAndFileName string, templatePathAndFileName string, tutorial Tutorial) {
+	writeTextFile(targetPathAndFileName, tutorial.Title)
 }
 
 func parseTutorialLine(line string) Tutorial {
