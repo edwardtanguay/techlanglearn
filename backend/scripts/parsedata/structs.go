@@ -30,6 +30,8 @@ type Tutorial struct {
 	Year        string `json:"year"`
 	Rank        string `json:"rank"`
 	Url         string `json:"url"`
-	Title         string `json:"title"`
+	Title       string `json:"title"`
 	Description string `json:"description"`
+	Platform    string `json:"platform"`
+	
 }
