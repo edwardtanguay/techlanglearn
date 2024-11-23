@@ -31,13 +31,13 @@ func buildTutorial(line string) {
 }
 
 func createTutorialFile(tutorial Tutorial) {
+	tutorialPathAndFileName := "../../../static/data/" + tutorial.FileIdCode + ".md"
 	if tutorial.Platform == "youtube" {
 		devlog(fmt.Sprintf("Creating Youtube file for \"%s\"", tutorial.Title))
+		writeTextFile(tutorialPathAndFileName, "test content")
 	} else {
 		devlog(fmt.Sprintf("Sorry, %s is not yet a supported platform.", tutorial.Platform))
 	}
-	tutorialPathAndFileName := "../../../static/data/" + tutorial.FileIdCode + ".md"
-	writeTextFile(tutorialPathAndFileName, "test content")
 }
 
 func parseTutorialLine(line string) Tutorial {
