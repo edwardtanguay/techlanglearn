@@ -41,7 +41,12 @@ func createTutorialFile(tutorial Tutorial) {
 }
 
 func createFileWithTemplateAndData(targetPathAndFileName string, templatePathAndFileName string, tutorial Tutorial) {
-	writeTextFile(targetPathAndFileName, tutorial.Title)
+	lines := getLinesFromFile(templatePathAndFileName)
+	content := ""
+	for _, line := range lines {
+		content += line + " (added)\n"
+	}
+	writeTextFile(targetPathAndFileName, content)
 }
 
 func parseTutorialLine(line string) Tutorial {
