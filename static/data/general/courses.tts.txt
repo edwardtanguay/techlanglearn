@@ -37,12 +37,16 @@ grid, flexbox; fr; 2022; 4.4; https://www.linkedin.com/learning/la-mise-en-page-
 
 go, goreleaser; en; 2024; 4.1; https://www.youtube.com/watch?v=JFhzuIffPCo | Automate your Go binary releases with GoReleaser and Github Actions
 
+
+
 git merges
 - https://www.youtube.com/results?search_query=git+merge+conflict+tutorial
 - https://www.linkedin.com/learning/git-branches-merges-and-remotes/mixed-reset
 - https://www.linkedin.com/learning/git-for-teams/using-git-for-team-collaboration
 
 go: do these videos https://www.youtube.com/@charmcli/videos
+---
+haskell; sp; https://www.youtube.com/watch?v=mXroxy93nXg
 ---
 CREATED: kinde; en; 00:09:37; 2024; 4.9; https://www.youtube.com/watch?v=_EjOHdRihjA; Add Auth & Protect Routes in React in 3 Minutes (Kinde); quick video showing how to build Kinde into a React site
 CREATED: api, mongo, jwt; sp; 03:50:00; 2023; 4.9; https://www.linkedin.com/learning/nodejs-restserver-con-clean-architecture; NodeJS: RestServer con Clean Architecture;  good, long, new course in Spanish to recap MERN skills including Mongo in Docker, authentication, etc.
