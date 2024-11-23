@@ -58,6 +58,9 @@ func getLinesFromFile(fileName string) []string {
 	}
 	contents := string(byteContents)
 	lines := strings.Split(contents, "\n")
+	for i, line := range lines {
+		lines[i] = strings.TrimSpace(line)
+	}
 	return lines
 }
 
