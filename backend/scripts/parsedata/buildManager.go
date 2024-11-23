@@ -38,7 +38,7 @@ func createTutorialFile(tutorial Tutorial) {
 	}
 	// tutorialFileName := tutorial.FileIdCode + ".md"
 	// writeTextFile("../../static/data/nnn.md", "test content")
-	writeTextFile("nnn.md", "test content")
+	writeTextFile("../nnn.md", "test content")
 }
 
 func parseTutorialLine(line string) Tutorial {
