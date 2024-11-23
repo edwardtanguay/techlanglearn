@@ -24,7 +24,7 @@ func buildTutorials(mdPathAndFileNames []string) error {
 	return nil
 }
 
-// process e.g.: kinde; en; 00:09:37; 2024; 4.9; https://www.youtube.com/watch?v=_EjOHdRihjA; quick video showing how to build Kinde into a React site
+// kinde; en; 00:09:37; 2024; 4.9; https://www.youtube.com/watch?v=_EjOHdRihjA; Add Auth & Protect Routes in React in 3 Minutes (Kinde); quick video showing how to build Kinde into a React site
 func buildTutorial(line string) {
 	tutorial := parseTutorialLine(line)
 	createTutorialFile(tutorial)
@@ -86,5 +86,7 @@ func buildFileIdCode(tutorial Tutorial) string {
 		platformAbbreviation = "ll"
 	}
 
-	return fmt.Sprintf("%s-%s-nnn", platformAbbreviation, tutorial.Language)
+	camelCase := convertToCamelCase(tutorial.Title)
+
+	return fmt.Sprintf("%s-%s-%s", platformAbbreviation, tutorial.Language, camelCase)
 }

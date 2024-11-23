@@ -181,3 +181,11 @@ func formatDuration(d time.Duration) string {
 	seconds := int(d.Seconds()) % 60
 	return fmt.Sprintf("%02d:%02d:%02d", hours, minutes, seconds)
 }
+
+func convertToCamelCase(line string) string {
+	re := regexp.MustCompile(`[^\w\s]`)
+	cleanLine := re.ReplaceAllString(line, "")
+	lowercaseLine := strings.ToLower(cleanLine)
+	words := strings.Fields(lowercaseLine)
+	return strings.Join(words, "-")
+}
