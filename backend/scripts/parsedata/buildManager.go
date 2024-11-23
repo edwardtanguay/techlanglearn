@@ -57,7 +57,7 @@ func markCreatedLinesAsFinished(coursesPathAndFileName string) {
 	lines := getLinesFromFile(coursesPathAndFileName)
 	for i, line := range lines {
 		if strings.HasPrefix(line, ">>create>>") {
-			line := strings.TrimPrefix(line, ">>create>>")
+			line = strings.TrimPrefix(line, ">>create>>")
 			line = strings.TrimSpace(line)
 			line = "CREATED: " + line
 		}
