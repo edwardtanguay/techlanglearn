@@ -1,6 +1,6 @@
-easy-peasy: 
-	- https://www.youtube.com/watch?v=BAEVlanYyD4&list=PLM0LBHjz37LV91y4-B84-Kzo_D2U-ciB-&index=2
-	- https://www.youtube.com/watch?v=sPFaDYaTUeI&list=PLNTXksYYFsn9jnS_7Vpk9Qi2vb5N-MdOM
+			- https://www.youtube.com/watch?v=_EjOHdRihjA
+ kinde; en; 2024; 4.9; yt; https://www.youtube.com/watch?v=_EjOHdRihjA
+- more kinde and clerk
 
 react, monorepos; sp; 2022; 4.89 https://www.linkedin.com/learning/react-avanzado-2
 

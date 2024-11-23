@@ -148,7 +148,7 @@ esto nos va a funcionar
 if you notice, as I was mentioning to you
 si te fijas, como te estaba mencionando;note=fijar: to fasten, regular
 
-we are gong to completely ignore this part
+we are going to completely ignore this part
 vamos a ignorar por completo esta parte
 
 let's analyze the constructor part
