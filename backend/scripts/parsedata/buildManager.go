@@ -37,7 +37,7 @@ func createTutorialFile(tutorial Tutorial) {
 		devlog(fmt.Sprintf("Sorry, %s is not yet a supported platform.", tutorial.Platform))
 	}
 	// tutorialFileName := tutorial.FileIdCode + ".md"
-	writeTextFile("../../static/data/nnn.md", "test content")
+	// writeTextFile("../../static/data/nnn.md", "test content")
 	writeTextFile("nnn.md", "test content")
 }
 
