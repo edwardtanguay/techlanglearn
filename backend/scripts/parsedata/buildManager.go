@@ -86,5 +86,5 @@ func buildFileIdCode(tutorial Tutorial) string {
 		platformAbbreviation = "ll"
 	}
 
-	return fmt.Sprintf("%s-nnn", platformAbbreviation)
+	return fmt.Sprintf("%s-%s-nnn", platformAbbreviation, tutorial.Language)
 }
