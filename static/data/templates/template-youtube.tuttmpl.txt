@@ -2,11 +2,11 @@
 
 @@url
 
-- @@duration
-- @@language
-- @@topics
-- @@rank
-- @@description
+- duration: @@duration
+- language: @@language
+- topics: @@topics
+- rank: @@rank
+- description: @@description
 
 ## watchlog
 
