@@ -21,3 +21,8 @@ type TimesInfo struct {
 	TotalDuration string `json:"totalDuration"`
 	TimeUnits []TimeUnit `json:"timeUnits"`
 }
+
+// kinde; en; 00:09:37; 2024; 4.9; https://www.youtube.com/watch?v=_EjOHdRihjA; quick video showing how to build Kinde into a React site
+type Tutorial struct {
+
+}
