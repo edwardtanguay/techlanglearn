@@ -18,6 +18,7 @@ func buildTutorials(mdPathAndFileNames []string) error {
 				line := strings.TrimPrefix(rawLine, ">>create>>")
 				line = strings.TrimSpace(line)
 				buildTutorial(line)
+				markCreatedLinesAsFinished(mdPathAndFileName)
 			}
 		}
 	}
@@ -41,16 +42,24 @@ func createTutorialFile(tutorial Tutorial) {
 }
 
 func createFileWithTemplateAndData(targetPathAndFileName string, templatePathAndFileName string, tutorial Tutorial) {
-
 	content := getContentFromFile(templatePathAndFileName)
-	content = strings.ReplaceAll(content, "@@title", tutorial.Title)	
-	content = strings.ReplaceAll(content, "@@url", tutorial.Url)	
-	content = strings.ReplaceAll(content, "@@duration", tutorial.Duration)	
-	content = strings.ReplaceAll(content, "@@language", tutorial.Language)	
-	content = strings.ReplaceAll(content, "@@topics", tutorial.Topics)	
-	content = strings.ReplaceAll(content, "@@rank", tutorial.Rank)	
-	content = strings.ReplaceAll(content, "@@description", tutorial.Description)	
+	content = strings.ReplaceAll(content, "@@title", tutorial.Title)
+	content = strings.ReplaceAll(content, "@@url", tutorial.Url)
+	content = strings.ReplaceAll(content, "@@duration", tutorial.Duration)
+	content = strings.ReplaceAll(content, "@@language", tutorial.Language)
+	content = strings.ReplaceAll(content, "@@topics", tutorial.Topics)
+	content = strings.ReplaceAll(content, "@@rank", tutorial.Rank)
+	content = strings.ReplaceAll(content, "@@description", tutorial.Description)
 	writeTextFile(targetPathAndFileName, content)
+}
+
+func markCreatedLinesAsFinished(coursesPathAndFileName string) {
+	lines := getLinesFromFile(coursesPathAndFileName)
+	for i, line := range lines {
+		lines[i] = line + "-ADDED"
+	}
+	content := strings.Join(lines, "\n")
+	writeTextFile(coursesPathAndFileName, content)
 }
 
 func parseTutorialLine(line string) Tutorial {
