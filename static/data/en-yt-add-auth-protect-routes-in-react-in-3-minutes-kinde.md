@@ -19,4 +19,7 @@ https://www.youtube.com/watch?v=_EjOHdRihjA
 ## VOCAB - SPANISH
 
 ```
+queremos agregar autenticación
+We want to add authentication
+
 ```
