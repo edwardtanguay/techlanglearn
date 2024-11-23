@@ -27,7 +27,7 @@ func buildTutorials(mdPathAndFileNames []string) error {
 // process e.g.: kinde; en; 00:09:37; 2024; 4.9; https://www.youtube.com/watch?v=_EjOHdRihjA; quick video showing how to build Kinde into a React site
 func buildTutorial(line string) error {
 	tutorial := parseTutorialLine(line)
-	fmt.Printf("the title is [%s]\n", tutorial.Title)
+	fmt.Printf("the title is [%s] which is [%s] and ranked [%s]\n", tutorial.Title, tutorial.Duration, tutorial.Rank)
 	return nil
 }
 
