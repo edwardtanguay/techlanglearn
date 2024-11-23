@@ -54,15 +54,24 @@ func createFileWithTemplateAndData(targetPathAndFileName string, templatePathAnd
 }
 
 func markCreatedLinesAsFinished(coursesPathAndFileName string) {
+
 	lines := getLinesFromFile(coursesPathAndFileName)
+	holdLines := []string{}
+
 	for i, line := range lines {
 		if strings.HasPrefix(line, ">>create>>") {
 			line = strings.TrimPrefix(line, ">>create>>")
 			line = strings.TrimSpace(line)
 			line = "CREATED: " + line
+			holdLines = append(holdLines, line)
+		} else {
+			lines[i] = line
 		}
-		lines[i] = line
 	}
+
+	// add CREATED lines back in at the bottom of the file 
+	lines = append(lines, holdLines...)
+
 	content := strings.Join(lines, "\n")
 	writeTextFile(coursesPathAndFileName, content)
 }
