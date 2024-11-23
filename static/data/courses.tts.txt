@@ -1,4 +1,4 @@
->>create>> kinde; en; 00:09:37; 2024; 4.9; https://www.youtube.com/watch?v=_EjOHdRihjA; quick video showing how to build Kinde into a React site
+>>create>> kinde; en; 00:09:37; 2024; 4.9; https://www.youtube.com/watch?v=_EjOHdRihjA; Add Auth & Protect Routes in React in 3 Minutes (Kinde); quick video showing how to build Kinde into a React site
 
 - more kinde and clerk
 
@@ -14,8 +14,8 @@ go, cobra; en; 4.92;https://www.youtube.com/watch?v=yiFhQGJeRJk
 go; sp;2023;4.96; https://www.linkedin.com/learning/domina-go
 docker; sp;2024;4.91;https://www.linkedin.com/learning/docker-esencial-23119241
 
->>create>> api, mongo, jwt; sp; 03:50:00; 2023; 4.9; https://www.linkedin.com/learning/nodejs-restserver-con-clean-architecture; good, long, new course in Spanish to recap MERN skills including Mongo in Docker, authentication, etc.
->>create>> mux; sp; 00:51:10; 2020; 4.8; https://www.youtube.com/watch?v=pQAV8A9KLwk; seems like a decent tutorial how to build a Go/Mux API in Spanish
+>>create>> api, mongo, jwt; sp; 03:50:00; 2023; 4.9; https://www.linkedin.com/learning/nodejs-restserver-con-clean-architecture; NodeJS: RestServer con Clean Architecture;  good, long, new course in Spanish to recap MERN skills including Mongo in Docker, authentication, etc.
+>>create>> mux; sp; 00:51:10; 2020; 4.8; https://www.youtube.com/watch?v=pQAV8A9KLwk; Golang, REST API CRUD con go; seems like a decent tutorial how to build a Go/Mux API in Spanish
 
 bash, linux;sp; 2022;4.78;https://www.linkedin.com/learning/aprende-shell-scripting-en-linux
 rust; sp; 2024;3.8; https://www.linkedin.com/learning/rust-avanzado-24014033

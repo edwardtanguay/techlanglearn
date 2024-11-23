@@ -26,6 +26,30 @@ func buildTutorials(mdPathAndFileNames []string) error {
 
 // process e.g.: kinde; en; 00:09:37; 2024; 4.9; https://www.youtube.com/watch?v=_EjOHdRihjA; quick video showing how to build Kinde into a React site
 func buildTutorial(line string) error {
-	fmt.Printf("BUILD: [%s]\n", line)
+	tutorial := parseTutorialLine(line)
+	fmt.Printf("the title is [%s]\n", tutorial.Title)
 	return nil
+}
+
+func parseTutorialLine(line string) Tutorial {
+	parts := strings.Split(line, ";")
+
+	if len(parts) < 8 {
+		panic("Invalid input: not enough fields in the line")
+	}
+
+	for i, part := range parts {
+		parts[i] = strings.TrimSpace(part)
+	}
+
+	return Tutorial{
+		Topics:      strings.TrimSpace(parts[0]),
+		Language:    strings.TrimSpace(parts[1]),
+		Duration:    strings.TrimSpace(parts[2]),
+		Year:        strings.TrimSpace(parts[3]),
+		Rank:        strings.TrimSpace(parts[4]),
+		Url:         strings.TrimSpace(parts[5]),
+		Title:       strings.TrimSpace(parts[6]),
+		Description: strings.TrimSpace(parts[7]),
+	}
 }
