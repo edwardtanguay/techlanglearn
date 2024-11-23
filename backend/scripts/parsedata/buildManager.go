@@ -18,9 +18,9 @@ func buildTutorials(mdPathAndFileNames []string) error {
 				line := strings.TrimPrefix(rawLine, ">>create>>")
 				line = strings.TrimSpace(line)
 				buildTutorial(line)
-				markCreatedLinesAsFinished(mdPathAndFileName)
 			}
 		}
+		markCreatedLinesAsFinished(mdPathAndFileName)
 	}
 	return nil
 }
