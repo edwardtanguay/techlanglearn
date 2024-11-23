@@ -65,6 +65,22 @@ func getLinesFromFile(fileName string) []string {
 }
 
 /*
+Get content from a file as a string
+
+lines := getContentFromFile("../../notes.txt")
+
+- use relative path
+*/
+func getContentFromFile(fileName string) string {
+	byteContents, err := os.ReadFile(fileName)
+	if err != nil {
+		panic(err)
+	}
+	contents := string(byteContents)
+	return contents
+}
+
+/*
 Output information in console in a uniform way
 
 devlog("no files are locked")

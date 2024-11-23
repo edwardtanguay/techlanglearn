@@ -41,11 +41,9 @@ func createTutorialFile(tutorial Tutorial) {
 }
 
 func createFileWithTemplateAndData(targetPathAndFileName string, templatePathAndFileName string, tutorial Tutorial) {
-	lines := getLinesFromFile(templatePathAndFileName)
-	content := ""
-	for _, line := range lines {
-		content += line + " (added)\n"
-	}
+
+	content := getContentFromFile(templatePathAndFileName)
+	content = strings.ReplaceAll(content, "@@title", tutorial.Title)	
 	writeTextFile(targetPathAndFileName, content)
 }
 
