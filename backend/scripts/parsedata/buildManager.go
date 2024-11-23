@@ -25,10 +25,18 @@ func buildTutorials(mdPathAndFileNames []string) error {
 }
 
 // process e.g.: kinde; en; 00:09:37; 2024; 4.9; https://www.youtube.com/watch?v=_EjOHdRihjA; quick video showing how to build Kinde into a React site
-func buildTutorial(line string) error {
+func buildTutorial(line string) {
 	tutorial := parseTutorialLine(line)
-	fmt.Printf("the title is [%s] which plays on %s which is [%s] and ranked [%s]\n", tutorial.Title, tutorial.Platform, tutorial.Duration, tutorial.Rank)
-	return nil
+	createTutorialFile(tutorial)
+}
+
+func createTutorialFile(tutorial Tutorial) {
+	if tutorial.Platform == "youtube" {
+		devlog(fmt.Sprintf("Creating Youtube file for \"%s\"", tutorial.Title))
+	} else {
+		devlog(fmt.Sprintf("Sorry, %s is not yet a supported platform.", tutorial.Platform))
+	}
+	fmt.Printf("%s\n", tutorial.FileIdCode)
 }
 
 func parseTutorialLine(line string) Tutorial {
@@ -52,15 +60,31 @@ func parseTutorialLine(line string) Tutorial {
 		Title:       strings.TrimSpace(parts[6]),
 		Description: strings.TrimSpace(parts[7]),
 		Platform:    "",
+		FileIdCode:  "",
 	}
 
+	// add platform
 	if strings.Contains(tutorial.Url, "youtube.") {
 		tutorial.Platform = "youtube"
 	}
-
 	if strings.Contains(tutorial.Url, "linkedin.") {
 		tutorial.Platform = "linkedInLearning"
 	}
 
+	// add fileIdCode
+	tutorial.FileIdCode = buildFileIdCode(tutorial)
+
 	return tutorial
+}
+
+func buildFileIdCode(tutorial Tutorial) string {
+	platformAbbreviation := ""
+	switch tutorial.Platform {
+	case "youtube":
+		platformAbbreviation = "yt"
+	case "linkedInLearning":
+		platformAbbreviation = "ll"
+	}
+
+	return fmt.Sprintf("%s-nnn", platformAbbreviation)
 }
