@@ -1,4 +1,9 @@
 
+
+
+clerk: https://www.youtube.com/watch?v=6g95ioeiE6Q&t=326s
+
+
 - more kinde and clerk
 
 react, monorepos; sp; 2022; 4.89 https://www.linkedin.com/learning/react-avanzado-2
@@ -47,6 +52,8 @@ git merges
 go: do these videos https://www.youtube.com/@charmcli/videos
 ---
 haskell; sp; https://www.youtube.com/watch?v=mXroxy93nXg
+
+>>create>> kinde;en; 00:08:38; 2023; 4.9; https://www.youtube.com/watch?v=ReQGUxXPaSM; another short video showing how to intall Kinde in React (not Next.js)
 ---
 CREATED: kinde; en; 00:09:37; 2024; 4.9; https://www.youtube.com/watch?v=_EjOHdRihjA; Add Auth & Protect Routes in React in 3 Minutes (Kinde); quick video showing how to build Kinde into a React site
 CREATED: api, mongo, jwt; sp; 03:50:00; 2023; 4.9; https://www.linkedin.com/learning/nodejs-restserver-con-clean-architecture; NodeJS: RestServer con Clean Architecture;  good, long, new course in Spanish to recap MERN skills including Mongo in Docker, authentication, etc.

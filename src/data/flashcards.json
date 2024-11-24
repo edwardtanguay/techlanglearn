@@ -464,8 +464,16 @@
 		"back": "explicártelo un poco más adelante"
 	},
 	{
-		"front": "queremos agregar autenticación",
-		"back": "We want to add authentication"
+		"front": "check it out",
+		"back": "compruébalo"
+	},
+	{
+		"front": "security and storage",
+		"back": "seguridad y almacenamiento"
+	},
+	{
+		"front": "we want to add authentication",
+		"back": "queremos agregar autenticación"
 	},
 	{
 		"front": "it is quite similar to this tool",
