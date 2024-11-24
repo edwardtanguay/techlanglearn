@@ -53,8 +53,8 @@ go: do these videos https://www.youtube.com/@charmcli/videos
 ---
 haskell; sp; https://www.youtube.com/watch?v=mXroxy93nXg
 
->>create>> kinde;en; 00:08:38; 2023; 4.9; https://www.youtube.com/watch?v=ReQGUxXPaSM; another short video showing how to intall Kinde in React (not Next.js)
 ---
 CREATED: kinde; en; 00:09:37; 2024; 4.9; https://www.youtube.com/watch?v=_EjOHdRihjA; Add Auth & Protect Routes in React in 3 Minutes (Kinde); quick video showing how to build Kinde into a React site
 CREATED: api, mongo, jwt; sp; 03:50:00; 2023; 4.9; https://www.linkedin.com/learning/nodejs-restserver-con-clean-architecture; NodeJS: RestServer con Clean Architecture;  good, long, new course in Spanish to recap MERN skills including Mongo in Docker, authentication, etc.
 CREATED: mux; sp; 00:51:10; 2020; 4.8; https://www.youtube.com/watch?v=pQAV8A9KLwk; Golang, REST API CRUD con go; seems like a decent tutorial how to build a Go/Mux API in Spanish
+CREATED: kinde;en; 00:08:38; 2023; 4.9; https://www.youtube.com/watch?v=ReQGUxXPaSM;React Authentication with Kinde; another short video showing how to intall Kinde in React (not Next.js)
