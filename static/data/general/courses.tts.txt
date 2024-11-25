@@ -54,3 +54,5 @@ CREATED: api, mongo, jwt; sp; 03:50:00; 2023; 4.9; https://www.linkedin.com/lear
 CREATED: mux; sp; 00:51:10; 2020; 4.8; https://www.youtube.com/watch?v=pQAV8A9KLwk; Golang, REST API CRUD con go; seems like a decent tutorial how to build a Go/Mux API in Spanish
 CREATED: kinde;en; 00:08:38; 2023; 4.9; https://www.youtube.com/watch?v=ReQGUxXPaSM;React Authentication with Kinde; another short video showing how to intall Kinde in React (not Next.js)
 CREATED: go; sp; 01:10:00; 2024; 4.8; https://www.linkedin.com/learning/domina-go-idioms-y-pruebas-de-codigo; Domina Go: Idioms y pruebas de código; advanced Go, coding practices, testing (unit and integration)
+
+gitlab; en; 01:27:00; 2022; 4.7; https://www.linkedin.com/learning/continuous-integration-and-continuous-delivery-with-gitlab; Continuous Integration and Continuous Delivery with GitLab; good basics of GitLab, from 2022 so not that old
