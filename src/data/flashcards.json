@@ -476,6 +476,14 @@
 		"back": "queremos agregar autenticación"
 	},
 	{
+		"front": "so let's take a look at the readme file",
+		"back": "así que echemos un vistazo al archivo readme"
+	},
+	{
+		"front": "a very common thing to do",
+		"back": "algo muy común que se puede hacer"
+	},
+	{
 		"front": "it is quite similar to this tool",
 		"back": "es bastante parecida a esta herramientas"
 	},
@@ -494,10 +502,6 @@
 	{
 		"front": "the first thing that may come to mind",
 		"back": "lo primero que nos puede venir a la cabeza"
-	},
-	{
-		"front": "that at first will be a bit crazy",
-		"back": "que al princípio serán un poco una locura"
 	},
 	{
 		"front": "a bunch of branches",
@@ -741,7 +745,7 @@
 	},
 	{
 		"front": "when this time is up",
-		"back": "cuando se cumpla este tiempo"
+		"back": "cuando se cumpla este tiempo; note=cumplir: to fulfill"
 	},
 	{
 		"front": "thirty, forty, fifty, sixty, seventy, eighty, ninety",
@@ -993,7 +997,7 @@
 	},
 	{
 		"front": "promote the reuse of components",
-		"back": "fomentar el reùso de componentes"
+		"back": "fomentar el reúso de componentes"
 	},
 	{
 		"front": "this makes more sense",
@@ -1061,7 +1065,7 @@
 	},
 	{
 		"front": "to save us possible problems",
-		"back": "para ahorrarnos posibles problems"
+		"back": "para ahorrarnos posibles problemas"
 	},
 	{
 		"front": "if not, it may cause you problems",
@@ -1285,7 +1289,7 @@
 	},
 	{
 		"front": "conj: decir;preterite",
-		"back": "dije, dijiste, dijo, dijimos, dijiséis, dijeron"
+		"back": "dije, dijiste, dijo, dijimos, dijisteis, dijeron"
 	},
 	{
 		"front": "just as his name says",

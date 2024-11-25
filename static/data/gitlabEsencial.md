@@ -50,9 +50,6 @@ y ver dónde se producen los cambios
 the first thing that may come to mind
 lo primero que nos puede venir a la cabeza
 
-that at first will be a bit crazy
-que al princípio serán un poco una locura
-
 a bunch of branches
 un montón de ramas
 

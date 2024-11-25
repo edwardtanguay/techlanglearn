@@ -40,7 +40,7 @@ having everything under one roof
 teniendo todo bajo un mismo techo; pr=TAY-choh
 
 promote the reuse of components
-fomentar el reùso de componentes
+fomentar el reúso de componentes
 
 this makes more sense
 esto tiene más sentido

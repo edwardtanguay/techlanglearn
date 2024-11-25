@@ -95,7 +95,7 @@ o sea
 that is
 
 to save us possible problems
-para ahorrarnos posibles problems
+para ahorrarnos posibles problemas
 
 if not, it may cause you problems
 si no, te puede dar problemas
@@ -263,7 +263,7 @@ conj: decir;present
 digo, dices, dice, decimos, decís, dicen
 
 conj: decir;preterite
-dije, dijiste, dijo, dijimos, dijiséis, dijeron
+dije, dijiste, dijo, dijimos, dijisteis, dijeron
 
 just as his name says
 tal como su nombre el dice

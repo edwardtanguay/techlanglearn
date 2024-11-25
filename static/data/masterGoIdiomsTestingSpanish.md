@@ -219,7 +219,7 @@ let's make sure that
 vamos a aseguarnos que
 
 when this time is up
-cuando se cumpla este tiempo
+cuando se cumpla este tiempo; note=cumplir: to fulfill
 
 thirty, forty, fifty, sixty, seventy, eighty, ninety
 treinta, cuarenta, cincuenta, sesenta, setenta, ochenta, noventa

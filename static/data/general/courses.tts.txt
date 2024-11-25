@@ -3,6 +3,7 @@
 
 clerk: https://www.youtube.com/watch?v=6g95ioeiE6Q&t=326s
 
+kinde, nexjs; https://www.youtube.com/watch?v=wfqnQ86K-_A
 
 - more kinde and clerk
 
