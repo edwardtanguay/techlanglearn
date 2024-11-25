@@ -36,8 +36,10 @@ func createTutorialFile(tutorial Tutorial) {
 	if tutorial.Platform == "youtube" {
 		devlog(fmt.Sprintf("Creating Youtube file for \"%s\"", tutorial.Title))
 		createFileWithTemplateAndData(tutorialPathAndFileName, "../../../static/data/templates/template-youtube.tuttmpl.txt", tutorial)
-	} else {
-		devlog(fmt.Sprintf("Sorry, %s is not yet a supported platform.", tutorial.Platform))
+	} 
+	if tutorial.Platform == "linkedInLearning" {
+		devlog(fmt.Sprintf("Creating LinkedIn Learning file for \"%s\"", tutorial.Title))
+		createFileWithTemplateAndData(tutorialPathAndFileName, "../../../static/data/templates/template-linkedInLearning.tuttmpl.txt", tutorial)
 	}
 }
 
