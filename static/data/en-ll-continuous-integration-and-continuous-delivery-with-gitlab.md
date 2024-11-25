@@ -1,10 +1,12 @@
 # Continuous Integration and Continuous Delivery with GitLab
 
-- https://www.linkedin.com/learning/continuous-integration-and-continuous-delivery-with-gitlab
-- 01:27:00
-- english-spanish
-- GitLab
-- 4.7
+https://www.linkedin.com/learning/continuous-integration-and-continuous-delivery-with-gitlab
+
+- duration: 01:27:00
+- language: en
+- topics: gitlab
+- rank: 4.7
+- description: good basics of GitLab, from 2022 so not that old
 
 ## intro - 0:57, 2024-10-28
 
