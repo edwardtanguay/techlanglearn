@@ -656,6 +656,26 @@
 		"back": "una vez descargado, puedes iniciar el programa"
 	},
 	{
+		"front": "how can we see all the messages",
+		"back": "cómo podemos hacer para ver todos los mensajes"
+	},
+	{
+		"front": "since the goroutine might not have enough time",
+		"back": "ya que la gorutina podría no tener tiempo suficiente"
+	},
+	{
+		"front": "the keyword go",
+		"back": "la palabra clave go"
+	},
+	{
+		"front": "to perform tasks in the background",
+		"back": "para realizar tareas en segundo plano"
+	},
+	{
+		"front": "in a single thread of execution",
+		"back": "en un solo hilo de ejecución"
+	},
+	{
 		"front": "just once, as we expected",
 		"back": "una única vez, como esperábamos"
 	},
