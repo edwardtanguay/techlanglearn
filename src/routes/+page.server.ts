@@ -15,7 +15,7 @@ export async function load() {
 		// 'cicdGitLab',
 		// 'dominaGoAplicaciones',
 		// 'svelte5IsATriumph'
-	];
+	] as string[];
 
 	let rawHtmlContent = '';
 	let rawMenuHtmlContent = '';
