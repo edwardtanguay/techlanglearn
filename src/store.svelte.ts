@@ -40,6 +40,7 @@ export const getStore = () => {
 			errorMessage = _errorMessage;
 		},
 		handleRandomFlashcardToggle: (f: Flashcard) => {
+			console.log(11111, 'switching');
 			f.isOpen = !f.isOpen;
 		}
 	};

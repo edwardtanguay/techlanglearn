@@ -8,13 +8,13 @@ export async function load() {
 	// const markdown = fs.readFileSync(filePath, 'utf-8');
 
 	const tutorialIdCodes = [
-		'inkInFifteenMinutes',
-		'skeletonUiForSvelte',
-		'masterGoIdiomsTestingSpanish',
-		'svelte5GuideForBeginners',
-		'cicdGitLab',
-		'dominaGoAplicaciones',
-		'svelte5IsATriumph'
+		// 'inkInFifteenMinutes',
+		// 'skeletonUiForSvelte',
+		// 'masterGoIdiomsTestingSpanish',
+		// 'svelte5GuideForBeginners',
+		// 'cicdGitLab',
+		// 'dominaGoAplicaciones',
+		// 'svelte5IsATriumph'
 	];
 
 	let rawHtmlContent = '';
