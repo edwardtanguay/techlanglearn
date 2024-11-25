@@ -1,5 +1,4 @@
 
->>create>> go; sp; 01:10:00; 2024; 4.8; https://www.linkedin.com/learning/domina-go-idioms-y-pruebas-de-codigo; Domina Go: Idioms y pruebas de código; advanced Go, coding practices, testing (unit and integration)
 
 
 // kinde and clerk
@@ -54,3 +53,4 @@ CREATED: kinde; en; 00:09:37; 2024; 4.9; https://www.youtube.com/watch?v=_EjOHdR
 CREATED: api, mongo, jwt; sp; 03:50:00; 2023; 4.9; https://www.linkedin.com/learning/nodejs-restserver-con-clean-architecture; NodeJS: RestServer con Clean Architecture;  good, long, new course in Spanish to recap MERN skills including Mongo in Docker, authentication, etc.
 CREATED: mux; sp; 00:51:10; 2020; 4.8; https://www.youtube.com/watch?v=pQAV8A9KLwk; Golang, REST API CRUD con go; seems like a decent tutorial how to build a Go/Mux API in Spanish
 CREATED: kinde;en; 00:08:38; 2023; 4.9; https://www.youtube.com/watch?v=ReQGUxXPaSM;React Authentication with Kinde; another short video showing how to intall Kinde in React (not Next.js)
+CREATED: go; sp; 01:10:00; 2024; 4.8; https://www.linkedin.com/learning/domina-go-idioms-y-pruebas-de-codigo; Domina Go: Idioms y pruebas de código; advanced Go, coding practices, testing (unit and integration)
