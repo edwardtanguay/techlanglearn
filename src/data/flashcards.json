@@ -8,10 +8,6 @@
 		"back": "en gran medida"
 	},
 	{
-		"front": "which does everything that has been done in the previous videos",
-		"back": "que hace todo lo que hace hecho en los vídeos anteriores"
-	},
-	{
 		"front": "this process will take some time",
 		"back": "este proceso tardará un tiempo"
 	},
@@ -1140,8 +1136,8 @@
 		"back": "ya no necesitamos pensar tanto en eso"
 	},
 	{
-		"front": "y lo estoy vinculando para que se ejecute este método",
-		"back": "and I'm binding it so that this method runs"
+		"front": "and I'm binding it so that this method runs",
+		"back": "y lo estoy vinculando para que se ejecute este método"
 	},
 	{
 		"front": "and that's all",

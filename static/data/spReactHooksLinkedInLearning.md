@@ -133,8 +133,8 @@ te estoy mostrando
 we no longer need to think so much about it
 ya no necesitamos pensar tanto en eso
 
-y lo estoy vinculando para que se ejecute este método
 and I'm binding it so that this method runs
+y lo estoy vinculando para que se ejecute este método
 
 and that's all
 y eso es todo

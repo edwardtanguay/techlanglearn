@@ -128,9 +128,6 @@ el archivo se sobrescribirá
 to a large extent
 en gran medida
 
-which does everything that has been done in the previous videos
-que hace todo lo que hace hecho en los vídeos anteriores
-
 this process will take some time
 este proceso tardará un tiempo
 
