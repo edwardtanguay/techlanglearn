@@ -316,11 +316,17 @@ rules:
 
 ## Automating deployments, 5:40, nnn
 
-- nnn
+https://www.linkedin.com/learning/continuous-integration-and-continuous-delivery-with-gitlab/automating-deployments?resume=false
+
+- replaces 'when manual' with: if: $CI_COMMIT_BRANCH == "main"
+- @@1:11
 
 ## VOCAB - SPANISH
 
 ```
+GitLab provides us with some variables
+GitLab nos proporciona algunas variables
+
 we will return to our project
 volveremos a nuestro proyecto
 
