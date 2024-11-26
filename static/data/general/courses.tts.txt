@@ -9,7 +9,6 @@ go: https://www.linkedin.com/learning/go-for-developers-practical-techniques-for
 
 go, cobra; en; 4.92;https://www.youtube.com/watch?v=yiFhQGJeRJk
 
-go; sp;2023;4.96; https://www.linkedin.com/learning/domina-go
 docker; sp;2024;4.91;https://www.linkedin.com/learning/docker-esencial-23119241
 
 bash, linux;sp; 2022;4.78;https://www.linkedin.com/learning/aprende-shell-scripting-en-linux
@@ -55,3 +54,6 @@ CREATED: mux; sp; 00:51:10; 2020; 4.8; https://www.youtube.com/watch?v=pQAV8A9KL
 CREATED: kinde;en; 00:08:38; 2023; 4.9; https://www.youtube.com/watch?v=ReQGUxXPaSM;React Authentication with Kinde; another short video showing how to intall Kinde in React (not Next.js)
 CREATED: go; sp; 01:10:00; 2024; 4.8; https://www.linkedin.com/learning/domina-go-idioms-y-pruebas-de-codigo; Domina Go: Idioms y pruebas de código; advanced Go, coding practices, testing (unit and integration)
 CREATED: gitlab; en; 01:27:00; 2022; 4.7; https://www.linkedin.com/learning/continuous-integration-and-continuous-delivery-with-gitlab; Continuous Integration and Continuous Delivery with GitLab; good basics of GitLab, from 2022 so not that old
+CREATED: go; sp;00:50:00; 2023;4.96; https://www.linkedin.com/learning/domina-go; Domina Go; short videos but seems to cover important topics, and 2023
+
+>>create>>webflow; en; 02:07:00; 2024; https://www.linkedin.com/learning/learning-webflow-23115084/a-new-kind-of-content-management-system-24379800; Learning Webflow; enables you to build professional, responsive, customized sites using a completely visual canvas—no coding required

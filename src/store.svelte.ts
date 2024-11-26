@@ -13,7 +13,7 @@ const randomFlashcards = $state(getRandomItemsFromArray(flashcards, 3));
 
 export const getStore = () => {
 	return {
-		// values
+		// state
 		get siteLocation() {
 			return siteLocation;
 		},
@@ -27,7 +27,7 @@ export const getStore = () => {
 			return flashcards;
 		},
 
-		// computed values
+		// computed state
 		get randomFlashcards() {
 			return randomFlashcards;
 		},

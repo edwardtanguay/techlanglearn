@@ -203,8 +203,8 @@ puesto que lo consideramos un error
 we will return an error
 retornaremos un error
 
-by our web layer
-por nuestra capa web
+the information passes through our web layer before being sent to the server
+la información pasa por nuestra capa web antes de ser enviada al servidor
 
 including the value
 incluyendo el valor
