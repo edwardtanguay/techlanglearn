@@ -61,4 +61,4 @@ css; sp;01:05:00; 2016;3.7; https://www.linkedin.com/learning/css-avanzado-12-tr
 
 androidUser; sp; 01:04:00;2024; 4.3;https://www.linkedin.com/learning/trucos-semanales-para-usuarios-de-android; Trucos semanales para usuarios de Android; nice tips like screen recording, Elena has a nice Spanish voice
 
-go; sp; 00:34:00; 4.6; https://www.linkedin.com/learning/domina-go-creacion-y-empaquetado-de-aplicaciones; Domina Go: Creación y empaquetado de aplicaciones;finished this one, short, useful
+>>create>> go; sp; 00:34:00;2024; 4.6; https://www.linkedin.com/learning/domina-go-creacion-y-empaquetado-de-aplicaciones; Domina Go: Creación y empaquetado de aplicaciones;finished this one, short, useful
