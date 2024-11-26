@@ -464,6 +464,74 @@
 		"back": "en gran medida"
 	},
 	{
+		"front": "I'll guide you through everything",
+		"back": "voy a guiarte a través de todo"
+	},
+	{
+		"front": "on the side",
+		"back": "en el costado"
+	},
+	{
+		"front": "for now, keep in mind that",
+		"back": "por ahora, ten en cuenta que; ten = tu, tenga = usted, conj=tener"
+	},
+	{
+		"front": "as a starting point",
+		"back": "como punto de partida"
+	},
+	{
+		"front": "why would we do that",
+		"back": "por que haríamos eso; hacer uses -har for future and conditional"
+	},
+	{
+		"front": "that sounds a little strange",
+		"back": "eso suena un poco raro"
+	},
+	{
+		"front": "that will guide you through a simple tutorial",
+		"back": "que te guiará a través de un tutorial sencillo; conj=guiar; pr=gee-ahr-RAH"
+	},
+	{
+		"front": "your name and surname",
+		"back": "tu nombre y apellido; pr=ah-pay-YEE-doh"
+	},
+	{
+		"front": "conf. pedir present",
+		"back": "pido, pides, pide, pedimos, pedís, piden; rank=4.9"
+	},
+	{
+		"front": "conj. pedir preterite",
+		"back": "pedí, pediste, pidió, pedimos, pidisteis, pidieron; rank=4.9"
+	},
+	{
+		"front": "I don't know what to do",
+		"back": "no sé qué hacer"
+	},
+	{
+		"front": "once you have created your account, do the following",
+		"back": "una vez que hayas creado tu cuenta, haz lo siguiente; hayas = present perfect subjunctive, conj=crear, haz = tu, haga = usted"
+	},
+	{
+		"front": "conj. ver present",
+		"back": "veo, ves, ve, vemos, veis, ven; rank=4.9"
+	},
+	{
+		"front": "conj. ver preterite",
+		"back": "vi, viste, vio, vimos, visteis, vieron; rank=4.9"
+	},
+	{
+		"front": "so if you are ready",
+		"back": "así que si estás listo"
+	},
+	{
+		"front": "as your site grows",
+		"back": "a medida que tu sitio crece; crecer = to grow, regular but you crezco"
+	},
+	{
+		"front": "create your own work from scratch",
+		"back": "crea tu propio trabajo desde cero; crea = tu, cree = usted"
+	},
+	{
 		"front": "check it out",
 		"back": "compruébalo"
 	},
