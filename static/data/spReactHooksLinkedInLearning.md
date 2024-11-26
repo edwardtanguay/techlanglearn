@@ -91,8 +91,8 @@ ya lo tenemos habilitado
 is not available yet
 no está disponible aún
 
-o sea
 that is
+o sea
 
 to save us possible problems
 para ahorrarnos posibles problemas

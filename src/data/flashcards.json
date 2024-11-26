@@ -340,7 +340,7 @@
 		"back": "algo comienza a suceder"
 	},
 	{
-		"front": "belw the image",
+		"front": "below the image",
 		"back": "debajo de la imagen"
 	},
 	{
@@ -1066,6 +1066,14 @@
 	{
 		"front": "new heights",
 		"back": "nuevas alturas"
+	},
+	{
+		"front": "when you don't know the amount of arguments",
+		"back": "cuando desconozcas la cantidad de argumentos"
+	},
+	{
+		"front": "to loop through this string array",
+		"back": "para recorrer este arreglo de string; rank=4.89"
 	},
 	{
 		"front": "in case it happens",

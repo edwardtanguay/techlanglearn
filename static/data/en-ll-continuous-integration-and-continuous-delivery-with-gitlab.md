@@ -390,7 +390,7 @@ así que podemos seguir adelante
 something starts to happen
 algo comienza a suceder
 
-belw the image
+below the image
 debajo de la imagen
 
 so let's take a look

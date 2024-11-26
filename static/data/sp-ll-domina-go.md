@@ -27,15 +27,28 @@ https://www.linkedin.com/learning/domina-go/aplicaciones-con-go?resume=false
 - using int(), float64(), strconv.Itoa(), strconv.Atoi()
 - int doesn't round the number
 
-## Crear una función con parámetros opcionales en Go, 1:42, nnn
+## Crear una función con parámetros opcionales en Go, 1:42, 2024-11-26
 
 https://www.linkedin.com/learning/domina-go/crear-una-funcion-con-parametros-opcionales-en-go?autoSkip=true&resume=false
 
-- nn
+- variadic parameters
+- `func sum(numbers ...int) int {`
+
+## Obtener el último elemento de un slice en Go, 1:10, nnn
+
+https://www.linkedin.com/learning/domina-go/obtener-el-ultimo-elemento-de-un-slice-en-go?autoSkip=true&resume=false
+
+- nnn
 
 ## VOCAB - SPANISH
 
 ```
+when you don't know the amount of arguments
+cuando desconozcas la cantidad de argumentos
+
+to loop through this string array
+para recorrer este arreglo de string; rank=4.89
+
 in case it happens
 en caso de que pase
 
