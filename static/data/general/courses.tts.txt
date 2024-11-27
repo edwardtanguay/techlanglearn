@@ -66,3 +66,6 @@ CREATED: css; sp;01:05:00; 2016;3.7; https://www.linkedin.com/learning/css-avanz
 CREATED: androidUser; sp; 01:04:00;2024; 4.3;https://www.linkedin.com/learning/trucos-semanales-para-usuarios-de-android; Trucos semanales para usuarios de Android; nice tips like screen recording, Elena has a nice Spanish voice
 CREATED: python, fastapi; sp; 01:24:00; 2024; 4.7; https://www.linkedin.com/learning/domina-python-fastapi; Domina Python: FastAPI; looks interesting, in Spanish, good way to learn practical Python
 CREATED: docker; sp;02:34:00; 2024;4.91;https://www.linkedin.com/learning/docker-esencial-23119241; Docker esencial; Spanish, in depth Docker
+
+>>create>>react, monorepos;sp;02:27:00;2022;4.88; https://www.linkedin.com/learning/react-avanzado-2 ;React avanzado 2; monorepos, nx, storybook, testing, patterns, GitHub Actions, 70% useful
+
