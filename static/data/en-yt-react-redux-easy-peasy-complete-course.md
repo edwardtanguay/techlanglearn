@@ -1,12 +1,12 @@
 # React Redux Easy Peasy Complete Course
 
-- https://www.youtube.com/watch?v=sPFaDYaTUeI&list=PLNTXksYYFsn9jnS_7Vpk9Qi2vb5N-MdOM
-- 00:47:00
-- english-spanish
-- easy peasy
-- 4.82
-- 2020
-- old course but checking it out, uses TypeScript, only doing parts 2-4, part 1 was too simple
+https://www.youtube.com/watch?v=sPFaDYaTUeI&list=PLNTXksYYFsn9jnS_7Vpk9Qi2vb5N-MdOM
+
+- duration: 00:47:00
+- language: en
+- topics: easyPeasy
+- rank: 4.82
+- description: old course but checking it out, uses TypeScript, only doing parts 2-4, part 1 was too simple
 
 ## Actions - 8:18, 2024-11-22
 

@@ -59,6 +59,7 @@ CREATED: gitlab; en; 01:27:00; 2022; 4.7; https://www.linkedin.com/learning/cont
 CREATED: go; sp;00:50:00; 2023;4.96; https://www.linkedin.com/learning/domina-go; Domina Go; short videos but seems to cover important topics, and 2023
 CREATED: webflow; en; 02:07:00; 2024; 3.9; https://www.linkedin.com/learning/learning-webflow-23115084/a-new-kind-of-content-management-system-24379800; Learning Webflow; enables you to build professional, responsive, customized sites using a completely visual canvas—no coding required
 CREATED: go; sp; 00:34:00;2024; 4.6; https://www.linkedin.com/learning/domina-go-creacion-y-empaquetado-de-aplicaciones; Domina Go: Creación y empaquetado de aplicaciones;finished this one, short, useful
+CREATED: easyPeasy; en; 00:47:00; 2020; 4.82; https://www.youtube.com/watch?v=sPFaDYaTUeI&list=PLNTXksYYFsn9jnS_7Vpk9Qi2vb5N-MdOM;  React Redux Easy Peasy Complete Course; old course but checking it out, uses TypeScript, only doing parts 2-4, part 1 was too simple
 
 
 css; sp;01:05:00; 2016;3.7; https://www.linkedin.com/learning/css-avanzado-12-trucos/presentacion-del-curso-css-avanzado-12-trucos; CSS avanzado: 12 trucos; tutorial is 8 years old but Zuriñe has a nice voice and these topics should be timeless
@@ -70,5 +71,3 @@ python, fastapi; sp; 01:24:00; 2024; 4.7; https://www.linkedin.com/learning/domi
 
 docker; sp;02:34:00; 2024;4.91;https://www.linkedin.com/learning/docker-esencial-23119241; Docker esencial; Spanish, in depth Docker
 
-
->> create >> easyPeasy; en; 00:47:00; 2020; 4.82; https://www.youtube.com/watch?v=sPFaDYaTUeI&list=PLNTXksYYFsn9jnS_7Vpk9Qi2vb5N-MdOM;  React Redux Easy Peasy Complete Course; old course but checking it out, uses TypeScript, only doing parts 2-4, part 1 was too simple

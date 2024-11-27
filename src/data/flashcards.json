@@ -1,229 +1,5 @@
 [
 	{
-		"front": "the file will be overwritten",
-		"back": "el archivo se sobrescribirá"
-	},
-	{
-		"front": "to a large extent",
-		"back": "en gran medida"
-	},
-	{
-		"front": "this process will take some time",
-		"back": "este proceso tardará un tiempo"
-	},
-	{
-		"front": "so that it is capable",
-		"back": "para que sea capaz"
-	},
-	{
-		"front": "as we see, the binaries will be generated",
-		"back": "como vemos, se va a generar los binarios"
-	},
-	{
-		"front": "having built it on our machine",
-		"back": "al haberlo construido en nuestra máquina"
-	},
-	{
-		"front": "Go stands out for the small size of its binaries",
-		"back": "Go destaca por el pequeño tamaño de sus binarios"
-	},
-	{
-		"front": "since we would be forcing him to install Go",
-		"back": "puesto que le estaríamos obligando a instalar Go [gr. present conditional]"
-	},
-	{
-		"front": "but we can't deliver it to the user like this",
-		"back": "pero no podemos entregarla así al usuario"
-	},
-	{
-		"front": "let's start with a small application",
-		"back": "partamos de una pequeña aplicación"
-	},
-	{
-		"front": "in which they are going to be executed",
-		"back": "en el que se vayan a ejecutar [gr. subjunctive present]"
-	},
-	{
-		"front": "we usually run our programs directly from the source code",
-		"back": "solemos ejecutar nuestros programas directamente desde el código fuente"
-	},
-	{
-		"front": "common tasks such as counting requests",
-		"back": "tareas comunes como el conteo de peticiones"
-	},
-	{
-		"front": "we should see the message",
-		"back": "deberíamos ver el mensaje [gr. present conditional]"
-	},
-	{
-		"front": "this time, we should get the correct answer",
-		"back": "esta vez, deberíamos recibir la respuesta correcta [gr. present conditional]"
-	},
-	{
-		"front": "as expected, we have an error",
-		"back": "como era de esperar, tenemos un error"
-	},
-	{
-		"front": "whenever we returned an error previously",
-		"back": "siempre que devolviéramos un error anteriormente [gr. subjunctive imperfect 1]"
-	},
-	{
-		"front": "we will leave these set as they are",
-		"back": "dejaremos estos configurados como están"
-	},
-	{
-		"front": "in order to save it",
-		"back": "para guardarlo"
-	},
-	{
-		"front": "I will save that later",
-		"back": "lo guardaré más tarde"
-	},
-	{
-		"front": "it's right there",
-		"back": "está justo ahí"
-	},
-	{
-		"front": "as dark as it can be",
-		"back": "tan oscuro como puede ser"
-	},
-	{
-		"front": "click on the button",
-		"back": "haga clic en el botón"
-	},
-	{
-		"front": "click on the left side",
-		"back": "haga clic en el lado izquierdo"
-	},
-	{
-		"front": "on the one hand",
-		"back": "por un lado"
-	},
-	{
-		"front": "since we consider it an error",
-		"back": "puesto que lo consideramos un error"
-	},
-	{
-		"front": "we will return an error",
-		"back": "retornaremos un error"
-	},
-	{
-		"front": "the information passes through our web layer before being sent to the server",
-		"back": "la información pasa por nuestra capa web antes de ser enviada al servidor"
-	},
-	{
-		"front": "including the value",
-		"back": "incluyendo el valor"
-	},
-	{
-		"front": "the time that has elapsed",
-		"back": "el tiempo que ha transcurrido"
-	},
-	{
-		"front": "the first thing it does is get the current time",
-		"back": "lo primero que hace es obtener la hora actual"
-	},
-	{
-		"front": "that is in charge of counting the requests",
-		"back": "que se encargue de contar las peticiones"
-	},
-	{
-		"front": "that is in charge of counting the requests",
-		"back": "que se encargue de contar las peticiones [en-KAR-gay]"
-	},
-	{
-		"front": "although we could have used any other",
-		"back": "aunque podríamos haber utilizado cualquier otro"
-	},
-	{
-		"front": "we access the URL",
-		"back": "accedemos a la URL"
-	},
-	{
-		"front": "start the server on port 8080",
-		"back": "arranca el servidor en el puerto 8080"
-	},
-	{
-		"front": "in isolation",
-		"back": "de manera aislada"
-	},
-	{
-		"front": "will make a request",
-		"back": "hará una petition"
-	},
-	{
-		"front": "it will return the list",
-		"back": "devolverá la lista"
-	},
-	{
-		"front": "to test it",
-		"back": "para probarlo"
-	},
-	{
-		"front": "finally",
-		"back": "por último"
-	},
-	{
-		"front": "let's ask",
-		"back": "vamos a pedir"
-	},
-	{
-		"front": "I will store in the variable",
-		"back": "almacenaré en la variable"
-	},
-	{
-		"front": "he copies text in all at once, he doesn't type it",
-		"back": "copia el texto de una sola vez, no lo escribe"
-	},
-	{
-		"front": "by prompt we understand",
-		"back": "entendemos por prompt"
-	},
-	{
-		"front": "you can see on the last line",
-		"back": "puedes verlo en la última línea"
-	},
-	{
-		"front": "we will read the answer",
-		"back": "leeremos la respuesta"
-	},
-	{
-		"front": "the root directory",
-		"back": "el directorio raíz"
-	},
-	{
-		"front": "we will return to the subject",
-		"back": "volveremos al tema"
-	},
-	{
-		"front": "which is responsible for making the request to the API",
-		"back": "que se engarga de hacer la petición a la API"
-	},
-	{
-		"front": "in the following videos",
-		"back": "en siguientes vídeos [see-g|ee-EN-tays]"
-	},
-	{
-		"front": "wouldn't it be better to be able to do something like this",
-		"back": "no sería mejor ser capaces de hacer algo así"
-	},
-	{
-		"front": "tens, hundreds",
-		"back": "decenas, cientos"
-	},
-	{
-		"front": "text box",
-		"back": "caja de texto"
-	},
-	{
-		"front": "the mouse",
-		"back": "el ratón"
-	},
-	{
-		"front": "via our browser",
-		"back": "mediante nuestro navegador"
-	},
-	{
 		"front": "let's change it to no",
 		"back": "combiémoslo a no"
 	},
@@ -722,6 +498,226 @@
 	{
 		"front": "once downloaded, you can start the program",
 		"back": "una vez descargado, puedes iniciar el programa"
+	},
+	{
+		"front": "the file will be overwritten",
+		"back": "el archivo se sobrescribirá"
+	},
+	{
+		"front": "to a large extent",
+		"back": "en gran medida"
+	},
+	{
+		"front": "this process will take some time",
+		"back": "este proceso tardará un tiempo"
+	},
+	{
+		"front": "so that it is capable",
+		"back": "para que sea capaz"
+	},
+	{
+		"front": "as we see, the binaries will be generated",
+		"back": "como vemos, se va a generar los binarios"
+	},
+	{
+		"front": "having built it on our machine",
+		"back": "al haberlo construido en nuestra máquina"
+	},
+	{
+		"front": "Go stands out for the small size of its binaries",
+		"back": "Go destaca por el pequeño tamaño de sus binarios"
+	},
+	{
+		"front": "since we would be forcing him to install Go",
+		"back": "puesto que le estaríamos obligando a instalar Go [gr. present conditional]"
+	},
+	{
+		"front": "but we can't deliver it to the user like this",
+		"back": "pero no podemos entregarla así al usuario"
+	},
+	{
+		"front": "let's start with a small application",
+		"back": "partamos de una pequeña aplicación"
+	},
+	{
+		"front": "in which they are going to be executed",
+		"back": "en el que se vayan a ejecutar [gr. subjunctive present]"
+	},
+	{
+		"front": "we usually run our programs directly from the source code",
+		"back": "solemos ejecutar nuestros programas directamente desde el código fuente"
+	},
+	{
+		"front": "common tasks such as counting requests",
+		"back": "tareas comunes como el conteo de peticiones"
+	},
+	{
+		"front": "we should see the message",
+		"back": "deberíamos ver el mensaje [gr. present conditional]"
+	},
+	{
+		"front": "this time, we should get the correct answer",
+		"back": "esta vez, deberíamos recibir la respuesta correcta [gr. present conditional]"
+	},
+	{
+		"front": "as expected, we have an error",
+		"back": "como era de esperar, tenemos un error"
+	},
+	{
+		"front": "whenever we returned an error previously",
+		"back": "siempre que devolviéramos un error anteriormente [gr. subjunctive imperfect 1]"
+	},
+	{
+		"front": "we will leave these set as they are",
+		"back": "dejaremos estos configurados como están"
+	},
+	{
+		"front": "in order to save it",
+		"back": "para guardarlo"
+	},
+	{
+		"front": "I will save that later",
+		"back": "lo guardaré más tarde"
+	},
+	{
+		"front": "it's right there",
+		"back": "está justo ahí"
+	},
+	{
+		"front": "as dark as it can be",
+		"back": "tan oscuro como puede ser"
+	},
+	{
+		"front": "click on the button",
+		"back": "haga clic en el botón"
+	},
+	{
+		"front": "click on the left side",
+		"back": "haga clic en el lado izquierdo"
+	},
+	{
+		"front": "on the one hand",
+		"back": "por un lado"
+	},
+	{
+		"front": "since we consider it an error",
+		"back": "puesto que lo consideramos un error"
+	},
+	{
+		"front": "we will return an error",
+		"back": "retornaremos un error"
+	},
+	{
+		"front": "the information passes through our web layer before being sent to the server",
+		"back": "la información pasa por nuestra capa web antes de ser enviada al servidor"
+	},
+	{
+		"front": "including the value",
+		"back": "incluyendo el valor"
+	},
+	{
+		"front": "the time that has elapsed",
+		"back": "el tiempo que ha transcurrido"
+	},
+	{
+		"front": "the first thing it does is get the current time",
+		"back": "lo primero que hace es obtener la hora actual"
+	},
+	{
+		"front": "that is in charge of counting the requests",
+		"back": "que se encargue de contar las peticiones"
+	},
+	{
+		"front": "that is in charge of counting the requests",
+		"back": "que se encargue de contar las peticiones [en-KAR-gay]"
+	},
+	{
+		"front": "although we could have used any other",
+		"back": "aunque podríamos haber utilizado cualquier otro"
+	},
+	{
+		"front": "we access the URL",
+		"back": "accedemos a la URL"
+	},
+	{
+		"front": "start the server on port 8080",
+		"back": "arranca el servidor en el puerto 8080"
+	},
+	{
+		"front": "in isolation",
+		"back": "de manera aislada"
+	},
+	{
+		"front": "will make a request",
+		"back": "hará una petition"
+	},
+	{
+		"front": "it will return the list",
+		"back": "devolverá la lista"
+	},
+	{
+		"front": "to test it",
+		"back": "para probarlo"
+	},
+	{
+		"front": "finally",
+		"back": "por último"
+	},
+	{
+		"front": "let's ask",
+		"back": "vamos a pedir"
+	},
+	{
+		"front": "I will store in the variable",
+		"back": "almacenaré en la variable"
+	},
+	{
+		"front": "he copies text in all at once, he doesn't type it",
+		"back": "copia el texto de una sola vez, no lo escribe"
+	},
+	{
+		"front": "by prompt we understand",
+		"back": "entendemos por prompt"
+	},
+	{
+		"front": "you can see on the last line",
+		"back": "puedes verlo en la última línea"
+	},
+	{
+		"front": "we will read the answer",
+		"back": "leeremos la respuesta"
+	},
+	{
+		"front": "the root directory",
+		"back": "el directorio raíz"
+	},
+	{
+		"front": "we will return to the subject",
+		"back": "volveremos al tema"
+	},
+	{
+		"front": "which is responsible for making the request to the API",
+		"back": "que se engarga de hacer la petición a la API"
+	},
+	{
+		"front": "in the following videos",
+		"back": "en siguientes vídeos [see-g|ee-EN-tays]"
+	},
+	{
+		"front": "wouldn't it be better to be able to do something like this",
+		"back": "no sería mejor ser capaces de hacer algo así"
+	},
+	{
+		"front": "tens, hundreds",
+		"back": "decenas, cientos"
+	},
+	{
+		"front": "text box",
+		"back": "caja de texto"
+	},
+	{
+		"front": "the mouse",
+		"back": "el ratón"
 	},
 	{
 		"front": "how can we see all the messages",
