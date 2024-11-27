@@ -1152,6 +1152,30 @@
 		"back": "aquellos que quieran tener un respaldo de su trabajo"
 	},
 	{
+		"front": "on your own or with your team",
+		"back": "por tu cuenta o con tu equipo de trabajo"
+	},
+	{
+		"front": "now you have a repository ready",
+		"back": "ahora ya cuentas con un repositorio listo"
+	},
+	{
+		"front": "as we saw previously",
+		"back": "como vimos previamente"
+	},
+	{
+		"front": "this application as such",
+		"back": "esta aplicación como tal"
+	},
+	{
+		"front": "but you can see how",
+		"back": "pero puedes darte cuenta como"
+	},
+	{
+		"front": "it is required to maintain control",
+		"back": "se requiere mantener un control"
+	},
+	{
 		"front": "for which we will need",
 		"back": "para lo cual necesitaremos"
 	},
@@ -1172,7 +1196,11 @@
 		"back": "fomentar el reúso de componentes"
 	},
 	{
-		"front": "this makes more sense",
+		"front": "this makes more sense (with tomar)",
+		"back": "esto toma más coherencia"
+	},
+	{
+		"front": "this makes more sense (with tener)",
 		"back": "esto tiene más sentido"
 	},
 	{
