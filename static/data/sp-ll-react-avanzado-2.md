@@ -1,13 +1,12 @@
-# React Hooks esencial
+# React avanzado 2
 
-- https://www.linkedin.com/learning/react-avanzado-2
-- React avanzado 2
-- 02:27:00
-- spanish-spanish
-- React, monorepos
-- 4.88
-- 2022
-- monorepos, nx, storybook, testing, patterns, GitHub Actions, 70%
+https://www.linkedin.com/learning/react-avanzado-2
+
+- duration: 02:27:00
+- language: sp
+- topics: react, monorepos
+- rank: 4.88
+- description: monorepos, nx, storybook, testing, patterns, GitHub Actions, 70% useful
 
 ## intro, 1:16, 2024-11-21
 
