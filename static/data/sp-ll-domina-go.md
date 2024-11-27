@@ -34,11 +34,17 @@ https://www.linkedin.com/learning/domina-go/crear-una-funcion-con-parametros-opc
 - variadic parameters
 - `func sum(numbers ...int) int {`
 
-## Obtener el último elemento de un slice en Go, 1:10, nnn
+## Obtener el último elemento de un slice en Go, 1:10, 2024-11-26
 
 https://www.linkedin.com/learning/domina-go/obtener-el-ultimo-elemento-de-un-slice-en-go?autoSkip=true&resume=false
 
 - just gets the last elements from a slice
+
+##  Verificar si una cadena contiene una subcadena en Go, 1:31, nnn
+
+https://www.linkedin.com/learning/domina-go/verificar-si-una-cadena-contiene-una-subcadena-en-go?resume=false
+
+- nnn
 
 ## VOCAB - SPANISH
 

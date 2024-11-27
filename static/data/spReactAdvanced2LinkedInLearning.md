@@ -15,18 +15,52 @@ https://www.linkedin.com/learning/react-avanzado-2/react-avanzado-mejorando-tu-c
 
 - many topics
 
-## Nx y mono repositorios, 5:14, nnn
+## Nx y mono repositorios, 5:14, 2024-11-27
 
 https://www.linkedin.com/learning/react-avanzado-2/nx-y-mono-repositorios?autoSkip=true&resume=false
 
+- https://nx.dev
 - `npx create-nx-workspace`
 - npx = Node package execute
 - y (yes)
 - Workspace name: @@1:45
+- chose React##thechoisfif
+- can then chose nextjs, remix, expo, react native
+- showed style options but no tailwind (2022), but in mine it does
+- his offers Nx Cloud, he chose it
+  - it never asked me about Nx Cloud
+- he has an apps directory
+- he installs the plugin
+- there is also nx console
+- `nx run admin:serve`
+
+##  Organización por librerías en React, 5:19, nnn
+
+https://www.linkedin.com/learning/react-avanzado-2/organizacion-por-librerias-en-react?autoSkip=true&resume=false
+
+- nnn
 
 ## VOCAB - SPANISH
 
 ```
+on your own or with your team
+por tu cuenta o con tu equipo de trabajo
+
+now you have a repository ready
+ahora ya cuentas con un repositorio listo
+
+as we saw previously
+como vimos previamente
+
+this application as such
+esta aplicación como tal
+
+but you can see how
+pero puedes darte cuenta como
+
+it is required to maintain control
+se requiere mantener un control
+
 for which we will need
 para lo cual necesitaremos
 
@@ -42,7 +76,10 @@ teniendo todo bajo un mismo techo; pr=TAY-choh
 promote the reuse of components
 fomentar el reúso de componentes
 
-this makes more sense
+this makes more sense (with tomar)
+esto toma más coherencia
+
+this makes more sense (with tener)
 esto tiene más sentido
 
 hence the name
