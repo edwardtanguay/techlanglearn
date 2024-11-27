@@ -38,11 +38,29 @@ https://www.linkedin.com/learning/domina-go/crear-una-funcion-con-parametros-opc
 
 https://www.linkedin.com/learning/domina-go/obtener-el-ultimo-elemento-de-un-slice-en-go?autoSkip=true&resume=false
 
-- nnn
+- just gets the last elements from a slice
 
 ## VOCAB - SPANISH
 
 ```
+we subtract 1
+le restamos 1
+
+let's do that
+hagamos eso; hagamos = present subjunctive of hacer; conj=hacer
+
+we can do it through the index
+lo podemos hacer por medio del índice
+
+since this will be the one to whom the prize will be awarded
+dado que esta será al que se le entregue el premio; entregue = subjunctive present of entregar, almost regular (yo preterite: entregué); conj=entregar
+
+we have realized that there was a mistake
+nos hemos dado cuenta que hubo un error; dar = dado, dando; hubo = preterite of haber; rank=4.92
+
+the winning numbers of a raffle
+los números ganadores de una rifa
+
 when you don't know the amount of arguments
 cuando desconozcas la cantidad de argumentos
 

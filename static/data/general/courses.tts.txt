@@ -71,3 +71,5 @@ python, fastapi; sp; 01:24:00; 2024; 4.7; https://www.linkedin.com/learning/domi
 
 
 docker; sp;02:34:00; 2024;4.91;https://www.linkedin.com/learning/docker-esencial-23119241; Docker esencial; Spanish, in depth Docker
+
+>>create>> go; sp; 00:50:00; 2023;4.82; https://www.linkedin.com/learning/domina-go; Domina Go; short videos but seems to cover basic topics, and from 2023, but some videos are very simple, e.g. how to get the last item out of a slice
