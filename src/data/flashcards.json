@@ -1,33 +1,5 @@
 [
 	{
-		"front": "let's change it to no",
-		"back": "combiémoslo a no"
-	},
-	{
-		"front": "so we need to provide that name",
-		"back": "por lo que debemos proporcionar ese nombre"
-	},
-	{
-		"front": "what this function is about and what it does",
-		"back": "qué se trata esta función y qué hace"
-	},
-	{
-		"front": "I like that standard because",
-		"back": "me gusta esa estandár porque"
-	},
-	{
-		"front": "así es como lo hace",
-		"back": "this is how you do it"
-	},
-	{
-		"front": "let me save it",
-		"back": "déjeme guardarlo"
-	},
-	{
-		"front": "I'll explain it to you a little later",
-		"back": "explicártelo un poco más adelante"
-	},
-	{
 		"front": "GitLab provides us with some variables",
 		"back": "GitLab nos proporciona algunas variables"
 	},
@@ -326,6 +298,34 @@
 	{
 		"front": "a very common thing to do",
 		"back": "algo muy común que se puede hacer"
+	},
+	{
+		"front": "let's change it to no",
+		"back": "combiémoslo a no"
+	},
+	{
+		"front": "so we need to provide that name",
+		"back": "por lo que debemos proporcionar ese nombre"
+	},
+	{
+		"front": "what this function is about and what it does",
+		"back": "qué se trata esta función y qué hace"
+	},
+	{
+		"front": "I like that standard because",
+		"back": "me gusta esa estandár porque"
+	},
+	{
+		"front": "así es como lo hace",
+		"back": "this is how you do it"
+	},
+	{
+		"front": "let me save it",
+		"back": "déjeme guardarlo"
+	},
+	{
+		"front": "I'll explain it to you a little later",
+		"back": "explicártelo un poco más adelante"
 	},
 	{
 		"front": "it is quite similar to this tool",
