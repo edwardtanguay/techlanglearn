@@ -1,3 +1,7 @@
+- spanish courses: https://www.linkedin.com/learning/topics/tecnologia?durations=BETWEEN_30_TO_60_MIN~BETWEEN_1_TO_2_HOURS~BETWEEN_2_TO_3_HOURS~MORE_THAN_3_HOURS&entityType=COURSE
+
+
+- Spanish Python: https://www.linkedin.com/learning/instructors/ana-maria-pinto
 
 
 // kinde and clerk
@@ -8,7 +12,6 @@ go: https://www.linkedin.com/learning/go-for-developers-practical-techniques-for
 
 go, cobra; en; 4.92;https://www.youtube.com/watch?v=yiFhQGJeRJk
 
-docker; sp;2024;4.91;https://www.linkedin.com/learning/docker-esencial-23119241
 
 bash, linux;sp; 2022;4.78;https://www.linkedin.com/learning/aprende-shell-scripting-en-linux
 rust; sp; 2024;3.8; https://www.linkedin.com/learning/rust-avanzado-24014033
@@ -35,7 +38,7 @@ grid, flexbox; fr; 2022; 4.4; https://www.linkedin.com/learning/la-mise-en-page-
 
 go, goreleaser; en; 2024; 4.1; https://www.youtube.com/watch?v=JFhzuIffPCo | Automate your Go binary releases with GoReleaser and Github Actions
 
-
+ai, llamaIndex, langchain; fr; https://www.linkedin.com/learning/creer-des-agents-ia-avec-langchain-et-llamaindex/etendre-un-llm-avec-un-agent-langchain?resume=false
 
 git merges
 - https://www.youtube.com/results?search_query=git+merge+conflict+tutorial
@@ -55,10 +58,14 @@ CREATED: go; sp; 01:10:00; 2024; 4.8; https://www.linkedin.com/learning/domina-g
 CREATED: gitlab; en; 01:27:00; 2022; 4.7; https://www.linkedin.com/learning/continuous-integration-and-continuous-delivery-with-gitlab; Continuous Integration and Continuous Delivery with GitLab; good basics of GitLab, from 2022 so not that old
 CREATED: go; sp;00:50:00; 2023;4.96; https://www.linkedin.com/learning/domina-go; Domina Go; short videos but seems to cover important topics, and 2023
 CREATED: webflow; en; 02:07:00; 2024; 3.9; https://www.linkedin.com/learning/learning-webflow-23115084/a-new-kind-of-content-management-system-24379800; Learning Webflow; enables you to build professional, responsive, customized sites using a completely visual canvas—no coding required
+CREATED: go; sp; 00:34:00;2024; 4.6; https://www.linkedin.com/learning/domina-go-creacion-y-empaquetado-de-aplicaciones; Domina Go: Creación y empaquetado de aplicaciones;finished this one, short, useful
 
 
 css; sp;01:05:00; 2016;3.7; https://www.linkedin.com/learning/css-avanzado-12-trucos/presentacion-del-curso-css-avanzado-12-trucos; CSS avanzado: 12 trucos; tutorial is 8 years old but Zuriñe has a nice voice and these topics should be timeless
 
 androidUser; sp; 01:04:00;2024; 4.3;https://www.linkedin.com/learning/trucos-semanales-para-usuarios-de-android; Trucos semanales para usuarios de Android; nice tips like screen recording, Elena has a nice Spanish voice
 
->>create>> go; sp; 00:34:00;2024; 4.6; https://www.linkedin.com/learning/domina-go-creacion-y-empaquetado-de-aplicaciones; Domina Go: Creación y empaquetado de aplicaciones;finished this one, short, useful
+python, fastapi; sp; 01:24:00; 2024; 4.7; https://www.linkedin.com/learning/domina-python-fastapi; Domina Python: FastAPI; looks interesting, in Spanish, good way to learn practical Python
+
+
+docker; sp;02:34:00; 2024;4.91;https://www.linkedin.com/learning/docker-esencial-23119241; Docker esencial; Spanish, in depth Docker

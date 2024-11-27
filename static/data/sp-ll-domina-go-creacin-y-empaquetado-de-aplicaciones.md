@@ -1,10 +1,12 @@
 # Domina Go: Creación y empaquetado de aplicaciones
 
-- https://www.linkedin.com/learning/domina-go-creacion-y-empaquetado-de-aplicaciones
-- 00:34:00
-- spanish-spanish
-- Go
-- 4.6
+https://www.linkedin.com/learning/domina-go-creacion-y-empaquetado-de-aplicaciones
+
+- duration: 00:34:00
+- language: sp
+- topics: go
+- rank: 4.6
+- description: finished this one, short, useful
 
 ## intro - 0:30, 2024-10-29
 
