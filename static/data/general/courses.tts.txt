@@ -71,3 +71,4 @@ python, fastapi; sp; 01:24:00; 2024; 4.7; https://www.linkedin.com/learning/domi
 
 docker; sp;02:34:00; 2024;4.91;https://www.linkedin.com/learning/docker-esencial-23119241; Docker esencial; Spanish, in depth Docker
 
+>>create>> gitlab; sp; 03:11:00; 2016;4.3;https://www.linkedin.com/learning/gitlab-esencial; GitLab esencial;a solid, long course in Spanish but unfortunately very hold (2016), watch it and try to redo in the current version of GitLab
