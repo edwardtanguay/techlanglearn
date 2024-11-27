@@ -5,8 +5,8 @@ https://www.linkedin.com/learning/domina-go
 - duration: 00:50:00
 - language: sp
 - topics: go
-- rank: 4.96
-- description: short videos but seems to cover important topics, and 2023
+- rank: 4.82
+- description: short videos but seems to cover basic topics, and from 2023, but some videos are very simple, e.g. how to get the last item out of a slice
 
 ## intro, 0:43, 2024-11-25
 
