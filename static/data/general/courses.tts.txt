@@ -69,3 +69,6 @@ python, fastapi; sp; 01:24:00; 2024; 4.7; https://www.linkedin.com/learning/domi
 
 
 docker; sp;02:34:00; 2024;4.91;https://www.linkedin.com/learning/docker-esencial-23119241; Docker esencial; Spanish, in depth Docker
+
+
+>> create >> easyPeasy; en; 00:47:00; 2020; 4.82; https://www.youtube.com/watch?v=sPFaDYaTUeI&list=PLNTXksYYFsn9jnS_7Vpk9Qi2vb5N-MdOM;  React Redux Easy Peasy Complete Course; old course but checking it out, uses TypeScript, only doing parts 2-4, part 1 was too simple
