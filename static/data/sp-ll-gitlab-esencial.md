@@ -1,11 +1,12 @@
 # GitLab esencial
 
-- https://www.linkedin.com/learning/gitlab-esencial
-- 03:11:00
-- spanish-spanish
-- GitLab
-- 4.9
-- basics of GitLab
+https://www.linkedin.com/learning/gitlab-esencial
+
+- duration: 03:11:00
+- language: sp
+- topics: gitlab
+- rank: 4.3
+- description: a solid, long course in Spanish but unfortunately very hold (2016), watch it and try to redo in the current version of GitLab
 
 ## intro - 0:48, 2024-11-17
 
@@ -30,7 +31,7 @@ https://www.linkedin.com/learning/gitlab-esencial/que-es-gitlab?autoSkip=true&re
 
 https://www.linkedin.com/learning/gitlab-esencial/gitlab-community-edition-vs-enterprise-edition?autoSkip=true&resume=false
 
--
+- nnn
 
 ## VOCAB - SPANISH
 
