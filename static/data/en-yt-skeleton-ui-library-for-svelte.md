@@ -1,11 +1,12 @@
 # Skeleton UI Library for Svelte
 
-- https://www.youtube.com/watch?v=P_A0qQ7AuK8
-- 16:12
-- english
-- Skeleton, Svelte
-- 4.6
-- intro to SkeletonUI for Svelte
+https://www.youtube.com/watch?v=P_A0qQ7AuK8
+
+- duration: 00:16:12
+- language: en
+- topics: skeleton, svelte
+- rank: 4.6
+- description: a UI library for Svelte, I used it and it worked well, used it in my SvelteKit 5 showcase
 
 ## watchlog
 

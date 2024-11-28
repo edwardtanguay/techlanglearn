@@ -154,6 +154,4 @@ CREATED: grid; en;02:28:00; 2024;4.91;https://www.linkedin.com/learning/css-adva
 CREATED: monorepos; en; 00:55:00; 2024; 4.89; https://www.linkedin.com/learning/building-a-scalable-monorepo-with-javascript-and-typescript; Building a Scalable Monorepo with JavaScript and TypeScript; looks like a quick deep dive in monorepos
 CREATED: flask; en; 02:02:00; 2024; 4.68; https://www.linkedin.com/learning/flask-essential-training-24681038;  Flask Essential Training ; seems like a solid course on Flask
 CREATED: flask; en; 02:32:00; 2024; 4.78; https://www.linkedin.com/learning/building-restful-apis-with-flask;  Building RESTful APIs with Flask ; seems like the essentials of Flash, i.e. an API
-
-
-skeleton, svelte; en; 00:16:12; 2023; 4.6; https://www.youtube.com/watch?v=P_A0qQ7AuK8; Skeleton UI Library for Svelte; a UI library for Svelte, I used it and it worked well, used it in my SvelteKit 5 showcase
+CREATED: skeleton, svelte; en; 00:16:12; 2023; 4.6; https://www.youtube.com/watch?v=P_A0qQ7AuK8; Skeleton UI Library for Svelte; a UI library for Svelte, I used it and it worked well, used it in my SvelteKit 5 showcase
