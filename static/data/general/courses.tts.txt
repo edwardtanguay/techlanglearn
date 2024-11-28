@@ -152,17 +152,17 @@ CREATED: ink;en;00:14:46;2021; 4.2; https://www.youtube.com/watch?v=KSRpcftVyKg;
 
 
 
-react, redux; en;03:50:00; 2024; 4.69; https://www.linkedin.com/learning/building-modern-projects-with-react-24955170; Building Modern Projects with React; lots of Redux, some Webpack, testing, seems to be React from a different angle, also Remix, Next.js
+>>create>> react, redux; en;03:50:00; 2024; 4.69; https://www.linkedin.com/learning/building-modern-projects-with-react-24955170; Building Modern Projects with React; lots of Redux, some Webpack, testing, seems to be React from a different angle, also Remix, Next.js
 
 
-nextjs, mongo; en;03:54:00;2024;4.99; https://www.linkedin.com/learning/next-js-creating-and-hosting-a-full-stack-site/create-a-full-stack-site-with-next-js; Next.js: Creating and Hosting a Full-Stack Site; Shaun Wassell, looks like an excellent
+>>create>> nextjs, mongo; en;03:54:00;2024;4.99; https://www.linkedin.com/learning/next-js-creating-and-hosting-a-full-stack-site/create-a-full-stack-site-with-next-js; Next.js: Creating and Hosting a Full-Stack Site; Shaun Wassell, looks like an excellent
 
-grid; en;02:28:00; 2024;4.91;https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327; CSS: Advanced Layouts with Grid; long course on grid, looks good
+>>create>> grid; en;02:28:00; 2024;4.91;https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327; CSS: Advanced Layouts with Grid; long course on grid, looks good
 
-monorepos; en; 00:55:00; 2024; 4.89; https://www.linkedin.com/learning/building-a-scalable-monorepo-with-javascript-and-typescript; Building a Scalable Monorepo with JavaScript and TypeScript; looks like a quick deep dive in monorepos
+>>create>> monorepos; en; 00:55:00; 2024; 4.89; https://www.linkedin.com/learning/building-a-scalable-monorepo-with-javascript-and-typescript; Building a Scalable Monorepo with JavaScript and TypeScript; looks like a quick deep dive in monorepos
 
 
-flask; en; 02:02:00; 2024; 4.68; https://www.linkedin.com/learning/flask-essential-training-24681038;  Flask Essential Training ; seems like a solid course on Flask
+>>create>> flask; en; 02:02:00; 2024; 4.68; https://www.linkedin.com/learning/flask-essential-training-24681038;  Flask Essential Training ; seems like a solid course on Flask
 
-flask; en; 02:32:00; 2024; 4.78; https://www.linkedin.com/learning/building-restful-apis-with-flask;  Building RESTful APIs with Flask ; seems like the essentials of Flash, i.e. an API
+>>create>> flask; en; 02:32:00; 2024; 4.78; https://www.linkedin.com/learning/building-restful-apis-with-flask;  Building RESTful APIs with Flask ; seems like the essentials of Flash, i.e. an API
 
