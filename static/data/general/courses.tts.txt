@@ -160,3 +160,6 @@ CREATED: svelte5; en; 00:21:40; 2024; 4.8; https://www.youtube.com/watch?v=tErKy
 
 
 CREATED: svelte5; en; 00:22:03; 2024; 4.8; https://www.youtube.com/watch?v=tC9KSwnczxQ; Svelte 5 Is A Triumph; another good Svelte 5 video, recorded all concepts in SvelteKit 5 showcase
+
+
+>>create>> svelte5;en;00:17:40; 2024; 4.8; https://www.youtube.com/watch?v=OlWWIbRz438; Use Svelte 5 Snippets To Reuse Markup Without Creating Components; is about Snippets but more, e.g. generics

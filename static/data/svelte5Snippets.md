@@ -5,6 +5,7 @@
 - english
 - svelte5
 - 4.8
+- 2024
 
 ## watchlog
 
