@@ -8,6 +8,7 @@
 - https://www.youtube.com/watch?v=Ob9llA_QhQY
 
 - lookup: nginx
+- lookup: JWT
 
 - spanish courses: https://www.linkedin.com/learning/topics/tecnologia?durations=BETWEEN_30_TO_60_MIN~BETWEEN_1_TO_2_HOURS~BETWEEN_2_TO_3_HOURS~MORE_THAN_3_HOURS&entityType=COURSE
 
@@ -164,3 +165,4 @@ flask; en; 02:02:00; 2024; 4.68; https://www.linkedin.com/learning/flask-essenti
 flask; en; 02:32:00; 2024; 4.78; https://www.linkedin.com/learning/building-restful-apis-with-flask;  Building RESTful APIs with Flask ; seems like the essentials of Flash, i.e. an API
 
 
+>>create>> go, graphql, nextjs, gin; 02:30:00; 2020; 4.98; https://www.youtube.com/watch?v=wfBeEn8d-8A&list=PL3eAkoh7fypqxiqDq9OQGm3aJO7dZjSBI; Build GraphQL Server with Go; 10+ videos that include Next.js, Gin all working together, good way to learn GraphQL 
