@@ -1,15 +1,12 @@
 # Build GraphQL Server with Go
 
-- https://www.youtube.com/watch?v=wfBeEn8d-8A&list=PL3eAkoh7fypqxiqDq9OQGm3aJO7dZjSBI
-- 02:30:00
-- english
-- go, graphql
-- 2020
-- 4.8234
+https://www.youtube.com/watch?v=wfBeEn8d-8A&list=PL3eAkoh7fypqxiqDq9OQGm3aJO7dZjSBI
 
-## watchlog
-
-- nnn
+- duration: 02:30:00
+- language: en
+- topics: go, graphql, nextjs, gin
+- rank: 4.98
+- description: 10+ videos that include Next.js, Gin all working together, good way to learn GraphQL
 
 ## What is GraphQL, 4:49, 2024-11-15
 
@@ -79,7 +76,9 @@ type Mutation {
 }
 ```
 
-- 
+- TODO: redo all this, create a public project, like on tanguay-eu, list it here above
+
+-
 
 ## VOCAB - SPANISH
 

@@ -292,6 +292,18 @@
 		"back": "queremos agregar autenticación"
 	},
 	{
+		"front": "now let's move onto the terminal",
+		"back": "ahora pasemos a la terminal"
+	},
+	{
+		"front": "will return a result",
+		"back": "va a devolver un resultado"
+	},
+	{
+		"front": "just to give an example",
+		"back": "solo para dar un ejemplo"
+	},
+	{
 		"front": "so let's take a look at the readme file",
 		"back": "así que echemos un vistazo al archivo readme"
 	},
@@ -326,18 +338,6 @@
 	{
 		"front": "I'll explain it to you a little later",
 		"back": "explicártelo un poco más adelante"
-	},
-	{
-		"front": "now let's move onto the terminal",
-		"back": "ahora pasemos a la terminal"
-	},
-	{
-		"front": "will return a result",
-		"back": "va a devolver un resultado"
-	},
-	{
-		"front": "just to give an example",
-		"back": "solo para dar un ejemplo"
 	},
 	{
 		"front": "but above all I hope this has been useful",
