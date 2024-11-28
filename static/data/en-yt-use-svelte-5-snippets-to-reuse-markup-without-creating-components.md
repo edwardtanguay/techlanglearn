@@ -1,13 +1,16 @@
 # Use Svelte 5 Snippets To Reuse Markup Without Creating Components
 
-- https://www.youtube.com/watch?v=OlWWIbRz438
-- 17:40
-- english
-- svelte5
-- 4.8
-- 2024
+https://www.youtube.com/watch?v=OlWWIbRz438
+
+- duration: 00:17:40
+- language: en
+- topics: svelte5
+- rank: 4.8
+- description: is about Snippets but more, e.g. generics
 
 ## watchlog
+
+00:00 - nnn
 
 ## first
 
@@ -22,3 +25,8 @@
   - need to be shared across multiple projects
   - clear separation of concerns
 - see: https://frontendmasters.com/blog/snippets-in-svelte-5/
+
+## VOCAB - SPANISH
+
+```
+```
