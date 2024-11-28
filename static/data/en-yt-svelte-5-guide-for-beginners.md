@@ -1,10 +1,12 @@
 # Svelte 5 Guide For Beginners
 
-- https://www.youtube.com/watch?v=tErKyuUTzsM
-- 21:40
-- english
-- svelte5
-- 4.8
+https://www.youtube.com/watch?v=tErKyuUTzsM
+
+- duration: 00:21:40
+- language: en
+- topics: svelte5
+- rank: 4.8
+- description: good video, recorded all useful concepts in SvelteKit 5 showcase
 
 ## watchlog
 
@@ -69,4 +71,3 @@ $effect(() => {
 - runes are just reactive primitives
 - SolidJS is similar to Svelte because they both use signals
 - runes are just function-like symbols that give instructions to the Svelte compiler which then get turned to signals under the hood
-
