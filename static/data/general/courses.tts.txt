@@ -159,4 +159,4 @@ CREATED: react, hooks; sp; 02:46:00; 2021; 4.81; https://www.linkedin.com/learni
 CREATED: svelte5; en; 00:21:40; 2024; 4.8; https://www.youtube.com/watch?v=tErKyuUTzsM; Svelte 5 Guide For Beginners; good video, recorded all useful concepts in SvelteKit 5 showcase
 
 
->>create>> svelte5; en; 00:22:03; 2024; 4.8; Svelte 5 Is A Triumph; another good Svelte 5 video, recorded all concepts in SvelteKit 5 showcase 
+>>create>> svelte5; en; 00:22:03; 2024; 4.8; https://www.youtube.com/watch?v=tC9KSwnczxQ; Svelte 5 Is A Triumph; another good Svelte 5 video, recorded all concepts in SvelteKit 5 showcase 
