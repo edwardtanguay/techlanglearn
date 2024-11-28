@@ -1,10 +1,12 @@
 # Svelte 5 Is A Triumph
 
-- https://www.youtube.com/watch?v=tC9KSwnczxQ
-- 22:03
-- english
-- svelte5
-- 4.8
+https://www.youtube.com/watch?v=tC9KSwnczxQ
+
+- duration: 00:22:03
+- language: en
+- topics: svelte5
+- rank: 4.8
+- description: another good Svelte 5 video, recorded all concepts in SvelteKit 5 showcase
 
 ## watchlog
 
