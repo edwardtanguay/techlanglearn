@@ -155,3 +155,6 @@ CREATED: monorepos; en; 00:55:00; 2024; 4.89; https://www.linkedin.com/learning/
 CREATED: flask; en; 02:02:00; 2024; 4.68; https://www.linkedin.com/learning/flask-essential-training-24681038;  Flask Essential Training ; seems like a solid course on Flask
 CREATED: flask; en; 02:32:00; 2024; 4.78; https://www.linkedin.com/learning/building-restful-apis-with-flask;  Building RESTful APIs with Flask ; seems like the essentials of Flash, i.e. an API
 CREATED: skeleton, svelte; en; 00:16:12; 2023; 4.6; https://www.youtube.com/watch?v=P_A0qQ7AuK8; Skeleton UI Library for Svelte; a UI library for Svelte, I used it and it worked well, used it in my SvelteKit 5 showcase
+
+
+>>create>> react, hooks; sp; 02:46:00; 2021; 4.81; https://www.linkedin.com/learning/react-hooks-esencial; React Hooks esencial; basics of React hooks, it only has a small section on custom hooks, and is focused on showing how one moves from class components to function components (created in 2021), discontinued as rest of content is too simplistic
