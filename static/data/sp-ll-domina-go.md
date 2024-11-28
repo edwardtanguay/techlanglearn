@@ -40,15 +40,82 @@ https://www.linkedin.com/learning/domina-go/obtener-el-ultimo-elemento-de-un-sli
 
 - just gets the last elements from a slice
 
-##  Verificar si una cadena contiene una subcadena en Go, 1:31, nnn
+## Verificar si una cadena contiene una subcadena en Go, 1:31, 2024-11-27
 
 https://www.linkedin.com/learning/domina-go/verificar-si-una-cadena-contiene-una-subcadena-en-go?resume=false
+
+- uses Contains
+
+## Llamado de una función desde otro archivo en Go, 1:24, 2024-11-27
+
+https://www.linkedin.com/learning/domina-go/llamado-de-una-funcion-desde-otro-archivo-en-go?autoSkip=true&resume=false
+
+- she imports from another package
+- doing an example with tools
+- doing this in new project soflash
+  - `go mod init github.com/edwardtanguay/soflash`
+  - then made "cmd/test/main.go"
+  - worked
+
+## Verificar si un map contiene una clave en Go, 1:40, 2024-11-28
+
+https://www.linkedin.com/learning/domina-go/verificar-si-un-map-contiene-una-clave-en-go?autoSkip=true&resume=false
+
+- maps are key/value storage containers
+- keys are unique
+- can use exist on end:
+
+```
+userID := "u456"
+if user, exists := users[userID]; exists {
+	fmt.Printf("User %s: Name = %s, Email = %s\n", userID, user["name"], user["email"])
+} else {
+	fmt.Printf("User with ID %s not found.\n", userID)
+}
+```
+
+##  Concatenar dos slices en Go, 1:16, nnn
+
+https://www.linkedin.com/learning/domina-go/concatenar-dos-slices-en-go?autoSkip=true&resume=false
 
 - nnn
 
 ## VOCAB - SPANISH
 
 ```
+to check if we saved the file
+para comprobar si guardamos el archivo
+
+otherwise we will indicate that it does not exist
+caso contrario vamos a indicar que no existe
+
+and in square brackets
+y entre paréntesis cuadrados
+
+let's see in the case of React
+veamos en el caso de React; veamos = imperitive and subjunctive present
+
+conj. ver present
+veo, ves, ve, vemos, veis, ven
+
+conj. ver preterite
+vi viste vio vimos visteis vieron
+
+it has a name associated with it
+tiene asociada un nombre
+
+two integers
+dos numeros enteros
+
+what we are going to do is place an if-statement here
+lo que vamos a hacer es colocar una declaración if aquí
+
+the last name
+el apellido
+
+we may not remember the name
+tal vez no recordemos el nombre; conj=recordar; recordemos is present subjunctive of recordar, regular but o>ue
+
 we subtract 1
 le restamos 1
 

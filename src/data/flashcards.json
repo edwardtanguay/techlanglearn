@@ -968,6 +968,50 @@
 		"back": "nuevas alturas"
 	},
 	{
+		"front": "to check if we saved the file",
+		"back": "para comprobar si guardamos el archivo"
+	},
+	{
+		"front": "otherwise we will indicate that it does not exist",
+		"back": "caso contrario vamos a indicar que no existe"
+	},
+	{
+		"front": "and in square brackets",
+		"back": "y entre paréntesis cuadrados"
+	},
+	{
+		"front": "let's see in the case of React",
+		"back": "veamos en el caso de React; veamos = imperitive and subjunctive present"
+	},
+	{
+		"front": "conj. ver present",
+		"back": "veo, ves, ve, vemos, veis, ven"
+	},
+	{
+		"front": "conj. ver preterite",
+		"back": "vi viste vio vimos visteis vieron"
+	},
+	{
+		"front": "it has a name associated with it",
+		"back": "tiene asociada un nombre"
+	},
+	{
+		"front": "two integers",
+		"back": "dos numeros enteros"
+	},
+	{
+		"front": "what we are going to do is place an if-statement here",
+		"back": "lo que vamos a hacer es colocar una declaración if aquí"
+	},
+	{
+		"front": "the last name",
+		"back": "el apellido"
+	},
+	{
+		"front": "we may not remember the name",
+		"back": "tal vez no recordemos el nombre; conj=recordar; recordemos is present subjunctive of recordar, regular but o\u003eue"
+	},
+	{
 		"front": "we subtract 1",
 		"back": "le restamos 1"
 	},

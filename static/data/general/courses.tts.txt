@@ -1,7 +1,81 @@
+- gitlab french, 2023
+- https://www.linkedin.com/learning/l-essentiel-de-gitlab/bienvenue-dans-l-essentiel-de-gitlab
+- git french 2020
+- https://www.linkedin.com/learning/l-essentiel-de-git/effectuer-un-premier-commit
+
+- github versioning
+- https://www.youtube.com/results?search_query=github+releases+tutorial+
+- https://www.youtube.com/watch?v=Ob9llA_QhQY
+
+- lookup: nginx
+
 - spanish courses: https://www.linkedin.com/learning/topics/tecnologia?durations=BETWEEN_30_TO_60_MIN~BETWEEN_1_TO_2_HOURS~BETWEEN_2_TO_3_HOURS~MORE_THAN_3_HOURS&entityType=COURSE
 
+- english courses
+- https://www.linkedin.com/learning/topics/technology?durations=BETWEEN_30_TO_60_MIN~BETWEEN_1_TO_2_HOURS~BETWEEN_2_TO_3_HOURS~MORE_THAN_3_HOURS&entityType=COURSE&software=C%23~React.js~GitHub~Microsoft%20Excel~Python~JavaScript~Linux~CSS~ChatGPT&sortBy=RECENCY
 
-- Spanish Python: https://www.linkedin.com/learning/instructors/ana-maria-pinto
+- french flask, 2024
+- https://www.linkedin.com/learning/l-essentiel-de-flask/bienvenue-dans-l-essentiel-de-flask
+- french linux
+- https://www.linkedin.com/learning/linux-l-administration-avancee/comprendre-le-principe-de-systemd?resume=false
+- french vue.js 3, 2024
+- https://www.linkedin.com/learning/l-essentiel-de-vue-js-22426755/installer-vue-js?resume=false
+- french dotnet 8 with VSCode
+- https://www.linkedin.com/learning/l-essentiel-de-dot-net-8/integrer-les-dates-et-le-temps?resume=false
+- french vba
+- https://www.linkedin.com/learning/excel-le-vba-avance/creer-une-feuille?resume=false
+- french API with MongoDB, 2024
+- https://www.linkedin.com/learning/construire-des-api-restful-avec-node-js/bienvenue-dans-construire-des-api-restful-avec-node-js
+- french redux, context, reducer, recoil, 2024
+- https://www.linkedin.com/learning/react-js-gerer-les-etats-d-application-22389783/bienvenue-dans-react-js-gerer-les-etats-d-application
+- french React design patterns
+- https://www.linkedin.com/learning/react-design-patterns-10416007/bienvenue-dans-react-design-patterns
+- french css animations, 2023
+- https://www.linkedin.com/learning/css-animations-et-transitions-22819867/utiliser-la-transformation-translate
+- french grid
+- https://www.linkedin.com/learning/css-apprendre-le-grid-layout/bienvenue-dans-css-apprendre-le-grid-layout
+- french flexbox
+- https://www.linkedin.com/learning/css-maitriser-les-flexbox/bienvenue-dans-css-maitriser-les-flexbox
+- french, node and databases, 2023
+- https://www.linkedin.com/learning/node-js-les-bases-de-donnees/bienvenue-dans-node-js-les-bases-de-donnees
+- french javascript design patterns
+- https://www.linkedin.com/learning/javascript-les-design-patterns/utiliser-la-solution-du-module-design-pattern?resume=false
+- french create npm package
+- https://www.linkedin.com/learning/l-essentiel-de-node-package-manager-npm/ajouter-des-scripts-dans-package-json
+
+- github bots
+- https://www.linkedin.com/learning/building-github-bots/examples-of-github-bots?resume=false
+- github
+- https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/projects-vs-classic-projects?autoSkip=true&resume=false
+- github actions
+- https://www.linkedin.com/learning/practical-github-actions/creating-a-marketplace-github-action
+- github actions for CI/CD
+- https://www.linkedin.com/learning/github-actions-for-ci-cd/continuous-delivery-for-software-packages?resume=false
+- github advanced actions
+- https://www.linkedin.com/learning/advanced-github-actions/run-a-job-with-a-matrix-strategy?resume=false
+- github tips
+- https://www.linkedin.com/learning/github-quick-tips/get-maximum-contribution-credits
+- git branches etc.
+- https://www.linkedin.com/learning/git-branches-merges-and-remotes/mixed-reset
+- git very good
+- https://www.linkedin.com/learning/git-for-teams/using-git-for-team-collaboration
+- git workflows good
+- https://www.linkedin.com/learning/git-workflows/github-flow-in-practice
+- swagger
+- https://www.linkedin.com/learning/building-apis-with-swagger-and-the-openapi-specification/building-apis-with-swagger
+- advanced reactg
+- https://www.linkedin.com/learning/react-components-context-and-accessibility/uncontrolled-components
+
+- PYTHON
+	- good teacher for Python, Ana María Pinto: https://www.linkedin.com/learning/instructors/ana-maria-pinto
+	- Spanish Python: https://www.linkedin.com/learning/instructors/ana-maria-pinto
+	- Python FastAPI: https://www.linkedin.com/learning/domina-python-fastapi/fastapi-y-python
+
+- nginx
+- https://www.linkedin.com/learning/learning-nginx-17014605/configure-logs?resume=false
+
+- VBA
+- https://www.linkedin.com/learning/excel-learning-vba/extend-the-capabilities-of-excel-using-vba
 
 
 // kinde and clerk
@@ -29,7 +103,7 @@ bash; de; 2024; 4.3; https://www.linkedin.com/learning/bash-shell-scripting-lern
 bash; de; 2023; 4.2; https://www.linkedin.com/learning/bash-shell-scripting-fur-fortgeschrittene-variablen-funktionen-und-prozessmanagement
 typescript; de;2023; 4.5; https://www.linkedin.com/learning/code-challenges-fur-typescript
 hooks; de; 2021; 4.2; https://www.linkedin.com/learning/react-hooks-grundkurs
-flask; fr; 2024; 4.5; https://www.linkedin.com/learning/l-essentiel-de-flask/bienvenue-dans-l-essentiel-de-flask
+python, flask; fr; 2024; 4.5; https://www.linkedin.com/learning/l-essentiel-de-flask/bienvenue-dans-l-essentiel-de-flask
 ansible; fr; 2020; 4.1; https://www.linkedin.com/learning/l-essentiel-d-ansible/installer-ansible
 linux; fr; 2024; 3.9; https://www.linkedin.com/learning/linux-l-administration-avancee
 bash; fr; 2017; 3.7; https://www.linkedin.com/learning/decouvrir-l-ecriture-de-scripts-en-bash
@@ -39,6 +113,10 @@ grid, flexbox; fr; 2022; 4.4; https://www.linkedin.com/learning/la-mise-en-page-
 go, goreleaser; en; 2024; 4.1; https://www.youtube.com/watch?v=JFhzuIffPCo | Automate your Go binary releases with GoReleaser and Github Actions
 
 ai, llamaIndex, langchain; fr; https://www.linkedin.com/learning/creer-des-agents-ia-avec-langchain-et-llamaindex/etendre-un-llm-avec-un-agent-langchain?resume=false
+
+- javascript data structures:
+- https://www.linkedin.com/learning/instructors/tiffany-graves
+
 
 git merges
 - https://www.youtube.com/results?search_query=git+merge+conflict+tutorial
@@ -67,3 +145,22 @@ CREATED: androidUser; sp; 01:04:00;2024; 4.3;https://www.linkedin.com/learning/t
 CREATED: python, fastapi; sp; 01:24:00; 2024; 4.7; https://www.linkedin.com/learning/domina-python-fastapi; Domina Python: FastAPI; looks interesting, in Spanish, good way to learn practical Python
 CREATED: docker; sp;02:34:00; 2024;4.91;https://www.linkedin.com/learning/docker-esencial-23119241; Docker esencial; Spanish, in depth Docker
 CREATED: react, monorepos;sp;02:27:00;2022;4.88; https://www.linkedin.com/learning/react-avanzado-2 ;React avanzado 2; monorepos, nx, storybook, testing, patterns, GitHub Actions, 70% useful
+
+
+
+
+react, redux; en;03:50:00; 2024; 4.69; https://www.linkedin.com/learning/building-modern-projects-with-react-24955170; Building Modern Projects with React; lots of Redux, some Webpack, testing, seems to be React from a different angle, also Remix, Next.js
+
+
+nextjs, mongo; en;03:54:00;2024;4.99; https://www.linkedin.com/learning/next-js-creating-and-hosting-a-full-stack-site/create-a-full-stack-site-with-next-js; Next.js: Creating and Hosting a Full-Stack Site; Shaun Wassell, looks like an excellent
+
+grid; en;02:28:00; 2024;4.91;https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327; CSS: Advanced Layouts with Grid; long course on grid, looks good
+
+monorepos; en; 00:55:00; 2024; 4.89; https://www.linkedin.com/learning/building-a-scalable-monorepo-with-javascript-and-typescript; Building a Scalable Monorepo with JavaScript and TypeScript; looks like a quick deep dive in monorepos
+
+
+flask; en; 02:02:00; 2024; 4.68; https://www.linkedin.com/learning/flask-essential-training-24681038;  Flask Essential Training ; seems like a solid course on Flask
+
+flask; en; 02:32:00; 2024; 4.78; https://www.linkedin.com/learning/building-restful-apis-with-flask;  Building RESTful APIs with Flask ; seems like the essentials of Flash, i.e. an API
+
+
