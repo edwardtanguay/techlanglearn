@@ -1,10 +1,12 @@
 # Learn Ink in 15 minutes
 
-- https://www.youtube.com/watch?v=KSRpcftVyKg
-- 14:46
-- english
-- ink
-- 4.2
+https://www.youtube.com/watch?v=KSRpcftVyKg
+
+- duration: 00:14:46
+- language: en
+- topics: ink
+- rank: 4.2
+- description: a quick video to learn how to make dynamic conversations using Ink, a tool used in gaming
 
 ## watchlog
 

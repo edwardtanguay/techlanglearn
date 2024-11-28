@@ -304,42 +304,6 @@
 		"back": "solo para dar un ejemplo"
 	},
 	{
-		"front": "so let's take a look at the readme file",
-		"back": "así que echemos un vistazo al archivo readme"
-	},
-	{
-		"front": "a very common thing to do",
-		"back": "algo muy común que se puede hacer"
-	},
-	{
-		"front": "let's change it to no",
-		"back": "combiémoslo a no"
-	},
-	{
-		"front": "so we need to provide that name",
-		"back": "por lo que debemos proporcionar ese nombre"
-	},
-	{
-		"front": "what this function is about and what it does",
-		"back": "qué se trata esta función y qué hace"
-	},
-	{
-		"front": "I like that standard because",
-		"back": "me gusta esa estandár porque"
-	},
-	{
-		"front": "así es como lo hace",
-		"back": "this is how you do it"
-	},
-	{
-		"front": "let me save it",
-		"back": "déjeme guardarlo"
-	},
-	{
-		"front": "I'll explain it to you a little later",
-		"back": "explicártelo un poco más adelante"
-	},
-	{
 		"front": "but above all I hope this has been useful",
 		"back": "pero sobre todo espero que esto haya sido ùtil"
 	},
@@ -400,8 +364,40 @@
 		"back": "para retroceder un paso"
 	},
 	{
-		"front": "once downloaded, you can start the program",
-		"back": "una vez descargado, puedes iniciar el programa"
+		"front": "so let's take a look at the readme file",
+		"back": "así que echemos un vistazo al archivo readme"
+	},
+	{
+		"front": "a very common thing to do",
+		"back": "algo muy común que se puede hacer"
+	},
+	{
+		"front": "let's change it to no",
+		"back": "combiémoslo a no"
+	},
+	{
+		"front": "so we need to provide that name",
+		"back": "por lo que debemos proporcionar ese nombre"
+	},
+	{
+		"front": "what this function is about and what it does",
+		"back": "qué se trata esta función y qué hace"
+	},
+	{
+		"front": "I like that standard because",
+		"back": "me gusta esa estandár porque"
+	},
+	{
+		"front": "así es como lo hace",
+		"back": "this is how you do it"
+	},
+	{
+		"front": "let me save it",
+		"back": "déjeme guardarlo"
+	},
+	{
+		"front": "I'll explain it to you a little later",
+		"back": "explicártelo un poco más adelante"
 	},
 	{
 		"front": "the file will be overwritten",

@@ -147,6 +147,7 @@ CREATED: python, fastapi; sp; 01:24:00; 2024; 4.7; https://www.linkedin.com/lear
 CREATED: docker; sp;02:34:00; 2024;4.91;https://www.linkedin.com/learning/docker-esencial-23119241; Docker esencial; Spanish, in depth Docker
 CREATED: react, monorepos;sp;02:27:00;2022;4.88; https://www.linkedin.com/learning/react-avanzado-2 ;React avanzado 2; monorepos, nx, storybook, testing, patterns, GitHub Actions, 70% useful
 CREATED: go, graphql, nextjs, gin;en; 02:30:00; 2020; 4.98; https://www.youtube.com/watch?v=wfBeEn8d-8A&list=PL3eAkoh7fypqxiqDq9OQGm3aJO7dZjSBI; Build GraphQL Server with Go; 10+ videos that include Next.js, Gin all working together, good way to learn GraphQL
+CREATED: ink;en;00:14:46;2021; 4.2; https://www.youtube.com/watch?v=KSRpcftVyKg; Learn Ink in 15 minutes; a quick video to learn how to make dynamic conversations using Ink, a tool used in gaming
 
 
 
@@ -165,4 +166,3 @@ flask; en; 02:02:00; 2024; 4.68; https://www.linkedin.com/learning/flask-essenti
 
 flask; en; 02:32:00; 2024; 4.78; https://www.linkedin.com/learning/building-restful-apis-with-flask;  Building RESTful APIs with Flask ; seems like the essentials of Flash, i.e. an API
 
->>create>>ink;en;00:14:46;2021; 4.2; https://www.youtube.com/watch?v=KSRpcftVyKg; Learn Ink in 15 minutes; a quick video to learn how to make dynamic conversations using Ink, a tool used in gaming
