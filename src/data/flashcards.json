@@ -964,148 +964,208 @@
 		"back": "nuevas alturas"
 	},
 	{
-		"front": "but if everything is successful",
-		"back": "pero si todo es exitoso"
+		"front": "pr. alphabet, letters with standard pronunciations",
+		"back": "a, b, c, d, e, _, _, _, i, _, k, _, _, _, _, o, p, q, _, _, t, u, _, _, _, _, _"
 	},
 	{
-		"front": "in case there was an error",
-		"back": "en caso de que existiera un error; conj=existir, existiera = imperfect subjunctive of existir"
+		"front": "pr. alphabet, letters with different pronuncations",
+		"back": "f = EFF-ay, g = HEH, h = AH-chah, j = HOH-ta, l = ELL-ay, m = EM-ay, n = EN-ay, n = EN-yeh, r = ERR-ay, s = ESS-ay, v = OO-veh, w = oo-veh-DUB-lay, x = EK-ees, y = ee-grey-EGG-ah, z = SET-ah"
 	},
 	{
-		"front": "this helps us unpack the elements",
-		"back": "esto nos ayuda a desempaquetar los elementos"
+		"front": "",
+		"back": "each %v will be replaced by a value from our map"
 	},
 	{
-		"front": "to check if we saved the file",
-		"back": "para comprobar si guardamos el archivo"
+		"front": "",
+		"back": "and our wish is to turn it into a string"
 	},
 	{
-		"front": "otherwise we will indicate that it does not exist",
-		"back": "caso contrario vamos a indicar que no existe"
+		"front": "",
+		"back": "divided into five groups separated by hyphens"
 	},
 	{
-		"front": "and in square brackets",
-		"back": "y entre paréntesis cuadrados"
+		"front": "",
+		"back": "we are going to go through the slice using a for loop"
 	},
 	{
-		"front": "let's see in the case of React",
-		"back": "veamos en el caso de React; veamos = imperitive and subjunctive present"
+		"front": "",
+		"back": "so we want to remove it from the slice"
 	},
 	{
-		"front": "conj. ver present",
-		"back": "veo, ves, ve, vemos, veis, ven"
+		"front": "",
+		"back": "conj. dar present"
 	},
 	{
-		"front": "conj. ver preterite",
-		"back": "vi viste vio vimos visteis vieron"
+		"front": "",
+		"back": "conj.dar preterite"
 	},
 	{
-		"front": "it has a name associated with it",
-		"back": "tiene asociada un nombre"
+		"front": "",
+		"back": "however, we realized that Thursday is a holiday"
 	},
 	{
-		"front": "two integers",
-		"back": "dos numeros enteros"
+		"front": "",
+		"back": "and I click on Send"
 	},
 	{
-		"front": "what we are going to do is place an if-statement here",
-		"back": "lo que vamos a hacer es colocar una declaración if aquí"
+		"front": "",
+		"back": "I make sure it is a POST method"
 	},
 	{
-		"front": "the last name",
-		"back": "el apellido"
+		"front": "",
+		"back": "let's set the header"
 	},
 	{
-		"front": "we may not remember the name",
-		"back": "tal vez no recordemos el nombre; conj=recordar; recordemos is present subjunctive of recordar, regular but o\u003eue"
+		"front": "",
+		"back": "where we indicate that there was an error"
 	},
 	{
-		"front": "we subtract 1",
-		"back": "le restamos 1"
+		"front": "",
+		"back": "by means of an error"
 	},
 	{
-		"front": "let's do that",
-		"back": "hagamos eso; hagamos = present subjunctive of hacer; conj=hacer"
+		"front": "",
+		"back": "but if everything is successful"
 	},
 	{
-		"front": "we can do it through the index",
-		"back": "lo podemos hacer por medio del índice"
+		"front": "",
+		"back": "in case there was an error"
 	},
 	{
-		"front": "since this will be the one to whom the prize will be awarded",
-		"back": "dado que esta será al que se le entregue el premio; entregue = subjunctive present of entregar, almost regular (yo preterite: entregué); conj=entregar"
+		"front": "",
+		"back": "this helps us unpack the elements"
 	},
 	{
-		"front": "we have realized that there was a mistake",
-		"back": "nos hemos dado cuenta que hubo un error; dar = dado, dando; hubo = preterite of haber; rank=4.92"
+		"front": "",
+		"back": "to check if we saved the file"
 	},
 	{
-		"front": "the winning numbers of a raffle",
-		"back": "los números ganadores de una rifa"
+		"front": "",
+		"back": "otherwise we will indicate that it does not exist"
 	},
 	{
-		"front": "when you don't know the amount of arguments",
-		"back": "cuando desconozcas la cantidad de argumentos"
+		"front": "",
+		"back": "and in square brackets"
 	},
 	{
-		"front": "to loop through this string array",
-		"back": "para recorrer este arreglo de string; rank=4.89"
+		"front": "",
+		"back": "let's see in the case of React"
 	},
 	{
-		"front": "in case it happens",
-		"back": "en caso de que pase"
+		"front": "",
+		"back": "conj. ver present"
 	},
 	{
-		"front": "this is because it may be possible that the string is not a valid number",
-		"back": "esto se debe a que puede ser posible que la cadena no sea un número válido."
+		"front": "",
+		"back": "conj. ver preterite"
 	},
 	{
-		"front": "this can be done to make the data compatible",
-		"back": "eso se puede hacer para que los datos sean compatibles; sean = ser present subjuctive"
+		"front": "",
+		"back": "it has a name associated with it"
 	},
 	{
-		"front": "let's hit Enter",
-		"back": "vamos a darle Enter; \"le\" is just a filler pronoun"
+		"front": "",
+		"back": "two integers"
 	},
 	{
-		"front": "double quotes",
-		"back": "las comillas dobles"
+		"front": "",
+		"back": "what we are going to do is place an if-statement here"
 	},
 	{
-		"front": "we place a backtick in front and at the end",
-		"back": "colocamos un backtick adelante y al final; colocar = to place, almost regular, preterite: yo coloqué"
+		"front": "",
+		"back": "the last name"
 	},
 	{
-		"front": "we have achieved our goal",
-		"back": "hemos logrado nuestro objetivo"
+		"front": "",
+		"back": "we may not remember the name"
 	},
 	{
-		"front": "as part of the task",
-		"back": "como parte de la tarea"
+		"front": "",
+		"back": "we subtract 1"
 	},
 	{
-		"front": "in the matter we have",
-		"back": "en el asunto tenemos"
+		"front": "",
+		"back": "let's do that"
 	},
 	{
-		"front": "we have been asked to send an email",
-		"back": "nos han solicitado enviar un correo electrónico"
+		"front": "",
+		"back": "we can do it through the index"
 	},
 	{
-		"front": "the solution to common challenges",
-		"back": "la solución desafíos comunes"
+		"front": "",
+		"back": "since this will be the one to whom the prize will be awarded"
 	},
 	{
-		"front": "although you may have encountered challenges",
-		"back": "aunque quizás te hayas encontrado con retos; hayas = present perfect subjunctive"
+		"front": "",
+		"back": "we have realized that there was a mistake"
 	},
 	{
-		"front": "you have doubts",
-		"back": "te surgen dudas; literally \"doubts emerge for you\", surgir = arise, emerge, appear"
+		"front": "",
+		"back": "the winning numbers of a raffle"
 	},
 	{
-		"front": "has it happened to you that while you are programming",
-		"back": "te ha pasado que mientras estás programando"
+		"front": "",
+		"back": "when you don't know the amount of arguments"
+	},
+	{
+		"front": "",
+		"back": "to loop through this string array"
+	},
+	{
+		"front": "",
+		"back": "in case it happens"
+	},
+	{
+		"front": "",
+		"back": "this is because it may be possible that the string is not a valid number"
+	},
+	{
+		"front": "",
+		"back": "this can be done to make the data compatible"
+	},
+	{
+		"front": "",
+		"back": "let's hit Enter"
+	},
+	{
+		"front": "",
+		"back": "double quotes"
+	},
+	{
+		"front": "",
+		"back": "we place a backtick in front and at the end"
+	},
+	{
+		"front": "",
+		"back": "we have achieved our goal"
+	},
+	{
+		"front": "",
+		"back": "as part of the task"
+	},
+	{
+		"front": "",
+		"back": "in the matter we have"
+	},
+	{
+		"front": "",
+		"back": "we have been asked to send an email"
+	},
+	{
+		"front": "",
+		"back": "the solution to common challenges"
+	},
+	{
+		"front": "",
+		"back": "although you may have encountered challenges"
+	},
+	{
+		"front": "",
+		"back": "you have doubts"
+	},
+	{
+		"front": "",
+		"back": "has it happened to you that while you are programming"
 	},
 	{
 		"front": "it is quite similar to this tool",

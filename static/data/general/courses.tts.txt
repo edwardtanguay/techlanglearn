@@ -2,7 +2,6 @@
 - https://www.linkedin.com/learning/l-essentiel-de-gitlab/bienvenue-dans-l-essentiel-de-gitlab
 - git french 2020
 - https://www.linkedin.com/learning/l-essentiel-de-git/effectuer-un-premier-commit
-
 - github versioning
 - https://www.youtube.com/results?search_query=github+releases+tutorial+
 - https://www.youtube.com/watch?v=Ob9llA_QhQY
@@ -10,21 +9,26 @@
 - lookup: nginx
 - lookup: JWT
 
-- extend
+- EXTEND - might use at a job
 - GitHub monorepos
 - https://www.linkedin.com/learning/monorepos-auf-github-grundlagen/shared-library-anlegen?resume=false
 - webassembly
 - https://www.linkedin.com/learning/webassembly-grundlagen/schnellen-und-sicheren-code-fur-webanwendungen-erstellen
-- Phoenix backend
-- https://www.youtube.com/watch?v=9xaN44PNxps&t=2198s
 - shopify german
 - https://www.linkedin.com/learning/shopify-grundkurs
-- Python/TKinter
-- https://www.linkedin.com/learning/python-gui-programmierung-mit-tkinter/das-message-widget-fur-mehrzeilige-anzeigen?resume=false
+- kafka
+- sp; 2023; https://www.linkedin.com/learning/domina-apache-kafka/aprendiendo-sobre-apache-kafka
+
+- FRINGE - probably won't use at a job, but interesting
+- Julia
+- https://www.linkedin.com/learning/aprende-julia
 - ASP.NET auf Linux
 - https://www.linkedin.com/learning/asp-dot-net-hosting-auf-linux/asp-dot-net-anwendungen-effektiv-unter-linux-hosten
+- Phoenix backend
+- https://www.youtube.com/watch?v=9xaN44PNxps&t=2198s
 
-- devops
+
+- DEVOPS
 - ansible
 - https://www.linkedin.com/learning/ansible-grundkurs/ansible-kennenlernen-und-effektiv-einsetzen
 - terraform
@@ -32,11 +36,19 @@
 - kubernetes
 
 
+- currenttech
+- docker
+- sp; 4.98;2024; https://www.linkedin.com/learning/docker-esencial-23119241/docker-compose
+- sp; 4.98; https://www.linkedin.com/learning/devops-despliegue-de-microservicios-con-docker
+- sp; 4.95; https://www.linkedin.com/learning/despliegue-de-mysql-con-docker
 
-- reretro
+
+
+- retro - tech that reminds me of old times
 - web apis with ASP.NET Core 8
 - https://www.linkedin.com/learning/web-apis-mit-asp-dot-net-core-8/controller-mit-der-dot-net-cli-anlegen?resume=false
-- VBA
+- french vba
+- https://www.linkedin.com/learning/excel-le-vba-avance/creer-une-feuille?resume=false
 - bash shell
 - https://www.linkedin.com/learning/bash-shell-scripting-lernen/willkommen-zu-shell-programmierung-lernen
 - https://www.linkedin.com/learning/bash-shell-scripting-fur-fortgeschrittene-variablen-funktionen-und-prozessmanagement/einstieg-in-die-fortgeschrittene-shell-programmierung
@@ -44,6 +56,10 @@
 - Java
 - webpack 5
 - gimp
+- C#
+- sp, many; https://www.linkedin.com/learning/topics/c-sharp?sortBy=RECENCY
+- Python/TKinter
+- https://www.linkedin.com/learning/python-gui-programmierung-mit-tkinter/das-message-widget-fur-mehrzeilige-anzeigen?resume=false
 
 
 
@@ -71,8 +87,6 @@
 - https://www.linkedin.com/learning/l-essentiel-de-vue-js-22426755/installer-vue-js?resume=false
 - french dotnet 8 with VSCode
 - https://www.linkedin.com/learning/l-essentiel-de-dot-net-8/integrer-les-dates-et-le-temps?resume=false
-- french vba
-- https://www.linkedin.com/learning/excel-le-vba-avance/creer-une-feuille?resume=false
 - french API with MongoDB, 2024
 - https://www.linkedin.com/learning/construire-des-api-restful-avec-node-js/bienvenue-dans-construire-des-api-restful-avec-node-js
 - french redux, context, reducer, recoil, 2024

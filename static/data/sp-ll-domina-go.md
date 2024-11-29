@@ -5,8 +5,8 @@ https://www.linkedin.com/learning/domina-go
 - duration: 00:50:00
 - language: sp
 - topics: go
-- rank: 4.82
-- description: short videos but seems to cover basic topics, and from 2023, but some videos are very simple, e.g. how to get the last item out of a slice
+- rank: 4.96
+- description: short videos but seems to cover basic topics, and from 2023, the first section have extremely simple concepts but after that, these are very useful if you are new to Go
 
 ## intro, 0:43, 2024-11-25
 
@@ -89,7 +89,7 @@ https://www.linkedin.com/learning/domina-go/leer-un-archivo-en-go?autoSkip=true&
   - the reason it works in my example was that I used fmt.Printf with %s, which converts it to a string
   - if I use %v, then it shows the bytes
 
-## Enviar un JSON en una solicitud POST en Go, 2:13, nnn
+## Enviar un JSON en una solicitud POST en Go, 2:13, 2024-11-29
 
 https://www.linkedin.com/learning/domina-go/enviar-un-json-en-una-solicitud-post-en-go?autoSkip=true&resume=false
 
@@ -99,9 +99,91 @@ https://www.linkedin.com/learning/domina-go/enviar-un-json-en-una-solicitud-post
 if r.Method == http.MethodPost
 ```
 
+## Eliminar clave en el map en Go, 0:48, 2024-11-29
+
+https://www.linkedin.com/learning/domina-go/eliminar-clave-en-el-map-en-go?autoSkip=true&resume=false
+
+- simply uses delete()
+
+## Eliminar un elemento de un slice en Go, 2:15, 2024-11-29
+
+https://www.linkedin.com/learning/domina-go/eliminar-un-elemento-de-un-slice-en-go?autoSkip=true&resume=false
+
+- uses append to connect up to point and after point to be deleted
+
+## Iterar con range sobre un arreglo de números enteros en Go, 0:56, 2024-11-29
+
+https://www.linkedin.com/learning/domina-go/iterar-con-range-sobre-un-arreglo-de-numeros-enteros-en-go?autoSkip=true&resume=false
+
+- very simple explanation of range
+
+## Generar un UUID con Go, 1:11, 2024-11-29
+
+https://www.linkedin.com/learning/domina-go/generar-un-uuid-con-go?autoSkip=true&resume=false
+
+- just shows how to use uuid.New()
+
+## Convertir interfaz{} en una cadena en Go, 1:23, 2024-11-29
+
+https://www.linkedin.com/learning/domina-go/convertir-interfaz-en-una-cadena-en-go?autoSkip=true&resume=false
+
+- a simple explanation of Sprintf and %v
+
+## Obtener los parámetros de consulta en Go, 1:50, nn
+
+https://www.linkedin.com/learning/domina-go/obtener-los-parametros-de-consulta-en-go?autoSkip=true&resume=false
+
+- nnn
+
 ## VOCAB - SPANISH
 
 ```
+pr. alphabet, letters with standard pronunciations
+a, b, c, d, e, _, _, _, i, _, k, _, _, _, _, o, p, q, _, _, t, u, _, _, _, _, _
+
+pr. alphabet, letters with different pronuncations
+f = EFF-ay, g = HEH, h = AH-chah, j = HOH-ta, l = ELL-ay, m = EM-ay, n = EN-ay, n = EN-yeh, r = ERR-ay, s = ESS-ay, v = OO-veh, w = oo-veh-DUB-lay, x = EK-ees, y = ee-grey-EGG-ah, z = SET-ah
+
+
+each %v will be replaced by a value from our map
+cada %v va a ser sustituido por un valor de nuestro mapa
+
+and our wish is to turn it into a string
+y nuestro deseo es lo convertirlo en un string
+
+divided into five groups separated by hyphens
+divididos en cinco grupos separados por guiones; pr=gee-OH-nays
+
+we are going to go through the slice using a for loop
+vamos a recorrer el slice por medio de un for
+
+so we want to remove it from the slice
+por lo que deseamos lo eliminar del slice; conj=desear; deseamos is present desear, to wish, regular
+
+conj. dar present
+doy das da damos dais dan
+
+conj.dar preterite
+di diste dio dimos disteis dieron
+
+however, we realized that Thursday is a holiday
+sin embargo, nos dimos cuenta que el día jueves es feriado; conj=dar; dimos is preterite of dar
+
+and I click on Send
+y le doy clic en Enviar; question=what does the "le" do here
+
+I make sure it is a POST method
+me aseguro que sea un método POST
+
+let's set the header
+vamos a setear el header
+
+where we indicate that there was an error
+donde indicamos que hubo un error; hubo = preterite of haber; conj=haber
+
+by means of an error
+por medio de un error
+
 but if everything is successful
 pero si todo es exitoso
 
