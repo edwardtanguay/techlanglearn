@@ -74,15 +74,43 @@ if user, exists := users[userID]; exists {
 }
 ```
 
-##  Concatenar dos slices en Go, 1:16, nnn
+## Concatenar dos slices en Go, 1:16, 2024-11-28
 
 https://www.linkedin.com/learning/domina-go/concatenar-dos-slices-en-go?autoSkip=true&resume=false
 
-- nnn
+- uses append() to combine two slices append(first, second...)
+
+## Leer un archivo en Go, 1:30, 2024-11-29
+
+https://www.linkedin.com/learning/domina-go/leer-un-archivo-en-go?autoSkip=true&resume=false
+
+- she converts the data she gets back to a string
+- and indeed, the data that comes back from os.ReadFile is an array of bytes ([]bytes)
+  - the reason it works in my example was that I used fmt.Printf with %s, which converts it to a string
+  - if I use %v, then it shows the bytes
+
+## Enviar un JSON en una solicitud POST en Go, 2:13, nnn
+
+https://www.linkedin.com/learning/domina-go/enviar-un-json-en-una-solicitud-post-en-go?autoSkip=true&resume=false
+
+- checks if method is post with:
+
+```
+if r.Method == http.MethodPost
+```
 
 ## VOCAB - SPANISH
 
 ```
+but if everything is successful
+pero si todo es exitoso
+
+in case there was an error
+en caso de que existiera un error; conj=existir, existiera = imperfect subjunctive of existir
+
+this helps us unpack the elements
+esto nos ayuda a desempaquetar los elementos
+
 to check if we saved the file
 para comprobar si guardamos el archivo
 

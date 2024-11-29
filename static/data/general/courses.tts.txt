@@ -10,6 +10,54 @@
 - lookup: nginx
 - lookup: JWT
 
+- extend
+- GitHub monorepos
+- https://www.linkedin.com/learning/monorepos-auf-github-grundlagen/shared-library-anlegen?resume=false
+- webassembly
+- https://www.linkedin.com/learning/webassembly-grundlagen/schnellen-und-sicheren-code-fur-webanwendungen-erstellen
+- Phoenix backend
+- https://www.youtube.com/watch?v=9xaN44PNxps&t=2198s
+- shopify german
+- https://www.linkedin.com/learning/shopify-grundkurs
+- Python/TKinter
+- https://www.linkedin.com/learning/python-gui-programmierung-mit-tkinter/das-message-widget-fur-mehrzeilige-anzeigen?resume=false
+- ASP.NET auf Linux
+- https://www.linkedin.com/learning/asp-dot-net-hosting-auf-linux/asp-dot-net-anwendungen-effektiv-unter-linux-hosten
+
+- devops
+- ansible
+- https://www.linkedin.com/learning/ansible-grundkurs/ansible-kennenlernen-und-effektiv-einsetzen
+- terraform
+- https://www.linkedin.com/learning/terraform-lernen/schnell-und-einfach-einsteigen-in-terraform
+- kubernetes
+
+
+
+- reretro
+- web apis with ASP.NET Core 8
+- https://www.linkedin.com/learning/web-apis-mit-asp-dot-net-core-8/controller-mit-der-dot-net-cli-anlegen?resume=false
+- VBA
+- bash shell
+- https://www.linkedin.com/learning/bash-shell-scripting-lernen/willkommen-zu-shell-programmierung-lernen
+- https://www.linkedin.com/learning/bash-shell-scripting-fur-fortgeschrittene-variablen-funktionen-und-prozessmanagement/einstieg-in-die-fortgeschrittene-shell-programmierung
+- https://www.linkedin.com/learning/shells-und-shell-skripte-in-linux-lpic-1-102/der-read-befehl
+- Java
+- webpack 5
+- gimp
+
+
+
+- backend languages
+- kotlin
+- https://www.linkedin.com/learning/kotlin-grundkurs/willkommen-zu-kotlin-grundkurs
+- Java
+- Go
+- Python
+- advanced german
+- https://www.linkedin.com/learning/python-fur-fortgeschrittene/deque?resume=false
+- Ruby
+- C# .NET Core
+
 - spanish courses: https://www.linkedin.com/learning/topics/tecnologia?durations=BETWEEN_30_TO_60_MIN~BETWEEN_1_TO_2_HOURS~BETWEEN_2_TO_3_HOURS~MORE_THAN_3_HOURS&entityType=COURSE
 
 - english courses
@@ -66,6 +114,13 @@
 - https://www.linkedin.com/learning/building-apis-with-swagger-and-the-openapi-specification/building-apis-with-swagger
 - advanced reactg
 - https://www.linkedin.com/learning/react-components-context-and-accessibility/uncontrolled-components
+- get German:
+- https://www.linkedin.com/learning/git-workflows-im-team-optimieren
+
+- typescript german
+- https://www.linkedin.com/learning/typescript-grundkurs-17656849/functions-und-callbacks?resume=false
+- playwright german
+- https://www.linkedin.com/learning/webseiten-und-web-apps-testen-mit-playwright
 
 - PYTHON
 - good teacher for Python, Ana María Pinto: https://www.linkedin.com/learning/instructors/ana-maria-pinto

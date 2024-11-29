@@ -964,6 +964,18 @@
 		"back": "nuevas alturas"
 	},
 	{
+		"front": "but if everything is successful",
+		"back": "pero si todo es exitoso"
+	},
+	{
+		"front": "in case there was an error",
+		"back": "en caso de que existiera un error; conj=existir, existiera = imperfect subjunctive of existir"
+	},
+	{
+		"front": "this helps us unpack the elements",
+		"back": "esto nos ayuda a desempaquetar los elementos"
+	},
+	{
 		"front": "to check if we saved the file",
 		"back": "para comprobar si guardamos el archivo"
 	},
