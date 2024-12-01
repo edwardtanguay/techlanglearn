@@ -964,6 +964,22 @@
 		"back": "nuevas alturas"
 	},
 	{
+		"front": "we send the query",
+		"back": "enviamos la consulta"
+	},
+	{
+		"front": "let's go to the code",
+		"back": "vamos a irnos al código"
+	},
+	{
+		"front": "the information that comes in this parameter",
+		"back": "la información que venga en esta parámetro; venga = subjunctive of venir; conj=venir"
+	},
+	{
+		"front": "after the question mark",
+		"back": "después del signo de pregunta"
+	},
+	{
 		"front": "pr. alphabet, letters with standard pronunciations",
 		"back": "a, b, c, d, e, _, _, _, i, _, k, _, _, _, _, o, p, q, _, _, t, u, _, _, _, _, _"
 	},
@@ -1166,6 +1182,14 @@
 	{
 		"front": "",
 		"back": "has it happened to you that while you are programming"
+	},
+	{
+		"front": "high performance",
+		"back": "alto rendimiento"
+	},
+	{
+		"front": "don't miss the opportunity to take your skills to the next level",
+		"back": "no te pierdas la oportunidad de llevar tus habilidades al siguiente nivel"
 	},
 	{
 		"front": "it is quite similar to this tool",

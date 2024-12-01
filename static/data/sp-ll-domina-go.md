@@ -129,15 +129,34 @@ https://www.linkedin.com/learning/domina-go/convertir-interfaz-en-una-cadena-en-
 
 - a simple explanation of Sprintf and %v
 
-## Obtener los parámetros de consulta en Go, 1:50, nn
+## Obtener los parámetros de consulta en Go, 1:50, 2024-12-01
 
 https://www.linkedin.com/learning/domina-go/obtener-los-parametros-de-consulta-en-go?autoSkip=true&resume=false
+
+- idCode := r.URL.Query().Get("idCode")
+- w.Write([]byte(idCode))
+
+## Devolver en respuesta XML en un método GET, 2:01, nnn
+
+https://www.linkedin.com/learning/domina-go/devolver-en-respuesta-xml-en-un-metodo-get?autoSkip=true&resume=false
 
 - nnn
 
 ## VOCAB - SPANISH
 
 ```
+we send the query
+enviamos la consulta
+
+let's go to the code
+vamos a irnos al código
+
+the information that comes in this parameter
+la información que venga en esta parámetro; venga = subjunctive of venir; conj=venir
+
+after the question mark
+después del signo de pregunta
+
 pr. alphabet, letters with standard pronunciations
 a, b, c, d, e, _, _, _, i, _, k, _, _, _, _, o, p, q, _, _, t, u, _, _, _, _, _
 

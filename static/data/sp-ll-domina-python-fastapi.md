@@ -8,11 +8,32 @@ https://www.linkedin.com/learning/domina-python-fastapi
 - rank: 4.7
 - description: looks interesting, in Spanish, good way to learn practical Python
 
-## TITLE, TIME, nnn
+## FastAPI y Python, 0:36, 2024-11-29
+
+https://www.linkedin.com/learning/domina-python-fastapi/fastapi-y-python
+
+- simple introduction
+
+## Para qué sirve FastAPI, 1:10, 2024-11-29
+
+https://www.linkedin.com/learning/domina-python-fastapi/para-que-sirve-fastapi?autoSkip=true&resume=false
+
+- was created in 2018 by Sebastián Ramírez
+- used by Uber and Netflix
+
+## Cómo instalar FastAPI, 2:05, nnn
+
+https://www.linkedin.com/learning/domina-python-fastapi/como-instalar-fastapi?autoSkip=true&resume=false
 
 - nnn
 
 ## VOCAB - SPANISH
 
 ```
+high performance
+alto rendimiento
+
+don't miss the opportunity to take your skills to the next level
+no te pierdas la oportunidad de llevar tus habilidades al siguiente nivel
+
 ```
