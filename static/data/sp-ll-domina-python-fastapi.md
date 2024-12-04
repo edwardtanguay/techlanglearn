@@ -25,7 +25,13 @@ https://www.linkedin.com/learning/domina-python-fastapi/para-que-sirve-fastapi?a
 
 https://www.linkedin.com/learning/domina-python-fastapi/como-instalar-fastapi?autoSkip=true&resume=false
 
-- nnn
+- she says FastAPI uses the latest version of Python, 3.8 (2024-02)
+	- I have Python 3.12.2
+- the version of FastAPI seems to be 0.115.5 at the moment
+- she recommends using a vertial environment
+- install with this command: `pip install "fastapi[all]"
+	- this uses Uvicorn, the server that FastAPI uses
+	- 
 
 ## VOCAB - SPANISH
 

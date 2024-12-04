@@ -964,6 +964,14 @@
 		"back": "nuevas alturas"
 	},
 	{
+		"front": "if there was an error",
+		"back": "si hubiera un error; conj=haber; hubiera = imperfect subjunctive of haber"
+	},
+	{
+		"front": "it allows you to format the output with indents",
+		"back": "él permite formatear la salida con sangrías"
+	},
+	{
 		"front": "we send the query",
 		"back": "enviamos la consulta"
 	},

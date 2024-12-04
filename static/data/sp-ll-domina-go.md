@@ -136,15 +136,56 @@ https://www.linkedin.com/learning/domina-go/obtener-los-parametros-de-consulta-e
 - idCode := r.URL.Query().Get("idCode")
 - w.Write([]byte(idCode))
 
-## Devolver en respuesta XML en un método GET, 2:01, nnn
+## Devolver en respuesta XML en un método GET, 2:01, 2024-12-03
 
 https://www.linkedin.com/learning/domina-go/devolver-en-respuesta-xml-en-un-metodo-get?autoSkip=true&resume=false
+
+- uses xml.MarshalIndent()
+
+## Crear un token con JWT en Go, 2:11, 2024-12-03
+
+https://www.linkedin.com/learning/domina-go/crear-un-token-con-jwt-en-go?autoSkip=true&resume=false
+
+- tied example, works
+
+## Escribir en archivos de texto en Go, 1:56, 2024-12-03
+
+https://www.linkedin.com/learning/domina-go/escribir-en-archivos-de-texto-en-go?autoSkip=true&resume=false
+
+- I had os.Create and file.WriteString
+- she uses the same
+
+## Cree un servidor web en Go usando Gin, 2:01, 2024-12-04
+
+https://www.linkedin.com/learning/domina-go/cree-un-servidor-web-en-go-usando-gin?autoSkip=true&resume=false
+
+- she runs it on the default port 8080
+- the example worked, I specified the port with r.Run(":3355")
+
+## Pasar una función como parámetro en Go, 2:25, nnn
+
+https://www.linkedin.com/learning/domina-go/pasar-una-funcion-como-parametro-en-go?autoSkip=true&resume=false
 
 - nnn
 
 ## VOCAB - SPANISH
 
 ```
+let's do the test
+hagamos la prueba
+
+we look at how we can create a web server
+vemos cómo podemos crear un servidor web
+
+a high performance web framework
+un framework web de alto rendimiento
+
+if there was an error
+si hubiera un error; conj=haber; hubiera = imperfect subjunctive of haber
+
+it allows you to format the output with indents
+él permite formatear la salida con sangrías
+
 we send the query
 enviamos la consulta
 
