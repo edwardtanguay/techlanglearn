@@ -162,15 +162,57 @@ https://www.linkedin.com/learning/domina-go/cree-un-servidor-web-en-go-usando-gi
 - she runs it on the default port 8080
 - the example worked, I specified the port with r.Run(":3355")
 
-## Pasar una función como parámetro en Go, 2:25, nnn
+## Pasar una función como parámetro en Go, 2:25, 2024-12-05
 
 https://www.linkedin.com/learning/domina-go/pasar-una-funcion-como-parametro-en-go?autoSkip=true&resume=false
+
+- sends a function via parameter
+
+## Crear un middleware en Go, 3:28, 2024-12-07
+
+https://www.linkedin.com/learning/domina-go/crear-un-middleware-en-go?autoSkip=true&resume=false
+
+- she shows how to use http.NewServerMux
+
+## Retornar una imagen en un método GET, 2:10, 2024-12-08
+
+https://www.linkedin.com/learning/domina-go/retornar-una-imagen-en-un-metodo-get?resume=false
+
+- works nicely, serves an image from route
+
+## Retornar un archivo xlsx en un método GET, 3:15, nnn
+
+https://www.linkedin.com/learning/domina-go/retornar-un-archivo-xlsx-en-un-metodo-get?autoSkip=true&resume=false
 
 - nnn
 
 ## VOCAB - SPANISH
 
 ```
+resource not found
+recurso no encontrado
+
+I'm going to go to my code
+voy a irme a mi código
+
+if there was an error
+si hubiera un error
+
+each request that arrives on the route
+cada solicitud que llegue a la ruta; pr=YAY-gay
+
+after this
+luego de esto
+
+the first thing we are going to do is
+lo primero que vamos hacer es
+
+add, subtract and multiply
+sumar, restar y multiplicar
+
+do you know anything about it
+sabes algo al respecto
+
 let's do the test
 hagamos la prueba
 

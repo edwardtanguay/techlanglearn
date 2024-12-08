@@ -964,6 +964,50 @@
 		"back": "nuevas alturas"
 	},
 	{
+		"front": "resource not found",
+		"back": "recurso no encontrado"
+	},
+	{
+		"front": "I'm going to go to my code",
+		"back": "voy a irme a mi código"
+	},
+	{
+		"front": "if there was an error",
+		"back": "si hubiera un error"
+	},
+	{
+		"front": "each request that arrives on the route",
+		"back": "cada solicitud que llegue a la ruta; pr=YAY-gay"
+	},
+	{
+		"front": "after this",
+		"back": "luego de esto"
+	},
+	{
+		"front": "the first thing we are going to do is",
+		"back": "lo primero que vamos hacer es"
+	},
+	{
+		"front": "add, subtract and multiply",
+		"back": "sumar, restar y multiplicar"
+	},
+	{
+		"front": "do you know anything about it",
+		"back": "sabes algo al respecto"
+	},
+	{
+		"front": "let's do the test",
+		"back": "hagamos la prueba"
+	},
+	{
+		"front": "we look at how we can create a web server",
+		"back": "vemos cómo podemos crear un servidor web"
+	},
+	{
+		"front": "a high performance web framework",
+		"back": "un framework web de alto rendimiento"
+	},
+	{
 		"front": "if there was an error",
 		"back": "si hubiera un error; conj=haber; hubiera = imperfect subjunctive of haber"
 	},
