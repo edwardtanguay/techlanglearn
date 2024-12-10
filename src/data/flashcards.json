@@ -964,6 +964,26 @@
 		"back": "nuevas alturas"
 	},
 	{
+		"front": "timed out",
+		"back": "tiempo de espera agotado"
+	},
+	{
+		"front": "but if the connection was successful",
+		"back": "pero si la conexión fuera exitosa; fuera = subjunctive imperfect; conj=ser"
+	},
+	{
+		"front": "we have the following server",
+		"back": "tenemos el siguiente servidor"
+	},
+	{
+		"front": "it looks kind of weird",
+		"back": "se ve medio raro"
+	},
+	{
+		"front": "we have been asked to return a client's information through a service",
+		"back": "nos han solicitado devolver por medio de un servicio la information de una clienta"
+	},
+	{
 		"front": "resource not found",
 		"back": "recurso no encontrado"
 	},

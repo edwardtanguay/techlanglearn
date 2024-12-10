@@ -7,6 +7,7 @@ https://www.linkedin.com/learning/domina-go
 - topics: go
 - rank: 4.96
 - description: short videos but seems to cover basic topics, and from 2023, the first section have extremely simple concepts but after that, these are very useful if you are new to Go
+- status: finished
 
 ## intro, 0:43, 2024-11-25
 
@@ -180,15 +181,38 @@ https://www.linkedin.com/learning/domina-go/retornar-una-imagen-en-un-metodo-get
 
 - works nicely, serves an image from route
 
-## Retornar un archivo xlsx en un método GET, 3:15, nnn
+## Retornar un archivo xlsx en un método GET, 3:15, 2024-12-09
 
 https://www.linkedin.com/learning/domina-go/retornar-un-archivo-xlsx-en-un-metodo-get?autoSkip=true&resume=false
 
-- nnn
+- she creates an xslx file on the fly and returns it with Content-Disposition
+- you can download it in Postman and then open it, worked first time
+
+## WebSocket en Go, 5:20, 2024-12-10
+
+https://www.linkedin.com/learning/domina-go/websocket-en-go?autoSkip=true&resume=false
+
+- uses "interruptions"
+- she runs two terminals, one server and one client
 
 ## VOCAB - SPANISH
 
 ```
+timed out
+tiempo de espera agotado
+
+but if the connection was successful
+pero si la conexión fuera exitosa; fuera = subjunctive imperfect; conj=ser
+
+we have the following server
+tenemos el siguiente servidor
+
+it looks kind of weird
+se ve medio raro
+
+we have been asked to return a client's information through a service
+nos han solicitado devolver por medio de un servicio la information de una clienta
+
 resource not found
 recurso no encontrado
 
