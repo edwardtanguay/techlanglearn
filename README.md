@@ -40,3 +40,11 @@ VITE_SITE_LOCATION=dev
 ## parse md files to json (under construction)
 
 - `npm run pd` (pd = parse data)
+
+## create new note files
+
+- in **courses.tts.txt** add a line like this:
+
+```
+>>create>>python;en;00:09:04;2024;4.2;https://www.youtube.com/watch?v=Y21OR1OPC9A; Python Virtual Environments - Full Tutorial for Beginners ; shows how to install a Python virtual environment
+```

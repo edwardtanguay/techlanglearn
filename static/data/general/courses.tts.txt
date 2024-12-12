@@ -1,3 +1,6 @@
+- VSCode for Python: https://www.youtube.com/watch?v=F60iJ3xxgtg
+- swagger
+
 - gitlab french, 2023
 - https://www.linkedin.com/learning/l-essentiel-de-gitlab/bienvenue-dans-l-essentiel-de-gitlab
 - git french 2020
@@ -228,3 +231,5 @@ CREATED: react, hooks; sp; 02:46:00; 2021; 4.81; https://www.linkedin.com/learni
 CREATED: svelte5; en; 00:21:40; 2024; 4.8; https://www.youtube.com/watch?v=tErKyuUTzsM; Svelte 5 Guide For Beginners; good video, recorded all useful concepts in SvelteKit 5 showcase
 CREATED: svelte5; en; 00:22:03; 2024; 4.8; https://www.youtube.com/watch?v=tC9KSwnczxQ; Svelte 5 Is A Triumph; another good Svelte 5 video, recorded all concepts in SvelteKit 5 showcase
 CREATED: svelte5;en;00:17:40; 2024; 4.8; https://www.youtube.com/watch?v=OlWWIbRz438; Use Svelte 5 Snippets To Reuse Markup Without Creating Components; is about Snippets but more, e.g. generics
+CREATED: python;en;00:09:04;2024;4.2;https://www.youtube.com/watch?v=Y21OR1OPC9A; Python Virtual Environments - Full Tutorial for Beginners ; shows how to install a Python virtual environment
+
