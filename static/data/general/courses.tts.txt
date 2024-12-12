@@ -1,3 +1,4 @@
+- git
 - VSCode for Python: https://www.youtube.com/watch?v=F60iJ3xxgtg
 - swagger
 
@@ -23,6 +24,7 @@
 - sp; 2023; https://www.linkedin.com/learning/domina-apache-kafka/aprendiendo-sobre-apache-kafka
 
 - FRINGE - probably won't use at a job, but interesting
+- Neovim: https://www.youtube.com/watch?v=m8C0Cq9Uv9o
 - Julia
 - https://www.linkedin.com/learning/aprende-julia
 - ASP.NET auf Linux
