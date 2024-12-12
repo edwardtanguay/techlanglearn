@@ -153,7 +153,7 @@
 - https://www.linkedin.com/learning/excel-learning-vba/extend-the-capabilities-of-excel-using-vba
 
 - italian
-	- git: https://www.youtube.com/watch?v=aKvVZ4rAUkQ&list=PLdYHjrPuGeKFskU1KQBf3WETngxU3smjK
+- git: https://www.youtube.com/watch?v=aKvVZ4rAUkQ&list=PLdYHjrPuGeKFskU1KQBf3WETngxU3smjK
 
 // kinde and clerk
 clerk: https://www.youtube.com/watch?v=6g95ioeiE6Q&t=326s

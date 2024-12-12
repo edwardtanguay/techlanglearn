@@ -125,15 +125,40 @@ async def get_books(completed: Union[bool, None] = None):
 	return BOOKS
 ```
 
-## Parámetros Query, 4:16, nnn
+## Parámetros Query, 4:16, 2024-12-12
 
 https://www.linkedin.com/learning/domina-python-fastapi/parametros-query?autoSkip=true&resume=false
+
+- worked well, have to import HTTPException
+
+```
+@app.get("/book/{id}")
+async def get_book(id:int):
+	try:
+		book = next(book for book in BOOKS if book["id"] == id)
+		return book
+	except:
+		raise HTTPException(status_code=404, detail="book not found")
+```
+
+## Parámetros del Body, 3:21, nnn
+
+https://www.linkedin.com/learning/domina-python-fastapi/parametros-del-body?autoSkip=true&resume=false
 
 - nnn
 
 ## VOCAB - SPANISH
 
 ```
+they should not be delivered by an endpoint
+no deben ser entregadas por un endpoint
+
+five hundred
+quinientos
+
+these parameters come as part of the route
+estos parámetros llegan como parte de la ruta
+
 it will be as if we had sent a None
 será como hubiéramos enviado un None; conj=haber; hubiéramos = subjunctive imperfect
 
