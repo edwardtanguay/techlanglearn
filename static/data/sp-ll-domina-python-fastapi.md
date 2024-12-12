@@ -109,15 +109,49 @@ async def get_flashcards():
 	]
 ```
 
-## Parámetros del Path, 4:53, nnn
+## Parámetros del Path, 4:53, 2024-12-12
 
 https://www.linkedin.com/learning/domina-python-fastapi/parametros-del-path?autoSkip=true&resume=false
+
+- shows how in FastAPI and then in Swagger with CURL
+- works
+
+```
+@app.get("/books")
+async def get_books(completed: Union[bool, None] = None):
+	if completed is not None:
+		filtered_books = list(filter(lambda book: book["completed"] == completed, BOOKS))
+		return filtered_books
+	return BOOKS
+```
+
+## Parámetros Query, 4:16, nnn
+
+https://www.linkedin.com/learning/domina-python-fastapi/parametros-query?autoSkip=true&resume=false
 
 - nnn
 
 ## VOCAB - SPANISH
 
 ```
+it will be as if we had sent a None
+será como hubiéramos enviado un None; conj=haber; hubiéramos = subjunctive imperfect
+
+if we leave it empty
+si lo dejamos vacío
+
+but we must write it
+sino que debemos escribirlo
+
+we no longer have options
+ya no nos salen opciones;conj=salen; salen = to leave, go out
+
+that have already been completed
+que ya hayan sido completados; pr=JAW-ha-jahn-SEE-doh
+
+an assigned value
+un valor asignado
+
 later in this course
 más adelante en este curso
 

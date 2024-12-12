@@ -152,6 +152,8 @@
 - VBA
 - https://www.linkedin.com/learning/excel-learning-vba/extend-the-capabilities-of-excel-using-vba
 
+- italian
+	- git: https://www.youtube.com/watch?v=aKvVZ4rAUkQ&list=PLdYHjrPuGeKFskU1KQBf3WETngxU3smjK
 
 // kinde and clerk
 clerk: https://www.youtube.com/watch?v=6g95ioeiE6Q&t=326s
@@ -161,6 +163,7 @@ go: https://www.linkedin.com/learning/go-for-developers-practical-techniques-for
 
 go, cobra; en; 4.92;https://www.youtube.com/watch?v=yiFhQGJeRJk
 
+jwt;fastapi: https://www.youtube.com/watch?v=0A_GCXBCNUQ
 
 bash, linux;sp; 2022;4.78;https://www.linkedin.com/learning/aprende-shell-scripting-en-linux
 rust; sp; 2024;3.8; https://www.linkedin.com/learning/rust-avanzado-24014033
