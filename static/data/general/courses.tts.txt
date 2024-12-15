@@ -1,3 +1,10 @@
+- pycharm
+- https://www.linkedin.com/learning/python-tools-jupyter-vs-pycharm/pycharm-vs-the-jupyter-notebook
+- https://www.linkedin.com/learning/learning-python-with-pycharm-14509667/software-development-and-pycharm
+
+- accessibility, canvas; en; 2024; https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/design-better-presentations-in-canva
+accessibility; en; 2024; https://www.linkedin.com/learning/web-accessibility-for-developers/take-the-mystery-out-of-web-accessibility
+
 - git
 - VSCode for Python: https://www.youtube.com/watch?v=F60iJ3xxgtg
 - swagger
@@ -13,6 +20,14 @@
 - lookup: nginx
 - lookup: JWT
 
+- python, files; en; work2; https://www.linkedin.com/learning/python-working-with-files/automate-file-tasks-with-python
+- python; es; https://www.linkedin.com/learning/search?entityType=COURSE&keywords=python
+- python; fr; https://www.linkedin.com/learning/search?entityType=COURSE&keywords=python
+
+- effeciency
+- ChatGPT use
+- en;2024; https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips
+
 - EXTEND - might use at a job
 - GitHub monorepos
 - https://www.linkedin.com/learning/monorepos-auf-github-grundlagen/shared-library-anlegen?resume=false
@@ -22,6 +37,10 @@
 - https://www.linkedin.com/learning/shopify-grundkurs
 - kafka
 - sp; 2023; https://www.linkedin.com/learning/domina-apache-kafka/aprendiendo-sobre-apache-kafka
+- rubyonrails
+- fr; rubyonrails; 2017;https://www.linkedin.com/learning/l-essentiel-de-ruby-on-rails
+- en; rubyonreails; 2024; https://www.linkedin.com/learning/hands-on-introduction-ruby-on-rails
+- sp; kotlin; 2022; https://www.linkedin.com/learning/kotlin-esencial; nice spanish voice, many courses on kotlin
 
 - FRINGE - probably won't use at a job, but interesting
 - Neovim: https://www.youtube.com/watch?v=m8C0Cq9Uv9o
@@ -31,6 +50,7 @@
 - https://www.linkedin.com/learning/asp-dot-net-hosting-auf-linux/asp-dot-net-anwendungen-effektiv-unter-linux-hosten
 - Phoenix backend
 - https://www.youtube.com/watch?v=9xaN44PNxps&t=2198s
+- pyspark;es;2024; https://chatgpt.com/c/674f8067-dc3c-8005-b0ae-4aac70d20eff
 
 
 - DEVOPS

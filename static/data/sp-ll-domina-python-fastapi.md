@@ -141,15 +141,58 @@ async def get_book(id:int):
 		raise HTTPException(status_code=404, detail="book not found")
 ```
 
-## Parámetros del Body, 3:21, nnn
+## Parámetros del Body, 3:21, 2024-12-14
 
 https://www.linkedin.com/learning/domina-python-fastapi/parametros-del-body?autoSkip=true&resume=false
+
+- only post, patch, put may have a body
+- imports body like this:
+
+```
+from fastapi import FastAPI, HTTPException, Body
+```
+
+## Uso de modelos en FastAPI, 4:16, 2024-12-14
+
+https://www.linkedin.com/learning/domina-python-fastapi/uso-de-modelos-en-fastapi?autoSkip=true&resume=false
+
+- uses Pydantic, which enables you to create Zod-like schemas
+- e.g. you can define that a title must be between 5 and 40 characters, if not, it sends back 422 Unprocessable Entity
+- and sends back a detailed JSON string that the front end can display or log##titeltitlebody
+
+## Qué es un path operation en FastAPI, 3:24, nnn
+
+https://www.linkedin.com/learning/domina-python-fastapi/que-es-un-path-operation-en-fastapi?autoSkip=true&resume=false
 
 - nnn
 
 ## VOCAB - SPANISH
 
 ```
+in which it is placed
+en el que se pone
+
+which is responsible for creating the elements
+que se encarga de crear los elementos
+
+to test the model
+para probar el modelo
+
+that is part of the body
+que hace parte del body
+
+and add them to the list of items
+y los agregue a la lista de elementos
+
+they usually receive data through the body
+suelen recibir datos a través del body
+
+it is not always required that the request receives a body
+no siempre es requerido que la petición recibe un body
+
+who delivers the request to us
+que nos entrega la petición
+
 they should not be delivered by an endpoint
 no deben ser entregadas por un endpoint
 
