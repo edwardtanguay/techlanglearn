@@ -4,7 +4,9 @@
 
 	const store = getStore();
 
-	store.sortTutorials();
+	const handleSortTutorials = () => {
+		store.sortTutorials();
+	};
 </script>
 
 <section class="pageTutorials">
@@ -18,7 +20,7 @@
 		<table>
 			<thead>
 				<tr>
-					<th>Rank</th>
+					<th on:click={handleSortTutorials}>Rank</th>
 					<th>Year</th>
 					<th>Language</th>
 					<th>Topics</th>
