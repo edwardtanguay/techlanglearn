@@ -205,3 +205,12 @@ func convertToSnakeCase(line string) string {
 	words := strings.Fields(lowercaseLine)
 	return strings.Join(words, "-")
 }
+
+func getTutorialFileName(_pathAndFileName string) string {
+	pathAndFileName := filepath.ToSlash(_pathAndFileName) // changes \ to /	
+	lastSlashIndex := strings.LastIndex(pathAndFileName, "/")
+	if lastSlashIndex != -1 {
+		return pathAndFileName[lastSlashIndex+1:]
+	}
+	return pathAndFileName
+}

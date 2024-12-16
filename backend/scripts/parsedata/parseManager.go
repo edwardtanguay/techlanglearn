@@ -11,14 +11,23 @@ import (
 /*
 Parses the md files into JSON for the website to consume
 
-parse("../../static/data")
+parseCurrentTutorialFiles("../../static/data")
 
 - use relative path
 */
-func parse(directory string) {
+func parseCurrentTutorialFiles(directory string) {
 	mdPathAndFileNames, _ := getFilesFromDirectory(directory, "md")
 	parseFlashcards(mdPathAndFileNames)
 	parseStats(mdPathAndFileNames)
+	createTutorialJsonFile(mdPathAndFileNames)
+}
+
+func createTutorialJsonFile(mdPathAndFileNames []string) error {
+	for _, mdPathAndFileName := range mdPathAndFileNames {
+		fileName := getTutorialFileName(mdPathAndFileName)
+		println("adding to JSON file: " + fileName)
+	}
+	return nil
 }
 
 func parseStats(mdPathAndFileNames []string) error {
