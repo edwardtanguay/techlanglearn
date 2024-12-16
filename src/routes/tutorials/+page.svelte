@@ -22,7 +22,9 @@
 				<tr>
 					<th class="cursor-pointer" on:click={() => handleToggleSortColumn('rank')}>Rank</th>
 					<th class="cursor-pointer" on:click={() => handleToggleSortColumn('year')}>Year</th>
-					<th class="cursor-pointer" on:click={() => handleToggleSortColumn('language')}>Language</th>
+					<th class="cursor-pointer" on:click={() => handleToggleSortColumn('language')}
+						>Language</th
+					>
 					<th>Topics</th>
 					<th>Category</th>
 					<th>Platform</th>
@@ -37,7 +39,7 @@
 						<td>{tutorial.year === 0 ? '' : tutorial.year}</td>
 						<td>{tutorial.language}</td>
 						<td>{tutorial.topics}</td>
-						<td>{tutorial.category.idCode}</td>
+						<td>{tutorial.category !== null ? tutorial.category.idCode : ''}</td>
 						<td>{tutorial.platform}</td>
 						<td>
 							<p><a class="underline" target="_blank" href={tutorial.url}>{tutorial.title}</a></p>

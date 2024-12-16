@@ -28,7 +28,7 @@ export type Tutorial = {
 	platform: string;
 	fileIdCode: string;
 	status: string;
-	category: Category;
+	category: Category | null;
 };
 
 export type PageStatus = 'loading' | 'ready' | 'error';

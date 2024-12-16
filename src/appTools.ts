@@ -1,7 +1,7 @@
-import { getRandomIndex } from './tools';
 import type { Category } from './types';
 
-export const getCategoryItem = (topics: string): Category => {
+export const getCategoryItem = (topicsList: string): Category | null => {
+	const topics = topicsList.split(',').map(m => m.trim());
 	const categories: Category[] = [
 		{ idCode: 'current', topics: ['react', 'go'], description: '' },
 		{
@@ -13,6 +13,16 @@ export const getCategoryItem = (topics: string): Category => {
 		{ idCode: 'extend', topics: [], description: '' },
 		{ idCode: 'linux', topics: ['sed', 'awk'], description: '' }
 	];
-	console.log(topics);
-	return categories[getRandomIndex(categories.length)];
+
+	for (const category of categories) {
+		for (const categoryTopic of category.topics) {
+			for (const topic of topics) {
+				console.log('compare', categoryTopic, topic);
+				if (categoryTopic === topic) {
+					return category;
+				}
+			}
+		}
+	}
+	return null;
 };
