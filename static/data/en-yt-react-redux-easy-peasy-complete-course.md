@@ -63,8 +63,8 @@ qué se trata esta función y qué hace
 I like that standard because
 me gusta esa estandár porque
 
-así es como lo hace
 this is how you do it
+así es como lo hace
 
 let me save it
 déjeme guardarlo

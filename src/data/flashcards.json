@@ -1260,6 +1260,58 @@
 		"back": "has it happened to you that while you are programming"
 	},
 	{
+		"front": "since we can get metadata",
+		"back": "puesto que podemos obtener metadatos"
+	},
+	{
+		"front": "instead of defining the file",
+		"back": "en vez de definir el archivo"
+	},
+	{
+		"front": "delivers a 404 code",
+		"back": "entrega una código 404"
+	},
+	{
+		"front": "the element associated with the file you want to upload",
+		"back": "el elemento asociado al archivo que se quiere subir"
+	},
+	{
+		"front": "whose name will be stored",
+		"back": "cuyo nombre será almacenado"
+	},
+	{
+		"front": "storage service",
+		"back": "servicio de almacenamiento"
+	},
+	{
+		"front": "since what we want to see is how it works",
+		"back": "puesto que lo que queremos ver es su funcionamiento"
+	},
+	{
+		"front": "the function is going to be called",
+		"back": "la función se va a llamar"
+	},
+	{
+		"front": "we must wait for the instruction to be fulfilled",
+		"back": "debemos esperar que la instrucción se cumple"
+	},
+	{
+		"front": "since the function only returns a dictionary",
+		"back": "puesto que la función solo retorna un diccionario; puesto = past participle of poner (irregular); conj=poner"
+	},
+	{
+		"front": "another may be being processed at the same time",
+		"back": "otra puede estar siendo procesada al mismo tiempo"
+	},
+	{
+		"front": "that has been created",
+		"back": "que a sido creada"
+	},
+	{
+		"front": "and therefore",
+		"back": "y por ende"
+	},
+	{
 		"front": "in which it is placed",
 		"back": "en el que se pone"
 	},

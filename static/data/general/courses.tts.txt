@@ -20,6 +20,14 @@ accessibility; en; 2024; https://www.linkedin.com/learning/web-accessibility-for
 - lookup: nginx
 - lookup: JWT
 
+- videos on tech video production and editing
+	- capcut.com
+		- https://www.youtube.com/results?search_query=capcut+video+editing
+	- divinci resolve
+		- https://www.youtube.com/results?search_query=divinci+video+editing
+
+- python, do all of Ana María's courses: https://www.linkedin.com/learning/instructors/ana-maria-pinto
+
 - python, files; en; work2; https://www.linkedin.com/learning/python-working-with-files/automate-file-tasks-with-python
 - python; es; https://www.linkedin.com/learning/search?entityType=COURSE&keywords=python
 - python; fr; https://www.linkedin.com/learning/search?entityType=COURSE&keywords=python
@@ -36,6 +44,7 @@ accessibility; en; 2024; https://www.linkedin.com/learning/web-accessibility-for
 - shopify german
 - https://www.linkedin.com/learning/shopify-grundkurs
 - kafka
+- regex, en, 2024: https://www.linkedin.com/learning/learning-regular-expressions-15586553/write-text-matching-patterns
 - sp; 2023; https://www.linkedin.com/learning/domina-apache-kafka/aprendiendo-sobre-apache-kafka
 - rubyonrails
 - fr; rubyonrails; 2017;https://www.linkedin.com/learning/l-essentiel-de-ruby-on-rails
@@ -52,6 +61,9 @@ accessibility; en; 2024; https://www.linkedin.com/learning/web-accessibility-for
 - https://www.youtube.com/watch?v=9xaN44PNxps&t=2198s
 - pyspark;es;2024; https://chatgpt.com/c/674f8067-dc3c-8005-b0ae-4aac70d20eff
 
+- Linux
+	- SED: https://www.linkedin.com/learning/sed-essential-training/welcome
+	- AWK: https://www.linkedin.com/learning/awk-essential-training/welcome-17099300
 
 - DEVOPS
 - ansible
@@ -80,6 +92,7 @@ accessibility; en; 2024; https://www.linkedin.com/learning/web-accessibility-for
 - https://www.linkedin.com/learning/shells-und-shell-skripte-in-linux-lpic-1-102/der-read-befehl
 - Java
 - webpack 5
+- Perl: https://www.linkedin.com/learning/perl-5-essential-training/welcome
 - gimp
 - C#
 - sp, many; https://www.linkedin.com/learning/topics/c-sharp?sortBy=RECENCY

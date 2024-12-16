@@ -160,15 +160,89 @@ https://www.linkedin.com/learning/domina-python-fastapi/uso-de-modelos-en-fastap
 - e.g. you can define that a title must be between 5 and 40 characters, if not, it sends back 422 Unprocessable Entity
 - and sends back a detailed JSON string that the front end can display or log##titeltitlebody
 
-## Qué es un path operation en FastAPI, 3:24, nnn
+## Qué es un path operation en FastAPI, 3:24, 2024-12-15
 
 https://www.linkedin.com/learning/domina-python-fastapi/que-es-un-path-operation-en-fastapi?autoSkip=true&resume=false
+
+- path operation decorator
+- response_model=Todo, name="Create a todo", summary="nnn", description="nnn"
+- I got an error when I use reponse_model=Book
+
+## Cuando usar async para definir una path operation, 2:43, 2024-12-15
+
+https://www.linkedin.com/learning/domina-python-fastapi/cuando-usar-async-para-definir-una-path-operation?autoSkip=true&resume=false
+
+- she accesses three urls at the same time
+- import asyncio
+- after implementing sleep, she runs the bash script three times again
+- if you use SQLAlchemy, you will have to use synchronous calls
+
+## Uso de formularios en FastAPI, 3:27, 2024-12-15
+
+https://www.linkedin.com/learning/domina-python-fastapi/uso-de-formularios-en-fastapi?autoSkip=true&resume=false
+
+- when receiving data from a form
+- `pip install python-multipart`
+- then import Form
+- Form inherits Body
+- imports Annotated from typing
+- she uses the form in Swagger##usetheformsj
+
+## Manipulación de archivos en un endpoint de FastAPI, 4:21, 2024-12-16
+
+https://www.linkedin.com/learning/domina-python-fastapi/manipulacion-de-archivos-en-un-endpoint-de-fastapi?autoSkip=true&resume=false
+
+- you have to use File and UploadFile, both from Python multipart
+- worked, afterwards I also saved the file, works well
+
+## Cómo crear el API router en FastAPI, 5:42, nnn
+
+https://www.linkedin.com/learning/domina-python-fastapi/como-crear-el-api-router-en-fastapi?autoSkip=true&resume=false
 
 - nnn
 
 ## VOCAB - SPANISH
 
 ```
+since we can get metadata
+puesto que podemos obtener metadatos
+
+instead of defining the file
+en vez de definir el archivo
+
+delivers a 404 code
+entrega una código 404
+
+the element associated with the file you want to upload
+el elemento asociado al archivo que se quiere subir
+
+whose name will be stored
+cuyo nombre será almacenado
+
+storage service
+servicio de almacenamiento
+
+since what we want to see is how it works
+puesto que lo que queremos ver es su funcionamiento
+
+the function is going to be called
+la función se va a llamar
+
+we must wait for the instruction to be fulfilled
+debemos esperar que la instrucción se cumple
+
+since the function only returns a dictionary
+puesto que la función solo retorna un diccionario; puesto = past participle of poner (irregular); conj=poner
+
+another may be being processed at the same time
+otra puede estar siendo procesada al mismo tiempo
+
+that has been created
+que a sido creada
+
+and therefore
+y por ende
+
 in which it is placed
 en el que se pone
 
