@@ -1,2 +1,43 @@
 .pageTutorials {
+	.styled-table {
+		table {
+			width: 100%;
+			border-collapse: collapse;
+			margin: 20px 0;
+			font-size: 1rem;
+			font-family: Arial, sans-serif;
+			text-align: left;
+
+			th,
+			td {
+				padding: 10px;
+				border: 1px solid #ccc;
+			}
+
+			thead {
+				background-color: #f2f2f2;
+
+				th {
+					color: #333;
+					font-weight: bold;
+				}
+			}
+
+			tbody {
+				tr {
+					&:nth-child(even) {
+						background-color: #f9f9f9;
+					}
+
+					&:hover {
+						background-color: #e0e0e0;
+					}
+				}
+
+				td {
+					color: #555;
+				}
+			}
+		}
+	}
 }
