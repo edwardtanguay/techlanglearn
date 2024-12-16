@@ -5,10 +5,42 @@
 	const store = getStore();
 </script>
 
-<header>
-	<h1 class="main">Tutorials</h1>
-	<p class="test123">There are {store.tutorials.length} tutorials.</p>
+<section class="pageTutorials">
+	<header>
+		<h1 class="main">Tutorials</h1>
+		<p>There are {store.tutorials.length} tutorials.</p>
+	</header>
 	{#each store.tutorials as tutorial}
 		<p>{tutorial.title}</p>
 	{/each}
-</header>
+	<hr />
+
+	<section class="styled-table">
+		<table>
+			<thead>
+				<tr>
+					<th>Name</th>
+					<th>Age</th>
+					<th>Occupation</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>John Doe</td>
+					<td>29</td>
+					<td>Developer</td>
+				</tr>
+				<tr>
+					<td>Jane Smith</td>
+					<td>34</td>
+					<td>Designer</td>
+				</tr>
+				<tr>
+					<td>Sam Wilson</td>
+					<td>41</td>
+					<td>Manager</td>
+				</tr>
+			</tbody>
+		</table>
+	</section>
+</section>
