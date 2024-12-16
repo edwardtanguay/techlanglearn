@@ -21,5 +21,21 @@ export const getStats = (): Stats => {
 };
 
 export const getTutorials = (): Tutorial[] => {
-	return rawTutorials;
+	const tutorials: Tutorial[] = [];
+	for (const rawTutorial of rawTutorials) {
+		const tutorial: Tutorial = {
+			topics: rawTutorial.topics,
+			language: rawTutorial.language,
+			duration: rawTutorial.duration,
+			year: Number(rawTutorial.year),
+			rank: Number(rawTutorial.rank),
+			url: rawTutorial.url,
+			title: rawTutorial.title,
+			description: rawTutorial.description,
+			platform: rawTutorial.platform,
+			fileIdCode: rawTutorial.fileIdCode
+		};
+		tutorials.push(tutorial);
+	}
+	return tutorials;
 };

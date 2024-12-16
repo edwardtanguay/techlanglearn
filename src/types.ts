@@ -20,8 +20,8 @@ export type Tutorial = {
 	topics: string;
 	language: string;
 	duration: string;
-	year: string;
-	rank: string;
+	year: number;
+	rank: number;
 	url: string;
 	title: string;
 	description: string;
