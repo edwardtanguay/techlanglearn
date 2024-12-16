@@ -16,4 +16,17 @@ export type Stats = {
 	timeUnits: TimeUnit[];
 };
 
+export type Tutorial = {
+	topics: string;
+	language: string;
+	duration: string;
+	year: string;
+	rank: string;
+	url: string;
+	title: string;
+	description: string;
+	platform: string;
+	fileIdCode: string;
+};
+
 export type PageStatus = 'loading' | 'ready' | 'error';

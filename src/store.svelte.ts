@@ -7,6 +7,7 @@ const siteLocation = import.meta.env.VITE_SITE_LOCATION === 'dev' ? 'dev' : 'onl
 let pageStatus: PageStatus = $state('ready');
 let errorMessage = $state('');
 const flashcards = $state(dataModel.getFlashcards());
+const tutorials = $state(dataModel.getTutorials());
 
 // computed values
 const randomFlashcards = $state(getRandomItemsFromArray(flashcards, 3));
@@ -26,6 +27,9 @@ export const getStore = () => {
 		get flashcards() {
 			return flashcards;
 		},
+		get tutorials() {
+			return tutorials;
+		},
 
 		// computed state
 		get randomFlashcards() {
@@ -40,7 +44,6 @@ export const getStore = () => {
 			errorMessage = _errorMessage;
 		},
 		handleRandomFlashcardToggle: (f: Flashcard) => {
-			console.log(11111, 'switching');
 			f.isOpen = !f.isOpen;
 		}
 	};

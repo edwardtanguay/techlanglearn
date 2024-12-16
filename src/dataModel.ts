@@ -1,7 +1,7 @@
 import rawFlashcards from './data/flashcards.json';
-import type { Flashcard } from './types';
+import type { Flashcard, Tutorial, Stats } from './types';
 import rawStats from './data/stats.json';
-import type { Stats } from './types';
+import rawTutorials from './data/tutorials.json';
 
 export const getFlashcards = (): Flashcard[] => {
 	const flashcards: Flashcard[] = [];
@@ -18,4 +18,8 @@ export const getFlashcards = (): Flashcard[] => {
 
 export const getStats = (): Stats => {
 	return rawStats;
+};
+
+export const getTutorials = (): Tutorial[] => {
+	return rawTutorials;
 };
