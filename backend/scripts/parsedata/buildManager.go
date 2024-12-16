@@ -52,6 +52,7 @@ func createFileWithTemplateAndData(targetPathAndFileName string, templatePathAnd
 	content = strings.ReplaceAll(content, "@@topics", tutorial.Topics)
 	content = strings.ReplaceAll(content, "@@rank", tutorial.Rank)
 	content = strings.ReplaceAll(content, "@@description", tutorial.Description)
+	content = strings.ReplaceAll(content, "@@year", tutorial.Year)
 	writeTextFile(targetPathAndFileName, content)
 }
 

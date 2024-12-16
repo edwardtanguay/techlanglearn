@@ -1,5 +1,4 @@
 - pycharm
-- https://www.linkedin.com/learning/python-tools-jupyter-vs-pycharm/pycharm-vs-the-jupyter-notebook
 - https://www.linkedin.com/learning/learning-python-with-pycharm-14509667/software-development-and-pycharm
 
 - accessibility, canvas; en; 2024; https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/design-better-presentations-in-canva
@@ -271,4 +270,4 @@ CREATED: svelte5; en; 00:21:40; 2024; 4.8; https://www.youtube.com/watch?v=tErKy
 CREATED: svelte5; en; 00:22:03; 2024; 4.8; https://www.youtube.com/watch?v=tC9KSwnczxQ; Svelte 5 Is A Triumph; another good Svelte 5 video, recorded all concepts in SvelteKit 5 showcase
 CREATED: svelte5;en;00:17:40; 2024; 4.8; https://www.youtube.com/watch?v=OlWWIbRz438; Use Svelte 5 Snippets To Reuse Markup Without Creating Components; is about Snippets but more, e.g. generics
 CREATED: python;en;00:09:04;2024;4.2;https://www.youtube.com/watch?v=Y21OR1OPC9A; Python Virtual Environments - Full Tutorial for Beginners ; shows how to install a Python virtual environment
-
+CREATED: python, pycharm, jupyter;en;00:29:00; 2021;4.2; https://www.linkedin.com/learning/python-tools-jupyter-vs-pycharm/pycharm-vs-the-jupyter-notebook; Python Tools: Jupyter vs. PyCharm; simply shows how to use PyCharm and Jupyter
