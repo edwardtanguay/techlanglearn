@@ -33,8 +33,8 @@
 			<tbody>
 				{#each store.tutorials as tutorial}
 					<tr>
-						<td>{tutorial.rank}</td>
-						<td>{tutorial.year}</td>
+						<td>{tutorial.rank.toFixed(2)}</td>
+						<td>{tutorial.year === 0 ? '' : tutorial.year}</td>
 						<td>{tutorial.language}</td>
 						<td>{tutorial.topics}</td>
 						<td>{tutorial.category.idCode}</td>
