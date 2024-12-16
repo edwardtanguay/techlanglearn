@@ -7,6 +7,7 @@ https://www.linkedin.com/learning/building-a-scalable-monorepo-with-javascript-a
 - topics: monorepos
 - rank: 4.89
 - description: looks like a quick deep dive in monorepos
+- year: 2024
 
 ## TITLE, TIME, nnn
 
