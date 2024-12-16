@@ -45,6 +45,10 @@ export const getStore = () => {
 		},
 		handleRandomFlashcardToggle: (f: Flashcard) => {
 			f.isOpen = !f.isOpen;
+		},
+		sortTutorials: () => {
+			// error: tutorials = any
+			tutorials.sort((a, b) => (a.rank > b.rank ? 1 : -1));
 		}
 	};
 };

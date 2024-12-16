@@ -3,6 +3,8 @@
 	import './styles.scss';
 
 	const store = getStore();
+
+	store.sortTutorials();
 </script>
 
 <section class="pageTutorials">
