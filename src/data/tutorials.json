@@ -9,19 +9,21 @@
 		"title": "Building a Scalable Monorepo with JavaScript and TypeScript",
 		"description": "looks like a quick deep dive in monorepos",
 		"platform": "linkedInLearning",
-		"fileIdCode": "en-ll-building-a-scalable-monorepo-with-javascript-and-typescript"
+		"fileIdCode": "en-ll-building-a-scalable-monorepo-with-javascript-and-typescript",
+		"status": ""
 	},
 	{
 		"topics": "react, redux",
 		"language": "en",
 		"duration": "03:50:00",
-		"year": "",
+		"year": "2024",
 		"rank": "4.69",
 		"url": "https://www.linkedin.com/learning/building-modern-projects-with-react-24955170",
 		"title": "Building Modern Projects with React",
 		"description": "lots of Redux, some Webpack, testing, seems to be React from a different angle, also Remix, Next.js",
 		"platform": "linkedInLearning",
-		"fileIdCode": "en-ll-building-modern-projects-with-react"
+		"fileIdCode": "en-ll-building-modern-projects-with-react",
+		"status": ""
 	},
 	{
 		"topics": "flask",
@@ -33,7 +35,8 @@
 		"title": "Building RESTful APIs with Flask",
 		"description": "seems like the essentials of Flash, i.e. an API",
 		"platform": "linkedInLearning",
-		"fileIdCode": "en-ll-building-restful-apis-with-flask"
+		"fileIdCode": "en-ll-building-restful-apis-with-flask",
+		"status": ""
 	},
 	{
 		"topics": "gitlab",
@@ -45,7 +48,8 @@
 		"title": "Continuous Integration and Continuous Delivery with GitLab",
 		"description": "good basics of GitLab, from 2022 so not that old",
 		"platform": "linkedInLearning",
-		"fileIdCode": "en-ll-continuous-integration-and-continuous-delivery-with-gitlab"
+		"fileIdCode": "en-ll-continuous-integration-and-continuous-delivery-with-gitlab",
+		"status": ""
 	},
 	{
 		"topics": "grid",
@@ -57,7 +61,8 @@
 		"title": "CSS: Advanced Layouts with Grid",
 		"description": "long course on grid, looks good",
 		"platform": "linkedInLearning",
-		"fileIdCode": "en-ll-css-advanced-layouts-with-grid"
+		"fileIdCode": "en-ll-css-advanced-layouts-with-grid",
+		"status": ""
 	},
 	{
 		"topics": "flask",
@@ -69,7 +74,8 @@
 		"title": "Flask Essential Training",
 		"description": "seems like a solid course on Flask",
 		"platform": "linkedInLearning",
-		"fileIdCode": "en-ll-flask-essential-training"
+		"fileIdCode": "en-ll-flask-essential-training",
+		"status": ""
 	},
 	{
 		"topics": "webflow",
@@ -81,7 +87,8 @@
 		"title": "Learning Webflow",
 		"description": "enables you to build professional, responsive, customized sites using a completely visual canvas—no coding required",
 		"platform": "linkedInLearning",
-		"fileIdCode": "en-ll-learning-webflow"
+		"fileIdCode": "en-ll-learning-webflow",
+		"status": ""
 	},
 	{
 		"topics": "nextjs, mongo",
@@ -93,7 +100,8 @@
 		"title": "Next.js: Creating and Hosting a Full-Stack Site",
 		"description": "Shaun Wassell, looks like an excellent",
 		"platform": "linkedInLearning",
-		"fileIdCode": "en-ll-nextjs-creating-and-hosting-a-fullstack-site"
+		"fileIdCode": "en-ll-nextjs-creating-and-hosting-a-fullstack-site",
+		"status": ""
 	},
 	{
 		"topics": "python, pycharm, jupyter",
@@ -105,7 +113,8 @@
 		"title": "Python Tools: Jupyter vs. PyCharm",
 		"description": "simply shows how to use PyCharm and Jupyter",
 		"platform": "linkedInLearning",
-		"fileIdCode": "en-ll-python-tools-jupyter-vs-pycharm"
+		"fileIdCode": "en-ll-python-tools-jupyter-vs-pycharm",
+		"status": ""
 	},
 	{
 		"topics": "kinde",
@@ -117,7 +126,8 @@
 		"title": "Add Auth \u0026 Protect Routes in React in 3 Minutes (Kinde)",
 		"description": "quick video showing how to build Kinde into a React site",
 		"platform": "youtube",
-		"fileIdCode": "en-yt-add-auth-protect-routes-in-react-in-3-minutes-kinde"
+		"fileIdCode": "en-yt-add-auth-protect-routes-in-react-in-3-minutes-kinde",
+		"status": ""
 	},
 	{
 		"topics": "go, graphql, nextjs, gin",
@@ -129,7 +139,8 @@
 		"title": "Build GraphQL Server with Go",
 		"description": "10+ videos that include Next.js, Gin all working together, good way to learn GraphQL",
 		"platform": "youtube",
-		"fileIdCode": "en-yt-build-graphql-server-with-go"
+		"fileIdCode": "en-yt-build-graphql-server-with-go",
+		"status": ""
 	},
 	{
 		"topics": "ink",
@@ -141,7 +152,8 @@
 		"title": "Learn Ink in 15 minutes",
 		"description": "a quick video to learn how to make dynamic conversations using Ink, a tool used in gaming",
 		"platform": "youtube",
-		"fileIdCode": "en-yt-learn-ink-in-15-minutes"
+		"fileIdCode": "en-yt-learn-ink-in-15-minutes",
+		"status": ""
 	},
 	{
 		"topics": "python",
@@ -153,7 +165,8 @@
 		"title": "Python Virtual Environments - Full Tutorial for Beginners",
 		"description": "shows how to install a Python virtual environment",
 		"platform": "youtube",
-		"fileIdCode": "en-yt-python-virtual-environments-full-tutorial-for-beginners"
+		"fileIdCode": "en-yt-python-virtual-environments-full-tutorial-for-beginners",
+		"status": ""
 	},
 	{
 		"topics": "kinde",
@@ -165,7 +178,8 @@
 		"title": "React Authentication with Kinde",
 		"description": "another short video showing how to intall Kinde in React (not Next.js)",
 		"platform": "youtube",
-		"fileIdCode": "en-yt-react-authentication-with-kinde"
+		"fileIdCode": "en-yt-react-authentication-with-kinde",
+		"status": ""
 	},
 	{
 		"topics": "easyPeasy",
@@ -177,7 +191,8 @@
 		"title": "React Redux Easy Peasy Complete Course",
 		"description": "old course but checking it out, uses TypeScript, only doing parts 2-4, part 1 was too simple",
 		"platform": "youtube",
-		"fileIdCode": "en-yt-react-redux-easy-peasy-complete-course"
+		"fileIdCode": "en-yt-react-redux-easy-peasy-complete-course",
+		"status": ""
 	},
 	{
 		"topics": "skeleton, svelte",
@@ -189,7 +204,8 @@
 		"title": "Skeleton UI Library for Svelte",
 		"description": "a UI library for Svelte, I used it and it worked well, used it in my SvelteKit 5 showcase",
 		"platform": "youtube",
-		"fileIdCode": "en-yt-skeleton-ui-library-for-svelte"
+		"fileIdCode": "en-yt-skeleton-ui-library-for-svelte",
+		"status": ""
 	},
 	{
 		"topics": "svelte5",
@@ -201,7 +217,8 @@
 		"title": "Svelte 5 Guide For Beginners",
 		"description": "good video, recorded all useful concepts in SvelteKit 5 showcase",
 		"platform": "youtube",
-		"fileIdCode": "en-yt-svelte-5-guide-for-beginners"
+		"fileIdCode": "en-yt-svelte-5-guide-for-beginners",
+		"status": ""
 	},
 	{
 		"topics": "svelte5",
@@ -213,7 +230,8 @@
 		"title": "Svelte 5 Is A Triumph",
 		"description": "another good Svelte 5 video, recorded all concepts in SvelteKit 5 showcase",
 		"platform": "youtube",
-		"fileIdCode": "en-yt-svelte-5-is-a-triumph"
+		"fileIdCode": "en-yt-svelte-5-is-a-triumph",
+		"status": ""
 	},
 	{
 		"topics": "svelte5",
@@ -225,7 +243,8 @@
 		"title": "Use Svelte 5 Snippets To Reuse Markup Without Creating Components",
 		"description": "is about Snippets but more, e.g. generics",
 		"platform": "youtube",
-		"fileIdCode": "en-yt-use-svelte-5-snippets-to-reuse-markup-without-creating-components"
+		"fileIdCode": "en-yt-use-svelte-5-snippets-to-reuse-markup-without-creating-components",
+		"status": ""
 	},
 	{
 		"topics": "css",
@@ -237,7 +256,8 @@
 		"title": "CSS avanzado: 12 trucos",
 		"description": "tutorial is 8 years old but Zuriñe has a nice voice and these topics should be timeless",
 		"platform": "linkedInLearning",
-		"fileIdCode": "sp-ll-css-avanzado-12-trucos"
+		"fileIdCode": "sp-ll-css-avanzado-12-trucos",
+		"status": ""
 	},
 	{
 		"topics": "docker",
@@ -249,7 +269,8 @@
 		"title": "Docker esencial",
 		"description": "Spanish, in depth Docker",
 		"platform": "linkedInLearning",
-		"fileIdCode": "sp-ll-docker-esencial"
+		"fileIdCode": "sp-ll-docker-esencial",
+		"status": ""
 	},
 	{
 		"topics": "go",
@@ -261,7 +282,8 @@
 		"title": "Domina Go: Creación y empaquetado de aplicaciones",
 		"description": "finished this one, short, useful",
 		"platform": "linkedInLearning",
-		"fileIdCode": "sp-ll-domina-go-creacin-y-empaquetado-de-aplicaciones"
+		"fileIdCode": "sp-ll-domina-go-creacin-y-empaquetado-de-aplicaciones",
+		"status": ""
 	},
 	{
 		"topics": "go",
@@ -273,7 +295,8 @@
 		"title": "Domina Go: Idioms y pruebas de código",
 		"description": "advanced Go, coding practices, testing (unit and integration)",
 		"platform": "linkedInLearning",
-		"fileIdCode": "sp-ll-domina-go-idioms-y-pruebas-de-cdigo"
+		"fileIdCode": "sp-ll-domina-go-idioms-y-pruebas-de-cdigo",
+		"status": ""
 	},
 	{
 		"topics": "go",
@@ -285,7 +308,8 @@
 		"title": "Domina Go",
 		"description": "short videos but seems to cover basic topics, and from 2023, the first section have extremely simple concepts but after that, these are very useful if you are new to Go",
 		"platform": "linkedInLearning",
-		"fileIdCode": "sp-ll-domina-go"
+		"fileIdCode": "sp-ll-domina-go",
+		"status": "finished"
 	},
 	{
 		"topics": "python, fastapi",
@@ -297,7 +321,8 @@
 		"title": "Domina Python: FastAPI",
 		"description": "looks interesting, in Spanish, good way to learn practical Python",
 		"platform": "linkedInLearning",
-		"fileIdCode": "sp-ll-domina-python-fastapi"
+		"fileIdCode": "sp-ll-domina-python-fastapi",
+		"status": ""
 	},
 	{
 		"topics": "gitlab",
@@ -309,7 +334,8 @@
 		"title": "GitLab esencial",
 		"description": "a solid, long course in Spanish but unfortunately very hold (2016), watch it and try to redo in the current version of GitLab",
 		"platform": "linkedInLearning",
-		"fileIdCode": "sp-ll-gitlab-esencial"
+		"fileIdCode": "sp-ll-gitlab-esencial",
+		"status": ""
 	},
 	{
 		"topics": "react, monorepos",
@@ -321,7 +347,8 @@
 		"title": "React avanzado 2",
 		"description": "monorepos, nx, storybook, testing, patterns, GitHub Actions, 70% useful",
 		"platform": "linkedInLearning",
-		"fileIdCode": "sp-ll-react-avanzado-2"
+		"fileIdCode": "sp-ll-react-avanzado-2",
+		"status": ""
 	},
 	{
 		"topics": "react, hooks",
@@ -333,7 +360,8 @@
 		"title": "React Hooks esencial",
 		"description": "basics of React hooks, it only has a small section on custom hooks, and is focused on showing how one moves from class components to function components (created in 2021), discontinued as rest of content is too simplistic",
 		"platform": "linkedInLearning",
-		"fileIdCode": "sp-ll-react-hooks-esencial"
+		"fileIdCode": "sp-ll-react-hooks-esencial",
+		"status": ""
 	},
 	{
 		"topics": "androidUser",
@@ -345,7 +373,8 @@
 		"title": "Trucos semanales para usuarios de Android",
 		"description": "nice tips like screen recording, Elena has a nice Spanish voice",
 		"platform": "linkedInLearning",
-		"fileIdCode": "sp-ll-trucos-semanales-para-usuarios-de-android"
+		"fileIdCode": "sp-ll-trucos-semanales-para-usuarios-de-android",
+		"status": ""
 	},
 	{
 		"topics": "mux",
@@ -357,6 +386,7 @@
 		"title": "Golang, REST API CRUD con go",
 		"description": "seems like a decent tutorial how to build a Go/Mux API in Spanish",
 		"platform": "youtube",
-		"fileIdCode": "sp-yt-golang-rest-api-crud-con-go"
+		"fileIdCode": "sp-yt-golang-rest-api-crud-con-go",
+		"status": ""
 	}
 ]

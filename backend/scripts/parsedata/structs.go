@@ -34,4 +34,5 @@ type Tutorial struct {
 	Description string `json:"description"`
 	Platform    string `json:"platform"`
 	FileIdCode  string `json:"fileIdCode"`
+	Status      string `json:"status"`
 }

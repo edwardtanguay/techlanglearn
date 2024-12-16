@@ -27,6 +27,7 @@ export type Tutorial = {
 	description: string;
 	platform: string;
 	fileIdCode: string;
+	status: string;
 };
 
 export type PageStatus = 'loading' | 'ready' | 'error';

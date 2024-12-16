@@ -26,6 +26,7 @@
 					<th>Topics</th>
 					<th>Platform</th>
 					<th>Title</th>
+					<th>Status</th>
 				</tr>
 			</thead>
 			<tbody>
@@ -40,6 +41,7 @@
 							<p><a class="underline" target="_blank" href={tutorial.url}>{tutorial.title}</a></p>
 							<p class="text-xs text-orange-800">{tutorial.fileIdCode}.md</p>
 						</td>
+						<td>{tutorial.status}</td>
 					</tr>
 				{/each}
 			</tbody>

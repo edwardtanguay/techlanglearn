@@ -224,10 +224,13 @@ func getRestOfLine(text, marker string) string {
 }
 
 func getFieldValueFromLines(lines []string, fieldIdCode string) string {
-	for _, line := range lines {
+	for i, line := range lines {
 		marker := fieldIdCode + ":"
 		if strings.Contains(line, marker) {
 			return getRestOfLine(line, marker)
+		}
+		if i > 20 {
+			return ""
 		}
 	}
 	return ""

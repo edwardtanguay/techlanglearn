@@ -33,7 +33,8 @@ export const getTutorials = (): Tutorial[] => {
 			title: rawTutorial.title,
 			description: rawTutorial.description,
 			platform: rawTutorial.platform,
-			fileIdCode: rawTutorial.fileIdCode
+			fileIdCode: rawTutorial.fileIdCode,
+			status: rawTutorial.status
 		};
 		tutorials.push(tutorial);
 	}
