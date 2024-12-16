@@ -28,6 +28,13 @@ export type Tutorial = {
 	platform: string;
 	fileIdCode: string;
 	status: string;
+	category: Category;
 };
 
 export type PageStatus = 'loading' | 'ready' | 'error';
+
+export type Category = {
+	idCode: string;
+	topics: string[];
+	description: string;
+};

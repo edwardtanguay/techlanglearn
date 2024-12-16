@@ -24,6 +24,7 @@
 					<th class="cursor-pointer" on:click={() => handleToggleSortColumn('year')}>Year</th>
 					<th class="cursor-pointer" on:click={() => handleToggleSortColumn('language')}>Language</th>
 					<th>Topics</th>
+					<th>Category</th>
 					<th>Platform</th>
 					<th>Title</th>
 					<th>Status</th>
@@ -36,6 +37,7 @@
 						<td>{tutorial.year}</td>
 						<td>{tutorial.language}</td>
 						<td>{tutorial.topics}</td>
+						<td>{tutorial.category.idCode}</td>
 						<td>{tutorial.platform}</td>
 						<td>
 							<p><a class="underline" target="_blank" href={tutorial.url}>{tutorial.title}</a></p>

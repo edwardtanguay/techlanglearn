@@ -2,6 +2,7 @@ import rawFlashcards from './data/flashcards.json';
 import type { Flashcard, Tutorial, Stats } from './types';
 import rawStats from './data/stats.json';
 import rawTutorials from './data/tutorials.json';
+import * as appTools from './appTools';
 
 export const getFlashcards = (): Flashcard[] => {
 	const flashcards: Flashcard[] = [];
@@ -34,7 +35,8 @@ export const getTutorials = (): Tutorial[] => {
 			description: rawTutorial.description,
 			platform: rawTutorial.platform,
 			fileIdCode: rawTutorial.fileIdCode,
-			status: rawTutorial.status
+			status: rawTutorial.status,
+			category: appTools.getCategoryItem(rawTutorial.topics)
 		};
 		tutorials.push(tutorial);
 	}

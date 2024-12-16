@@ -14,7 +14,11 @@ export const replaceAll = (text: string, search: string, replace: string) => {
  *
  * nnn
  */
-export const getRandomItemsFromArray = <T>(arr:T[], amount: number) : T[] => {
-	const shuffled = [...arr].sort(() => .5 - Math.random());
+export const getRandomItemsFromArray = <T>(arr: T[], amount: number): T[] => {
+	const shuffled = [...arr].sort(() => 0.5 - Math.random());
 	return shuffled.slice(0, amount);
+};
+
+export const getRandomIndex = (length: number): number => {
+	return Math.floor(Math.random() * length);
 };
