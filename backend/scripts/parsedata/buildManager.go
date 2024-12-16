@@ -104,12 +104,7 @@ func parseTutorialLine(line string) Tutorial {
 	}
 
 	// add platform
-	if strings.Contains(tutorial.Url, "youtube.") {
-		tutorial.Platform = "youtube"
-	}
-	if strings.Contains(tutorial.Url, "linkedin.") {
-		tutorial.Platform = "linkedInLearning"
-	}
+	tutorial.Platform = getPlatformFromUrl(tutorial.Url)
 
 	// add fileIdCode
 	tutorial.FileIdCode = buildFileIdCode(tutorial)

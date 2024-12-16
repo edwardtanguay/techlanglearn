@@ -38,6 +38,7 @@ func createTutorialJsonFile(mdPathAndFileNames []string) error {
 		tutorial.Topics = getFieldValueFromLines(lines, "topics")
 		tutorial.Language = getFieldValueFromLines(lines, "language")
 		tutorial.Duration = getFieldValueFromLines(lines, "duration")
+		tutorial.Platform = getPlatformFromUrl(tutorial.Url)
 
 		tutorials = append(tutorials, tutorial)
 		jsonData, _ := json.MarshalIndent(tutorials, "", "\t")

@@ -232,3 +232,13 @@ func getFieldValueFromLines(lines []string, fieldIdCode string) string {
 	}
 	return ""
 }
+
+func getPlatformFromUrl(url string) string {
+	if strings.Contains(url, "youtube.") {
+		return "youtube"
+	}
+	if strings.Contains(url, "linkedin.") {
+		return "linkedInLearning"
+	}
+	return ""
+}
