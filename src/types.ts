@@ -35,6 +35,7 @@ export type PageStatus = 'loading' | 'ready' | 'error';
 
 export type Category = {
 	idCode: string;
+	name: string;
 	topics: string[];
 	description: string;
 };

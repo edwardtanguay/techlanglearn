@@ -51,10 +51,14 @@ export const getStore = () => {
 				tutorials.sort((a, b) => (a.rank < b.rank ? 1 : -1));
 			}
 			if (fieldIdCode === 'year') {
-				tutorials.sort((a, b) => (a.year < b.year ? 1 : -1));
+				tutorials.sort((a, b) =>
+					String(a.year) + String(a.rank) < String(b.year) + String(b.rank) ? 1 : -1
+				);
 			}
 			if (fieldIdCode === 'language') {
-				tutorials.sort((a, b) => (a.language < b.language ? 1 : -1));
+				tutorials.sort((a, b) =>
+					a.language + String(a.rank) < b.language + String(b.rank) ? 1 : -1
+				);
 			}
 		}
 	};

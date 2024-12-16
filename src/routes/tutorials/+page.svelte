@@ -7,6 +7,8 @@
 	const handleToggleSortColumn = (fieldIdCode: string) => {
 		store.toggleSortColumn(fieldIdCode);
 	};
+
+	handleToggleSortColumn('rank');
 </script>
 
 <section class="pageTutorials">
@@ -39,7 +41,7 @@
 						<td>{tutorial.year === 0 ? '' : tutorial.year}</td>
 						<td>{tutorial.language}</td>
 						<td>{tutorial.topics}</td>
-						<td title={tutorial.category?.description}>{tutorial.category !== null ? tutorial.category.idCode : ''}</td>
+						<td title={tutorial.category?.description}>{tutorial.category !== null ? tutorial.category.name : ''}</td>
 						<td>{tutorial.platform}</td>
 						<td>
 							<p><a class="underline" target="_blank" href={tutorial.url}>{tutorial.title}</a></p>
