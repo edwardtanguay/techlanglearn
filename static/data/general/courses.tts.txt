@@ -98,6 +98,7 @@ accessibility; en; 2024; https://www.linkedin.com/learning/web-accessibility-for
 - sp, many; https://www.linkedin.com/learning/topics/c-sharp?sortBy=RECENCY
 - Python/TKinter
 - https://www.linkedin.com/learning/python-gui-programmierung-mit-tkinter/das-message-widget-fur-mehrzeilige-anzeigen?resume=false
+- google sheets
 
 
 

@@ -23,9 +23,15 @@ func parseCurrentTutorialFiles(directory string) {
 }
 
 func createTutorialJsonFile(mdPathAndFileNames []string) error {
+	config, _ := LoadConfig()
+	tutorials := []Tutorial{}
 	for _, mdPathAndFileName := range mdPathAndFileNames {
 		fileName := getTutorialFileName(mdPathAndFileName)
-		println("adding to JSON file: " + fileName)
+		tutorial := Tutorial{}
+		tutorial.FileIdCode = fileName
+		tutorials = append(tutorials, tutorial)
+		jsonData, _ := json.MarshalIndent(tutorials, "", "\t")
+		writeTextFile("../../../"+config.WebDataDirectory+"/tutorials.json", string(jsonData))
 	}
 	return nil
 }
