@@ -26,9 +26,19 @@ func createTutorialJsonFile(mdPathAndFileNames []string) error {
 	config, _ := LoadConfig()
 	tutorials := []Tutorial{}
 	for _, mdPathAndFileName := range mdPathAndFileNames {
+		lines := getLinesFromFile(mdPathAndFileName)
 		fileName := getTutorialFileName(mdPathAndFileName)
+
 		tutorial := Tutorial{}
-		tutorial.FileIdCode = fileName
+		tutorial.Title = getRestOfLine(lines[0], "#")
+		tutorial.FileIdCode = strings.TrimSuffix(fileName, ".md")
+		tutorial.Url = lines[2]
+		tutorial.Description = getFieldValueFromLines(lines, "description")
+		tutorial.Rank = getFieldValueFromLines(lines, "rank")
+		tutorial.Topics = getFieldValueFromLines(lines, "topics")
+		tutorial.Language = getFieldValueFromLines(lines, "language")
+		tutorial.Duration = getFieldValueFromLines(lines, "duration")
+
 		tutorials = append(tutorials, tutorial)
 		jsonData, _ := json.MarshalIndent(tutorials, "", "\t")
 		writeTextFile("../../../"+config.WebDataDirectory+"/tutorials.json", string(jsonData))

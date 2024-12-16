@@ -207,10 +207,28 @@ func convertToSnakeCase(line string) string {
 }
 
 func getTutorialFileName(_pathAndFileName string) string {
-	pathAndFileName := filepath.ToSlash(_pathAndFileName) // changes \ to /	
+	pathAndFileName := filepath.ToSlash(_pathAndFileName) // changes \ to /
 	lastSlashIndex := strings.LastIndex(pathAndFileName, "/")
 	if lastSlashIndex != -1 {
 		return pathAndFileName[lastSlashIndex+1:]
 	}
 	return pathAndFileName
+}
+
+func getRestOfLine(text, marker string) string {
+	index := strings.Index(text, marker)
+	if index == -1 {
+		return ""
+	}
+	return strings.TrimSpace(text[index+len(marker):])
+}
+
+func getFieldValueFromLines(lines []string, fieldIdCode string) string {
+	for _, line := range lines {
+		marker := fieldIdCode + ":"
+		if strings.Contains(line, marker) {
+			return getRestOfLine(line, marker)
+		}
+	}
+	return ""
 }
