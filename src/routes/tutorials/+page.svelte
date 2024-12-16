@@ -39,7 +39,7 @@
 						<td>{tutorial.year === 0 ? '' : tutorial.year}</td>
 						<td>{tutorial.language}</td>
 						<td>{tutorial.topics}</td>
-						<td>{tutorial.category !== null ? tutorial.category.idCode : ''}</td>
+						<td title={tutorial.category?.description}>{tutorial.category !== null ? tutorial.category.idCode : ''}</td>
 						<td>{tutorial.platform}</td>
 						<td>
 							<p><a class="underline" target="_blank" href={tutorial.url}>{tutorial.title}</a></p>

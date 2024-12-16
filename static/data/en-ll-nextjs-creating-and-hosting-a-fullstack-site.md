@@ -7,6 +7,7 @@ https://www.linkedin.com/learning/next-js-creating-and-hosting-a-full-stack-site
 - topics: nextjs, mongo
 - rank: 4.99
 - description: Shaun Wassell, looks like an excellent
+- year: 2024
 
 ## TITLE, TIME, nnn
 
