@@ -53,6 +53,9 @@ export const getStore = () => {
 			if (fieldIdCode === 'year') {
 				tutorials.sort((a, b) => (a.year < b.year ? 1 : -1));
 			}
+			if (fieldIdCode === 'language') {
+				tutorials.sort((a, b) => (a.language < b.language ? 1 : -1));
+			}
 		}
 	};
 };

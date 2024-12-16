@@ -22,7 +22,7 @@
 				<tr>
 					<th class="cursor-pointer" on:click={() => handleToggleSortColumn('rank')}>Rank</th>
 					<th class="cursor-pointer" on:click={() => handleToggleSortColumn('year')}>Year</th>
-					<th>Language</th>
+					<th class="cursor-pointer" on:click={() => handleToggleSortColumn('language')}>Language</th>
 					<th>Topics</th>
 					<th>Platform</th>
 					<th>Title</th>
