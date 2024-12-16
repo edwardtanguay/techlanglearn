@@ -46,9 +46,13 @@ export const getStore = () => {
 		handleRandomFlashcardToggle: (f: Flashcard) => {
 			f.isOpen = !f.isOpen;
 		},
-		sortTutorials: () => {
-			// error: tutorials = any
-			tutorials.sort((a, b) => (a.rank > b.rank ? 1 : -1));
+		toggleSortColumn: (fieldIdCode: string) => {
+			if (fieldIdCode === 'rank') {
+				tutorials.sort((a, b) => (a.rank < b.rank ? 1 : -1));
+			}
+			if (fieldIdCode === 'year') {
+				tutorials.sort((a, b) => (a.year < b.year ? 1 : -1));
+			}
 		}
 	};
 };

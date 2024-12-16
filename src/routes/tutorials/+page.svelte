@@ -4,8 +4,8 @@
 
 	const store = getStore();
 
-	const handleSortTutorials = () => {
-		store.sortTutorials();
+	const handleToggleSortColumn = (fieldIdCode: string) => {
+		store.toggleSortColumn(fieldIdCode);
 	};
 </script>
 
@@ -20,12 +20,12 @@
 		<table>
 			<thead>
 				<tr>
-					<th on:click={handleSortTutorials}>Rank</th>
-					<th>Year</th>
+					<th class="cursor-pointer" on:click={() => handleToggleSortColumn('rank')}>Rank</th>
+					<th class="cursor-pointer" on:click={() => handleToggleSortColumn('year')}>Year</th>
 					<th>Language</th>
 					<th>Topics</th>
-					<th>Title</th>
 					<th>Platform</th>
+					<th>Title</th>
 				</tr>
 			</thead>
 			<tbody>
@@ -35,11 +35,11 @@
 						<td>{tutorial.year}</td>
 						<td>{tutorial.language}</td>
 						<td>{tutorial.topics}</td>
+						<td>{tutorial.platform}</td>
 						<td>
 							<p><a class="underline" target="_blank" href={tutorial.url}>{tutorial.title}</a></p>
 							<p class="text-xs text-orange-800">{tutorial.fileIdCode}.md</p>
 						</td>
-						<td>{tutorial.platform}</td>
 					</tr>
 				{/each}
 			</tbody>
