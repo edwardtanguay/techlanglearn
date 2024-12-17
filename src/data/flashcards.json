@@ -1332,204 +1332,240 @@
 		"back": "has it happened to you that while you are programming"
 	},
 	{
-		"front": "since we can get metadata",
-		"back": "puesto que podemos obtener metadatos"
+		"front": "the quotation marks and the commas",
+		"back": "las comillas y las comas"
 	},
 	{
-		"front": "instead of defining the file",
-		"back": "en vez de definir el archivo"
+		"front": "",
+		"back": "we leave the empty quotes"
 	},
 	{
-		"front": "delivers a 404 code",
-		"back": "entrega una código 404"
+		"front": "2024-12-17 19:08:04",
+		"back": ""
 	},
 	{
-		"front": "the element associated with the file you want to upload",
-		"back": "el elemento asociado al archivo que se quiere subir"
+		"front": "que les pertenezcan; conj=pertenecer; pertenezcan = present subjunctive (instead of present indicative: pertenecen)",
+		"back": "2024-12-17 19:03:15"
 	},
 	{
-		"front": "whose name will be stored",
-		"back": "cuyo nombre será almacenado"
+		"front": "let's remove the extra lines",
+		"back": "vamos a quitar los líneas que sobran; rank=4.8"
 	},
 	{
-		"front": "storage service",
-		"back": "servicio de almacenamiento"
+		"front": "",
+		"back": "and we change app for router"
 	},
 	{
-		"front": "since what we want to see is how it works",
-		"back": "puesto que lo que queremos ver es su funcionamiento"
+		"front": "2024-12-17 18:52:55",
+		"back": ""
 	},
 	{
-		"front": "the function is going to be called",
-		"back": "la función se va a llamar"
+		"front": "señala un error",
+		"back": "2024-12-17 18:49:17"
 	},
 	{
-		"front": "we must wait for the instruction to be fulfilled",
-		"back": "debemos esperar que la instrucción se cumple"
+		"front": "This, in turn, allows the project to be more organized",
+		"back": "esto, a su vez, permite que el proyecto sea más organizado"
 	},
 	{
-		"front": "since the function only returns a dictionary",
-		"back": "puesto que la función solo retorna un diccionario; puesto = past participle of poner (irregular); conj=poner"
+		"front": "",
+		"back": "since we can get metadata"
 	},
 	{
-		"front": "another may be being processed at the same time",
-		"back": "otra puede estar siendo procesada al mismo tiempo"
+		"front": "",
+		"back": "instead of defining the file"
 	},
 	{
-		"front": "that has been created",
-		"back": "que a sido creada"
+		"front": "",
+		"back": "delivers a 404 code"
 	},
 	{
-		"front": "and therefore",
-		"back": "y por ende"
+		"front": "",
+		"back": "the element associated with the file you want to upload"
 	},
 	{
-		"front": "in which it is placed",
-		"back": "en el que se pone"
+		"front": "",
+		"back": "whose name will be stored"
 	},
 	{
-		"front": "which is responsible for creating the elements",
-		"back": "que se encarga de crear los elementos"
+		"front": "",
+		"back": "storage service"
 	},
 	{
-		"front": "to test the model",
-		"back": "para probar el modelo"
+		"front": "",
+		"back": "since what we want to see is how it works"
 	},
 	{
-		"front": "that is part of the body",
-		"back": "que hace parte del body"
+		"front": "",
+		"back": "the function is going to be called"
 	},
 	{
-		"front": "and add them to the list of items",
-		"back": "y los agregue a la lista de elementos"
+		"front": "",
+		"back": "we must wait for the instruction to be fulfilled"
 	},
 	{
-		"front": "they usually receive data through the body",
-		"back": "suelen recibir datos a través del body"
+		"front": "",
+		"back": "since the function only returns a dictionary"
 	},
 	{
-		"front": "it is not always required that the request receives a body",
-		"back": "no siempre es requerido que la petición recibe un body"
+		"front": "",
+		"back": "another may be being processed at the same time"
 	},
 	{
-		"front": "who delivers the request to us",
-		"back": "que nos entrega la petición"
+		"front": "",
+		"back": "that has been created"
 	},
 	{
-		"front": "they should not be delivered by an endpoint",
-		"back": "no deben ser entregadas por un endpoint"
+		"front": "",
+		"back": "and therefore"
 	},
 	{
-		"front": "five hundred",
-		"back": "quinientos"
+		"front": "",
+		"back": "in which it is placed"
 	},
 	{
-		"front": "these parameters come as part of the route",
-		"back": "estos parámetros llegan como parte de la ruta"
+		"front": "",
+		"back": "which is responsible for creating the elements"
 	},
 	{
-		"front": "it will be as if we had sent a None",
-		"back": "será como hubiéramos enviado un None; conj=haber; hubiéramos = subjunctive imperfect"
+		"front": "",
+		"back": "to test the model"
 	},
 	{
-		"front": "if we leave it empty",
-		"back": "si lo dejamos vacío"
+		"front": "",
+		"back": "that is part of the body"
 	},
 	{
-		"front": "but we must write it",
-		"back": "sino que debemos escribirlo"
+		"front": "",
+		"back": "and add them to the list of items"
 	},
 	{
-		"front": "we no longer have options",
-		"back": "ya no nos salen opciones;conj=salen; salen = to leave, go out"
+		"front": "",
+		"back": "they usually receive data through the body"
 	},
 	{
-		"front": "that have already been completed",
-		"back": "que ya hayan sido completados; pr=JAW-ha-jahn-SEE-doh"
+		"front": "",
+		"back": "it is not always required that the request receives a body"
 	},
 	{
-		"front": "an assigned value",
-		"back": "un valor asignado"
+		"front": "",
+		"back": "who delivers the request to us"
 	},
 	{
-		"front": "later in this course",
-		"back": "más adelante en este curso"
+		"front": "",
+		"back": "they should not be delivered by an endpoint"
 	},
 	{
-		"front": "neither of them meets the objective",
-		"back": "ninguno de los dos cumple con el objetivo;cumplir = to fulfill, carry out, reach (an age); conj=cumplir"
+		"front": "",
+		"back": "five hundred"
 	},
 	{
-		"front": "since this endpoint",
-		"back": "ya que este endpoint;pr=JAW-kay-ES-tah"
+		"front": "",
+		"back": "these parameters come as part of the route"
 	},
 	{
-		"front": "the endpoint allows the sending and receiving of data",
-		"back": "el endpoint permite el envío y el recepción de datos"
+		"front": "",
+		"back": "it will be as if we had sent a None"
 	},
 	{
-		"front": "it is recommended to have a defined structure",
-		"back": "se recomienda tener una estructura definida; conj=recomendar; recomienda = simple present"
+		"front": "",
+		"back": "if we leave it empty"
 	},
 	{
-		"front": "since this documentation is interactive",
-		"back": "ya que esta documentación es interactiva; pr=jaw-KAY-stah"
+		"front": "",
+		"back": "but we must write it"
 	},
 	{
-		"front": "if there are any",
-		"back": "en caso de haberlos"
+		"front": "",
+		"back": "we no longer have options"
 	},
 	{
-		"front": "the information will be displayed",
-		"back": "se desplegará la information"
+		"front": "",
+		"back": "that have already been completed"
 	},
 	{
-		"front": "by clicking on this box",
-		"back": "al darle clic a este recuadro"
+		"front": "",
+		"back": "an assigned value"
 	},
 	{
-		"front": "next we see the endpoint route",
-		"back": "seguido vemos la ruta del endpoint"
+		"front": "",
+		"back": "later in this course"
 	},
 	{
-		"front": "if we click on it, it will open the file",
-		"back": "si le damos clic, abrirá el archivo"
+		"front": "",
+		"back": "neither of them meets the objective"
 	},
 	{
-		"front": "which points to the file",
-		"back": "que apunta al archivo"
+		"front": "",
+		"back": "since this endpoint"
 	},
 	{
-		"front": "just below the title we find a url",
-		"back": "justo debajo del titulo encontramos una url"
+		"front": "",
+		"back": "the endpoint allows the sending and receiving of data"
 	},
 	{
-		"front": "first we come across the API name",
-		"back": "primero nos encontramos con el nombre de la API"
+		"front": "",
+		"back": "it is recommended to have a defined structure"
 	},
 	{
-		"front": "pr. --reload",
-		"back": "guión, guión, reload; pr=gee-UN"
+		"front": "",
+		"back": "since this documentation is interactive"
 	},
 	{
-		"front": "we run it by executing the command",
-		"back": "lo corremos ejecutando el comando"
+		"front": "",
+		"back": "if there are any"
 	},
 	{
-		"front": "the solution we have created",
-		"back": "la solución que tenemos creada"
+		"front": "",
+		"back": "the information will be displayed"
 	},
 	{
-		"front": "as it grows",
-		"back": "a medida que crece"
+		"front": "",
+		"back": "by clicking on this box"
 	},
 	{
-		"front": "high performance",
-		"back": "alto rendimiento"
+		"front": "",
+		"back": "next we see the endpoint route"
 	},
 	{
-		"front": "don't miss the opportunity to take your skills to the next level",
-		"back": "no te pierdas la oportunidad de llevar tus habilidades al siguiente nivel"
+		"front": "",
+		"back": "if we click on it, it will open the file"
+	},
+	{
+		"front": "",
+		"back": "which points to the file"
+	},
+	{
+		"front": "",
+		"back": "just below the title we find a url"
+	},
+	{
+		"front": "",
+		"back": "first we come across the API name"
+	},
+	{
+		"front": "",
+		"back": "pr. --reload"
+	},
+	{
+		"front": "",
+		"back": "we run it by executing the command"
+	},
+	{
+		"front": "",
+		"back": "the solution we have created"
+	},
+	{
+		"front": "",
+		"back": "as it grows"
+	},
+	{
+		"front": "",
+		"back": "high performance"
+	},
+	{
+		"front": "",
+		"back": "don't miss the opportunity to take your skills to the next level"
 	},
 	{
 		"front": "it is quite similar to this tool",

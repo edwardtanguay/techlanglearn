@@ -197,15 +197,66 @@ https://www.linkedin.com/learning/domina-python-fastapi/manipulacion-de-archivos
 - you have to use File and UploadFile, both from Python multipart
 - worked, afterwards I also saved the file, works well
 
-## Cómo crear el API router en FastAPI, 5:42, nnn
+## Cómo crear el API router en FastAPI, 5:42, 2024-12-17
 
 https://www.linkedin.com/learning/domina-python-fastapi/como-crear-el-api-router-en-fastapi?autoSkip=true&resume=false
+
+- API Router is a class from FastAPI
+- allows you to separate routes into modules
+- directory "routers"
+- this has files:
+
+```
+__init__.py
+support.py
+todo.py
+```
+
+- the init file is a requirement for Python to treat the directory as a module that can be imported
+- copies all todo routes to todo.py
+- same for support routes
+- then in each file, app become router
+- then include_router()
+- app.include_router(todo.router)
+- goes to Swagger
+
+## Master Python: FastAPI, 4:59, nnn
+
+https://www.linkedin.com/learning/domina-python-fastapi/tags-para-separar-los-endpoints-y-los-routers-en-swagger?autoSkip=true&resume=false
 
 - nnn
 
 ## VOCAB - SPANISH
 
 ```
+the quotation marks and the commas
+las comillas y las comas
+2024-12-17 19:08:56
+
+we leave the empty quotes
+dejamos las comillas vacias
+2024-12-17 19:08:04
+
+that belong to them
+que les pertenezcan; conj=pertenecer; pertenezcan = present subjunctive (instead of present indicative: pertenecen)
+2024-12-17 19:03:15
+
+let's remove the extra lines
+vamos a quitar los líneas que sobran; rank=4.8
+2024-12-17 18:55:25
+
+and we change app for router
+y cambiamos app por router
+2024-12-17 18:52:55
+
+indicates an error
+señala un error
+2024-12-17 18:49:17
+
+This, in turn, allows the project to be more organized
+esto, a su vez, permite que el proyecto sea más organizado
+2024-12-17 18:42:41
+
 since we can get metadata
 puesto que podemos obtener metadatos
 
