@@ -6,9 +6,9 @@ https://www.linkedin.com/learning/next-js-creating-and-hosting-a-full-stack-site
 - language: en
 - topics: nextjs, mongo
 - rank: 4.99
-- description: Shaun Wassell, looks like an excellent, long course using Next.js version 14.2.8
+- description: Shaun Wassell, looks like an excellent, long course using Next.js version 14.2.8, hosts on Vercel
 - year: 2024
-- status: just started
+- status: watched intro videos
 
 ## Create a full-stack site with Next.js, 0:43, 2024-12-17
 
@@ -20,15 +20,39 @@ https://www.linkedin.com/learning/next-js-creating-and-hosting-a-full-stack-site
 
 - know JavaScript, React, networking
 
-## Basic setup and exercise files, 2:35, nnn
+## Basic setup and exercise files, 2:35, 2024-12-17
 
 https://www.linkedin.com/learning/next-js-creating-and-hosting-a-full-stack-site/basic-setup-exercise-files?autoSkip=true&resume=false
+
+- explains codespaces
+
+## Project introduction, 00:47, 2024-12-17
+
+https://www.linkedin.com/learning/next-js-creating-and-hosting-a-full-stack-site/project-introduction?autoSkip=true&resume=false
+
+- host on Vercel
+
+## What is Next.js?, 2:48, nnn
+
+https://www.linkedin.com/learning/next-js-creating-and-hosting-a-full-stack-site/what-is-next-js?autoSkip=true&resume=false
 
 - nnn
 
 ## VOCAB - ITALIAN
 
 ```
+so, in any case
+quindi, in ogni caso;pr=OHN-yee-KAH-zoh
+2024-12-17 18:32:06
+
+so for example
+quindi, ad esempio;pr=ay-ZEM-pee-oh (not SEM)
+2024-12-17 18:29:07
+
+but it's also very easy
+ma è anche molto facile;pr=FAH-chee-lay
+2024-12-17 18:27:32
+
 Therefore
 quindi;pr=QUEEN-dee
 2024-12-17 17:47:04

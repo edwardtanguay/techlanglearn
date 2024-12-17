@@ -137,10 +137,10 @@
 		"rank": "4.99",
 		"url": "https://www.linkedin.com/learning/next-js-creating-and-hosting-a-full-stack-site/create-a-full-stack-site-with-next-js",
 		"title": "Next.js: Creating and Hosting a Full-Stack Site",
-		"description": "Shaun Wassell, looks like an excellent, long course using Next.js version 14.2.8",
+		"description": "Shaun Wassell, looks like an excellent, long course using Next.js version 14.2.8, hosts on Vercel",
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-nextjs-creating-and-hosting-a-fullstack-site",
-		"status": "just started"
+		"status": "watched intro videos"
 	},
 	{
 		"topics": "python, pycharm, jupyter",
