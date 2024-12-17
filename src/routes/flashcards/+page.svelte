@@ -1,7 +1,9 @@
 <script lang="ts">
-	const message = 'about page';
+	import { getStore } from '../../store.svelte';
+
+	const store = getStore();
 </script>
 
 <header>
-	<p>There are n flashcards.</p>
+	<p>There are {store.flashcards.length} flashcards.</p>
 </header>
