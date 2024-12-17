@@ -3,5 +3,20 @@
 		"language": "es",
 		"front": "111",
 		"back": "222"
+	},
+	{
+		"language": "es",
+		"front": "",
+		"back": "aaa"
+	},
+	{
+		"language": "es",
+		"front": "",
+		"back": "444"
+	},
+	{
+		"language": "es",
+		"front": "666",
+		"back": "777"
 	}
 ]

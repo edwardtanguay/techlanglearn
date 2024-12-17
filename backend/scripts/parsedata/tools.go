@@ -260,3 +260,37 @@ func getLinesFromMarkerToEnd(lines []string, marker string) []string {
 	}
 	return []string{}
 }
+
+func getLineBlocksFromLines(lines []string) [][]string {
+	var blocks [][]string
+	var currentBlock []string
+
+	for _, line := range lines {
+		if strings.TrimSpace(line) == "" {
+			if len(currentBlock) > 0 {
+				blocks = append(blocks, currentBlock)
+				currentBlock = []string{}
+			}
+		} else {
+			currentBlock = append(currentBlock, line)
+		}
+	}
+
+	if len(currentBlock) > 0 {
+		blocks = append(blocks, currentBlock)
+	}
+
+	return blocks
+}
+
+func removeAllLinesWithMarker(lines []string, marker string) []string {
+	var result []string
+
+	for _, line := range lines {
+		if !strings.Contains(line, marker) {
+			result = append(result, line)
+		}
+	}
+
+	return result
+}

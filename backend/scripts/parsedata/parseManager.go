@@ -163,8 +163,24 @@ func getFlashcardsFromFile(lines []string) ([]Flashcard, error) {
 	language := ""
 	marker := "## VOCAB"
 
-	vocabLines := getLinesFromMarkerToEnd(lines, marker)
-	fmt.Printf("%v", vocabLines)
+	// get all lines in the general vocab block (currently at end of file)
+	vocabBlockLines := getLinesFromMarkerToEnd(lines, marker)
+
+	// define the language from the first line
+	restOfLine := getRestOfLine(vocabBlockLines[0], marker)
+	if softIncludes(restOfLine, "spanish") {
+		language = "es"
+	}
+	if softIncludes(restOfLine, "italian") {
+		language = "it"
+	}
+
+	// define vocabLines (only the text of the flashcards themselves)
+	vocabLines := vocabBlockLines[1:] // remove first line (language heading)
+	vocabLines = removeAllLinesWithMarker(vocabLines, "```")
+
+	lineBlocks := getLineBlocksFromLines(vocabLines)
+	fmt.Printf("%v", lineBlocks)
 
 	// get slice of all lines that have to do with flashcards
 	for _, rawLine := range lines {
@@ -179,13 +195,6 @@ func getFlashcardsFromFile(lines []string) ([]Flashcard, error) {
 
 		if strings.Contains(line, marker) {
 			foundVocab = true
-			restOfLine := getRestOfLine(line, marker)
-			if softIncludes(restOfLine, "spanish") {
-				language = "es"
-			}
-			if softIncludes(restOfLine, "italian") {
-				language = "it"
-			}
 		}
 		if strings.Contains(line, "```") {
 			foundFirstBackticks = true
