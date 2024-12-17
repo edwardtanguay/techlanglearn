@@ -1,3 +1,15 @@
+import { z } from 'zod';
+
+export const SourceFlashcardSchema = z.object({
+	language: z.string(),
+	front: z.string(),
+	back: z.string(),
+	whenCreated: z.string(),
+	isOpen: z.boolean()
+});
+
+export type SourceFlashcard = z.infer<typeof SourceFlashcardSchema>;
+
 export type Flashcard = {
 	language: string;
 	front: string;

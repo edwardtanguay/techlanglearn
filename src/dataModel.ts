@@ -6,13 +6,12 @@ import * as appTools from './appTools';
 
 export const getFlashcards = (): Flashcard[] => {
 	const flashcards: Flashcard[] = [];
-	for (const rawFlashcard of rawFlashcards) {
-		console.log(11111, rawFlashcard);
+	for (const sourceFlashcard of sourceFlashcards) {
 		const flashcard: Flashcard = {
-			language: rawFlashcard.language,
-			front: rawFlashcard.front,
-			back: rawFlashcard.back,
-			whenCreated: rawFlashcard.whenCreated,
+			language: sourceFlashcard.language,
+			front: sourceFlashcard.front,
+			back: sourceFlashcard.back,
+			whenCreated: sourceFlashcard.whenCreated,
 			isOpen: false
 		};
 		flashcards.push(flashcard);
