@@ -15,7 +15,10 @@ export const getSourceFlashcards = (): SourceFlashcard[] => {
 			sourceFlashcards.push(rawFlashcard);
 		} else {
 			console.error(`INVALID FLASHCARD IN IMPORT: ${JSON.stringify(rawFlashcard, null, 2)}`);
+			parseResult.error.errors.forEach((err) => {
+				console.error(`Error in field "${err.path.join('.')}" - ${err.message}`);
+			});
 		}
 	}
 	return sourceFlashcards;
-}
+};
