@@ -7,10 +7,12 @@ https://www.youtube.com/watch?v=OlWWIbRz438
 - topics: svelte5
 - rank: 4.8
 - description: is about Snippets but more, e.g. generics
+- year: 2024
+- status: 2 minutes of 18
 
 ## watchlog
 
-00:00 - nnn
+02:00 - 2024-12-16
 
 ## first
 
@@ -29,4 +31,5 @@ https://www.youtube.com/watch?v=OlWWIbRz438
 ## VOCAB - SPANISH
 
 ```
+
 ```

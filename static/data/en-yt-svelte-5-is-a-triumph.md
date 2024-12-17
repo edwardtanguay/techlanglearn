@@ -7,6 +7,8 @@ https://www.youtube.com/watch?v=tC9KSwnczxQ
 - topics: svelte5
 - rank: 4.8
 - description: another good Svelte 5 video, recorded all concepts in SvelteKit 5 showcase
+- year: 2024
+- status: finished
 
 ## watchlog
 

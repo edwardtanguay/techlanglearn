@@ -41,7 +41,6 @@
 					<th>Category</th>
 					<th>Duration</th>
 					<th>Title</th>
-					<th>Status</th>
 				</tr>
 			</thead>
 			<tbody>
@@ -77,7 +76,6 @@
 							<p class="text-xs text-orange-800">{tutorial.fileIdCode}.md</p>
 							<p class="text-xs italic">{tutorial.description}</p>
 						</td>
-						<td>{tutorial.status}</td>
 					</tr>
 				{/each}
 			</tbody>

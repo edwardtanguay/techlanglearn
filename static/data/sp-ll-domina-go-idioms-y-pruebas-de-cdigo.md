@@ -7,6 +7,8 @@ https://www.linkedin.com/learning/domina-go-idioms-y-pruebas-de-codigo
 - topics: go
 - rank: 4.8
 - description: advanced Go, coding practices, testing (unit and integration)
+- year: 2024
+- status: 9 more videos to go, complex topics
 
 ## intro - 0:49, 2024-11-01
 
