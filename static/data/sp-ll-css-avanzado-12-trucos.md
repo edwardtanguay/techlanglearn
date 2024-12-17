@@ -3,7 +3,7 @@
 https://www.linkedin.com/learning/css-avanzado-12-trucos/presentacion-del-curso-css-avanzado-12-trucos
 
 - duration: 01:05:00
-- language: sp
+- language: es
 - topics: css
 - rank: 3.7
 - description: tutorial is 8 years old but Zuriñe has a nice, Spanish voice and these topics should be timeless, if nothing else, watch it for the Spanish practice

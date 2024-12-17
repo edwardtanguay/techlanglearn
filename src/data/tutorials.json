@@ -326,7 +326,7 @@
 	},
 	{
 		"topics": "css",
-		"language": "sp",
+		"language": "es",
 		"duration": "01:05:00",
 		"year": "2016",
 		"rank": "3.7",
@@ -339,7 +339,7 @@
 	},
 	{
 		"topics": "docker",
-		"language": "sp",
+		"language": "es",
 		"duration": "02:34:00",
 		"year": "2024",
 		"rank": "4.31",
@@ -352,7 +352,7 @@
 	},
 	{
 		"topics": "go",
-		"language": "sp",
+		"language": "es",
 		"duration": "00:34:00",
 		"year": "2024",
 		"rank": "4.6",
@@ -365,7 +365,7 @@
 	},
 	{
 		"topics": "go",
-		"language": "sp",
+		"language": "es",
 		"duration": "01:10:00",
 		"year": "2024",
 		"rank": "4.8",
@@ -378,7 +378,7 @@
 	},
 	{
 		"topics": "go",
-		"language": "sp",
+		"language": "es",
 		"duration": "00:50:00",
 		"year": "2023",
 		"rank": "4.96",
@@ -391,7 +391,7 @@
 	},
 	{
 		"topics": "python, fastapi",
-		"language": "sp",
+		"language": "es",
 		"duration": "01:24:00",
 		"year": "2024",
 		"rank": "4.9",
@@ -404,7 +404,7 @@
 	},
 	{
 		"topics": "gitlab",
-		"language": "sp",
+		"language": "es",
 		"duration": "03:11:00",
 		"year": "2016",
 		"rank": "2.3",
@@ -417,7 +417,7 @@
 	},
 	{
 		"topics": "react, monorepos",
-		"language": "sp",
+		"language": "es",
 		"duration": "02:27:00",
 		"year": "2022",
 		"rank": "4.88",
@@ -430,7 +430,7 @@
 	},
 	{
 		"topics": "react, hooks",
-		"language": "sp",
+		"language": "es",
 		"duration": "02:46:00",
 		"year": "2021",
 		"rank": "1.81",
@@ -443,7 +443,7 @@
 	},
 	{
 		"topics": "androidUser",
-		"language": "sp",
+		"language": "es",
 		"duration": "01:04:00",
 		"year": "2024",
 		"rank": "4.6",
@@ -456,7 +456,7 @@
 	},
 	{
 		"topics": "mux",
-		"language": "sp",
+		"language": "es",
 		"duration": "00:51:10",
 		"year": "2020",
 		"rank": "4.8",

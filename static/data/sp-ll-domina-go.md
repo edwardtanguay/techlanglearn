@@ -3,7 +3,7 @@
 https://www.linkedin.com/learning/domina-go
 
 - duration: 00:50:00
-- language: sp
+- language: es
 - topics: go
 - rank: 4.96
 - description: short videos but seems to cover basic topics, and from 2023, the first section have extremely simple concepts but after that, these are very useful if you are new to Go

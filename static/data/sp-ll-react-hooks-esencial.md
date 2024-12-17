@@ -3,7 +3,7 @@
 https://www.linkedin.com/learning/react-hooks-esencial
 
 - duration: 02:46:00
-- language: sp
+- language: es
 - topics: react, hooks
 - rank: 1.81
 - description: basics of React hooks, it only has a small section on custom hooks, and is focused on showing how one moves from class components to function components (created in 2021), discontinued as rest of content is too simplistic
