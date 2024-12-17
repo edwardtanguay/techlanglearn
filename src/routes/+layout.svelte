@@ -2,6 +2,7 @@
 	import '../app.scss';
 	import { page } from '$app/stores';
 	import { getStore } from '../store.svelte';
+	import './styles.scss';
 
 	const store = getStore();
 
@@ -46,6 +47,6 @@
 		<div class="overlay-text">Parsing data...</div>
 	</div>
 {/if}
-<main class={`p-6 ${store.pageStatus === 'loading' ? 'blurArea' : ''}`}>
+<div class={`p-6 ${store.pageStatus === 'loading' ? 'blurArea' : ''}`}>
 	<slot />
-</main>
+</div>
