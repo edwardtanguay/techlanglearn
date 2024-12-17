@@ -38,7 +38,7 @@
 			</thead>
 			<tbody>
 				{#each store.tutorials as tutorial}
-					<tr>
+					<tr class={tutorial.status === 'finished' ? 'finished' : 'doing'}>
 						<td>{tutorial.rank.toFixed(2)}</td>
 						<td>{tutorial.year === 0 ? '' : tutorial.year}</td>
 						<td>{tutorial.language}</td>
@@ -56,6 +56,9 @@
 								{#if tutorial.platform === 'youtube'}
 									<IconYoutube width={31} />
 								{/if}
+								<span class="font-bold text-green-800">
+									{tutorial.status === 'finished' ? 'finished' : ''}
+								</span>
 							</p>
 							<p class="text-xs text-orange-800">{tutorial.fileIdCode}.md</p>
 							<p class="text-xs italic">{tutorial.description}</p>

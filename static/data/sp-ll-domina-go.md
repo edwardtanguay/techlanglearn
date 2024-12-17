@@ -8,6 +8,7 @@ https://www.linkedin.com/learning/domina-go
 - rank: 4.96
 - description: short videos but seems to cover basic topics, and from 2023, the first section have extremely simple concepts but after that, these are very useful if you are new to Go
 - status: finished
+- year: 2023
 
 ## intro, 0:43, 2024-11-25
 

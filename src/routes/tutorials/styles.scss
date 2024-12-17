@@ -33,6 +33,11 @@
 						background-color: #e0e0e0;
 					}
 				}
+				tr.finished {
+					opacity: .7 !important;
+					font-style: italic !important;
+					background-color: rgb(221, 243, 221);
+				}
 
 				td {
 					color: #555;
