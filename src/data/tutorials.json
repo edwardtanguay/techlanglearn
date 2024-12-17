@@ -334,7 +334,7 @@
 		"title": "CSS avanzado: 12 trucos",
 		"description": "tutorial is 8 years old but Zuriñe has a nice, Spanish voice and these topics should be timeless, if nothing else, watch it for the Spanish practice",
 		"platform": "linkedInLearning",
-		"fileIdCode": "sp-ll-css-avanzado-12-trucos",
+		"fileIdCode": "es-ll-css-avanzado-12-trucos",
 		"status": "not yet started"
 	},
 	{
@@ -347,7 +347,7 @@
 		"title": "Docker esencial",
 		"description": "Spanish, in depth Docker",
 		"platform": "linkedInLearning",
-		"fileIdCode": "sp-ll-docker-esencial",
+		"fileIdCode": "es-ll-docker-esencial",
 		"status": "not yet started"
 	},
 	{
@@ -360,7 +360,7 @@
 		"title": "Domina Go: Creación y empaquetado de aplicaciones",
 		"description": "finished this one, short, useful",
 		"platform": "linkedInLearning",
-		"fileIdCode": "sp-ll-domina-go-creacin-y-empaquetado-de-aplicaciones",
+		"fileIdCode": "es-ll-domina-go-creacin-y-empaquetado-de-aplicaciones",
 		"status": "finished"
 	},
 	{
@@ -373,7 +373,7 @@
 		"title": "Domina Go: Idioms y pruebas de código",
 		"description": "advanced Go, coding practices, testing (unit and integration)",
 		"platform": "linkedInLearning",
-		"fileIdCode": "sp-ll-domina-go-idioms-y-pruebas-de-cdigo",
+		"fileIdCode": "es-ll-domina-go-idioms-y-pruebas-de-cdigo",
 		"status": "9 more videos to go, complex topics"
 	},
 	{
@@ -386,7 +386,7 @@
 		"title": "Domina Go",
 		"description": "short videos but seems to cover basic topics, and from 2023, the first section have extremely simple concepts but after that, these are very useful if you are new to Go",
 		"platform": "linkedInLearning",
-		"fileIdCode": "sp-ll-domina-go",
+		"fileIdCode": "es-ll-domina-go",
 		"status": "finished"
 	},
 	{
@@ -399,7 +399,7 @@
 		"title": "Domina Python: FastAPI",
 		"description": "looks interesting, in Spanish, good way to learn practical Python",
 		"platform": "linkedInLearning",
-		"fileIdCode": "sp-ll-domina-python-fastapi",
+		"fileIdCode": "es-ll-domina-python-fastapi",
 		"status": "7 more videos, good course"
 	},
 	{
@@ -412,7 +412,7 @@
 		"title": "GitLab esencial",
 		"description": "a solid, long course in Spanish but unfortunately very old (2016) and too out of date so discontinued",
 		"platform": "linkedInLearning",
-		"fileIdCode": "sp-ll-gitlab-esencial",
+		"fileIdCode": "es-ll-gitlab-esencial",
 		"status": "discontinued"
 	},
 	{
@@ -425,7 +425,7 @@
 		"title": "React avanzado 2",
 		"description": "monorepos, nx, storybook, testing, patterns, GitHub Actions, 70% useful",
 		"platform": "linkedInLearning",
-		"fileIdCode": "sp-ll-react-avanzado-2",
+		"fileIdCode": "es-ll-react-avanzado-2",
 		"status": "watched first 2 videos"
 	},
 	{
@@ -438,7 +438,7 @@
 		"title": "React Hooks esencial",
 		"description": "basics of React hooks, it only has a small section on custom hooks, and is focused on showing how one moves from class components to function components (created in 2021), discontinued as rest of content is too simplistic",
 		"platform": "linkedInLearning",
-		"fileIdCode": "sp-ll-react-hooks-esencial",
+		"fileIdCode": "es-ll-react-hooks-esencial",
 		"status": "discontinued"
 	},
 	{
@@ -451,7 +451,7 @@
 		"title": "Trucos semanales para usuarios de Android",
 		"description": "nice tips like screen recording, Elena has a nice Spanish voice, very new (2024), might be a useful user course and in Spanish",
 		"platform": "linkedInLearning",
-		"fileIdCode": "sp-ll-trucos-semanales-para-usuarios-de-android",
+		"fileIdCode": "es-ll-trucos-semanales-para-usuarios-de-android",
 		"status": "not yet started"
 	},
 	{
@@ -464,7 +464,7 @@
 		"title": "Golang, REST API CRUD con go",
 		"description": "seems like a decent tutorial how to build a Go/Mux API in Spanish",
 		"platform": "youtube",
-		"fileIdCode": "sp-yt-golang-rest-api-crud-con-go",
+		"fileIdCode": "es-yt-golang-rest-api-crud-con-go",
 		"status": "not started yet"
 	}
 ]

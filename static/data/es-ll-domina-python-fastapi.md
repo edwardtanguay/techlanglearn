@@ -220,7 +220,7 @@ todo.py
 - app.include_router(todo.router)
 - goes to Swagger
 
-## Master Python: FastAPI, 4:59, nnn
+## Tags para separar los endpoints y los routers en swagger, 4:59, nnn
 
 https://www.linkedin.com/learning/domina-python-fastapi/tags-para-separar-los-endpoints-y-los-routers-en-swagger?autoSkip=true&resume=false
 
