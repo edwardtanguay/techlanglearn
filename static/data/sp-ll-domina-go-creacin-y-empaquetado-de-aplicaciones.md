@@ -7,6 +7,8 @@ https://www.linkedin.com/learning/domina-go-creacion-y-empaquetado-de-aplicacion
 - topics: go
 - rank: 4.6
 - description: finished this one, short, useful
+- year: 2024
+- status: finished
 
 ## intro - 0:30, 2024-10-29
 

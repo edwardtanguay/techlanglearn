@@ -5,8 +5,10 @@ https://www.linkedin.com/learning/learning-webflow-23115084/a-new-kind-of-conten
 - duration: 02:07:00
 - language: en
 - topics: webflow
-- rank: 3.9
+- rank: 3.7
 - description: enables you to build professional, responsive, customized sites using a completely visual canvas—no coding required
+- year: 2024
+- status: watched first 2 videos, fringe and no-code but interesting
 
 ## intro, 0:42, 2024-11-26
 

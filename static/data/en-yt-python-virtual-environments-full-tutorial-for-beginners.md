@@ -7,6 +7,8 @@ https://www.youtube.com/watch?v=Y21OR1OPC9A
 - topics: python
 - rank: 4.2
 - description: shows how to install a Python virtual environment
+- year: 2024
+- status: finished
 
 ## watchlog
 

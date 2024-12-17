@@ -7,6 +7,8 @@ https://www.youtube.com/watch?v=P_A0qQ7AuK8
 - topics: skeleton, svelte
 - rank: 4.6
 - description: a UI library for Svelte, I used it and it worked well, used it in my SvelteKit 5 showcase
+- year: 2023
+- status: finished
 
 ## watchlog
 
@@ -50,7 +52,7 @@ const config = {
 export default config;
 ```
 
-- now creating site with Skeleton itself: `npm create skeleton-app@latest my-skeleton-app` but it installs 4 not 5 
+- now creating site with Skeleton itself: `npm create skeleton-app@latest my-skeleton-app` but it installs 4 not 5
 - but it has the whole background styled
 
 ## create theme
@@ -94,7 +96,6 @@ plugins: [
 - drawers
 - skeleton has a local storage store, which is like the svelte store
 - input chips
-
 
 ## VOCAB - SPANISH
 
