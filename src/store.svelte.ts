@@ -1,5 +1,5 @@
 import type { Flashcard, PageStatus } from './types';
-import * as dataModel from './dataModel';
+import * as dataModel from './db/dataModel';
 import { getRandomItemsFromArray } from './tools';
 
 // values

@@ -1,8 +1,10 @@
-import rawFlashcards from './data/flashcards.json';
-import type { Flashcard, Tutorial, Stats } from './types';
+import type { Flashcard, Tutorial, Stats } from '../types';
 import rawStats from './data/stats.json';
 import rawTutorials from './data/tutorials.json';
-import * as appTools from './appTools';
+import * as appTools from '../appTools';
+import * as importModel from './importModel';
+
+const sourceFlashcards = importModel.getSourceFlashcards();
 
 export const getFlashcards = (): Flashcard[] => {
 	const flashcards: Flashcard[] = [];
