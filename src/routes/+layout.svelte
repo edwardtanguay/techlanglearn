@@ -35,6 +35,9 @@
 		<p class="mr-3 flex items-center text-xs">v0.003</p>
 	</div>
 </nav>
+<div class="bg-red-300 px-6">
+	<p>mock error</p>
+</div>
 
 {#if store.pageStatus === 'loading'}
 	<div class="overlay">
