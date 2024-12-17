@@ -1,5 +1,4 @@
 <script lang="ts">
-	import type { Flashcard } from '../types';
 	import { getStore } from '../store.svelte';
 
 	const store = getStore();

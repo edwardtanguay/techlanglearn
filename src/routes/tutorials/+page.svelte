@@ -1,4 +1,5 @@
 <script lang="ts">
+	import IconLinkedIn from '../../components/IconLinkedIn.svelte';
 	import { getStore } from '../../store.svelte';
 	import './styles.scss';
 
@@ -30,6 +31,7 @@
 					<th>Topics</th>
 					<th>Category</th>
 					<th>Platform</th>
+					<th>Duration</th>
 					<th>Title</th>
 					<th>Status</th>
 				</tr>
@@ -41,11 +43,18 @@
 						<td>{tutorial.year === 0 ? '' : tutorial.year}</td>
 						<td>{tutorial.language}</td>
 						<td>{tutorial.topics}</td>
-						<td title={tutorial.category?.description}>{tutorial.category !== null ? tutorial.category.name : ''}</td>
+						<td title={tutorial.category?.description}
+							>{tutorial.category !== null ? tutorial.category.name : ''}</td
+						>
 						<td>{tutorial.platform}</td>
+						<td>{tutorial.duration}</td>
 						<td>
-							<p><a class="underline" target="_blank" href={tutorial.url}>{tutorial.title}</a></p>
+							<p class="flex gap-2">
+								<a class="underline" target="_blank" href={tutorial.url}>{tutorial.title}</a>
+								<IconLinkedIn size={22} />
+							</p>
 							<p class="text-xs text-orange-800">{tutorial.fileIdCode}.md</p>
+							<p class="text-xs italic">{tutorial.description}</p>
 						</td>
 						<td>{tutorial.status}</td>
 					</tr>
