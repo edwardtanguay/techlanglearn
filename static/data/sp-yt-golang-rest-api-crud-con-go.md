@@ -7,6 +7,8 @@ https://www.youtube.com/watch?v=pQAV8A9KLwk
 - topics: mux
 - rank: 4.8
 - description: seems like a decent tutorial how to build a Go/Mux API in Spanish
+- year: 2020
+- status: not started yet
 
 ## watchlog
 
@@ -19,4 +21,5 @@ https://www.youtube.com/watch?v=pQAV8A9KLwk
 ## VOCAB - SPANISH
 
 ```
+
 ```

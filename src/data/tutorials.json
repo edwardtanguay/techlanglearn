@@ -29,27 +29,27 @@
 		"topics": "flask",
 		"language": "en",
 		"duration": "02:32:00",
-		"year": "",
+		"year": "2019",
 		"rank": "4.78",
 		"url": "https://www.linkedin.com/learning/building-restful-apis-with-flask",
 		"title": "Building RESTful APIs with Flask",
 		"description": "seems like the essentials of Flash, i.e. an API",
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-building-restful-apis-with-flask",
-		"status": ""
+		"status": "not yet started"
 	},
 	{
 		"topics": "gitlab",
 		"language": "en",
 		"duration": "01:27:00",
-		"year": "",
+		"year": "2022",
 		"rank": "4.7",
 		"url": "https://www.linkedin.com/learning/continuous-integration-and-continuous-delivery-with-gitlab",
 		"title": "Continuous Integration and Continuous Delivery with GitLab",
 		"description": "good basics of GitLab, from 2022 so not that old",
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-continuous-integration-and-continuous-delivery-with-gitlab",
-		"status": ""
+		"status": "only 3 more videos"
 	},
 	{
 		"topics": "grid",
@@ -315,14 +315,14 @@
 		"topics": "python, fastapi",
 		"language": "sp",
 		"duration": "01:24:00",
-		"year": "",
-		"rank": "4.7",
+		"year": "2024",
+		"rank": "4.9",
 		"url": "https://www.linkedin.com/learning/domina-python-fastapi",
 		"title": "Domina Python: FastAPI",
 		"description": "looks interesting, in Spanish, good way to learn practical Python",
 		"platform": "linkedInLearning",
 		"fileIdCode": "sp-ll-domina-python-fastapi",
-		"status": ""
+		"status": "7 more videos, good course"
 	},
 	{
 		"topics": "gitlab",
@@ -380,13 +380,13 @@
 		"topics": "mux",
 		"language": "sp",
 		"duration": "00:51:10",
-		"year": "",
+		"year": "2020",
 		"rank": "4.8",
 		"url": "https://www.youtube.com/watch?v=pQAV8A9KLwk",
 		"title": "Golang, REST API CRUD con go",
 		"description": "seems like a decent tutorial how to build a Go/Mux API in Spanish",
 		"platform": "youtube",
 		"fileIdCode": "sp-yt-golang-rest-api-crud-con-go",
-		"status": ""
+		"status": "not started yet"
 	}
 ]
