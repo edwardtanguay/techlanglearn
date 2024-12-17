@@ -1,5 +1,6 @@
 <script lang="ts">
 	import IconLinkedIn from '../../components/IconLinkedIn.svelte';
+	import IconYoutube from '../../components/IconYoutube.svelte';
 	import { getStore } from '../../store.svelte';
 	import './styles.scss';
 
@@ -52,6 +53,7 @@
 							<p class="flex gap-2">
 								<a class="underline" target="_blank" href={tutorial.url}>{tutorial.title}</a>
 								<IconLinkedIn size={22} />
+								<IconYoutube width={31}/>
 							</p>
 							<p class="text-xs text-orange-800">{tutorial.fileIdCode}.md</p>
 							<p class="text-xs italic">{tutorial.description}</p>
