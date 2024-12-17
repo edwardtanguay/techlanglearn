@@ -251,3 +251,12 @@ func softIncludes(main string, includesText string) bool {
 	includesTextLower := strings.ToLower(includesText)
 	return strings.Contains(mainLower, includesTextLower)
 }
+
+func getLinesFromMarkerToEnd(lines []string, marker string) []string {
+	for i, line := range lines {
+		if strings.Contains(line, marker) {
+			return lines[i:]
+		}
+	}
+	return []string{}
+}

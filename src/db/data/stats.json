@@ -1,11 +1,6 @@
 {
-	"totalDays": 1,
+	"totalDays": 0,
 	"averageDurationPerDay": "00:00:00",
 	"totalDuration": "00:00:00",
-	"timeUnits": [
-		{
-			"calendarDate": "2024-12-17",
-			"duration": "00:00:00"
-		}
-	]
+	"timeUnits": []
 }

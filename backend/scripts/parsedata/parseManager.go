@@ -161,8 +161,10 @@ func getFlashcardsFromFile(lines []string) ([]Flashcard, error) {
 	flashcards := []Flashcard{}
 	flashcardLines := []string{}
 	language := ""
+	marker := "## VOCAB"
 
-	println(11111, "here")
+	vocabLines := getLinesFromMarkerToEnd(lines, marker)
+	fmt.Printf("%v", vocabLines)
 
 	// get slice of all lines that have to do with flashcards
 	for _, rawLine := range lines {
@@ -175,7 +177,6 @@ func getFlashcardsFromFile(lines []string) ([]Flashcard, error) {
 			}
 		}
 
-		marker := "## VOCAB"
 		if strings.Contains(line, marker) {
 			foundVocab = true
 			restOfLine := getRestOfLine(line, marker)
