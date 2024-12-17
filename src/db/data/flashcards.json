@@ -7,6 +7,13 @@
 		"extras": ""
 	},
 	{
+		"language": "es",
+		"front": "GitLab provides us with some variables",
+		"back": "",
+		"whenCreated": "2024-12-17 21:19:58",
+		"extras": ""
+	},
+	{
 		"front": "we will return to our project",
 		"back": "volveremos a nuestro proyecto"
 	}

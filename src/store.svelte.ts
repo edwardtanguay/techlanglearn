@@ -9,9 +9,10 @@ const flashcards = $state(dataModel.getFlashcards());
 const tutorials = $state(dataModel.getTutorials());
 
 // errorMessage
+// TODO: pass through full array of errors, not just number
 let errorMessage = $state(
 	dataModel.numberOfErrors !== 0
-		? `Number of import errors: ${dataModel.numberOfErrors} (see console)`
+		? `Number of import errors: ${dataModel.numberOfErrors} (see browser console)`
 		: ''
 );
 
