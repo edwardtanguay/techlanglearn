@@ -5,9 +5,15 @@ import { getRandomItemsFromArray } from './tools';
 // values
 const siteLocation = import.meta.env.VITE_SITE_LOCATION === 'dev' ? 'dev' : 'online';
 let pageStatus: PageStatus = $state('ready');
-let errorMessage = $state('');
 const flashcards = $state(dataModel.getFlashcards());
 const tutorials = $state(dataModel.getTutorials());
+
+// errorMessage
+let errorMessage = $state(
+	dataModel.numberOfErrors !== 0
+		? `Number of import errors: ${dataModel.numberOfErrors} (see console)`
+		: ''
+);
 
 // computed values
 const randomFlashcards = $state(getRandomItemsFromArray(flashcards, 3));

@@ -7,7 +7,8 @@ import _rawFlashcards from './data/flashcards.json';
 
 const rawFlashcards = _rawFlashcards as any[];
 
-export const getSourceFlashcards = (): SourceFlashcard[] => {
+export const getSourceFlashcards = (): [SourceFlashcard[], number] => {
+	let numberOfErrors = 0;
 	const sourceFlashcards: SourceFlashcard[] = [];
 	for (const rawFlashcard of rawFlashcards) {
 		const parseResult = SourceFlashcardSchema.safeParse(rawFlashcard);
@@ -20,7 +21,8 @@ export const getSourceFlashcards = (): SourceFlashcard[] => {
 				r += `Error in field "${err.path.join('.')}" - ${err.message}\n`;
 			});
 			console.error(r);
+			numberOfErrors++;
 		}
 	}
-	return sourceFlashcards;
+	return [sourceFlashcards, numberOfErrors];
 };

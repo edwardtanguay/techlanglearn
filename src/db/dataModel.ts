@@ -4,7 +4,10 @@ import rawTutorials from './data/tutorials.json';
 import * as appTools from '../appTools';
 import * as importModel from './importModel';
 
-const sourceFlashcards = importModel.getSourceFlashcards();
+export let numberOfErrors = 0;
+
+const [sourceFlashcards, errorCount] = importModel.getSourceFlashcards();
+numberOfErrors += errorCount;
 
 export const getFlashcards = (): Flashcard[] => {
 	const flashcards: Flashcard[] = [];
