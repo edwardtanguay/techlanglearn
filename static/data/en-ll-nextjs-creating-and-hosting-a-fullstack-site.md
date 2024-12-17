@@ -6,7 +6,9 @@ https://www.linkedin.com/learning/next-js-creating-and-hosting-a-full-stack-site
 - language: en
 - topics: nextjs, mongo
 - rank: 4.99
-- description: Shaun Wassell, looks like an excellent
+- description: Shaun Wassell, looks like an excellent, long course using Next.js version 14.2.8
+- year: 2024
+- status: not yet started
 
 ## TITLE, TIME, nnn
 
@@ -15,4 +17,5 @@ https://www.linkedin.com/learning/next-js-creating-and-hosting-a-full-stack-site
 ## VOCAB - SPANISH
 
 ```
+
 ```

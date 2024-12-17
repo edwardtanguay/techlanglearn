@@ -12,8 +12,8 @@ func main() {
 		Use:   "parsedata",
 		Short: "Reads the .md files and parses them into JSON files that contain data from the md files, plus extended HTML to be displayed on the site.",
 		Run: func(cmd *cobra.Command, args []string) {
-			build("../../../" + config.TutorialFilesDirectory)
-			parse("../../../" + config.TutorialFilesDirectory)
+			buildNewTutorialFiles("../../../" + config.TutorialFilesDirectory)     // reads courses files and creates tutorial files
+			parseCurrentTutorialFiles("../../../" + config.TutorialFilesDirectory) // parses the tutorial file to get dashboard statistics
 		},
 	}
 

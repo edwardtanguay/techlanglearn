@@ -5,8 +5,10 @@ https://www.linkedin.com/learning/trucos-semanales-para-usuarios-de-android
 - duration: 01:04:00
 - language: sp
 - topics: androidUser
-- rank: 4.3
-- description: nice tips like screen recording, Elena has a nice Spanish voice
+- rank: 4.6
+- description: nice tips like screen recording, Elena has a nice Spanish voice, very new (2024), might be a useful user course and in Spanish
+- year: 2024
+- status: not yet started
 
 ## TITLE, TIME, nnn
 
@@ -15,4 +17,5 @@ https://www.linkedin.com/learning/trucos-semanales-para-usuarios-de-android
 ## VOCAB - SPANISH
 
 ```
+
 ```

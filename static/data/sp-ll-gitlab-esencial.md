@@ -5,8 +5,10 @@ https://www.linkedin.com/learning/gitlab-esencial
 - duration: 03:11:00
 - language: sp
 - topics: gitlab
-- rank: 4.3
-- description: a solid, long course in Spanish but unfortunately very hold (2016), watch it and try to redo in the current version of GitLab
+- rank: 2.3
+- description: a solid, long course in Spanish but unfortunately very old (2016) and too out of date so discontinued
+- year: 2016
+- status: discontinued
 
 ## intro - 0:48, 2024-11-17
 

@@ -7,6 +7,8 @@ https://www.linkedin.com/learning/flask-essential-training-24681038
 - topics: flask
 - rank: 4.68
 - description: seems like a solid course on Flask
+- year: 2024
+- status: not started yet
 
 ## TITLE, TIME, nnn
 
@@ -15,4 +17,5 @@ https://www.linkedin.com/learning/flask-essential-training-24681038
 ## VOCAB - SPANISH
 
 ```
+
 ```

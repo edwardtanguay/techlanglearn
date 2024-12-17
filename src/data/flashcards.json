@@ -364,6 +364,10 @@
 		"back": "para retroceder un paso"
 	},
 	{
+		"front": "once downloaded, you can start the program",
+		"back": "una vez descargado, puedes iniciar el programa"
+	},
+	{
 		"front": "for your Python projects",
 		"back": "per i tuoi progetti Python"
 	},
@@ -392,8 +396,8 @@
 		"back": "me gusta esa estandár porque"
 	},
 	{
-		"front": "así es como lo hace",
-		"back": "this is how you do it"
+		"front": "this is how you do it",
+		"back": "así es como lo hace"
 	},
 	{
 		"front": "let me save it",
@@ -622,6 +626,10 @@
 	{
 		"front": "the mouse",
 		"back": "el ratón"
+	},
+	{
+		"front": "via our browser",
+		"back": "mediante nuestro navegador"
 	},
 	{
 		"front": "how can we see all the messages",

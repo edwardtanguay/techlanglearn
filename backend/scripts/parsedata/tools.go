@@ -205,3 +205,43 @@ func convertToSnakeCase(line string) string {
 	words := strings.Fields(lowercaseLine)
 	return strings.Join(words, "-")
 }
+
+func getTutorialFileName(_pathAndFileName string) string {
+	pathAndFileName := filepath.ToSlash(_pathAndFileName) // changes \ to /
+	lastSlashIndex := strings.LastIndex(pathAndFileName, "/")
+	if lastSlashIndex != -1 {
+		return pathAndFileName[lastSlashIndex+1:]
+	}
+	return pathAndFileName
+}
+
+func getRestOfLine(text, marker string) string {
+	index := strings.Index(text, marker)
+	if index == -1 {
+		return ""
+	}
+	return strings.TrimSpace(text[index+len(marker):])
+}
+
+func getFieldValueFromLines(lines []string, fieldIdCode string) string {
+	for i, line := range lines {
+		marker := fieldIdCode + ":"
+		if strings.Contains(line, marker) {
+			return getRestOfLine(line, marker)
+		}
+		if i > 20 {
+			return ""
+		}
+	}
+	return ""
+}
+
+func getPlatformFromUrl(url string) string {
+	if strings.Contains(url, "youtube.") {
+		return "youtube"
+	}
+	if strings.Contains(url, "linkedin.") {
+		return "linkedInLearning"
+	}
+	return ""
+}

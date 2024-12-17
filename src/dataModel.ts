@@ -1,7 +1,8 @@
 import rawFlashcards from './data/flashcards.json';
-import type { Flashcard } from './types';
+import type { Flashcard, Tutorial, Stats } from './types';
 import rawStats from './data/stats.json';
-import type { Stats } from './types';
+import rawTutorials from './data/tutorials.json';
+import * as appTools from './appTools';
 
 export const getFlashcards = (): Flashcard[] => {
 	const flashcards: Flashcard[] = [];
@@ -18,4 +19,26 @@ export const getFlashcards = (): Flashcard[] => {
 
 export const getStats = (): Stats => {
 	return rawStats;
+};
+
+export const getTutorials = (): Tutorial[] => {
+	const tutorials: Tutorial[] = [];
+	for (const rawTutorial of rawTutorials) {
+		const tutorial: Tutorial = {
+			topics: rawTutorial.topics,
+			language: rawTutorial.language,
+			duration: rawTutorial.duration,
+			year: Number(rawTutorial.year),
+			rank: Number(rawTutorial.rank),
+			url: rawTutorial.url,
+			title: rawTutorial.title,
+			description: rawTutorial.description,
+			platform: rawTutorial.platform,
+			fileIdCode: rawTutorial.fileIdCode,
+			status: rawTutorial.status,
+			category: appTools.getCategoryItem(rawTutorial.topics)
+		};
+		tutorials.push(tutorial);
+	}
+	return tutorials;
 };

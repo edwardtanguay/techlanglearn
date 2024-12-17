@@ -11,14 +11,42 @@ import (
 /*
 Parses the md files into JSON for the website to consume
 
-parse("../../static/data")
+parseCurrentTutorialFiles("../../static/data")
 
 - use relative path
 */
-func parse(directory string) {
+func parseCurrentTutorialFiles(directory string) {
 	mdPathAndFileNames, _ := getFilesFromDirectory(directory, "md")
 	parseFlashcards(mdPathAndFileNames)
 	parseStats(mdPathAndFileNames)
+	createTutorialJsonFile(mdPathAndFileNames)
+}
+
+func createTutorialJsonFile(mdPathAndFileNames []string) error {
+	config, _ := LoadConfig()
+	tutorials := []Tutorial{}
+	for _, mdPathAndFileName := range mdPathAndFileNames {
+		lines := getLinesFromFile(mdPathAndFileName)
+		fileName := getTutorialFileName(mdPathAndFileName)
+
+		tutorial := Tutorial{}
+		tutorial.Title = getRestOfLine(lines[0], "#")
+		tutorial.FileIdCode = strings.TrimSuffix(fileName, ".md")
+		tutorial.Url = lines[2]
+		tutorial.Description = getFieldValueFromLines(lines, "description")
+		tutorial.Rank = getFieldValueFromLines(lines, "rank")
+		tutorial.Topics = getFieldValueFromLines(lines, "topics")
+		tutorial.Language = getFieldValueFromLines(lines, "language")
+		tutorial.Duration = getFieldValueFromLines(lines, "duration")
+		tutorial.Year = getFieldValueFromLines(lines, "year")
+		tutorial.Status = getFieldValueFromLines(lines, "status")
+		tutorial.Platform = getPlatformFromUrl(tutorial.Url)
+
+		tutorials = append(tutorials, tutorial)
+		jsonData, _ := json.MarshalIndent(tutorials, "", "\t")
+		writeTextFile("../../../"+config.WebDataDirectory+"/tutorials.json", string(jsonData))
+	}
+	return nil
 }
 
 func parseStats(mdPathAndFileNames []string) error {

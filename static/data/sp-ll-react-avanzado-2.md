@@ -7,6 +7,8 @@ https://www.linkedin.com/learning/react-avanzado-2
 - topics: react, monorepos
 - rank: 4.88
 - description: monorepos, nx, storybook, testing, patterns, GitHub Actions, 70% useful
+- year: 2022
+- status: watched first 2 videos
 
 ## intro, 1:16, 2024-11-21
 

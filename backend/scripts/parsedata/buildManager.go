@@ -5,7 +5,7 @@ import (
 	"strings"
 )
 
-func build(directory string) {
+func buildNewTutorialFiles(directory string) {
 	mdPathAndFileNames, _ := getFilesFromDirectory(directory+"/general", "tts.txt")
 	buildTutorials(mdPathAndFileNames)
 }
@@ -36,7 +36,7 @@ func createTutorialFile(tutorial Tutorial) {
 	if tutorial.Platform == "youtube" {
 		devlog(fmt.Sprintf("Creating Youtube file for \"%s\"", tutorial.Title))
 		createFileWithTemplateAndData(tutorialPathAndFileName, "../../../static/data/templates/template-youtube.tuttmpl.txt", tutorial)
-	} 
+	}
 	if tutorial.Platform == "linkedInLearning" {
 		devlog(fmt.Sprintf("Creating LinkedIn Learning file for \"%s\"", tutorial.Title))
 		createFileWithTemplateAndData(tutorialPathAndFileName, "../../../static/data/templates/template-linkedInLearning.tuttmpl.txt", tutorial)
@@ -52,6 +52,7 @@ func createFileWithTemplateAndData(targetPathAndFileName string, templatePathAnd
 	content = strings.ReplaceAll(content, "@@topics", tutorial.Topics)
 	content = strings.ReplaceAll(content, "@@rank", tutorial.Rank)
 	content = strings.ReplaceAll(content, "@@description", tutorial.Description)
+	content = strings.ReplaceAll(content, "@@year", tutorial.Year)
 	writeTextFile(targetPathAndFileName, content)
 }
 
@@ -72,7 +73,7 @@ func markCreatedLinesAsFinished(coursesPathAndFileName string) {
 		}
 	}
 
-	// add CREATED lines back in at the bottom of the file 
+	// add CREATED lines back in at the bottom of the file
 	newLines = append(newLines, holdLines...)
 
 	content := strings.Join(newLines, "\n")
@@ -104,12 +105,7 @@ func parseTutorialLine(line string) Tutorial {
 	}
 
 	// add platform
-	if strings.Contains(tutorial.Url, "youtube.") {
-		tutorial.Platform = "youtube"
-	}
-	if strings.Contains(tutorial.Url, "linkedin.") {
-		tutorial.Platform = "linkedInLearning"
-	}
+	tutorial.Platform = getPlatformFromUrl(tutorial.Url)
 
 	// add fileIdCode
 	tutorial.FileIdCode = buildFileIdCode(tutorial)

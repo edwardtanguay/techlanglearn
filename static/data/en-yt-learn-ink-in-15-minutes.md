@@ -7,6 +7,8 @@ https://www.youtube.com/watch?v=KSRpcftVyKg
 - topics: ink
 - rank: 4.2
 - description: a quick video to learn how to make dynamic conversations using Ink, a tool used in gaming
+- year: 2021
+- status: finished
 
 ## watchlog
 

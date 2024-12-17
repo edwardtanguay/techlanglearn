@@ -7,6 +7,8 @@ https://www.youtube.com/watch?v=wfBeEn8d-8A&list=PL3eAkoh7fypqxiqDq9OQGm3aJO7dZj
 - topics: go, graphql, nextjs, gin
 - rank: 4.98
 - description: 10+ videos that include Next.js, Gin all working together, good way to learn GraphQL
+- year: 2020
+- status: 3 of 14 videos watched
 
 ## What is GraphQL, 4:49, 2024-11-15
 
