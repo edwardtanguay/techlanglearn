@@ -160,6 +160,7 @@ func getFlashcardsFromFile(lines []string) ([]Flashcard, error) {
 	foundVocab := false
 	flashcards := []Flashcard{}
 	flashcardLines := []string{}
+	language := ""
 
 	// get slice of all lines that have to do with flashcards
 	for _, rawLine := range lines {
@@ -171,8 +172,17 @@ func getFlashcardsFromFile(lines []string) ([]Flashcard, error) {
 				flashcardLines = append(flashcardLines, line)
 			}
 		}
-		if strings.Contains(line, "## VOCAB") {
+
+		marker := "## VOCAB"
+		if strings.Contains(line, marker) {
 			foundVocab = true
+			restOfLine := getRestOfLine(line, marker)
+			if softIncludes(restOfLine, "spanish") {
+				language = "es"
+			}
+			if softIncludes(restOfLine, "italian") {
+				language = "it"
+			}
 		}
 		if strings.Contains(line, "```") {
 			foundFirstBackticks = true
@@ -192,7 +202,7 @@ func getFlashcardsFromFile(lines []string) ([]Flashcard, error) {
 			back = flashcardLine
 			processingLineType = "BLANK"
 		case "BLANK":
-			flashcards = append(flashcards, Flashcard{front, back})
+			flashcards = append(flashcards, Flashcard{language, front, back})
 			processingLineType = "front"
 		}
 	}

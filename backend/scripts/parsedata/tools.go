@@ -245,3 +245,9 @@ func getPlatformFromUrl(url string) string {
 	}
 	return ""
 }
+
+func softIncludes(main string, includesText string) bool {
+	mainLower := strings.ToLower(main)
+	includesTextLower := strings.ToLower(includesText)
+	return strings.Contains(mainLower, includesTextLower)
+}

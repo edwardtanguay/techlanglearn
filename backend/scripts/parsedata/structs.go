@@ -6,8 +6,9 @@ type Config struct {
 }
 
 type Flashcard struct {
-	Front string `json:"front"`
-	Back  string `json:"back"`
+	Language string `json:"language"`
+	Front    string `json:"front"`
+	Back     string `json:"back"`
 }
 
 type TimeUnit struct {

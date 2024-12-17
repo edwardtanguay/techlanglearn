@@ -312,19 +312,6 @@
 		"status": "2 minutes of 18"
 	},
 	{
-		"topics": "laravel",
-		"language": "fr",
-		"duration": "02:22:00",
-		"year": "2022",
-		"rank": "4.71",
-		"url": "https://www.linkedin.com/learning/l-essentiel-de-laravel-9",
-		"title": "L'essentiel de Laravel 9",
-		"description": "Julian Layen, long course on Laravel in French",
-		"platform": "linkedInLearning",
-		"fileIdCode": "fr-ll-lessentiel-de-laravel-9",
-		"status": ""
-	},
-	{
 		"topics": "css",
 		"language": "es",
 		"duration": "01:05:00",
@@ -466,5 +453,18 @@
 		"platform": "youtube",
 		"fileIdCode": "es-yt-golang-rest-api-crud-con-go",
 		"status": "not started yet"
+	},
+	{
+		"topics": "laravel",
+		"language": "fr",
+		"duration": "02:22:00",
+		"year": "2022",
+		"rank": "4.71",
+		"url": "https://www.linkedin.com/learning/l-essentiel-de-laravel-9",
+		"title": "L'essentiel de Laravel 9",
+		"description": "Julian Layen, long course on Laravel in French",
+		"platform": "linkedInLearning",
+		"fileIdCode": "fr-ll-lessentiel-de-laravel-9",
+		"status": ""
 	}
 ]

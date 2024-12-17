@@ -1,5 +1,5 @@
 {
 	"tutorialFilesDirectory": "static/data",
-	"webDataDirectory": "src/data"
+	"webDataDirectory": "src/db/data"
 
 }
