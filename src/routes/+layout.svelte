@@ -22,6 +22,7 @@
 	<ul class="flex gap-3 px-2 py-1 pl-6">
 		<li><a href="/" class={$page.url.pathname === '/' ? 'active' : ''}>Stats</a></li>
 		<li><a href="/tutorials" class={$page.url.pathname === '/tutorials' ? 'active' : ''}>Tutorials</a></li>
+		<li><a href="/flashcards" class={$page.url.pathname === '/flashcards' ? 'active' : ''}>Flashcards</a></li>
 		<li><a href="/about" class={$page.url.pathname === '/about' ? 'active' : ''}>About</a></li>
 	</ul>
 	<div class="flex items-center gap-3">
