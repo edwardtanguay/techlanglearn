@@ -162,6 +162,8 @@ func getFlashcardsFromFile(lines []string) ([]Flashcard, error) {
 	flashcardLines := []string{}
 	language := ""
 
+	println(11111, "here")
+
 	// get slice of all lines that have to do with flashcards
 	for _, rawLine := range lines {
 		line := strings.TrimSpace(rawLine)
@@ -217,34 +219,37 @@ func getFlashcardsFromFile(lines []string) ([]Flashcard, error) {
 
 func fillInZeroDays(timeUnits []TimeUnit) []TimeUnit {
 
-	layout := "2006-01-02"
-	sort.Slice(timeUnits, func(i, j int) bool {
-		date1, _ := time.Parse(layout, timeUnits[i].CalendarDate)
-		date2, _ := time.Parse(layout, timeUnits[j].CalendarDate)
-		return date1.Before(date2)
-	})
-
-	startDate, _ := time.Parse(layout, timeUnits[0].CalendarDate)
-	endDate, _ := time.Parse(layout, timeUnits[len(timeUnits)-1].CalendarDate)
-
-	dateMap := make(map[string]TimeUnit)
-	for _, unit := range timeUnits {
-		dateMap[unit.CalendarDate] = unit
-	}
-
 	var filledTimeUnits []TimeUnit
-	for date := startDate; !date.After(endDate); date = date.AddDate(0, 0, 1) {
-		dateStr := date.Format(layout)
-		if unit, exists := dateMap[dateStr]; exists {
-			filledTimeUnits = append(filledTimeUnits, unit)
-		} else {
-			filledTimeUnits = append(filledTimeUnits, TimeUnit{
-				CalendarDate: dateStr,
-				Duration:     "00:00:00",
-			})
-		}
-	}
+	if len(timeUnits) > 0 {
 
+		layout := "2006-01-02"
+		sort.Slice(timeUnits, func(i, j int) bool {
+			date1, _ := time.Parse(layout, timeUnits[i].CalendarDate)
+			date2, _ := time.Parse(layout, timeUnits[j].CalendarDate)
+			return date1.Before(date2)
+		})
+
+		startDate, _ := time.Parse(layout, timeUnits[0].CalendarDate)
+		endDate, _ := time.Parse(layout, timeUnits[len(timeUnits)-1].CalendarDate)
+
+		dateMap := make(map[string]TimeUnit)
+		for _, unit := range timeUnits {
+			dateMap[unit.CalendarDate] = unit
+		}
+
+		for date := startDate; !date.After(endDate); date = date.AddDate(0, 0, 1) {
+			dateStr := date.Format(layout)
+			if unit, exists := dateMap[dateStr]; exists {
+				filledTimeUnits = append(filledTimeUnits, unit)
+			} else {
+				filledTimeUnits = append(filledTimeUnits, TimeUnit{
+					CalendarDate: dateStr,
+					Duration:     "00:00:00",
+				})
+			}
+		}
+
+	}
 	return filledTimeUnits
 }
 
