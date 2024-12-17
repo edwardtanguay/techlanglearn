@@ -8,14 +8,60 @@ https://www.linkedin.com/learning/next-js-creating-and-hosting-a-full-stack-site
 - rank: 4.99
 - description: Shaun Wassell, looks like an excellent, long course using Next.js version 14.2.8
 - year: 2024
-- status: not yet started
+- status: just started
 
-## TITLE, TIME, nnn
+## Create a full-stack site with Next.js, 0:43, 2024-12-17
+
+- simple intro
+
+## What you should know, 1:34, 2024-12-17
+
+https://www.linkedin.com/learning/next-js-creating-and-hosting-a-full-stack-site/what-you-should-know?autoSkip=true&resume=false
+
+- know JavaScript, React, networking
+
+## Basic setup and exercise files, 2:35, nnn
+
+https://www.linkedin.com/learning/next-js-creating-and-hosting-a-full-stack-site/basic-setup-exercise-files?autoSkip=true&resume=false
 
 - nnn
 
-## VOCAB - SPANISH
+## VOCAB - ITALIAN
 
 ```
+Therefore
+quindi;pr=QUEEN-dee
+2024-12-17 17:47:04
+
+of fundamental networking concepts
+dei concetti fondamentali di rete; pr=day-kon-CHET-tee; pr=RAY-teh
+2024-12-17 17:43:36
+
+and finally
+e infine; pr=in-FEE-nah
+2024-12-17 17:42:03
+
+that you knew
+che tu conoscessi; pr=kon-oh-SHEH-see
+2024-12-17 17:37:47
+
+and at the end of the course
+e alla fine del corso; pr=KOR'-soh (not zoh)
+2024-12-17 17:28:03
+
+in recent years
+negli ultimi anni
+2024-12-17 17:23:50
+
+for React developers
+per gli sviluppatori di React
+2024-12-17 17:25:27
+
+and for this reason
+e per questo motivo
+2024-12-17 17:26:10
+
+
+
 
 ```

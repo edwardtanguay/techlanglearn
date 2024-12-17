@@ -65,6 +65,19 @@
 		"status": "not yet started"
 	},
 	{
+		"topics": "cypress",
+		"language": "en",
+		"duration": "02:06:00",
+		"year": "2024",
+		"rank": "4.89",
+		"url": "https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013",
+		"title": "End-to-End JavaScript Testing with Cypress.io",
+		"description": "Shaun Wassel, Cypress, very new, looks good",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-endtoend-javascript-testing-with-cypressio",
+		"status": ""
+	},
+	{
 		"topics": "flask",
 		"language": "en",
 		"duration": "02:02:00",
@@ -76,6 +89,32 @@
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-flask-essential-training",
 		"status": "not started yet"
+	},
+	{
+		"topics": "python,functionalProgramming",
+		"language": "en",
+		"duration": "01:55:00",
+		"year": "2024",
+		"rank": "4.89",
+		"url": "https://www.linkedin.com/learning/functional-programming-with-python/a-functional-approach-to-transform-code-25049215",
+		"title": "Functional Programming with Python",
+		"description": "Shaun Wassel, new course on functional programming in Python: recursion, higher-order functions, lambdas, filtering, reducing, currying",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-functional-programming-with-python",
+		"status": ""
+	},
+	{
+		"topics": "laravel",
+		"language": "en",
+		"duration": "03:14:00",
+		"year": "2024",
+		"rank": "4.77",
+		"url": "https://www.linkedin.com/learning/laravel-essential-training",
+		"title": "Laravel Essential Training",
+		"description": "Laravel 11 created late 2024, woman teacher from India with understandable accent, comprehensive, would be good for latest basics of Laravel",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-laravel-essential-training",
+		"status": ""
 	},
 	{
 		"topics": "webflow",
@@ -101,7 +140,7 @@
 		"description": "Shaun Wassell, looks like an excellent, long course using Next.js version 14.2.8",
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-nextjs-creating-and-hosting-a-fullstack-site",
-		"status": "not yet started"
+		"status": "just started"
 	},
 	{
 		"topics": "python, pycharm, jupyter",
@@ -114,6 +153,19 @@
 		"description": "simply shows how to use PyCharm and Jupyter",
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-python-tools-jupyter-vs-pycharm",
+		"status": ""
+	},
+	{
+		"topics": "python",
+		"language": "en",
+		"duration": "02:21:00",
+		"year": "2024",
+		"rank": "4.81",
+		"url": "https://www.linkedin.com/learning/skill-up-with-python-hands-on-data-science-and-machine-learning-projects",
+		"title": "Skill Up with Python: Hands-On Data Science and Machine Learning Projects",
+		"description": "Shaun Wassell teaches practical Python with projects",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-skill-up-with-python-handson-data-science-and-machine-learning-projects",
 		"status": ""
 	},
 	{
@@ -245,6 +297,19 @@
 		"platform": "youtube",
 		"fileIdCode": "en-yt-use-svelte-5-snippets-to-reuse-markup-without-creating-components",
 		"status": "2 minutes of 18"
+	},
+	{
+		"topics": "laravel",
+		"language": "fr",
+		"duration": "02:22:00",
+		"year": "2022",
+		"rank": "4.71",
+		"url": "https://www.linkedin.com/learning/l-essentiel-de-laravel-9",
+		"title": "L'essentiel de Laravel 9",
+		"description": "Julian Layen, long course on Laravel in French",
+		"platform": "linkedInLearning",
+		"fileIdCode": "fr-ll-lessentiel-de-laravel-9",
+		"status": ""
 	},
 	{
 		"topics": "css",

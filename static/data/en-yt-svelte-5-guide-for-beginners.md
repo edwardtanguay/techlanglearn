@@ -42,10 +42,6 @@ https://www.youtube.com/watch?v=tErKyuUTzsM
 ```ts
 let count = $state(0);
 let double = $derived(count * 2);
-
-$effect(() => {
-	console.log(111, count);
-});
 ```
 
 - don't do this:##dontdothis1

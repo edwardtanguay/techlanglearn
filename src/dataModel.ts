@@ -35,7 +35,7 @@ export const getTutorials = (): Tutorial[] => {
 			description: rawTutorial.description,
 			platform: rawTutorial.platform,
 			fileIdCode: rawTutorial.fileIdCode,
-			status: rawTutorial.status,
+			status: rawTutorial.status === '' ? 'not yet started' : rawTutorial.status,
 			category: appTools.getCategoryItem(rawTutorial.topics)
 		};
 		tutorials.push(tutorial);

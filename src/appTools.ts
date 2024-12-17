@@ -7,7 +7,6 @@ export const getCategoryItem = (topicsList: string): Category | null => {
 	for (const category of config.categories()) {
 		for (const categoryTopic of category.topics) {
 			for (const topic of topics) {
-				console.log('compare', categoryTopic, topic);
 				if (categoryTopic === topic) {
 					return category;
 				}
