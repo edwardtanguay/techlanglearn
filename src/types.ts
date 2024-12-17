@@ -5,7 +5,6 @@ export const SourceFlashcardSchema = z.object({
 	front: z.string(),
 	back: z.string(),
 	whenCreated: z.string(),
-	isOpen: z.boolean()
 });
 
 export type SourceFlashcard = z.infer<typeof SourceFlashcardSchema>;
