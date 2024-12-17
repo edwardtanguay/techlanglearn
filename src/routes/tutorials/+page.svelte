@@ -56,9 +56,12 @@
 								{#if tutorial.platform === 'youtube'}
 									<IconYoutube width={31} />
 								{/if}
-								<span class="font-bold text-green-800">
-									{tutorial.status === 'finished' ? 'finished' : ''}
-								</span>
+								{#if tutorial.status === 'finished'}
+									<span class="-ml-[.1rem] font-bold text-green-800">finished</span>
+								{/if}
+								{#if tutorial.status !== 'finished'}
+									<span class="-ml-[.1rem] text-orange-700">{tutorial.status}</span>
+								{/if}
 							</p>
 							<p class="text-xs text-orange-800">{tutorial.fileIdCode}.md</p>
 							<p class="text-xs italic">{tutorial.description}</p>
