@@ -7,6 +7,8 @@ https://www.youtube.com/watch?v=sPFaDYaTUeI&list=PLNTXksYYFsn9jnS_7Vpk9Qi2vb5N-M
 - topics: easyPeasy
 - rank: 4.82
 - description: old course but checking it out, uses TypeScript, only doing parts 2-4, part 1 was too simple
+- year: 2020
+- status: finished
 
 ## Actions - 8:18, 2024-11-22
 

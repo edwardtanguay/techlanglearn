@@ -39,6 +39,12 @@
 					background-color: rgb(221, 243, 221);
 				}
 
+				tr.discontinued {
+					opacity: .7 !important;
+					font-style: italic !important;
+					background-color: rgb(243, 207, 207);
+				}
+
 				td {
 					color: #555;
 				}

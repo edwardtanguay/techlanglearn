@@ -2,6 +2,7 @@
 	import IconLinkedIn from '../../components/IconLinkedIn.svelte';
 	import IconYoutube from '../../components/IconYoutube.svelte';
 	import { getStore } from '../../store.svelte';
+	import type { Tutorial } from '../../types';
 	import './styles.scss';
 
 	const store = getStore();
@@ -11,12 +12,19 @@
 	};
 
 	handleToggleSortColumn('rank');
+
+	const getStatusClass = (tutorial: Tutorial) => {
+		if (['finished', 'discontinued'].includes(tutorial.status)) {
+			return tutorial.status;
+		} else {
+			return '';
+		}
+	};
 </script>
 
 <section class="pageTutorials">
 	<header>
-		<h1 class="main">Tutorials</h1>
-		<p>There are {store.tutorials.length} tutorials.</p>
+		<h1 class="main">{store.tutorials.length} Tutorials</h1>
 	</header>
 	<hr />
 
@@ -38,7 +46,7 @@
 			</thead>
 			<tbody>
 				{#each store.tutorials as tutorial}
-					<tr class={tutorial.status === 'finished' ? 'finished' : 'doing'}>
+					<tr class={getStatusClass(tutorial)}>
 						<td>{tutorial.rank.toFixed(2)}</td>
 						<td>{tutorial.year === 0 ? '' : tutorial.year}</td>
 						<td>{tutorial.language}</td>
@@ -59,7 +67,10 @@
 								{#if tutorial.status === 'finished'}
 									<span class="-ml-[.1rem] font-bold text-green-800">finished</span>
 								{/if}
-								{#if tutorial.status !== 'finished'}
+								{#if tutorial.status === 'discontinued'}
+									<span class="-ml-[.1rem] font-bold italic text-red-800">discontinued</span>
+								{/if}
+								{#if !['finished', 'discontinued'].includes(tutorial.status)}
 									<span class="-ml-[.1rem] text-orange-700">{tutorial.status}</span>
 								{/if}
 							</p>

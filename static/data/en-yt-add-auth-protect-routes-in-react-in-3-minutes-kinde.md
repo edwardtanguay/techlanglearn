@@ -6,7 +6,9 @@ https://www.youtube.com/watch?v=_EjOHdRihjA
 - language: en
 - topics: kinde
 - rank: 4.9
-- description: quick video showing how to build Kinde into a React site
+- description: quick ByteGrad video showing how to build Kinde into a React site
+- year: 2024
+- status: finished
 
 ## watchlog
 
@@ -62,7 +64,6 @@ const { login, register } = useKindeAuth();
 - create custom protected route component
 - element <ProtectedRoute>
 - now he fetches data with a bearer token
-
 
 ## VOCAB - SPANISH
 

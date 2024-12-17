@@ -7,10 +7,12 @@ https://www.youtube.com/watch?v=ReQGUxXPaSM
 - topics: kinde
 - rank: 4.9
 - description: another short video showing how to intall Kinde in React (not Next.js)
+- year: 2023
+- status: finished
 
 ## watchlog
 
-08:38 - 2024-11-24 
+08:38 - 2024-11-24
 
 ## notes
 

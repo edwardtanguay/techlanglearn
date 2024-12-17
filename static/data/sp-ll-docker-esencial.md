@@ -7,6 +7,8 @@ https://www.linkedin.com/learning/docker-esencial-23119241
 - topics: docker
 - rank: 4.91
 - description: Spanish, in depth Docker
+- year: 2024
+- status: not yet started
 
 ## TITLE, TIME, nnn
 

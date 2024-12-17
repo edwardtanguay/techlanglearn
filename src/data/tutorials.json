@@ -10,7 +10,7 @@
 		"description": "looks like a quick deep dive in monorepos",
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-building-a-scalable-monorepo-with-javascript-and-typescript",
-		"status": ""
+		"status": "not yet started"
 	},
 	{
 		"topics": "react, redux",
@@ -55,14 +55,14 @@
 		"topics": "grid",
 		"language": "en",
 		"duration": "02:28:00",
-		"year": "",
+		"year": "2024",
 		"rank": "4.91",
 		"url": "https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327",
 		"title": "CSS: Advanced Layouts with Grid",
 		"description": "long course on grid, looks good",
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-css-advanced-layouts-with-grid",
-		"status": ""
+		"status": "not yet started"
 	},
 	{
 		"topics": "flask",
@@ -120,14 +120,14 @@
 		"topics": "kinde",
 		"language": "en",
 		"duration": "00:09:37",
-		"year": "",
+		"year": "2024",
 		"rank": "4.9",
 		"url": "https://www.youtube.com/watch?v=_EjOHdRihjA",
 		"title": "Add Auth \u0026 Protect Routes in React in 3 Minutes (Kinde)",
-		"description": "quick video showing how to build Kinde into a React site",
+		"description": "quick ByteGrad video showing how to build Kinde into a React site",
 		"platform": "youtube",
 		"fileIdCode": "en-yt-add-auth-protect-routes-in-react-in-3-minutes-kinde",
-		"status": ""
+		"status": "finished"
 	},
 	{
 		"topics": "go, graphql, nextjs, gin",
@@ -140,7 +140,7 @@
 		"description": "10+ videos that include Next.js, Gin all working together, good way to learn GraphQL",
 		"platform": "youtube",
 		"fileIdCode": "en-yt-build-graphql-server-with-go",
-		"status": ""
+		"status": "3 of 14 videos watched"
 	},
 	{
 		"topics": "ink",
@@ -172,27 +172,27 @@
 		"topics": "kinde",
 		"language": "en",
 		"duration": "00:08:38",
-		"year": "",
+		"year": "2023",
 		"rank": "4.9",
 		"url": "https://www.youtube.com/watch?v=ReQGUxXPaSM",
 		"title": "React Authentication with Kinde",
 		"description": "another short video showing how to intall Kinde in React (not Next.js)",
 		"platform": "youtube",
 		"fileIdCode": "en-yt-react-authentication-with-kinde",
-		"status": ""
+		"status": "finished"
 	},
 	{
 		"topics": "easyPeasy",
 		"language": "en",
 		"duration": "00:47:00",
-		"year": "",
+		"year": "2020",
 		"rank": "4.82",
 		"url": "https://www.youtube.com/watch?v=sPFaDYaTUeI\u0026list=PLNTXksYYFsn9jnS_7Vpk9Qi2vb5N-MdOM",
 		"title": "React Redux Easy Peasy Complete Course",
 		"description": "old course but checking it out, uses TypeScript, only doing parts 2-4, part 1 was too simple",
 		"platform": "youtube",
 		"fileIdCode": "en-yt-react-redux-easy-peasy-complete-course",
-		"status": ""
+		"status": "finished"
 	},
 	{
 		"topics": "skeleton, svelte",
@@ -263,14 +263,14 @@
 		"topics": "docker",
 		"language": "sp",
 		"duration": "02:34:00",
-		"year": "",
+		"year": "2024",
 		"rank": "4.91",
 		"url": "https://www.linkedin.com/learning/docker-esencial-23119241",
 		"title": "Docker esencial",
 		"description": "Spanish, in depth Docker",
 		"platform": "linkedInLearning",
 		"fileIdCode": "sp-ll-docker-esencial",
-		"status": ""
+		"status": "not yet started"
 	},
 	{
 		"topics": "go",
@@ -341,27 +341,27 @@
 		"topics": "react, monorepos",
 		"language": "sp",
 		"duration": "02:27:00",
-		"year": "",
+		"year": "2022",
 		"rank": "4.88",
 		"url": "https://www.linkedin.com/learning/react-avanzado-2",
 		"title": "React avanzado 2",
 		"description": "monorepos, nx, storybook, testing, patterns, GitHub Actions, 70% useful",
 		"platform": "linkedInLearning",
 		"fileIdCode": "sp-ll-react-avanzado-2",
-		"status": ""
+		"status": "watched first 2 videos"
 	},
 	{
 		"topics": "react, hooks",
 		"language": "sp",
 		"duration": "02:46:00",
-		"year": "",
-		"rank": "4.81",
+		"year": "2021",
+		"rank": "1.81",
 		"url": "https://www.linkedin.com/learning/react-hooks-esencial",
 		"title": "React Hooks esencial",
 		"description": "basics of React hooks, it only has a small section on custom hooks, and is focused on showing how one moves from class components to function components (created in 2021), discontinued as rest of content is too simplistic",
 		"platform": "linkedInLearning",
 		"fileIdCode": "sp-ll-react-hooks-esencial",
-		"status": ""
+		"status": "discontinued"
 	},
 	{
 		"topics": "androidUser",
