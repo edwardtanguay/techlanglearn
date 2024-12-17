@@ -35,6 +35,11 @@
 	</div>
 </nav>
 
-<main class="p-6">
+{#if store.pageStatus === 'loading'}
+	<div class="overlay">
+		<div class="overlay-text">Parsing data...</div>
+	</div>
+{/if}
+<main class={`p-6 ${store.pageStatus === 'loading' ? 'blurArea' : ''}`}>
 	<slot />
 </main>

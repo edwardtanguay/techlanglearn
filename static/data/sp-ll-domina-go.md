@@ -271,7 +271,6 @@ a, b, c, d, e, _, _, _, i, _, k, _, _, _, _, o, p, q, _, _, t, u, _, _, _, _, _
 pr. alphabet, letters with different pronuncations
 f = EFF-ay, g = HEH, h = AH-chah, j = HOH-ta, l = ELL-ay, m = EM-ay, n = EN-ay, n = EN-yeh, r = ERR-ay, s = ESS-ay, v = OO-veh, w = oo-veh-DUB-lay, x = EK-ees, y = ee-grey-EGG-ah, z = SET-ah
 
-
 each %v will be replaced by a value from our map
 cada %v va a ser sustituido por un valor de nuestro mapa
 
