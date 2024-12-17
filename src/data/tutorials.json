@@ -104,6 +104,19 @@
 		"status": ""
 	},
 	{
+		"topics": "git",
+		"language": "en",
+		"duration": "02:37:00",
+		"year": "2023",
+		"rank": "4.93",
+		"url": "https://www.linkedin.com/learning/git-for-teams/using-git-for-team-collaboration",
+		"title": "Git for Teams",
+		"description": "Kevin Bowersox, lots of good tips for teams, Gitlab installation, secrets, Git flow, GitLab Runner, CI pipeline, cherry-picking, squashing, reverting",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-git-for-teams",
+		"status": ""
+	},
+	{
 		"topics": "laravel",
 		"language": "en",
 		"duration": "03:14:00",

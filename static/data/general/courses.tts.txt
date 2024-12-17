@@ -10,8 +10,6 @@ accessibility; en; 2024; https://www.linkedin.com/learning/web-accessibility-for
 
 - gitlab french, 2023
 - https://www.linkedin.com/learning/l-essentiel-de-gitlab/bienvenue-dans-l-essentiel-de-gitlab
-- git french 2020
-- https://www.linkedin.com/learning/l-essentiel-de-git/effectuer-un-premier-commit
 - github versioning
 - https://www.youtube.com/results?search_query=github+releases+tutorial+
 - https://www.youtube.com/watch?v=Ob9llA_QhQY
@@ -158,8 +156,6 @@ accessibility; en; 2024; https://www.linkedin.com/learning/web-accessibility-for
 - https://www.linkedin.com/learning/github-quick-tips/get-maximum-contribution-credits
 - git branches etc.
 - https://www.linkedin.com/learning/git-branches-merges-and-remotes/mixed-reset
-- git very good
-- https://www.linkedin.com/learning/git-for-teams/using-git-for-team-collaboration
 - git workflows good
 - https://www.linkedin.com/learning/git-workflows/github-flow-in-practice
 - swagger
@@ -276,3 +272,4 @@ CREATED: python,functionalProgramming;en;01:55:00;2024;4.89;https://www.linkedin
 CREATED: laravel;fr;02:22:00;2022;4.71;https://www.linkedin.com/learning/l-essentiel-de-laravel-9; L'essentiel de Laravel 9 ; Julian Layen, long course on Laravel in French
 CREATED: python;en;02:21:00;2024;4.81;https://www.linkedin.com/learning/skill-up-with-python-hands-on-data-science-and-machine-learning-projects; Skill Up with Python: Hands-On Data Science and Machine Learning Projects ; Shaun Wassell teaches practical Python with projects
 CREATED: laravel;en;03:14:00;2024;4.77;https://www.linkedin.com/learning/laravel-essential-training; Laravel Essential Training ;Laravel 11 created late 2024, woman teacher from India with understandable accent, comprehensive, would be good for latest basics of Laravel
+CREATED: git;en;02:37:00;2023;4.93;https://www.linkedin.com/learning/git-for-teams/using-git-for-team-collaboration;  Git for Teams ; Kevin Bowersox, lots of good tips for teams, Gitlab installation, secrets, Git flow, GitLab Runner, CI pipeline, cherry-picking, squashing, reverting

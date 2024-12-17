@@ -5,7 +5,7 @@ export const categories = (): Category[] => {
 		{
 			idCode: 'current',
 			name: 'current job',
-			topics: ['react', 'go', 'gitlab', 'ink', 'easyPeasy', 'docker'],
+			topics: ['react', 'go', 'gitlab', 'ink', 'easyPeasy', 'docker', 'git'],
 			description: 'technology needed for current job'
 		},
 		{
