@@ -7,6 +7,7 @@ import * as appTools from './appTools';
 export const getFlashcards = (): Flashcard[] => {
 	const flashcards: Flashcard[] = [];
 	for (const rawFlashcard of rawFlashcards) {
+		console.log(11111, rawFlashcard);
 		const flashcard: Flashcard = {
 			language: rawFlashcard.language,
 			front: rawFlashcard.front,
