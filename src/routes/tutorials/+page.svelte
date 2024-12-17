@@ -31,7 +31,6 @@
 					>
 					<th>Topics</th>
 					<th>Category</th>
-					<th>Platform</th>
 					<th>Duration</th>
 					<th>Title</th>
 					<th>Status</th>
@@ -47,13 +46,16 @@
 						<td title={tutorial.category?.description}
 							>{tutorial.category !== null ? tutorial.category.name : ''}</td
 						>
-						<td>{tutorial.platform}</td>
 						<td>{tutorial.duration}</td>
 						<td>
 							<p class="flex gap-2">
 								<a class="underline" target="_blank" href={tutorial.url}>{tutorial.title}</a>
-								<IconLinkedIn size={22} />
-								<IconYoutube width={31}/>
+								{#if tutorial.platform === 'linkedInLearning'}
+									<IconLinkedIn size={22} />
+								{/if}
+								{#if tutorial.platform === 'youtube'}
+									<IconYoutube width={31} />
+								{/if}
 							</p>
 							<p class="text-xs text-orange-800">{tutorial.fileIdCode}.md</p>
 							<p class="text-xs italic">{tutorial.description}</p>
