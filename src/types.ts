@@ -1,6 +1,8 @@
 export type Flashcard = {
+	language: string;
 	front: string;
 	back: string;
+	whenCreated: string;
 	isOpen: boolean;
 };
 

@@ -8,8 +8,10 @@ export const getFlashcards = (): Flashcard[] => {
 	const flashcards: Flashcard[] = [];
 	for (const rawFlashcard of rawFlashcards) {
 		const flashcard: Flashcard = {
+			language: rawFlashcard.language,
 			front: rawFlashcard.front,
 			back: rawFlashcard.back,
+			whenCreated: rawFlashcard.whenCreated,
 			isOpen: false
 		};
 		flashcards.push(flashcard);
