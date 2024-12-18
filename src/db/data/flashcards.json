@@ -1,22 +1,79 @@
 [
 	{
-		"language": "es",
-		"front": "111",
-		"back": "222"
+		"language": "it",
+		"front": "so, in any case",
+		"back": "quindi, in ogni caso;pr=OHN-yee-KAH-zoh",
+		"whenCreated": "2024-12-17 18:32:06",
+		"extras": ""
 	},
 	{
-		"language": "es",
-		"front": "",
-		"back": "aaa"
+		"language": "it",
+		"front": "so for example",
+		"back": "quindi, ad esempio;pr=ay-ZEM-pee-oh (not SEM)",
+		"whenCreated": "",
+		"extras": ""
 	},
 	{
-		"language": "es",
-		"front": "",
-		"back": "444"
+		"language": "it",
+		"front": "but it's also very easy",
+		"back": "ma è anche molto facile;pr=FAH-chee-lay",
+		"whenCreated": "2024-12-17 18:27:32",
+		"extras": ""
 	},
 	{
-		"language": "es",
-		"front": "666",
-		"back": "777"
+		"language": "it",
+		"front": "Therefore",
+		"back": "quindi;pr=QUEEN-dee",
+		"whenCreated": "2024-12-17 17:47:04",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "of fundamental networking concepts",
+		"back": "dei concetti fondamentali di rete; pr=day-kon-CHET-tee; pr=RAY-teh",
+		"whenCreated": "2024-12-17 17:43:36",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "and finally",
+		"back": "e infine; pr=in-FEE-nah",
+		"whenCreated": "2024-12-17 17:42:03",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "that you knew",
+		"back": "che tu conoscessi; pr=kon-oh-SHEH-see",
+		"whenCreated": "2024-12-17 17:37:47",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "and at the end of the course",
+		"back": "e alla fine del corso; pr=KOR'-soh (not zoh)",
+		"whenCreated": "2024-12-17 17:28:03",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "in recent years",
+		"back": "negli ultimi anni",
+		"whenCreated": "2024-12-17 17:23:50",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "for React developers",
+		"back": "per gli sviluppatori di React",
+		"whenCreated": "2024-12-17 17:25:27",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "and for this reason",
+		"back": "e per questo motivo",
+		"whenCreated": "2024-12-17 17:26:10",
+		"extras": ""
 	}
 ]

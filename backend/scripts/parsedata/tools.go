@@ -294,3 +294,10 @@ func removeAllLinesWithMarker(lines []string, marker string) []string {
 
 	return result
 }
+
+func padLineBlock(lines []string, length int) []string {
+	for len(lines) < length {
+		lines = append(lines, "") 
+	}
+	return lines
+}

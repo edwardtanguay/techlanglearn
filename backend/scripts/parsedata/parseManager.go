@@ -156,10 +156,7 @@ func convertToIntervalTimes(timeUnits []TimeUnit) ([]TimeUnit, error) {
 
 func getFlashcardsFromFile(lines []string) ([]Flashcard, error) {
 
-	foundFirstBackticks := false
-	foundVocab := false
 	flashcards := []Flashcard{}
-	flashcardLines := []string{}
 	language := ""
 	marker := "## VOCAB"
 
@@ -180,48 +177,20 @@ func getFlashcardsFromFile(lines []string) ([]Flashcard, error) {
 	vocabLines = removeAllLinesWithMarker(vocabLines, "```")
 
 	lineBlocks := getLineBlocksFromLines(vocabLines)
-	fmt.Printf("%v", lineBlocks)
 
-	// get slice of all lines that have to do with flashcards
-	for _, rawLine := range lines {
-		line := strings.TrimSpace(rawLine)
-		if foundVocab && foundFirstBackticks {
-			if (len(flashcardLines) == 0 && line == "") || line == "```" {
-				// don't save
-			} else {
-				flashcardLines = append(flashcardLines, line)
-			}
+	for _, lineBlock := range lineBlocks {
+		lineBlock = padLineBlock(lineBlock, 4)
+		flashcard := Flashcard{
+			Language:    language,
+			Front:       lineBlock[0],
+			Back:        lineBlock[1],
+			WhenCreated: "",
+			Extras:      "",
 		}
-
-		if strings.Contains(line, marker) {
-			foundVocab = true
+		if lineBlock[2] != "" {
+			flashcard.WhenCreated = lineBlock[2]
 		}
-		if strings.Contains(line, "```") {
-			foundFirstBackticks = true
-		}
-	}
-
-	// create slice of flashcard instances
-	processingLineType := "front"
-	front := ""
-	back := ""
-	for _, flashcardLine := range flashcardLines {
-		switch processingLineType {
-		case "front":
-			front = flashcardLine
-			processingLineType = "back"
-		case "back":
-			back = flashcardLine
-			processingLineType = "BLANK"
-		case "BLANK":
-			flashcards = append(flashcards, Flashcard{language, front, back})
-			processingLineType = "front"
-		}
-	}
-
-	// if there were no cards but a marker was saved, then fix it
-	if len(flashcards) == 1 && flashcards[0].Back == "```" {
-		println(111, "delete this")
+		flashcards = append(flashcards, flashcard)
 	}
 
 	return flashcards, nil

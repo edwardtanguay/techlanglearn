@@ -1,15 +1,15 @@
 [
 	{
-		"topics": "monorepos",
+		"topics": "nextjs, mongo",
 		"language": "en",
-		"duration": "00:55:00",
+		"duration": "03:54:00",
 		"year": "2024",
-		"rank": "4.89",
-		"url": "https://www.linkedin.com/learning/building-a-scalable-monorepo-with-javascript-and-typescript",
-		"title": "Building a Scalable Monorepo with JavaScript and TypeScript",
-		"description": "looks like a quick deep dive in monorepos",
+		"rank": "4.99",
+		"url": "https://www.linkedin.com/learning/next-js-creating-and-hosting-a-full-stack-site/create-a-full-stack-site-with-next-js",
+		"title": "Next.js: Creating and Hosting a Full-Stack Site",
+		"description": "Shaun Wassell, looks like an excellent, long course using Next.js version 14.2.8, hosts on Vercel",
 		"platform": "linkedInLearning",
-		"fileIdCode": "en-ll-testing",
-		"status": "not yet started"
+		"fileIdCode": "testing",
+		"status": "watched intro videos"
 	}
 ]
