@@ -10,12 +10,13 @@
 
 	{#each store.flashcards as flashcard}
 		<div class="mb-6 w-fit">
-			<p class={`front rounded-t-md bg-slate-400 px-3 py-2 front-lang-${flashcard.language}`}>
+			<div class={`front rounded-t-md bg-slate-400 px-3 py-2 front-lang-${flashcard.language}`}>
 				{flashcard.front}
-			</p>
-			<p class={`back rounded-b-md bg-slate-500 px-3 py-2 back-lang-${flashcard.language}`}>
-				{flashcard.back}
-			</p>
+			</div>
+			<div class={`back rounded-b-md bg-slate-500 px-3 py-2 back-lang-${flashcard.language}`}>
+				<p>{flashcard.back}</p>
+				<p class="text-xs italic text-gray-400">nnn</p>
+			</div>
 		</div>
 	{/each}
 </div>
