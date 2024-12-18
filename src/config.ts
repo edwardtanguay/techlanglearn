@@ -41,7 +41,8 @@ export const categories = (): Category[] => {
 				'mux',
 				'laravel',
 				'cypress',
-				'playwright'
+				'playwright',
+				'trpc'
 			],
 			description: 'technology that might be needed for future jobs'
 		},

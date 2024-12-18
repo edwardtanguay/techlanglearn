@@ -221,6 +221,19 @@
 		"status": "finished"
 	},
 	{
+		"topics": "trpc",
+		"language": "en",
+		"duration": "00:45:35",
+		"year": "2023",
+		"rank": "4.87",
+		"url": "https://www.youtube.com/watch?v=UfUbBWIFdJs\u0026t=82s",
+		"title": "Learn tRPC In 45 Minutes",
+		"description": "by Kyle, looks like a solid explanation under an hour",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-learn-trpc-in-45-minutes",
+		"status": ""
+	},
+	{
 		"topics": "python",
 		"language": "en",
 		"duration": "00:09:04",
