@@ -177,6 +177,10 @@ func getFlashcardsFromFile(lines []string) ([]Flashcard, error) {
 		language = "it"
 	}
 
+	if softIncludes(restOfLine, "french") {
+		language = "fr"
+	}
+
 	// define vocabLines (only the text of the flashcards themselves)
 	vocabLines := vocabBlockLines[1:] // remove first line (language heading)
 	vocabLines = removeAllLinesWithMarker(vocabLines, "```")

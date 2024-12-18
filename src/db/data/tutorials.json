@@ -496,14 +496,14 @@
 	{
 		"topics": "laravel",
 		"language": "fr",
-		"duration": "02:22:00",
-		"year": "2022",
-		"rank": "4.71",
-		"url": "https://www.linkedin.com/learning/l-essentiel-de-laravel-9",
-		"title": "L'essentiel de Laravel 9",
-		"description": "Julian Layen, long course on Laravel in French",
+		"duration": "02:33:00",
+		"year": "2024",
+		"rank": "4.88",
+		"url": "https://www.linkedin.com/learning/l-essentiel-de-laravel",
+		"title": "L'essentiel de Laravel",
+		"description": "Julian Layen teaches this, comprehensive, uses Laravel 10 released Feb 2023, version 11 was release Mar 2024, but this is a new, long course in French",
 		"platform": "linkedInLearning",
-		"fileIdCode": "fr-ll-lessentiel-de-laravel-9",
+		"fileIdCode": "fr-ll-lessentiel-de-laravel",
 		"status": ""
 	},
 	{

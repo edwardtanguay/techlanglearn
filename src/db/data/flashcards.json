@@ -3519,5 +3519,47 @@
 		"back": "dejar de usar patrones innecesariamente complejos",
 		"whenCreated": "2024-12-01 00:00:00",
 		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "if you want to make your deployments easier",
+		"back": "si vous souhaitez faciliter vos déploiements",
+		"whenCreated": "2024-12-18 09:25:31",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "the development of business applications",
+		"back": "le développement d'applications métier",
+		"whenCreated": "2024-12-18 09:24:01",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "it is strongly recommended to have prior knowledge of GitHub",
+		"back": "il est vivement recommandé de connaître préalable GitHub",
+		"whenCreated": "2024-12-18 09:22:14",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "note however that in order to approach this training",
+		"back": "notez toutefois qu'afin d'aborder cette formation",
+		"whenCreated": "2024-12-18 09:18:57",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "the implementation of tools",
+		"back": "la mise en place d'outils",
+		"whenCreated": "2024-12-18 09:13:10",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "this in order to make your projects more reliable",
+		"back": "cela afin de fiabiliser vos projets",
+		"whenCreated": "2024-12-18 09:16:07",
+		"extras": ""
 	}
 ]

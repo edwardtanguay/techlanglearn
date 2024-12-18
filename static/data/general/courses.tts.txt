@@ -1,3 +1,11 @@
+- ****
+- videos on tech video production and editing
+- capcut.com
+- https://www.youtube.com/results?search_query=capcut+video+editing
+- divinci resolve
+- https://www.youtube.com/results?search_query=divinci+video+editing
+
+
 
 - pycharm
 - https://www.linkedin.com/learning/learning-python-with-pycharm-14509667/software-development-and-pycharm
@@ -20,12 +28,6 @@ accessibility; en; 2024; https://www.linkedin.com/learning/web-accessibility-for
 
 - forays
 - ant design: https://ant.design/components/overview/
-
-- videos on tech video production and editing
-- capcut.com
-- https://www.youtube.com/results?search_query=capcut+video+editing
-- divinci resolve
-- https://www.youtube.com/results?search_query=divinci+video+editing
 
 - python, do all of Ana María's courses: https://www.linkedin.com/learning/instructors/ana-maria-pinto
 
@@ -277,9 +279,8 @@ CREATED: python;en;02:21:00;2024;4.81;https://www.linkedin.com/learning/skill-up
 CREATED: laravel;en;03:14:00;2024;4.77;https://www.linkedin.com/learning/laravel-essential-training; Laravel Essential Training ;Laravel 11 created late 2024, woman teacher from India with understandable accent, comprehensive, would be good for latest basics of Laravel
 CREATED: git;en;02:37:00;2023;4.93;https://www.linkedin.com/learning/git-for-teams/using-git-for-team-collaboration;  Git for Teams ; Kevin Bowersox, lots of good tips for teams, Gitlab installation, secrets, Git flow, GitLab Runner, CI pipeline, cherry-picking, squashing, reverting
 CREATED: trpc;en;00:45:35;2023;4.87;https://www.youtube.com/watch?v=UfUbBWIFdJs&t=82s; Learn tRPC In 45 Minutes ; by Kyle, looks like a solid explanation under an hour
-
 CREATED: playwright;en;02:41:00;2024;4.83;https://www.linkedin.com/learning/learning-playwright;  Learning Playwright ; looks like a decent introduction course, also API testing
 CREATED: kotlin;sp;04:52:00;2022;4.89; https://www.linkedin.com/learning/kotlin-esencial;Kotlin esencial; very long course on the basics; nice spanish voice, she has many courses on kotlin, she uses IntelliJ IDEA (has free version)
-
->>creat>>TECH;LANG;TIME;YEAR;RANK;URL;TITLE;DESC
 CREATED: githubActions;fr;02:03:00;2023;4.44;https://www.linkedin.com/learning/l-essentiel-de-github-actions/bienvenue-dans-l-essentiel-de-github-actions; L'essentiel de GitHub Actions ; long and solid course in French
+CREATED: laravel;fr;02:33:00;2024;4.88;https://www.linkedin.com/learning/l-essentiel-de-laravel; L'essentiel de Laravel ;Julian Layen teaches this, comprehensive, uses Laravel 10 released Feb 2023, version 11 was release Mar 2024, but this is a new, long course in French
+>>creat>>TECH;LANG;TIME;YEAR;RANK;URL;TITLE;DESC

@@ -5,6 +5,9 @@
 	.front-lang-it {
 		border-bottom: 3px solid rgb(14, 99, 14);
 	}
+	.front-lang-fr {
+		border-bottom: 3px solid navy;
+	}
 	.back {
 		background-color: #fff;
 		border-left: 1px solid #bbb;
@@ -18,5 +21,9 @@
 	
 	.back-lang-it {
 		color: green;
+	}
+
+	.back-lang-fr {
+		color: navy;
 	}
 }
