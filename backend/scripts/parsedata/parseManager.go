@@ -189,14 +189,19 @@ func getFlashcardsFromFile(lines []string) ([]Flashcard, error) {
 			WhenCreated: "",
 			Extras:      "",
 		}
+
+		// whenCreated
 		if lineBlock[2] != "" {
 			flashcard.WhenCreated = lineBlock[2]
 		} else {
 			flashcard.WhenCreated = config.DefaultWhenCreated
 		}
-		if lineBlock[3] != "" {
-			flashcard.WhenCreated = lineBlock[2]
+
+		// transfer extras from back to extras
+		if strings.Contains(flashcard.Back, ";") {
+			flashcard.Extras = getRestOfLine(flashcard.Back, ";")
 		}
+
 		flashcards = append(flashcards, flashcard)
 	}
 
