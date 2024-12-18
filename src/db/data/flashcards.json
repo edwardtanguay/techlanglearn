@@ -2297,6 +2297,41 @@
 	},
 	{
 		"language": "es",
+		"front": "that we are labeling",
+		"back": "que estamos etiquetando",
+		"whenCreated": "2024-12-18 10:47:08",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "we are going to use the \"id\" key",
+		"back": "vamos a usar la llave \"id\"",
+		"whenCreated": "2024-12-18 10:45:12",
+		"extras": "pr=JAW-veh"
+	},
+	{
+		"language": "es",
+		"front": "and no longer belongs to the default section",
+		"back": "y que ya no pertenece a la sección default",
+		"whenCreated": "2024-12-18 10:37:56",
+		"extras": "pr=ee-kay-JAW-noh"
+	},
+	{
+		"language": "es",
+		"front": "along with attribute we just defined",
+		"back": "junto con atributo que acabamos de definir",
+		"whenCreated": "2024-12-18 10:24:32",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "with the help of tags",
+		"back": "con la ayuda de los tags",
+		"whenCreated": "2024-12-18 10:14:06",
+		"extras": ""
+	},
+	{
+		"language": "es",
 		"front": "the quotation marks and the commas",
 		"back": "las comillas y las comas",
 		"whenCreated": "2024-12-17 19:08:56",

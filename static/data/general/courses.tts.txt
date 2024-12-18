@@ -1,3 +1,4 @@
+- excellent teacher, lots of courses, Joe Marini: https://www.linkedin.com/learning/instructors/joe-marini
 - ****
 - videos on tech video production and editing
 - capcut.com
@@ -283,4 +284,21 @@ CREATED: playwright;en;02:41:00;2024;4.83;https://www.linkedin.com/learning/lear
 CREATED: kotlin;sp;04:52:00;2022;4.89; https://www.linkedin.com/learning/kotlin-esencial;Kotlin esencial; very long course on the basics; nice spanish voice, she has many courses on kotlin, she uses IntelliJ IDEA (has free version)
 CREATED: githubActions;fr;02:03:00;2023;4.44;https://www.linkedin.com/learning/l-essentiel-de-github-actions/bienvenue-dans-l-essentiel-de-github-actions; L'essentiel de GitHub Actions ; long and solid course in French
 CREATED: laravel;fr;02:33:00;2024;4.88;https://www.linkedin.com/learning/l-essentiel-de-laravel; L'essentiel de Laravel ;Julian Layen teaches this, comprehensive, uses Laravel 10 released Feb 2023, version 11 was release Mar 2024, but this is a new, long course in French
->>creat>>TECH;LANG;TIME;YEAR;RANK;URL;TITLE;DESC
+CREATED: go;en;04:36:00;2024;4.85;https://www.linkedin.com/learning/go-for-developers-practical-techniques-for-effective-coding; Go for Developers: Practical Techniques for Effective Coding ;a basic course but extensive, just listen and take notes over a month or so
+CREATED: go;en;00:47:00;2024;4.91;https://www.linkedin.com/learning/writing-command-line-applications-in-go; Writing Command Line Applications in Go ;short course by Mike Tebeka, looks like he doesn't use any kind of framework like Cobra, etc.
+CREATED: go;en;00:42:00;2023;4.87;https://www.linkedin.com/learning/generics-in-go/function-argument-type-inference; Generics in Go ;teacher is a bit difficult to understand but a shorter course and good overview of generics
+CREATED: go;en;01:36:00;2022;4.83;https://www.linkedin.com/learning/level-up-go;Level Up: Go;Short tasks to think about and then see the solution, e.g. recursion, etc., looks useful, teacher not native speaker but decent explanations
+CREATED: go;en;01:12:00;2023;4.92;https://www.linkedin.com/learning/go-performance-optimization; Go Performance Optimization ;Mike Tebeka, deep concepts, good course
+CREATED: go;en;01:22:00;2023;4.98;https://www.linkedin.com/learning/go-recipes-practical-projects; Go Recipes: Practical Projects ;more of a basic course, but Mike Tebeka, good explanations and mux, sync.Once, authentication, etc
+CREATED: go;en;00:55:00;2024;4.82;https://www.linkedin.com/learning/deep-dive-into-go-lang-interfaces; Deep Dive Into Go Lang Interfaces ;deeper course, good to watch through and let the concepts sink in
+CREATED: go;en;01:25:00;2021;4.96;https://www.linkedin.com/learning/go-design-patterns; Go Design Patterns ;Joe Marini, quality course, all the patterns from OOP
+CREATED: python;en;01:55:00;2023;4.93;https://www.linkedin.com/learning/python-object-oriented-programming-22888296; Python Object-Oriented Programming ;Joe Marini, good course, in depth with OOP for Python
+CREATED: python;en;02:05:00;2024;4.89;https://www.linkedin.com/learning/advanced-python-working-with-data; Advanced Python: Working With Data ;Joe Marini, watch quickly but all about data serialization, etc.
+
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+
+
+

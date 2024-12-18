@@ -1,5 +1,18 @@
 [
 	{
+		"topics": "python",
+		"language": "en",
+		"duration": "02:05:00",
+		"year": "2024",
+		"rank": "4.89",
+		"url": "https://www.linkedin.com/learning/advanced-python-working-with-data",
+		"title": "Advanced Python: Working With Data",
+		"description": "Joe Marini, watch quickly but all about data serialization, etc.",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-advanced-python-working-with-data",
+		"status": ""
+	},
+	{
 		"topics": "monorepos",
 		"language": "en",
 		"duration": "00:55:00",
@@ -65,6 +78,19 @@
 		"status": "not yet started"
 	},
 	{
+		"topics": "go",
+		"language": "en",
+		"duration": "00:55:00",
+		"year": "2024",
+		"rank": "4.82",
+		"url": "https://www.linkedin.com/learning/deep-dive-into-go-lang-interfaces",
+		"title": "Deep Dive Into Go Lang Interfaces",
+		"description": "deeper course, good to watch through and let the concepts sink in",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-deep-dive-into-go-lang-interfaces",
+		"status": ""
+	},
+	{
 		"topics": "cypress",
 		"language": "en",
 		"duration": "02:06:00",
@@ -104,6 +130,19 @@
 		"status": ""
 	},
 	{
+		"topics": "go",
+		"language": "en",
+		"duration": "00:42:00",
+		"year": "2023",
+		"rank": "4.87",
+		"url": "https://www.linkedin.com/learning/generics-in-go/function-argument-type-inference",
+		"title": "Generics in Go",
+		"description": "teacher is a bit difficult to understand but a shorter course and good overview of generics",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-generics-in-go",
+		"status": ""
+	},
+	{
 		"topics": "git",
 		"language": "en",
 		"duration": "02:37:00",
@@ -114,6 +153,58 @@
 		"description": "Kevin Bowersox, lots of good tips for teams, Gitlab installation, secrets, Git flow, GitLab Runner, CI pipeline, cherry-picking, squashing, reverting",
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-git-for-teams",
+		"status": ""
+	},
+	{
+		"topics": "go",
+		"language": "en",
+		"duration": "01:25:00",
+		"year": "2021",
+		"rank": "4.96",
+		"url": "https://www.linkedin.com/learning/go-design-patterns",
+		"title": "Go Design Patterns",
+		"description": "Joe Marini, quality course, all the patterns from OOP",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-go-design-patterns",
+		"status": ""
+	},
+	{
+		"topics": "go",
+		"language": "en",
+		"duration": "04:36:00",
+		"year": "2024",
+		"rank": "4.85",
+		"url": "https://www.linkedin.com/learning/go-for-developers-practical-techniques-for-effective-coding",
+		"title": "Go for Developers: Practical Techniques for Effective Coding",
+		"description": "a basic course but long and comprehensive, just listen and take notes over a month or so",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-go-for-developers-practical-techniques-for-effective-coding",
+		"status": ""
+	},
+	{
+		"topics": "go",
+		"language": "en",
+		"duration": "01:12:00",
+		"year": "2023",
+		"rank": "4.92",
+		"url": "https://www.linkedin.com/learning/go-performance-optimization",
+		"title": "Go Performance Optimization",
+		"description": "Mike Tebeka, deep concepts, good course",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-go-performance-optimization",
+		"status": ""
+	},
+	{
+		"topics": "go",
+		"language": "en",
+		"duration": "01:22:00",
+		"year": "2023",
+		"rank": "4.98",
+		"url": "https://www.linkedin.com/learning/go-recipes-practical-projects",
+		"title": "Go Recipes: Practical Projects",
+		"description": "an intermediate course with review of basics, but Mike Tebeka, good explanations and mux, sync.Once, authentication, etc",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-go-recipes-practical-projects",
 		"status": ""
 	},
 	{
@@ -156,6 +247,19 @@
 		"status": "watched first 2 videos, fringe and no-code but interesting"
 	},
 	{
+		"topics": "go",
+		"language": "en",
+		"duration": "01:36:00",
+		"year": "2022",
+		"rank": "4.83",
+		"url": "https://www.linkedin.com/learning/level-up-go",
+		"title": "Level Up: Go",
+		"description": "Short tasks to think about and then see the solution, e.g. recursion, etc., looks useful, teacher not native speaker but decent explanations",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-level-up-go",
+		"status": ""
+	},
+	{
 		"topics": "nextjs, mongo",
 		"language": "en",
 		"duration": "03:54:00",
@@ -167,6 +271,19 @@
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-nextjs-creating-and-hosting-a-fullstack-site",
 		"status": "watched intro videos"
+	},
+	{
+		"topics": "python",
+		"language": "en",
+		"duration": "01:55:00",
+		"year": "2023",
+		"rank": "4.93",
+		"url": "https://www.linkedin.com/learning/python-object-oriented-programming-22888296",
+		"title": "Python Object-Oriented Programming",
+		"description": "Joe Marini, good course, in depth with OOP for Python",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-python-objectoriented-programming",
+		"status": ""
 	},
 	{
 		"topics": "python, pycharm, jupyter",
@@ -192,6 +309,19 @@
 		"description": "Shaun Wassell teaches practical Python with projects",
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-skill-up-with-python-handson-data-science-and-machine-learning-projects",
+		"status": ""
+	},
+	{
+		"topics": "go",
+		"language": "en",
+		"duration": "00:47:00",
+		"year": "2024",
+		"rank": "4.91",
+		"url": "https://www.linkedin.com/learning/writing-command-line-applications-in-go",
+		"title": "Writing Command Line Applications in Go",
+		"description": "short course by Mike Tebeka, looks like he doesn't use any kind of framework like Cobra, etc.",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-writing-command-line-applications-in-go",
 		"status": ""
 	},
 	{
