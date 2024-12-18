@@ -6,7 +6,7 @@ https://www.linkedin.com/learning/go-performance-optimization
 - language: en
 - topics: go
 - rank: 4.92
-- description: Mike Tebeka, deep concepts, good course
+- description: Miki Tebeka, deep concepts, good course
 - year: 2023
 
 ## TITLE, TIME, nnn

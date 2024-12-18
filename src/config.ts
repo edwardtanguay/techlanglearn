@@ -10,8 +10,8 @@ export const categories = (): Category[] => {
 		},
 		{
 			idCode: 'retro',
-			name: 'old tech',
-			topics: ['vba', 'php', 'perl', 'java', 'googleSheets', 'regex'],
+			name: 'retro tech',
+			topics: ['vba', 'php', 'perl', 'java', 'googleSheets', 'regex', 'canvas'],
 			description: 'technology that reminds me of developing back in the day'
 		},
 		{

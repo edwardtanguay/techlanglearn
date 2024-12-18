@@ -6,7 +6,7 @@ https://www.linkedin.com/learning/go-recipes-practical-projects
 - language: en
 - topics: go
 - rank: 4.98
-- description: an intermediate course with review of basics, but Mike Tebeka, good explanations and mux, sync.Once, authentication, etc
+- description: an intermediate course with review of basics, but Miki Tebeka, good explanations and mux, sync.Once, authentication, etc
 - year: 2023
 
 ## TITLE, TIME, nnn
