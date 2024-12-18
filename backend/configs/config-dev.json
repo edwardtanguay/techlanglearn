@@ -1,5 +1,5 @@
 {
 	"tutorialFilesDirectory": "static/data",
-	"webDataDirectory": "src/data"
-
+	"webDataDirectory": "src/db/data",
+	"defaultWhenCreated": "2024-12-01 00:00:00"
 }

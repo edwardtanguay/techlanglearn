@@ -1,13 +1,20 @@
 import type { Flashcard, PageStatus } from './types';
-import * as dataModel from './dataModel';
+import * as dataModel from './db/dataModel';
 import { getRandomItemsFromArray } from './tools';
 
 // values
 const siteLocation = import.meta.env.VITE_SITE_LOCATION === 'dev' ? 'dev' : 'online';
 let pageStatus: PageStatus = $state('ready');
-let errorMessage = $state('');
-const flashcards = $state(dataModel.getFlashcards());
+const flashcards = $state(dataModel.getFlashcards().sort((a,b) => a.whenCreated < b.whenCreated ? 1 : -1));
 const tutorials = $state(dataModel.getTutorials());
+
+// errorMessage
+// TODO: pass through full array of errors, not just number
+let errorMessage = $state(
+	dataModel.numberOfErrors !== 0
+		? `Number of import errors: ${dataModel.numberOfErrors} (see browser console)`
+		: ''
+);
 
 // computed values
 const randomFlashcards = $state(getRandomItemsFromArray(flashcards, 3));

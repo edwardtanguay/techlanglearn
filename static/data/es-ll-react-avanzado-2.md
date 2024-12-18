@@ -3,7 +3,7 @@
 https://www.linkedin.com/learning/react-avanzado-2
 
 - duration: 02:27:00
-- language: sp
+- language: es
 - topics: react, monorepos
 - rank: 4.88
 - description: monorepos, nx, storybook, testing, patterns, GitHub Actions, 70% useful
@@ -35,7 +35,7 @@ https://www.linkedin.com/learning/react-avanzado-2/nx-y-mono-repositorios?autoSk
 - there is also nx console
 - `nx run admin:serve`
 
-##  Organización por librerías en React, 5:19, nnn
+## Organización por librerías en React, 5:19, nnn
 
 https://www.linkedin.com/learning/react-avanzado-2/organizacion-por-librerias-en-react?autoSkip=true&resume=false
 

@@ -3,7 +3,7 @@
 https://www.linkedin.com/learning/domina-go-creacion-y-empaquetado-de-aplicaciones
 
 - duration: 00:34:00
-- language: sp
+- language: es
 - topics: go
 - rank: 4.6
 - description: finished this one, short, useful

@@ -3,7 +3,7 @@
 https://www.linkedin.com/learning/domina-python-fastapi
 
 - duration: 01:24:00
-- language: sp
+- language: es
 - topics: python, fastapi
 - rank: 4.9
 - description: looks interesting, in Spanish, good way to learn practical Python
@@ -220,7 +220,7 @@ todo.py
 - app.include_router(todo.router)
 - goes to Swagger
 
-## Master Python: FastAPI, 4:59, nnn
+## Tags para separar los endpoints y los routers en swagger, 4:59, nnn
 
 https://www.linkedin.com/learning/domina-python-fastapi/tags-para-separar-los-endpoints-y-los-routers-en-swagger?autoSkip=true&resume=false
 

@@ -156,50 +156,57 @@ func convertToIntervalTimes(timeUnits []TimeUnit) ([]TimeUnit, error) {
 
 func getFlashcardsFromFile(lines []string) ([]Flashcard, error) {
 
-	foundFirstBackticks := false
-	foundVocab := false
+	config, _ := LoadConfig()
+
 	flashcards := []Flashcard{}
-	flashcardLines := []string{}
+	language := ""
+	marker := "## VOCAB"
 
-	// get slice of all lines that have to do with flashcards
-	for _, rawLine := range lines {
-		line := strings.TrimSpace(rawLine)
-		if foundVocab && foundFirstBackticks {
-			if (len(flashcardLines) == 0 && line == "") || line == "```" {
-				// don't save
-			} else {
-				flashcardLines = append(flashcardLines, line)
-			}
-		}
-		if strings.Contains(line, "## VOCAB") {
-			foundVocab = true
-		}
-		if strings.Contains(line, "```") {
-			foundFirstBackticks = true
-		}
+	// get all lines in the general vocab block (currently at end of file)
+	vocabBlockLines := getLinesFromMarkerToEnd(lines, marker)
+
+	// define the language from the first line
+	if len(vocabBlockLines) == 0 {
+		return flashcards, nil
+	}
+	restOfLine := getRestOfLine(vocabBlockLines[0], marker)
+	if softIncludes(restOfLine, "spanish") {
+		language = "es"
+	}
+	if softIncludes(restOfLine, "italian") {
+		language = "it"
 	}
 
-	// create slice of flashcard instances
-	processingLineType := "front"
-	front := ""
-	back := ""
-	for _, flashcardLine := range flashcardLines {
-		switch processingLineType {
-		case "front":
-			front = flashcardLine
-			processingLineType = "back"
-		case "back":
-			back = flashcardLine
-			processingLineType = "BLANK"
-		case "BLANK":
-			flashcards = append(flashcards, Flashcard{front, back})
-			processingLineType = "front"
-		}
-	}
+	// define vocabLines (only the text of the flashcards themselves)
+	vocabLines := vocabBlockLines[1:] // remove first line (language heading)
+	vocabLines = removeAllLinesWithMarker(vocabLines, "```")
 
-	// if there were no cards but a marker was saved, then fix it
-	if len(flashcards) == 1 && flashcards[0].Back == "```" {
-		println(111, "delete this")
+	lineBlocks := getLineBlocksFromLines(vocabLines)
+
+	for _, lineBlock := range lineBlocks {
+		lineBlock = padLineBlock(lineBlock, 4)
+		flashcard := Flashcard{
+			Language:    language,
+			Front:       lineBlock[0],
+			Back:        lineBlock[1],
+			WhenCreated: "",
+			Extras:      "",
+		}
+
+		// whenCreated
+		if lineBlock[2] != "" {
+			flashcard.WhenCreated = lineBlock[2]
+		} else {
+			flashcard.WhenCreated = config.DefaultWhenCreated
+		}
+
+		// transfer extras from back to extras
+		if strings.Contains(flashcard.Back, ";") {
+			flashcard.Extras = getRestOfLine(flashcard.Back, ";")
+			flashcard.Back = deleteRestAtMarker(flashcard.Back, ";")
+		}
+
+		flashcards = append(flashcards, flashcard)
 	}
 
 	return flashcards, nil
@@ -207,34 +214,37 @@ func getFlashcardsFromFile(lines []string) ([]Flashcard, error) {
 
 func fillInZeroDays(timeUnits []TimeUnit) []TimeUnit {
 
-	layout := "2006-01-02"
-	sort.Slice(timeUnits, func(i, j int) bool {
-		date1, _ := time.Parse(layout, timeUnits[i].CalendarDate)
-		date2, _ := time.Parse(layout, timeUnits[j].CalendarDate)
-		return date1.Before(date2)
-	})
-
-	startDate, _ := time.Parse(layout, timeUnits[0].CalendarDate)
-	endDate, _ := time.Parse(layout, timeUnits[len(timeUnits)-1].CalendarDate)
-
-	dateMap := make(map[string]TimeUnit)
-	for _, unit := range timeUnits {
-		dateMap[unit.CalendarDate] = unit
-	}
-
 	var filledTimeUnits []TimeUnit
-	for date := startDate; !date.After(endDate); date = date.AddDate(0, 0, 1) {
-		dateStr := date.Format(layout)
-		if unit, exists := dateMap[dateStr]; exists {
-			filledTimeUnits = append(filledTimeUnits, unit)
-		} else {
-			filledTimeUnits = append(filledTimeUnits, TimeUnit{
-				CalendarDate: dateStr,
-				Duration:     "00:00:00",
-			})
-		}
-	}
+	if len(timeUnits) > 0 {
 
+		layout := "2006-01-02"
+		sort.Slice(timeUnits, func(i, j int) bool {
+			date1, _ := time.Parse(layout, timeUnits[i].CalendarDate)
+			date2, _ := time.Parse(layout, timeUnits[j].CalendarDate)
+			return date1.Before(date2)
+		})
+
+		startDate, _ := time.Parse(layout, timeUnits[0].CalendarDate)
+		endDate, _ := time.Parse(layout, timeUnits[len(timeUnits)-1].CalendarDate)
+
+		dateMap := make(map[string]TimeUnit)
+		for _, unit := range timeUnits {
+			dateMap[unit.CalendarDate] = unit
+		}
+
+		for date := startDate; !date.After(endDate); date = date.AddDate(0, 0, 1) {
+			dateStr := date.Format(layout)
+			if unit, exists := dateMap[dateStr]; exists {
+				filledTimeUnits = append(filledTimeUnits, unit)
+			} else {
+				filledTimeUnits = append(filledTimeUnits, TimeUnit{
+					CalendarDate: dateStr,
+					Duration:     "00:00:00",
+				})
+			}
+		}
+
+	}
 	return filledTimeUnits
 }
 

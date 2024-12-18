@@ -3,7 +3,7 @@
 https://www.linkedin.com/learning/gitlab-esencial
 
 - duration: 03:11:00
-- language: sp
+- language: es
 - topics: gitlab
 - rank: 2.3
 - description: a solid, long course in Spanish but unfortunately very old (2016) and too out of date so discontinued

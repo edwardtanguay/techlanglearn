@@ -3,11 +3,15 @@ package main
 type Config struct {
 	TutorialFilesDirectory string `json:"tutorialFilesDirectory"`
 	WebDataDirectory       string `json:"webDataDirectory"`
+	DefaultWhenCreated       string `json:"defaultWhenCreated"`
 }
 
 type Flashcard struct {
-	Front string `json:"front"`
-	Back  string `json:"back"`
+	Language    string `json:"language"`
+	Front       string `json:"front"`
+	Back        string `json:"back"`
+	WhenCreated string `json:"whenCreated"`
+	Extras      string `json:"extras"`
 }
 
 type TimeUnit struct {

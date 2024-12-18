@@ -1,6 +1,5 @@
 <script lang="ts">
 	import { page } from '$app/stores';
-	import FlashcardArea from '../components/FlashcardArea.svelte';
 	import StatsArea from '../components/StatsArea/StatsArea.svelte';
 	import { getStore } from '../store.svelte';
 	import './styles.scss';
@@ -8,14 +7,8 @@
 	const store = getStore();
 </script>
 
-{#if store.pageStatus === 'loading'}
-	<div class="overlay">
-		<div class="overlay-text">Parsing data...</div>
-	</div>
-{/if}
-<main id="vocab" class={store.pageStatus === 'loading' ? 'blurArea' : ''}>
+<main id="vocab">
 	{#if ['ready', 'loading'].includes(store.pageStatus)}
-		<FlashcardArea />
 		<StatsArea />
 		<div class="markdown-tutorial">
 			{@html $page.data.htmlContent}

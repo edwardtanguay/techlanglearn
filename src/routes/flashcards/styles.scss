@@ -1,0 +1,22 @@
+.area_flashcard {
+	.front-lang-es {
+		border-bottom: 3px solid rgb(165, 73, 73);
+	}
+	.front-lang-it {
+		border-bottom: 3px solid rgb(14, 99, 14);
+	}
+	.back {
+		background-color: #fff;
+		border-left: 1px solid #bbb;
+		border-right: 1px solid #bbb;
+		border-bottom: 1px solid #bbb;
+	}
+
+	.back-lang-es {
+		color: red;
+	}
+	
+	.back-lang-it {
+		color: green;
+	}
+}

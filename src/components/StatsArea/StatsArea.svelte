@@ -1,5 +1,5 @@
 <script lang="ts">
-	import * as dataModel from '../../dataModel';
+	import * as dataModel from '../../db/dataModel';
 	import './styles.scss';
 
 	const stats = dataModel.getStats();

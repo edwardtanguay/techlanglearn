@@ -3,7 +3,7 @@
 https://www.linkedin.com/learning/docker-esencial-23119241
 
 - duration: 02:34:00
-- language: sp
+- language: es
 - topics: docker
 - rank: 4.31
 - description: Spanish, in depth Docker
@@ -17,4 +17,5 @@ https://www.linkedin.com/learning/docker-esencial-23119241
 ## VOCAB - SPANISH
 
 ```
+
 ```
