@@ -220,15 +220,43 @@ todo.py
 - app.include_router(todo.router)
 - goes to Swagger
 
-## Tags para separar los endpoints y los routers en swagger, 4:59, nnn
+## Tags para separar los endpoints y los routers en swagger, 4:59, 2024-12-18
 
 https://www.linkedin.com/learning/domina-python-fastapi/tags-para-separar-los-endpoints-y-los-routers-en-swagger?autoSkip=true&resume=false
+
+- Swagger uses tags
+- created enums, works well
+- everything worked except the openapi_tags
+
+## SQLAlchemy para conexión a una base de datos SQL en FastAPI, 7:18, nnn
+
+https://www.linkedin.com/learning/domina-python-fastapi/sqlalchemy-para-conexion-a-una-base-de-datos-sql-en-fastapi?autoSkip=true&resume=false
 
 - nnn
 
 ## VOCAB - SPANISH
 
 ```
+that we are labeling
+que estamos etiquetando
+2024-12-18 10:47:08
+
+we are going to use the "id" key
+vamos a usar la llave "id";pr=JAW-veh
+2024-12-18 10:45:12
+
+and no longer belongs to the default section
+y que ya no pertenece a la sección default;pr=ee-kay-JAW-noh
+2024-12-18 10:37:56
+
+along with attribute we just defined
+junto con atributo que acabamos de definir
+2024-12-18 10:24:32
+
+with the help of tags
+con la ayuda de los tags
+2024-12-18 10:14:06
+
 the quotation marks and the commas
 las comillas y las comas
 2024-12-17 19:08:56
