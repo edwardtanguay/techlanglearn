@@ -166,6 +166,9 @@ func getFlashcardsFromFile(lines []string) ([]Flashcard, error) {
 	vocabBlockLines := getLinesFromMarkerToEnd(lines, marker)
 
 	// define the language from the first line
+	if len(vocabBlockLines) == 0 {
+		return flashcards, nil
+	}
 	restOfLine := getRestOfLine(vocabBlockLines[0], marker)
 	if softIncludes(restOfLine, "spanish") {
 		language = "es"

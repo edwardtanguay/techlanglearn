@@ -1,11 +1,211 @@
 {
-	"totalDays": 1,
-	"averageDurationPerDay": "00:05:39",
-	"totalDuration": "00:05:39",
+	"totalDays": 51,
+	"averageDurationPerDay": "00:08:48",
+	"totalDuration": "07:28:59",
 	"timeUnits": [
 		{
 			"calendarDate": "2024-12-17",
-			"duration": "00:05:39"
+			"duration": "00:11:21"
+		},
+		{
+			"calendarDate": "2024-12-16",
+			"duration": "00:06:21"
+		},
+		{
+			"calendarDate": "2024-12-15",
+			"duration": "00:09:34"
+		},
+		{
+			"calendarDate": "2024-12-14",
+			"duration": "00:07:37"
+		},
+		{
+			"calendarDate": "2024-12-13",
+			"duration": "00:00:00"
+		},
+		{
+			"calendarDate": "2024-12-12",
+			"duration": "00:15:17"
+		},
+		{
+			"calendarDate": "2024-12-11",
+			"duration": "00:04:04"
+		},
+		{
+			"calendarDate": "2024-12-10",
+			"duration": "00:19:37"
+		},
+		{
+			"calendarDate": "2024-12-09",
+			"duration": "00:03:15"
+		},
+		{
+			"calendarDate": "2024-12-08",
+			"duration": "00:02:10"
+		},
+		{
+			"calendarDate": "2024-12-07",
+			"duration": "00:03:28"
+		},
+		{
+			"calendarDate": "2024-12-06",
+			"duration": "00:00:00"
+		},
+		{
+			"calendarDate": "2024-12-05",
+			"duration": "00:02:25"
+		},
+		{
+			"calendarDate": "2024-12-04",
+			"duration": "00:02:01"
+		},
+		{
+			"calendarDate": "2024-12-03",
+			"duration": "00:06:08"
+		},
+		{
+			"calendarDate": "2024-12-02",
+			"duration": "00:00:00"
+		},
+		{
+			"calendarDate": "2024-12-01",
+			"duration": "00:01:50"
+		},
+		{
+			"calendarDate": "2024-11-30",
+			"duration": "00:00:00"
+		},
+		{
+			"calendarDate": "2024-11-29",
+			"duration": "00:12:02"
+		},
+		{
+			"calendarDate": "2024-11-28",
+			"duration": "00:02:56"
+		},
+		{
+			"calendarDate": "2024-11-27",
+			"duration": "00:08:09"
+		},
+		{
+			"calendarDate": "2024-11-26",
+			"duration": "00:07:44"
+		},
+		{
+			"calendarDate": "2024-11-25",
+			"duration": "00:06:34"
+		},
+		{
+			"calendarDate": "2024-11-24",
+			"duration": "00:08:38"
+		},
+		{
+			"calendarDate": "2024-11-23",
+			"duration": "00:09:37"
+		},
+		{
+			"calendarDate": "2024-11-22",
+			"duration": "00:37:40"
+		},
+		{
+			"calendarDate": "2024-11-21",
+			"duration": "00:21:11"
+		},
+		{
+			"calendarDate": "2024-11-20",
+			"duration": "00:12:18"
+		},
+		{
+			"calendarDate": "2024-11-19",
+			"duration": "00:05:25"
+		},
+		{
+			"calendarDate": "2024-11-18",
+			"duration": "00:05:33"
+		},
+		{
+			"calendarDate": "2024-11-17",
+			"duration": "00:03:47"
+		},
+		{
+			"calendarDate": "2024-11-16",
+			"duration": "00:02:36"
+		},
+		{
+			"calendarDate": "2024-11-15",
+			"duration": "00:14:05"
+		},
+		{
+			"calendarDate": "2024-11-14",
+			"duration": "00:03:22"
+		},
+		{
+			"calendarDate": "2024-11-13",
+			"duration": "00:02:59"
+		},
+		{
+			"calendarDate": "2024-11-12",
+			"duration": "00:19:25"
+		},
+		{
+			"calendarDate": "2024-11-11",
+			"duration": "00:12:40"
+		},
+		{
+			"calendarDate": "2024-11-10",
+			"duration": "00:21:43"
+		},
+		{
+			"calendarDate": "2024-11-09",
+			"duration": "00:20:24"
+		},
+		{
+			"calendarDate": "2024-11-08",
+			"duration": "00:00:00"
+		},
+		{
+			"calendarDate": "2024-11-07",
+			"duration": "00:02:40"
+		},
+		{
+			"calendarDate": "2024-11-06",
+			"duration": "00:00:50"
+		},
+		{
+			"calendarDate": "2024-11-05",
+			"duration": "00:00:00"
+		},
+		{
+			"calendarDate": "2024-11-04",
+			"duration": "00:00:00"
+		},
+		{
+			"calendarDate": "2024-11-03",
+			"duration": "00:00:00"
+		},
+		{
+			"calendarDate": "2024-11-02",
+			"duration": "00:16:12"
+		},
+		{
+			"calendarDate": "2024-11-01",
+			"duration": "00:34:12"
+		},
+		{
+			"calendarDate": "2024-10-31",
+			"duration": "00:39:14"
+		},
+		{
+			"calendarDate": "2024-10-30",
+			"duration": "00:15:55"
+		},
+		{
+			"calendarDate": "2024-10-29",
+			"duration": "00:03:24"
+		},
+		{
+			"calendarDate": "2024-10-28",
+			"duration": "00:02:36"
 		}
 	]
 }
