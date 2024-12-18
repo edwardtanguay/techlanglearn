@@ -5,7 +5,7 @@ import { getRandomItemsFromArray } from './tools';
 // values
 const siteLocation = import.meta.env.VITE_SITE_LOCATION === 'dev' ? 'dev' : 'online';
 let pageStatus: PageStatus = $state('ready');
-const flashcards = $state(dataModel.getFlashcards());
+const flashcards = $state(dataModel.getFlashcards().sort((a,b) => a.whenCreated < b.whenCreated ? 1 : -1));
 const tutorials = $state(dataModel.getTutorials());
 
 // errorMessage
