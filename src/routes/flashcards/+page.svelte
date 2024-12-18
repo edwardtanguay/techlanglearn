@@ -15,7 +15,9 @@
 			</div>
 			<div class={`back rounded-b-md bg-slate-500 px-3 py-2 back-lang-${flashcard.language}`}>
 				<p>{flashcard.back}</p>
-				<p class="text-xs italic text-gray-400">nnn</p>
+				{#if flashcard.extras !== ''}
+					<p class="text-sm italic text-gray-400">{flashcard.extras}</p>
+				{/if}
 			</div>
 		</div>
 	{/each}

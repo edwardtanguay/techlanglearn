@@ -9,7 +9,8 @@ export const SourceFlashcardSchema = z.object({
 		{
 			message: 'Invalid date/time format. Expected YYYY-MM-DD HH:mm:ss'
 		}
-	)
+	),
+	extras: z.string()
 });
 
 export type SourceFlashcard = z.infer<typeof SourceFlashcardSchema>;
@@ -19,6 +20,7 @@ export type Flashcard = {
 	front: string;
 	back: string;
 	whenCreated: string;
+	extras: string;
 	isOpen: boolean;
 };
 
