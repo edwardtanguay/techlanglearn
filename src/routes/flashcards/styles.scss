@@ -1,8 +1,19 @@
 .area_flashcard {
-	.lang-es {
+	.front-lang-es {
 		border-bottom: 2px solid rgb(184, 0, 0);
 	}
-	.lang-it {
-		border-bottom: 2px solid rgb(13, 212, 13);
+	.front-lang-it {
+		border-bottom: 2px solid rgb(72, 207, 72);
+	}
+	.back {
+		background-color: #fff;
+	}
+
+	.back-lang-es {
+		color: red;
+	}
+	
+	.back-lang-it {
+		color: green;
 	}
 }
