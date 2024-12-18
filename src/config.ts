@@ -39,10 +39,12 @@ export const categories = (): Category[] => {
 				'svelte5',
 				'sveltekit',
 				'mux',
+				'githubActions',
 				'laravel',
 				'cypress',
 				'playwright',
-				'trpc'
+				'trpc',
+				'kotlin'
 			],
 			description: 'technology that might be needed for future jobs'
 		},

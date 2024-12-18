@@ -130,6 +130,19 @@
 		"status": ""
 	},
 	{
+		"topics": "playwright",
+		"language": "en",
+		"duration": "02:41:00",
+		"year": "2024",
+		"rank": "4.83",
+		"url": "https://www.linkedin.com/learning/learning-playwright",
+		"title": "Learning Playwright",
+		"description": "looks like a decent introduction course, also API testing",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-learning-playwright",
+		"status": ""
+	},
+	{
 		"topics": "webflow",
 		"language": "en",
 		"duration": "02:07:00",
@@ -468,6 +481,19 @@
 		"status": "not started yet"
 	},
 	{
+		"topics": "githubActions",
+		"language": "fr",
+		"duration": "02:03:00",
+		"year": "2023",
+		"rank": "4.94",
+		"url": "https://www.linkedin.com/learning/l-essentiel-de-github-actions/bienvenue-dans-l-essentiel-de-github-actions",
+		"title": "L'essentiel de GitHub Actions",
+		"description": "long and solid course in French",
+		"platform": "linkedInLearning",
+		"fileIdCode": "fr-ll-lessentiel-de-github-actions",
+		"status": ""
+	},
+	{
 		"topics": "laravel",
 		"language": "fr",
 		"duration": "02:22:00",
@@ -478,6 +504,19 @@
 		"description": "Julian Layen, long course on Laravel in French",
 		"platform": "linkedInLearning",
 		"fileIdCode": "fr-ll-lessentiel-de-laravel-9",
+		"status": ""
+	},
+	{
+		"topics": "kotlin",
+		"language": "sp",
+		"duration": "04:52:00",
+		"year": "2022",
+		"rank": "4.89",
+		"url": "https://www.linkedin.com/learning/kotlin-esencial",
+		"title": "Kotlin esencial",
+		"description": "very long course on the basics",
+		"platform": "linkedInLearning",
+		"fileIdCode": "sp-ll-kotlin-esencial",
 		"status": ""
 	}
 ]
