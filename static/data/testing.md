@@ -73,7 +73,7 @@ e alla fine del corso; pr=KOR'-soh (not zoh)
 2024-12-17 17:28:03
 
 in recent years
-negli ultimi anni
+negli ultimi anni;pr=nehleeoo-tee-mee
 2024-12-17 17:23:50
 
 for React developers

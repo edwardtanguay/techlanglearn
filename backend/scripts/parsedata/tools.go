@@ -297,7 +297,15 @@ func removeAllLinesWithMarker(lines []string, marker string) []string {
 
 func padLineBlock(lines []string, length int) []string {
 	for len(lines) < length {
-		lines = append(lines, "") 
+		lines = append(lines, "")
 	}
 	return lines
+}
+
+func deleteRestAtMarker(line string, marker string) string {
+	index := strings.Index(line, marker)
+	if index != -1 {
+		return line[:index]
+	}
+	return line
 }

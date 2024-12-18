@@ -200,6 +200,7 @@ func getFlashcardsFromFile(lines []string) ([]Flashcard, error) {
 		// transfer extras from back to extras
 		if strings.Contains(flashcard.Back, ";") {
 			flashcard.Extras = getRestOfLine(flashcard.Back, ";")
+			flashcard.Back = deleteRestAtMarker(flashcard.Back, ";")
 		}
 
 		flashcards = append(flashcards, flashcard)
