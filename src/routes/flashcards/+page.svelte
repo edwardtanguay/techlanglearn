@@ -13,12 +13,14 @@
 			<div class={`front rounded-t-md bg-slate-400 px-3 py-2 front-lang-${flashcard.language}`}>
 				{flashcard.front}
 			</div>
+			{#if flashcard.isOpen}
 			<div class={`back rounded-b-md bg-slate-500 px-3 py-2 back-lang-${flashcard.language}`}>
 				<p>{flashcard.back}</p>
 				{#if flashcard.extras !== ''}
 					<p class="text-sm italic text-gray-400">{flashcard.extras}</p>
 				{/if}
 			</div>
+			{/if}
 		</div>
 	{/each}
 </div>
