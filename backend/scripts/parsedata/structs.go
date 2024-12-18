@@ -3,6 +3,7 @@ package main
 type Config struct {
 	TutorialFilesDirectory string `json:"tutorialFilesDirectory"`
 	WebDataDirectory       string `json:"webDataDirectory"`
+	DefaultWhenCreated       string `json:"defaultWhenCreated"`
 }
 
 type Flashcard struct {

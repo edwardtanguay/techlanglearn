@@ -156,6 +156,8 @@ func convertToIntervalTimes(timeUnits []TimeUnit) ([]TimeUnit, error) {
 
 func getFlashcardsFromFile(lines []string) ([]Flashcard, error) {
 
+	config, _ := LoadConfig()
+
 	flashcards := []Flashcard{}
 	language := ""
 	marker := "## VOCAB"
@@ -188,6 +190,11 @@ func getFlashcardsFromFile(lines []string) ([]Flashcard, error) {
 			Extras:      "",
 		}
 		if lineBlock[2] != "" {
+			flashcard.WhenCreated = lineBlock[2]
+		} else {
+			flashcard.WhenCreated = config.DefaultWhenCreated
+		}
+		if lineBlock[3] != "" {
 			flashcard.WhenCreated = lineBlock[2]
 		}
 		flashcards = append(flashcards, flashcard)
