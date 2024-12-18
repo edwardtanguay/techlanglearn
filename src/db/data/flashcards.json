@@ -3522,6 +3522,41 @@
 	},
 	{
 		"language": "fr",
+		"front": "GitHub Actions is everything that revolves around CI and CD",
+		"back": "GitHub Actions est tout ce qui gravite autour de la CI et la CD",
+		"whenCreated": "2024-12-18 09:59:01",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "a license that is affixed to the project",
+		"back": "une licence qui est apposée sur le projet",
+		"whenCreated": "2024-12-18 09:56:24",
+		"extras": "rank=4.88"
+	},
+	{
+		"language": "fr",
+		"front": "so if you are not comfortable with GitHub",
+		"back": "donc si vous n'êtes pas à l'aise avec GitHub",
+		"whenCreated": "2024-12-18 09:54:12",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "a company that offers hosting services",
+		"back": "une entreprise qui propose des services d'hébergement",
+		"whenCreated": "2024-12-18 09:48:56",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "since in fact",
+		"back": "puisqu'en effet",
+		"whenCreated": "2024-12-18 09:43:10",
+		"extras": ""
+	},
+	{
+		"language": "fr",
 		"front": "if you want to make your deployments easier",
 		"back": "si vous souhaitez faciliter vos déploiements",
 		"whenCreated": "2024-12-18 09:25:31",

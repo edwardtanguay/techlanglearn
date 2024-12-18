@@ -15,15 +15,41 @@ https://www.linkedin.com/learning/l-essentiel-de-github-actions/bienvenue-dans-l
 
 - says you need to be familiar with GitHub
 
-## Comprendre la différence entre git, GitHub et GitHub Actions, 3:04, nnn
+## Comprendre la différence entre git, GitHub et GitHub Actions, 3:04, 2024-12-18
 
 https://www.linkedin.com/learning/l-essentiel-de-github-actions/comprendre-la-difference-entre-git-github-et-github-actions?autoSkip=true&resume=false
+
+- with GitHub you can create wikis
+
+## Créer un compte GitHub, 2:09, nnn
+
+https://www.linkedin.com/learning/l-essentiel-de-github-actions/creer-un-compte-github?autoSkip=true&resume=false
 
 - nnn
 
 ## VOCAB - FRENCH
 
 ```
+GitHub Actions is everything that revolves around CI and CD
+GitHub Actions est tout ce qui gravite autour de la CI et la CD
+2024-12-18 09:59:01
+
+a license that is affixed to the project
+une licence qui est apposée sur le projet; rank=4.88
+2024-12-18 09:56:24
+
+so if you are not comfortable with GitHub
+donc si vous n'êtes pas à l'aise avec GitHub
+2024-12-18 09:54:12
+
+a company that offers hosting services
+une entreprise qui propose des services d'hébergement
+2024-12-18 09:48:56
+
+since in fact
+puisqu'en effet
+2024-12-18 09:43:10
+
 if you want to make your deployments easier
 si vous souhaitez faciliter vos déploiements
 2024-12-18 09:25:31
