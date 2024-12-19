@@ -228,15 +228,32 @@ https://www.linkedin.com/learning/domina-python-fastapi/tags-para-separar-los-en
 - created enums, works well
 - everything worked except the openapi_tags
 
-## SQLAlchemy para conexión a una base de datos SQL en FastAPI, 7:18, nnn
+## SQLAlchemy para conexión a una base de datos SQL en FastAPI, 7:18, 2024-12-19
 
 https://www.linkedin.com/learning/domina-python-fastapi/sqlalchemy-para-conexion-a-una-base-de-datos-sql-en-fastapi?autoSkip=true&resume=false
+
+- she is going to use SQLite
+- she has folders: models, routers, schemas
+- models inherit Base
+- lots of configuration that she did beforehand
+
+## Cómo usar HTTPException en FastAPI, 3:00, nnn
+
+https://www.linkedin.com/learning/domina-python-fastapi/como-usar-httpexception-en-fastapi?autoSkip=true&resume=false
 
 - nnn
 
 ## VOCAB - SPANISH
 
 ```
+we can check it and it should bring us a list
+lo podemos comprobar y este nos debería traer una lista
+2024-12-19 11:21:16
+
+when we ran the server, a file called todo.db was created
+cuando corrimos el servidor, se ha creado un archivo llamada todo.db; conj=correr; corrimos = preterite; preterite for both -er and -ir verbs is -imos
+2024-12-19 11:18:26
+
 that we are labeling
 que estamos etiquetando
 2024-12-18 10:47:08
