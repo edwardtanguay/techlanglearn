@@ -5,16 +5,31 @@
 - divinci resolve
 - https://www.youtube.com/results?search_query=divinci+video+editing
 
+- angular 19
+- Setup Environment & Install Angular 19: https://www.youtube.com/watch?v=ksablkcwKB0
+- https://www.youtube.com/watch?v=B18LKRW617Q
+- Angular 19 CRUD (2024-12-07): https://www.youtube.com/watch?v=ItQYxGDacW4
 
 - excellent teacher, lots of courses, Joe Marini: https://www.linkedin.com/learning/instructors/joe-marini
 - lots of Python in Spanish: https://www.linkedin.com/learning/topics/python?entityType=COURSE
+- good teacher for devops: https://www.linkedin.com/learning/instructors/josh-samuelson
 
+- shadcn
+
+- css animations/transitions, french: https://www.linkedin.com/learning/css-animations-et-transitions-22819867/utiliser-la-transformation-translate
+
+- next.js 14, german
+- https://www.linkedin.com/learning/next-js-grundkurs
 
 - pycharm
 - https://www.linkedin.com/learning/learning-python-with-pycharm-14509667/software-development-and-pycharm
 
 - accessibility, canvas; en; 2024; https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/design-better-presentations-in-canva
 accessibility; en; 2024; https://www.linkedin.com/learning/web-accessibility-for-developers/take-the-mystery-out-of-web-accessibility
+
+- elasticsearch: https://www.linkedin.com/learning/elasticsearch-essential-training-18773441
+- elasticstack: https://www.linkedin.com/learning/learning-elastic-stack
+
 
 - git
 - VSCode for Python: https://www.youtube.com/watch?v=F60iJ3xxgtg
@@ -300,7 +315,7 @@ CREATED: canvas;en;02:09:00;2024;4.71;https://www.linkedin.com/learning/learning
 CREATED: python;en;01:24:00;2018;4.91;https://www.linkedin.com/learning/python-advanced-design-patterns;Python: Advanced Design Patterns;Jungwoo Ryoo, good course, explains concept of pattern first then an example
 CREATED: python;en;02:12:00;2021;4.91;https://www.linkedin.com/learning/python-design-patterns-14304845;Python: Design Patterns;Jungwoo Ryoo, good course, explains concept of pattern first then an example
 CREATED: go, grpc;en;01:09:00;2023;4.81;https://www.linkedin.com/learning/grpc-in-go; gRPC in Go ;interesting mix of gRPC and Go, by Miki Tebeka
+CREATED: python, django;en;02:39:00;2024;4.95;https://www.linkedin.com/learning/django-essential-training-25094632; Django Essential Training ;Leticia Portella, nice voice, seems competent, long basic course on Django, good place to start, authentication, login, logout, signup, released Dec 2024
 
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
