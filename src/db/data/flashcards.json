@@ -2297,6 +2297,27 @@
 	},
 	{
 		"language": "es",
+		"front": "since if the id is not found",
+		"back": "ya que si no se encuentra el id",
+		"whenCreated": "2024-12-21 02:08:11",
+		"extras": "pr=JAH-kay-see"
+	},
+	{
+		"language": "es",
+		"front": "where we are going to raise an exception",
+		"back": "donde vamos a levantar una excepción",
+		"whenCreated": "2024-12-21 02:06:30",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "the status codes that an API returns",
+		"back": "los códigos de estado que una API retorna",
+		"whenCreated": "2024-12-21 01:58:38",
+		"extras": ""
+	},
+	{
+		"language": "es",
 		"front": "we can check it and it should bring us a list",
 		"back": "lo podemos comprobar y este nos debería traer una lista",
 		"whenCreated": "2024-12-19 11:21:16",

@@ -237,15 +237,33 @@ https://www.linkedin.com/learning/domina-python-fastapi/sqlalchemy-para-conexion
 - models inherit Base
 - lots of configuration that she did beforehand
 
-## Cómo usar HTTPException en FastAPI, 3:00, nnn
+## Cómo usar HTTPException en FastAPI, 3:00, 2024-12-20
 
 https://www.linkedin.com/learning/domina-python-fastapi/como-usar-httpexception-en-fastapi?autoSkip=true&resume=false
+
+- import status from FastAPI, then you automatically get the codes##statusok
+
+## Cómo crear funciones para el manejo de errores, 5:09, nnn
+
+https://www.linkedin.com/learning/domina-python-fastapi/como-crear-funciones-para-el-manejo-de-errores?autoSkip=true&resume=false
 
 - nnn
 
 ## VOCAB - SPANISH
 
 ```
+since if the id is not found
+ya que si no se encuentra el id; pr=JAH-kay-see
+2024-12-21 02:08:11
+
+where we are going to raise an exception
+donde vamos a levantar una excepción
+2024-12-21 02:06:30
+
+the status codes that an API returns
+los códigos de estado que una API retorna
+2024-12-21 01:58:38
+
 we can check it and it should bring us a list
 lo podemos comprobar y este nos debería traer una lista
 2024-12-19 11:21:16

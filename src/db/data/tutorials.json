@@ -299,6 +299,19 @@
 		"status": ""
 	},
 	{
+		"topics": "osbstudio",
+		"language": "en",
+		"duration": "01:05:00",
+		"year": "2024",
+		"rank": "4.95",
+		"url": "https://www.linkedin.com/learning/live-streaming-with-obs-open-broadcaster-software",
+		"title": "Live Streaming with OBS (Open Broadcaster Software)",
+		"description": "an hour-long course on OSB Studio, more of streaming instead of recording but a good overview",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-live-streaming-with-obs-open-broadcaster-software",
+		"status": ""
+	},
+	{
 		"topics": "nextjs, mongo",
 		"language": "en",
 		"duration": "03:54:00",
