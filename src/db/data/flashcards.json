@@ -490,6 +490,41 @@
 		"extras": "crea = tu, cree = usted"
 	},
 	{
+		"language": "nl",
+		"front": "because it is maintained by a dedicated community",
+		"back": "omdat het wordt onderhouden door een toegewijde gemeenschap",
+		"whenCreated": "2024-12-21 03:07:53",
+		"extras": "pr=TOO-*eh-wigh-deh; pr=*eh-MAYN-s*ahp"
+	},
+	{
+		"language": "nl",
+		"front": "OBS can be used on both Apple and Windows",
+		"back": "OBS kan worden gebruikt op zowel Apple en Windows",
+		"whenCreated": "2024-12-21 03:05:49",
+		"extras": ""
+	},
+	{
+		"language": "nl",
+		"front": "it is completely free to use",
+		"back": "het is volledig gratis te gebruiken",
+		"whenCreated": "2024-12-21 03:00:00",
+		"extras": ""
+	},
+	{
+		"language": "nl",
+		"front": "let's get started",
+		"back": "laten we aan de slag gaan",
+		"whenCreated": "2024-12-21 02:57:32",
+		"extras": ""
+	},
+	{
+		"language": "nl",
+		"front": "to improve your broadcast",
+		"back": "om je uitzending te verbeteren",
+		"whenCreated": "2024-12-21 02:56:13",
+		"extras": ""
+	},
+	{
 		"language": "it",
 		"front": "so, in any case",
 		"back": "quindi, in ogni caso",
