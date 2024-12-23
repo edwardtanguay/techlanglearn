@@ -608,7 +608,7 @@
 		"description": "looks interesting, in Spanish, good way to learn practical Python",
 		"platform": "linkedInLearning",
 		"fileIdCode": "es-ll-domina-python-fastapi",
-		"status": "7 more videos, good course"
+		"status": "finished"
 	},
 	{
 		"topics": "gitlab",
@@ -703,7 +703,7 @@
 	},
 	{
 		"topics": "kotlin",
-		"language": "sp",
+		"language": "es",
 		"duration": "04:52:00",
 		"year": "2022",
 		"rank": "4.89",

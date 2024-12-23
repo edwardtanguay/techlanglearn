@@ -491,6 +491,55 @@
 	},
 	{
 		"language": "nl",
+		"front": "once the download is complete",
+		"back": "zodra de download is voltooid",
+		"whenCreated": "2024-12-22 18:57:39",
+		"extras": "pr=FOHL-toyd"
+	},
+	{
+		"language": "nl",
+		"front": "can be incredibly useful",
+		"back": "kan ongelooflijk nuttig zijn",
+		"whenCreated": "2024-12-22 18:56:39",
+		"extras": ""
+	},
+	{
+		"language": "nl",
+		"front": "but note that these are not supported",
+		"back": "maar houd er rekening mee dat deze niet worden ondersteund",
+		"whenCreated": "2024-12-22 18:53:32",
+		"extras": "pr=RAY-ken-ing; pr=DAY-zeh; pr=AHN-der-STOW-nt"
+	},
+	{
+		"language": "nl",
+		"front": "the type of hard drive",
+		"back": "het type harde schijf",
+		"whenCreated": "2024-12-22 18:35:24",
+		"extras": "pr=\"TEE-peh HAR-deh s*IGHF\""
+	},
+	{
+		"language": "nl",
+		"front": "a smooth experience",
+		"back": "een soepele ervaring",
+		"whenCreated": "2024-12-22 18:08:41",
+		"extras": ""
+	},
+	{
+		"language": "nl",
+		"front": "first of all",
+		"back": "ten eerste",
+		"whenCreated": "2024-12-21 21:59:29",
+		"extras": ""
+	},
+	{
+		"language": "nl",
+		"front": "depending on your equipment choices",
+		"back": "afhankelijk van je apparatuurkeuzes",
+		"whenCreated": "2024-12-21 21:58:05",
+		"extras": "pr=af-HAHN-kel-lik; pr=KÖZ-ess"
+	},
+	{
+		"language": "nl",
 		"front": "because it is maintained by a dedicated community",
 		"back": "omdat het wordt onderhouden door een toegewijde gemeenschap",
 		"whenCreated": "2024-12-21 03:07:53",
@@ -2328,6 +2377,48 @@
 		"front": "has it happened to you that while you are programming",
 		"back": "te ha pasado que mientras estás programando",
 		"whenCreated": "2024-12-01 00:00:00",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "we are indicating that",
+		"back": "estamos indicando que",
+		"whenCreated": "2024-12-21 21:45:15",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "with the time it has taken to be executed",
+		"back": "con el tiempo que se ha demorado en ser ejecutado",
+		"whenCreated": "2024-12-21 11:30:55",
+		"extras": "conj=demorar; demorar = to delay, regular"
+	},
+	{
+		"language": "es",
+		"front": "let's calculate how long the request takes",
+		"back": "vamos a calcular cuánto se demora la petición",
+		"whenCreated": "2024-12-21 11:24:06",
+		"extras": "conj=demorar; demorar = to delay, regular"
+	},
+	{
+		"language": "es",
+		"front": "he must always do three things",
+		"back": "el siempre debe hace tres cosas",
+		"whenCreated": "2024-12-21 11:20:25",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "this will be in charge of making the request",
+		"back": "esta se va encargar de hacer la petición",
+		"whenCreated": "2024-12-21 11:06:36",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "let's implement it",
+		"back": "vamos a implementarlo",
+		"whenCreated": "2024-12-21 11:02:27",
 		"extras": ""
 	},
 	{

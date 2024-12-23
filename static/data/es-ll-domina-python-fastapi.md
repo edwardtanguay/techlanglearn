@@ -8,7 +8,7 @@ https://www.linkedin.com/learning/domina-python-fastapi
 - rank: 4.9
 - description: looks interesting, in Spanish, good way to learn practical Python
 - year: 2024
-- status: 7 more videos, good course
+- status: finished
 
 ## FastAPI y Python, 0:36, 2024-11-29
 
@@ -243,15 +243,70 @@ https://www.linkedin.com/learning/domina-python-fastapi/como-usar-httpexception-
 
 - import status from FastAPI, then you automatically get the codes##statusok
 
-## Cómo crear funciones para el manejo de errores, 5:09, nnn
+## Cómo crear funciones para el manejo de errores, 5:09, 2024-12-21
 
 https://www.linkedin.com/learning/domina-python-fastapi/como-crear-funciones-para-el-manejo-de-errores?autoSkip=true&resume=false
 
-- nnn
+- creates custom exception handling
+- also makes a custom exception handler with JSONResponse
+- it's not clear how "app" works in her code
+- part is defined in handler, part in exception
+
+```
+from app.custom_exceptions import CustomException
+```
+
+- from app.custom_exceptions import CustomException
+
+```
+app = FastAPI()
+
+# Custom exception handler
+@app.exception_handler(CustomException)
+```
+
+## Cómo crear un middleware en FastAPI, 5:43, 2024-12-21
+
+https://www.linkedin.com/learning/domina-python-fastapi/como-crear-un-middleware-en-fastapi?autoSkip=true&resume=false
+
+- middleware is executed before route are executed
+- shows the time elapsed in header##sshowstehsitime
+- it applies to all routes in all routers automatically
+- then creates middleware.py and in main.py: app.add_middleware
+
+## CORS con FastAPI, 4:35, 2024-12-21
+
+https://www.linkedin.com/learning/domina-python-fastapi/cors-con-fastapi?autoSkip=true&resume=false
+
+- three parts of the url that make it the same: protocal, domain, port
 
 ## VOCAB - SPANISH
 
 ```
+we are indicating that
+estamos indicando que
+2024-12-21 21:45:15
+
+with the time it has taken to be executed
+con el tiempo que se ha demorado en ser ejecutado; conj=demorar; demorar = to delay, regular
+2024-12-21 11:30:55
+
+let's calculate how long the request takes
+vamos a calcular cuánto se demora la petición; conj=demorar; demorar = to delay, regular
+2024-12-21 11:24:06
+
+he must always do three things
+el siempre debe hace tres cosas
+2024-12-21 11:20:25
+
+this will be in charge of making the request
+esta se va encargar de hacer la petición
+2024-12-21 11:06:36
+
+let's implement it
+vamos a implementarlo
+2024-12-21 11:02:27
+
 since if the id is not found
 ya que si no se encuentra el id; pr=JAH-kay-see
 2024-12-21 02:08:11
