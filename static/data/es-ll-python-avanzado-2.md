@@ -53,15 +53,66 @@ https://www.linkedin.com/learning/python-avanzado-2/programacion-orientada-a-obj
 
 - basics of OOP and classes/objects
 
-## Clases en Python, 5:53, nnn
+## Clases en Python, 5:53, 2024-12-24
 
 https://www.linkedin.com/learning/python-avanzado-2/clases-en-python-18997291?autoSkip=true&resume=false
+
+- classes are upper camelcase
+- two kinds of attributes: class and instance
+
+## Herencia en Python, 7:04, nnn
+
+https://www.linkedin.com/learning/python-avanzado-2/herencia-en-python-18997289?autoSkip=true&resume=false
 
 - nnn
 
 ## VOCAB - SPANISH
 
 ```
+this time we got an error
+esta vez nos ha salido un error
+2024-12-24 08:55:29
+
+name, surname and age
+nombre, apellido y edad; pr=ah-peh-JEE-doh
+2024-12-24 08:51:30
+
+they depend on the object being created
+dependen del objeto que está siendo creado
+2024-12-24 08:48:40
+
+and we are going to assign the value 5 to this one
+y a esta le vamos a asignar el valor 5
+2024-12-24 08:44:07
+
+that are being represented in the code
+que se están representando en el código
+2024-12-24 08:42:00
+
+through which objects are constructed
+a través de los cuales se construyen los objetos
+2024-12-24 08:39:02
+
+this is called cloud storage
+a esto se le llama almacenamiento en la nube
+2024-12-24 08:37:43
+
+this is called open source
+a esto se le dice código abierto
+2024-12-24 08:37:05
+
+this is called machine learning
+a esto se le llama machine learning
+2024-12-24 08:36:25
+
+classes are plans or templates
+las clases son los planos o plantillas
+2024-12-24 08:34:56
+
+these are known as methods
+a esto se le conoce como métodos
+2024-12-24 08:33:49
+
 hence
 por lo que
 2024-12-24 08:07:07
