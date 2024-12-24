@@ -16,6 +16,8 @@
 
 - shadcn
 
+- clojure
+
 - full course on Flash/SQLAlchemy: https://www.youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX
 - css animations/transitions, french: https://www.linkedin.com/learning/css-animations-et-transitions-22819867/utiliser-la-transformation-translate
 

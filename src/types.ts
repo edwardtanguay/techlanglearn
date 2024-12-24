@@ -12,6 +12,8 @@ export const SourceFlashcardSchema = z.object({
 
 export type SourceFlashcard = z.infer<typeof SourceFlashcardSchema>;
 
+export type FlashcardStatus = 'showingFront' | 'answering' | 'correct' | 'incorrect';
+
 export type Flashcard = {
 	language: string;
 	front: string;
@@ -19,6 +21,8 @@ export type Flashcard = {
 	whenCreated: string;
 	extras: string;
 	isOpen: boolean;
+	suppliedAnswer: string;
+	status: FlashcardStatus;
 };
 
 export type TimeUnit = {
