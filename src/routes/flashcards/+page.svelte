@@ -21,12 +21,16 @@
 			flashcard.status = 'correct';
 		} else {
 			flashcard.status = 'incorrect';
+			setTimeout(() => {
+				flashcard.suppliedAnswer = '';
+				flashcard.status = 'showingFrontOnly';
+			}, 5000);
 		}
 	};
 </script>
 
 {#snippet FlashcardBack(flashcard: Flashcard)}
-	<p>{flashcard.back}</p>
+	<p class="text-green-700">{flashcard.back}</p>
 	{#if flashcard.extras !== ''}
 		<p class="text-sm italic text-gray-400">{flashcard.extras}</p>
 	{/if}
@@ -48,26 +52,27 @@
 				</div>
 			{/if}
 
-			{#if flashcard.status !== 'showingFrontOnly'}
+			{#if flashcard.status === 'answering'}
 				<div class={`back rounded-b-md bg-slate-500 px-3 py-2`}>
-					{#if flashcard.status === 'answering'}
-						<input
-							class="w-full"
-							bind:this={inputRefs[index]}
-							bind:value={flashcard.suppliedAnswer}
-							on:keydown={(e) => {
-								if (e.key === 'Enter') handleSubmitAnswer(flashcard);
-							}}
-						/>
-					{/if}
-					{#if flashcard.status === 'incorrect'}
-						{@render FlashcardBack(flashcard)}
-						<p>INCORRECT</p>
-					{/if}
-					{#if flashcard.status === 'correct'}
-						{@render FlashcardBack(flashcard)}
-						<p>CORRECT</p>
-					{/if}
+					<input
+						class="w-[30rem]"
+						bind:this={inputRefs[index]}
+						bind:value={flashcard.suppliedAnswer}
+						on:keydown={(e) => {
+							if (e.key === 'Enter') handleSubmitAnswer(flashcard);
+						}}
+					/>
+				</div>
+			{/if}
+			{#if flashcard.status === 'incorrect'}
+				<div class={`back rounded-b-md bg-slate-500 px-3 py-2`}>
+					<p class="text-red-800">{flashcard.suppliedAnswer}</p>
+					{@render FlashcardBack(flashcard)}
+				</div>
+			{/if}
+			{#if flashcard.status === 'correct'}
+				<div class={`backCorrect rounded-md border border-green-500 bg-green-100 px-3 py-2`}>
+					{@render FlashcardBack(flashcard)}
 				</div>
 			{/if}
 		</div>
