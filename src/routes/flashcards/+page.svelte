@@ -18,9 +18,9 @@
 
 	const handleSubmitAnswer = (flashcard: Flashcard) => {
 		if (flashcard.suppliedAnswer === flashcard.back) {
-			flashcard.status === 'correct';
+			flashcard.status = 'correct';
 		} else {
-			flashcard.status === 'incorrect';
+			flashcard.status = 'incorrect';
 		}
 	};
 </script>
@@ -50,7 +50,6 @@
 
 			{#if flashcard.status !== 'showingFrontOnly'}
 				<div class={`back rounded-b-md bg-slate-500 px-3 py-2`}>
-					{@render FlashcardBack(flashcard)}
 					{#if flashcard.status === 'answering'}
 						<input
 							class="w-full"
@@ -60,6 +59,14 @@
 								if (e.key === 'Enter') handleSubmitAnswer(flashcard);
 							}}
 						/>
+					{/if}
+					{#if flashcard.status === 'incorrect'}
+						{@render FlashcardBack(flashcard)}
+						<p>INCORRECT</p>
+					{/if}
+					{#if flashcard.status === 'correct'}
+						{@render FlashcardBack(flashcard)}
+						<p>CORRECT</p>
 					{/if}
 				</div>
 			{/if}
