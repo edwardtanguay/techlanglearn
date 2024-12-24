@@ -5,15 +5,17 @@
 
 	const store = getStore();
 
+	const maxShow = 10;
+
 	const handleToggleFlashcard = (flashcard: Flashcard) => {
 		flashcard.isOpen = !flashcard.isOpen;
 	}
 </script>
 
 <div class="area_flashcard">
-	<h2 class="mb-6 text-xl">There are {store.flashcards.length} flashcards.</h2>
+	<h2 class="mb-6 text-xl">{maxShow} of {store.flashcards.length} flashcards.</h2>
 
-	{#each store.flashcards as flashcard}
+	{#each store.flashcards.slice(0,maxShow) as flashcard}
 		<div class="mb-6 w-fit">
 			<!-- svelte-ignore a11y_click_events_have_key_events -->
 			<!-- svelte-ignore a11y_no_static_element_interactions -->

@@ -624,6 +624,19 @@
 		"status": "discontinued"
 	},
 	{
+		"topics": "python",
+		"language": "es",
+		"duration": "01:44:00",
+		"year": "2023",
+		"rank": "4.91",
+		"url": "https://www.linkedin.com/learning/python-avanzado-2/mejora-con-python-19000119",
+		"title": "Python avanzado 2",
+		"description": "another course by Ana María, she goes over classes, type hinting, mypy, closures, decorators, async, tests and SQLAlchemy",
+		"platform": "linkedInLearning",
+		"fileIdCode": "es-ll-python-avanzado-2",
+		"status": ""
+	},
+	{
 		"topics": "react, monorepos",
 		"language": "es",
 		"duration": "02:27:00",

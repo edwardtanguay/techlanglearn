@@ -318,9 +318,10 @@ CREATED: python;en;02:12:00;2021;4.91;https://www.linkedin.com/learning/python-d
 CREATED: go, grpc;en;01:09:00;2023;4.81;https://www.linkedin.com/learning/grpc-in-go; gRPC in Go ;interesting mix of gRPC and Go, by Miki Tebeka
 CREATED: python, django;en;02:39:00;2024;4.95;https://www.linkedin.com/learning/django-essential-training-25094632; Django Essential Training ;Leticia Portella, nice voice, seems competent, long basic course on Django, good place to start, authentication, login, logout, signup, released Dec 2024
 CREATED: osbstudio;en;01:05:00;2024;4.95;https://www.linkedin.com/learning/live-streaming-with-obs-open-broadcaster-software;Live Streaming with OBS (Open Broadcaster Software);an hour-long course on OSB Studio, more of streaming instead of recording but a good overview
+CREATED: python;es;01:44:00;2023;4.91;https://www.linkedin.com/learning/python-avanzado-2/mejora-con-python-19000119; Python avanzado 2 ;another course by Ana María, she goes over classes, type hinting, mypy, closures, decorators, async, tests and SQLAlchemy
 
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+
 

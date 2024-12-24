@@ -3060,6 +3060,160 @@
 	},
 	{
 		"language": "es",
+		"front": "hence",
+		"back": "por lo que",
+		"whenCreated": "2024-12-24 08:07:07",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "and add it to the total",
+		"back": "y se la suma al total",
+		"whenCreated": "2024-12-24 08:06:07",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "in addition, each object has behaviors",
+		"back": "además, cada objeto tiene comportamientos",
+		"whenCreated": "2024-12-24 08:02:43",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "which is known as a class",
+		"back": "al que se le conoce como clase",
+		"whenCreated": "2024-12-24 08:00:59",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "with which we will work",
+		"back": "con los cuales vamos a trabajar",
+		"whenCreated": "2024-12-24 07:58:37",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "it is important to highlight that",
+		"back": "es importante resaltar que",
+		"whenCreated": "2024-12-23 18:17:51",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "and see what happened",
+		"back": "y ver qué es lo que sucedió",
+		"whenCreated": "2024-12-23 18:12:01",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "we run it by typing mypy",
+		"back": "lo corremos escribiendo mypy",
+		"whenCreated": "2024-12-23 18:07:10",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "we also saw how to write",
+		"back": "también vimos cómo escribir",
+		"whenCreated": "2024-12-23 17:12:06",
+		"extras": "vimos = preterite; vemos = present"
+	},
+	{
+		"language": "es",
+		"front": "hyphen, greater-than",
+		"back": "guión, mayor que",
+		"whenCreated": "2024-12-23 15:12:22",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "in brackets",
+		"back": "entre corchetes",
+		"whenCreated": "2024-12-23 13:45:58",
+		"extras": "pr=kor-CHAY-tahs"
+	},
+	{
+		"language": "es",
+		"front": "it is composed of",
+		"back": "está compuesta de",
+		"whenCreated": "2024-12-23 13:39:37",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "the following list of surnames",
+		"back": "la siguiente lista de apellidos",
+		"whenCreated": "2024-12-23 11:44:52",
+		"extras": "pr=ah-peh-GEE-dohs"
+	},
+	{
+		"language": "es",
+		"front": "Python has the mypy library",
+		"back": "Python cuenta con la librería mypy",
+		"whenCreated": "2024-12-23 11:25:25",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "as if it were statically typed",
+		"back": "como si fuese tipado estático",
+		"whenCreated": "2024-12-23 11:17:05",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "concepts related to the typing of a language",
+		"back": "conceptos relacionados al tipado de un lenguaje",
+		"whenCreated": "2024-12-23 11:00:46",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "if we click on the button",
+		"back": "si hacemos clic en el botón",
+		"whenCreated": "2024-12-23 10:57:44",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "let's open a course page",
+		"back": "abramos la página de un curso",
+		"whenCreated": "2024-12-23 08:19:13",
+		"extras": "conj=abrir; abramos = affirmative imperitive"
+	},
+	{
+		"language": "es",
+		"front": "managing databases with an ORM",
+		"back": "el manejo de bases de datos con un ORM",
+		"whenCreated": "2024-12-23 08:13:28",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "in work environments",
+		"back": "en entornos laborales",
+		"whenCreated": "2024-12-23 08:12:05",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "we will cover advanced topics",
+		"back": "abordaremos temas avanzados",
+		"whenCreated": "2024-12-23 08:11:06",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "take your Python skills to the next level",
+		"back": "llevar tu habilidades en Python al siguiente nivel",
+		"whenCreated": "2024-12-23 08:10:01",
+		"extras": ""
+	},
+	{
+		"language": "es",
 		"front": "on your own or with your team",
 		"back": "por tu cuenta o con tu equipo de trabajo",
 		"whenCreated": "2024-12-01 00:00:00",
