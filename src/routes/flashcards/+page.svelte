@@ -15,6 +15,10 @@
 			inputRefs[index]?.focus();
 		}, 10);
 	};
+
+	const handleSubmitAnswer = (flashcard: Flashcard) => {
+		alert(flashcard.front)
+	}
 </script>
 
 <div class="area_flashcard">
@@ -38,8 +42,9 @@
 							<p class="text-sm italic text-gray-400">{flashcard.extras}</p>
 						{/if}
 					{:else}
-						<input bind:this={inputRefs[index]} bind:value={flashcard.suppliedAnswer} />
-						<p>[{flashcard.suppliedAnswer}]</p>
+						<input bind:this={inputRefs[index]} bind:value={flashcard.suppliedAnswer} on:keydown={(e) => {
+							if(e.key === 'Enter') handleSubmitAnswer(flashcard)
+						}} />
 					{/if}
 				</div>
 			{/if}

@@ -19,8 +19,8 @@ export const getFlashcards = (): Flashcard[] => {
 			whenCreated: sourceFlashcard.whenCreated,
 			extras: sourceFlashcard.extras,
 			isOpen: false,
-			suppliedAnswer: 'nnn',
-			status: "showingFront"
+			suppliedAnswer: '',
+			status: 'showingFront'
 		};
 		flashcards.push(flashcard);
 	}
