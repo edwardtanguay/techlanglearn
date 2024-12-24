@@ -20,7 +20,7 @@ export const getFlashcards = (): Flashcard[] => {
 			extras: sourceFlashcard.extras,
 			isOpen: false,
 			suppliedAnswer: '',
-			status: 'showingFront'
+			status: 'showingFrontOnly'
 		};
 		flashcards.push(flashcard);
 	}

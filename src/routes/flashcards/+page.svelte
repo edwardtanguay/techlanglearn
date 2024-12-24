@@ -17,9 +17,20 @@
 	};
 
 	const handleSubmitAnswer = (flashcard: Flashcard) => {
-		alert(flashcard.front)
-	}
+		if (flashcard.suppliedAnswer === flashcard.back) {
+			flashcard.status === 'correct';
+		} else {
+			flashcard.status === 'incorrect';
+		}
+	};
 </script>
+
+{#snippet FlashcardBack(flashcard: Flashcard)}
+	<p>{flashcard.back}</p>
+	{#if flashcard.extras !== ''}
+		<p class="text-sm italic text-gray-400">{flashcard.extras}</p>
+	{/if}
+{/snippet}
 
 <div class="area_flashcard">
 	<h2 class="mb-6 text-xl">{maxShow} of {store.flashcards.length} flashcards.</h2>
@@ -28,23 +39,27 @@
 		<div class="mb-6 w-fit">
 			<!-- svelte-ignore a11y_click_events_have_key_events -->
 			<!-- svelte-ignore a11y_no_static_element_interactions -->
-			<div
-				on:click={() => handleToggleFlashcard(flashcard, index)}
-				class={`front ${flashcard.status === 'showingFront' ? 'cursor-pointer' : ''} rounded-t-md bg-slate-400 px-3 py-2 front-lang-${flashcard.language}`}
-			>
-				{flashcard.front}
-			</div>
-			{#if flashcard.status !== 'showingFront'}
+			{#if flashcard.status !== 'correct'}
+				<div
+					on:click={() => handleToggleFlashcard(flashcard, index)}
+					class={`front ${flashcard.status === 'showingFrontOnly' ? 'cursor-pointer' : ''} rounded-t-md bg-slate-400 px-3 py-2 front-lang-${flashcard.language}`}
+				>
+					{flashcard.front}
+				</div>
+			{/if}
+
+			{#if flashcard.status !== 'showingFrontOnly'}
 				<div class={`back rounded-b-md bg-slate-500 px-3 py-2`}>
-					{#if flashcard.status !== 'answering'}
-						<p>{flashcard.back}</p>
-						{#if flashcard.extras !== ''}
-							<p class="text-sm italic text-gray-400">{flashcard.extras}</p>
-						{/if}
-					{:else}
-						<input bind:this={inputRefs[index]} bind:value={flashcard.suppliedAnswer} on:keydown={(e) => {
-							if(e.key === 'Enter') handleSubmitAnswer(flashcard)
-						}} />
+					{@render FlashcardBack(flashcard)}
+					{#if flashcard.status === 'answering'}
+						<input
+							class="w-full"
+							bind:this={inputRefs[index]}
+							bind:value={flashcard.suppliedAnswer}
+							on:keydown={(e) => {
+								if (e.key === 'Enter') handleSubmitAnswer(flashcard);
+							}}
+						/>
 					{/if}
 				</div>
 			{/if}
