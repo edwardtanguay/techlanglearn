@@ -38,7 +38,8 @@
 							<p class="text-sm italic text-gray-400">{flashcard.extras}</p>
 						{/if}
 					{:else}
-						<input bind:this={inputRefs[index]} />
+						<input bind:this={inputRefs[index]} bind:value={flashcard.suppliedAnswer} />
+						<p>[{flashcard.suppliedAnswer}]</p>
 					{/if}
 				</div>
 			{/if}
