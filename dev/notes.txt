@@ -5,6 +5,7 @@
 	- x make a back link
 	- .. adapt pd file to create tutorialFiles.json
 
+icon: https://icon-sets.iconify.design/?query=check
 
 
 - .. show one at a time, input/button, save to local storage with date

@@ -2,6 +2,7 @@
 	import { getStore } from '../../store.svelte';
 	import type { Flashcard } from '../../types';
 	import './styles.scss';
+	import IconCheck from '../../components/IconCheck.svelte';
 
 	const store = getStore();
 
@@ -16,14 +17,17 @@
 		}, 10);
 	};
 
-	const handleSubmitAnswer = (flashcard: Flashcard) => {
+	const handleSubmitAnswer = (flashcard: Flashcard, index: number) => {
 		if (flashcard.suppliedAnswer === flashcard.back) {
 			flashcard.status = 'correct';
 		} else {
 			flashcard.status = 'incorrect';
 			setTimeout(() => {
 				flashcard.suppliedAnswer = '';
-				flashcard.status = 'showingFrontOnly';
+				flashcard.status = 'answering';
+				setTimeout(() => {
+					inputRefs[index]?.focus();
+				}, 10);
 			}, 5000);
 		}
 	};
@@ -59,7 +63,7 @@
 						bind:this={inputRefs[index]}
 						bind:value={flashcard.suppliedAnswer}
 						on:keydown={(e) => {
-							if (e.key === 'Enter') handleSubmitAnswer(flashcard);
+							if (e.key === 'Enter') handleSubmitAnswer(flashcard, index);
 						}}
 					/>
 				</div>
@@ -71,8 +75,11 @@
 				</div>
 			{/if}
 			{#if flashcard.status === 'correct'}
-				<div class={`backCorrect rounded-md border border-green-500 bg-green-100 px-3 py-2`}>
-					{@render FlashcardBack(flashcard)}
+				<div class={`backCorrect rounded-md border border-green-500 bg-green-100 px-3 py-2 flex gap-1`}>
+					<IconCheck size={22} class="text-green-800" />
+					<div>
+						{@render FlashcardBack(flashcard)}
+					</div>
 				</div>
 			{/if}
 		</div>
