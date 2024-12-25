@@ -60,7 +60,7 @@
 			{#if flashcard.status === 'answering'}
 				<div class={`back rounded-b-md bg-slate-500 px-3 py-2`}>
 					<input
-						class="w-[30rem]"
+						class={`w-[30rem] ${flashcard.suppliedAnswer === flashcard.back ? 'bg-green-100' : ''}`}
 						bind:this={inputRefs[index]}
 						bind:value={flashcard.suppliedAnswer}
 						on:keydown={(e) => {
