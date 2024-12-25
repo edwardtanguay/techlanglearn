@@ -22,14 +22,15 @@
 			flashcard.status = 'correct';
 		} else {
 			flashcard.status = 'incorrect';
-			setTimeout(() => {
-				flashcard.suppliedAnswer = '';
-				flashcard.status = 'answering';
-				setTimeout(() => {
-					inputRefs[index]?.focus();
-				}, 10);
-			}, 5000);
 		}
+	};
+
+	const handleCloseFlashcard = (flashcard: Flashcard, index: number) => {
+		flashcard.suppliedAnswer = '';
+		flashcard.status = 'answering';
+		setTimeout(() => {
+			inputRefs[index]?.focus();
+		}, 10);
 	};
 </script>
 
@@ -72,10 +73,18 @@
 				<div class={`back rounded-b-md bg-slate-500 px-3 py-2`}>
 					<p class="text-red-800">{flashcard.suppliedAnswer}</p>
 					{@render FlashcardBack(flashcard)}
+					<div class="mt-2 flex justify-end">
+						<button
+							class="mb-1 rounded border border-slate-600 bg-slate-200 px-2 py-1 text-xs"
+							on:click={(e) => handleCloseFlashcard(flashcard, index)}>try again</button
+						>
+					</div>
 				</div>
 			{/if}
 			{#if flashcard.status === 'correct'}
-				<div class={`backCorrect rounded-md border border-green-500 bg-green-100 px-3 py-2 flex gap-1`}>
+				<div
+					class={`backCorrect flex gap-1 rounded-md border border-green-500 bg-green-100 px-3 py-2`}
+				>
 					<IconCheck size={22} class="text-green-800" />
 					<div>
 						{@render FlashcardBack(flashcard)}
