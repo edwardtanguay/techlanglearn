@@ -21,6 +21,12 @@ export const categories = (): Category[] => {
 			description: "interesting technology that probably won't be needed for a job"
 		},
 		{
+			idCode: 'personalPublishing',
+			name: 'personal publishing',
+			topics: ['obsstudio'],
+			description: 'tech that helps produce YouTube tech videos, etc.'
+		},
+		{
 			idCode: 'design',
 			name: 'design skills',
 			topics: ['grid', 'css', 'flexbox'],

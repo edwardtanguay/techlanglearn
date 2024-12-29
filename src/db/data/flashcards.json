@@ -3060,6 +3060,90 @@
 	},
 	{
 		"language": "es",
+		"front": "the more optimized the code is, the better the performance will be",
+		"back": "cuanto más optimizado esté el código, mejor será el rendimiento",
+		"whenCreated": "2024-12-29 19:21:51",
+		"extras": "the adjective \"cuanto\" (without accent) describes the noun \"más\";esté is subjunctive of estar"
+	},
+	{
+		"language": "es",
+		"front": "the time it took",
+		"back": "el tiempo que ha tardado",
+		"whenCreated": "2024-12-29 19:09:43",
+		"extras": "conj=tardar; tardar = regular verb"
+	},
+	{
+		"language": "es",
+		"front": "how long did the test take",
+		"back": "cuánto tiempo demoró la prueba",
+		"whenCreated": "2024-12-29 18:52:01",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "how long it took",
+		"back": "cuánto tiempo se demoró",
+		"whenCreated": "2024-12-29 18:50:01",
+		"extras": "conj=demorar; demorar = to delay, to take (time), regular verb"
+	},
+	{
+		"language": "es",
+		"front": "when software doesn't receive updates, it becomes vulnerable to attacks",
+		"back": "cuando un software no recibe actualizaciones, se vuelve vulnerable a ataques",
+		"whenCreated": "2024-12-29 18:45:49",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "where time is measured again",
+		"back": "donde se vuelve a medir el tiempo",
+		"whenCreated": "2024-12-29 18:44:31",
+		"extras": "conj=volver; volver = return, become; when followed by \"a medir\" it means \"to do something again\"; conj=medir; medir = to measure, irregular; mido = I measure"
+	},
+	{
+		"language": "es",
+		"front": "which indicates that",
+		"back": "lo que indica que",
+		"whenCreated": "2024-12-29 16:05:51",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "which will be called 001",
+		"back": "que se va a llamar 001",
+		"whenCreated": "2024-12-29 16:02:47",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "not the received function but the wrapper function",
+		"back": "no la función recibida sino la función wrapper",
+		"whenCreated": "2024-12-29 16:00:34",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "in the following code",
+		"back": "en el siguiente código",
+		"whenCreated": "2024-12-29 15:54:31",
+		"extras": "pr=see-g|ee-EN-tay"
+	},
+	{
+		"language": "es",
+		"front": "design pattern",
+		"back": "patron de diseño",
+		"whenCreated": "2024-12-29 15:51:06",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "are those that receive a function as a parameter",
+		"back": "son aquellas que reciben una función como parámetro",
+		"whenCreated": "2024-12-29 15:40:29",
+		"extras": ""
+	},
+	{
+		"language": "es",
 		"front": "if something goes wrong, go directly to tech support",
 		"back": "si algo sale mal, vaya directamente al soporte técnico",
 		"whenCreated": "2024-12-29 02:38:06",

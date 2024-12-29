@@ -56,6 +56,7 @@ accessibility; en; 2024; https://www.linkedin.com/learning/web-accessibility-for
 - python; es; https://www.linkedin.com/learning/search?entityType=COURSE&keywords=python
 - python; fr; https://www.linkedin.com/learning/search?entityType=COURSE&keywords=python
 
+
 - effeciency
 - ChatGPT use
 - en;2024; https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips
@@ -71,8 +72,7 @@ accessibility; en; 2024; https://www.linkedin.com/learning/web-accessibility-for
 - regex, en, 2024: https://www.linkedin.com/learning/learning-regular-expressions-15586553/write-text-matching-patterns
 - sp; 2023; https://www.linkedin.com/learning/domina-apache-kafka/aprendiendo-sobre-apache-kafka
 - rubyonrails
-- fr; rubyonrails; 2017;https://www.linkedin.com/learning/l-essentiel-de-ruby-on-rails
-- en; rubyonreails; 2024; https://www.linkedin.com/learning/hands-on-introduction-ruby-on-rails
+- en; rubyonreails; 2024; https://www.linkedin.com/learning/hands-on-introduction-ruby-on-rails 
 
 - FRINGE - probably won't use at a job, but interesting
 - Neovim: https://www.youtube.com/watch?v=m8C0Cq9Uv9o
@@ -83,6 +83,7 @@ accessibility; en; 2024; https://www.linkedin.com/learning/web-accessibility-for
 - Phoenix backend
 - https://www.youtube.com/watch?v=9xaN44PNxps&t=2198s
 - pyspark;es;2024; https://chatgpt.com/c/674f8067-dc3c-8005-b0ae-4aac70d20eff
+- https://www.linkedin.com/learning/l-essentiel-de-hive/tester-hadoop-2
 
 - Linux
 - SED: https://www.linkedin.com/learning/sed-essential-training/welcome
@@ -321,9 +322,30 @@ CREATED: go, grpc;en;01:09:00;2023;4.81;https://www.linkedin.com/learning/grpc-i
 CREATED: python, django;en;02:39:00;2024;4.95;https://www.linkedin.com/learning/django-essential-training-25094632; Django Essential Training ;Leticia Portella, nice voice, seems competent, long basic course on Django, good place to start, authentication, login, logout, signup, released Dec 2024
 CREATED: osbstudio;en;01:05:00;2024;4.95;https://www.linkedin.com/learning/live-streaming-with-obs-open-broadcaster-software;Live Streaming with OBS (Open Broadcaster Software);an hour-long course on OSB Studio, more of streaming instead of recording but a good overview
 CREATED: python;es;01:44:00;2023;4.91;https://www.linkedin.com/learning/python-avanzado-2/mejora-con-python-19000119; Python avanzado 2 ;another course by Ana María, she goes over classes, type hinting, mypy, closures, decorators, async, tests and SQLAlchemy
+CREATED: python;fr;02:08:00;2016;4.71;https://www.linkedin.com/learning/python-les-structures-de-donnees;Python : Les structures de données;old course (2016) but retro with Rudi Bruchez, unique, all about data
+CREATED: python;fr;02:33:00;2021;4.92;https://www.linkedin.com/learning/django-creer-un-blog; Django : Créer un blog ;Docstring has a clean accent, practical Django project
+CREATED: python;fr;01:16:00;2021;4.92;https://www.linkedin.com/learning/python-les-tests-unitaires; Python : Les tests unitaires ;Docstring, good course on Python testing
+CREATED: python;fr;02:06:00;2021;4.91;https://www.linkedin.com/learning/l-essentiel-de-django; L'essentiel de Django ;basics of Django, Docstring has nice accent, short
 
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 
 
+
+>>create>>python, pandas;fr;01:47:00;2021;4.95;https://www.linkedin.com/learning/pandas-pour-la-data-science; pandas pour la data science ;Docstring on pandas and Jupyter setup, good
+
+
+
+
+
+- ADD 2024-12-29
+https://www.linkedin.com/learning/python-les-fonctions-pour-la-data-science
+https://www.linkedin.com/learning/python-le-nettoyage-des-donnees
+https://www.linkedin.com/learning/python-l-analyse-de-donnees/effectuer-des-operations-avancees-sur-les-listes
+more python with Alison Patou: https://www.linkedin.com/learning/instructors/alison-patou
+
+
+fr, linux: https://www.linkedin.com/learning/linux-l-administration-avancee/aborder-ramdisk?resume=false

@@ -8,6 +8,7 @@ https://www.linkedin.com/learning/live-streaming-with-obs-open-broadcaster-softw
 - rank: 4.95
 - description: an hour-long course on OSB Studio, more of streaming instead of recording but a good overview
 - year: 2024
+- status: watched intro videos
 
 ## Unlock the potential of your live streams with OBS, 00:50, 2024-12-20
 

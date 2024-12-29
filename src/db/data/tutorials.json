@@ -309,7 +309,7 @@
 		"description": "an hour-long course on OSB Studio, more of streaming instead of recording but a good overview",
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-live-streaming-with-obs-open-broadcaster-software",
-		"status": ""
+		"status": "watched intro videos"
 	},
 	{
 		"topics": "nextjs, mongo",
@@ -689,6 +689,32 @@
 		"status": "not started yet"
 	},
 	{
+		"topics": "python",
+		"language": "fr",
+		"duration": "02:33:00",
+		"year": "2021",
+		"rank": "4.92",
+		"url": "https://www.linkedin.com/learning/django-creer-un-blog",
+		"title": "Django : Créer un blog",
+		"description": "Docstring has a clean accent, practical Django project",
+		"platform": "linkedInLearning",
+		"fileIdCode": "fr-ll-django-crer-un-blog",
+		"status": ""
+	},
+	{
+		"topics": "python",
+		"language": "fr",
+		"duration": "02:06:00",
+		"year": "2021",
+		"rank": "4.91",
+		"url": "https://www.linkedin.com/learning/l-essentiel-de-django",
+		"title": "L'essentiel de Django",
+		"description": "basics of Django, Docstring has nice accent, short",
+		"platform": "linkedInLearning",
+		"fileIdCode": "fr-ll-lessentiel-de-django",
+		"status": ""
+	},
+	{
 		"topics": "githubActions",
 		"language": "fr",
 		"duration": "02:03:00",
@@ -712,6 +738,32 @@
 		"description": "Julian Layen teaches this, comprehensive, uses Laravel 10 released Feb 2023, version 11 was release Mar 2024, but this is a new, long course in French",
 		"platform": "linkedInLearning",
 		"fileIdCode": "fr-ll-lessentiel-de-laravel",
+		"status": ""
+	},
+	{
+		"topics": "python",
+		"language": "fr",
+		"duration": "02:08:00",
+		"year": "2016",
+		"rank": "4.71",
+		"url": "https://www.linkedin.com/learning/python-les-structures-de-donnees",
+		"title": "Python : Les structures de données",
+		"description": "old course (2016) but retro with Rudi Bruchez, unique, all about data",
+		"platform": "linkedInLearning",
+		"fileIdCode": "fr-ll-python-les-structures-de-donnes",
+		"status": ""
+	},
+	{
+		"topics": "python",
+		"language": "fr",
+		"duration": "01:16:00",
+		"year": "2021",
+		"rank": "4.92",
+		"url": "https://www.linkedin.com/learning/python-les-tests-unitaires",
+		"title": "Python : Les tests unitaires",
+		"description": "Docstring, good course on Python testing",
+		"platform": "linkedInLearning",
+		"fileIdCode": "fr-ll-python-les-tests-unitaires",
 		"status": ""
 	},
 	{

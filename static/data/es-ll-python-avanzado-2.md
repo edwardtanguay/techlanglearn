@@ -90,21 +90,88 @@ https://www.linkedin.com/learning/python-avanzado-2/closures-funciones-anidadas-
 
 - we have local and global scope
 
-## Creando una función closure, 3:27, 2024-12-29
+## Creando una función closure, 3:27, 2024-12-28
 
 https://www.linkedin.com/learning/python-avanzado-2/creando-una-funcion-closure-18994445?autoSkip=true&resume=false
 
 - one function returns another
 
-## Requisitos para aprender decoradores, 1:09, nnn
+## Requisitos para aprender decoradores, 1:09, 2024-12-29
 
 https://www.linkedin.com/learning/python-avanzado-2/requisitos-para-aprender-decoradores-18993504?autoSkip=true&resume=false
+
+- adds functionality without changing the struture of the function
+- functions are first class objects
+
+## Qué es un decorador, 3:35, 2024-12-29
+
+https://www.linkedin.com/learning/python-avanzado-2/que-es-un-decorador-18995350?autoSkip=true&resume=false
+
+- extend functionality without changing the function
+
+## Cómo crear un decorador, 2:58, 2024-12-29
+
+https://www.linkedin.com/learning/python-avanzado-2/como-crear-un-decorador-18996335?resume=false
+
+- example with a decorator that tells how long a function takes to execute
+
+## Decoradores y funciones con parámetros, 2:18, nnn
+
+https://www.linkedin.com/learning/python-avanzado-2/decoradores-y-funciones-con-parametros-18993505?autoSkip=true&resume=false
 
 - nnn
 
 ## VOCAB - SPANISH
 
 ```
+the more optimized the code is, the better the performance will be
+cuanto más optimizado esté el código, mejor será el rendimiento;the adjective "cuanto" (without accent) describes the noun "más";esté is subjunctive of estar
+2024-12-29 19:21:51
+
+the time it took
+el tiempo que ha tardado; conj=tardar; tardar = regular verb
+2024-12-29 19:09:43
+
+how long did the test take
+cuánto tiempo demoró la prueba
+2024-12-29 18:52:01
+
+how long it took
+cuánto tiempo se demoró; conj=demorar; demorar = to delay, to take (time), regular verb
+2024-12-29 18:50:01
+
+when software doesn't receive updates, it becomes vulnerable to attacks
+cuando un software no recibe actualizaciones, se vuelve vulnerable a ataques
+2024-12-29 18:45:49
+
+where time is measured again
+donde se vuelve a medir el tiempo; conj=volver; volver = return, become; when followed by "a medir" it means "to do something again"; conj=medir; medir = to measure, irregular; mido = I measure
+2024-12-29 18:44:31
+
+which indicates that
+lo que indica que
+2024-12-29 16:05:51
+
+which will be called 001
+que se va a llamar 001
+2024-12-29 16:02:47
+
+not the received function but the wrapper function
+no la función recibida sino la función wrapper
+2024-12-29 16:00:34
+
+in the following code
+en el siguiente código; pr=see-g|ee-EN-tay
+2024-12-29 15:54:31
+
+design pattern
+patron de diseño
+2024-12-29 15:51:06
+
+are those that receive a function as a parameter
+son aquellas que reciben una función como parámetro
+2024-12-29 15:40:29
+
 if something goes wrong, go directly to tech support
 si algo sale mal, vaya directamente al soporte técnico; vaya = affirmative imperitive for Usted; conj=ir; familiar form = ve / no vayas
 2024-12-29 02:38:06
