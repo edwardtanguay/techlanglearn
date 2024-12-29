@@ -60,15 +60,171 @@ https://www.linkedin.com/learning/python-avanzado-2/clases-en-python-18997291?au
 - classes are upper camelcase
 - two kinds of attributes: class and instance
 
-## Herencia en Python, 7:04, nnn
+## Herencia en Python, 7:04, 2024-12-25
 
 https://www.linkedin.com/learning/python-avanzado-2/herencia-en-python-18997289?autoSkip=true&resume=false
+
+- class Employee(Person):
+
+## Herencia múltiple en Python, 4:58, 2024-12-27
+
+https://www.linkedin.com/learning/python-avanzado-2/herencia-multiple-en-python-18995345?autoSkip=true&resume=false
+
+- a child class has methods and attributes from both classes
+- creates a class that inherits from two classes that have the same methods and different methods
+- for the method that is shared, it uses the method from the first class
+  - referred to as MRO (Method Resolution Order)
+- also multi-level inheritance
+- she shows how you can have children and grandchildren of classes
+
+## Sobrecarga de operadores, 4:04, 2024-12-27
+
+https://www.linkedin.com/learning/python-avanzado-2/sobrecarga-de-operadores-18998251?autoSkip=true&resume=false
+
+- plus is used for numbers and strings
+- does add and lt
+
+## Closures: funciones anidadas, 3:40, 2024-12-28
+
+https://www.linkedin.com/learning/python-avanzado-2/closures-funciones-anidadas-18995347?autoSkip=true&resume=false
+
+- we have local and global scope
+
+## Creando una función closure, 3:27, 2024-12-29
+
+https://www.linkedin.com/learning/python-avanzado-2/creando-una-funcion-closure-18994445?autoSkip=true&resume=false
+
+- one function returns another
+
+## Requisitos para aprender decoradores, 1:09, nnn
+
+https://www.linkedin.com/learning/python-avanzado-2/requisitos-para-aprender-decoradores-18993504?autoSkip=true&resume=false
 
 - nnn
 
 ## VOCAB - SPANISH
 
 ```
+if something goes wrong, go directly to tech support
+si algo sale mal, vaya directamente al soporte técnico; vaya = affirmative imperitive for Usted; conj=ir; familiar form = ve / no vayas
+2024-12-29 02:38:06
+
+each value that is added
+cada valor que se vaya agregando; conj=ir; vaya = subjunctive of ir
+2024-12-29 02:36:22
+
+let's check if it meets the conditions
+revisemos que si cumple con las condiciones;conj=revisar; revisemos is affirmative imperitive (subjunctive); revisamos = we check
+2024-12-29 02:27:05
+
+and that is where the items that are added will be saved
+y es ahí donde se van a guardar los elementos que sean agregadas
+2024-12-29 02:21:47
+
+to be responsible for adding
+que se encargue de agregar;conj=encargar; encargue is subjunctive; encargar = entrust / order; se encargar = take charge / handle
+2024-12-29 02:13:28
+
+for it to be a closure, there must be a nested function
+para que sea un closure, debe haber una función anidada; rank=4.9
+2024-12-28 22:34:26
+
+therefore, it has access to the variables
+por lo tanto, tiene acceso a las variables
+2024-12-28 22:29:38
+
+since we have seen what a scope is
+ya que hemos visto qué es un scope
+2024-12-28 22:05:32
+
+outside of any function
+por fuera de cualquier función
+2024-12-28 22:02:23
+
+if remote access were denied, try to check if the server is offline
+si el acceso remoto fuere denegado, intenta verificar si el servidor está fuera de línea; note the difference between "fuere" and "fuera"
+2024-12-28 21:58:47
+
+outside the function
+por fuera de la función
+2024-12-28 21:56:11
+
+when defining a variable
+al definir una variable
+2024-12-28 21:55:06
+
+belongs to the local scope of that function
+pertenece al scope local de esa función
+2024-12-28 21:16:36
+
+any variable that is created
+cualquier variable que sea creada
+2024-12-28 21:15:19
+
+we refer to scope
+nos referimos a scope; this is reflexive, the same as "nosotros nos referimos a scope"
+2024-12-28 13:33:58
+
+funciones anidadas
+nested functions
+2024-12-28 13:32:40
+
+before understanding what we are referring to
+antes de entender a qué hacemos referencia
+2024-12-28 13:31:59
+
+Paco has traveled 20 units
+Paco ha recorrido 20 unidades
+2024-12-27 13:25:56
+
+this time the number 20 has been printed
+esta vez se ha impreso el número 20; conj=imprimir; both imprimido and impreso are past participles of imprimir
+2024-12-27 13:19:12
+
+whose constructor receives name and age
+cuyo constructor recibe nombre y edad
+2024-12-27 13:05:07
+
+double underscore at the beginning and end
+doble guion bajo al inicio y al final
+2024-12-27 13:02:49
+
+one that belongs to this
+uno que pertenece a esto
+2024-12-27 12:40:56
+
+the code is a little more readable and easier to understand
+el código es un poco más legible y facíl de entender
+2024-12-25 15:34:07
+
+since inherited classes can take advantage of functions that already exist in the parent class
+ya que las clases heredadas pueden aprovechar funciones que ya existen en la clase padre
+2024-12-25 15:32:44
+
+it is important to highlight that
+es importante resaltar que
+2024-12-25 15:30:32
+
+arguments required by the parent class
+argumentos requeridos por la clase padre
+2024-12-25 15:25:45
+
+we can override the characteristics
+podemos sobrescribir las características
+2024-12-25 15:22:40
+
+with the class statement
+con la sentencia class
+2024-12-25 15:13:32
+
+it also has two methods
+también cuenta con dos métodos
+2024-12-25 15:09:10
+
+they have methods of the class from which they are created
+tienen métodos de la clase a partir de la cual son creadas
+2024-12-25 14:46:22
+
 this time we got an error
 esta vez nos ha salido un error
 2024-12-24 08:55:29

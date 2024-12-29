@@ -3060,6 +3060,216 @@
 	},
 	{
 		"language": "es",
+		"front": "if something goes wrong, go directly to tech support",
+		"back": "si algo sale mal, vaya directamente al soporte técnico",
+		"whenCreated": "2024-12-29 02:38:06",
+		"extras": "vaya = affirmative imperitive for Usted; conj=ir; familiar form = ve / no vayas"
+	},
+	{
+		"language": "es",
+		"front": "each value that is added",
+		"back": "cada valor que se vaya agregando",
+		"whenCreated": "2024-12-29 02:36:22",
+		"extras": "conj=ir; vaya = subjunctive of ir"
+	},
+	{
+		"language": "es",
+		"front": "let's check if it meets the conditions",
+		"back": "revisemos que si cumple con las condiciones",
+		"whenCreated": "2024-12-29 02:27:05",
+		"extras": "conj=revisar; revisemos is affirmative imperitive (subjunctive); revisamos = we check"
+	},
+	{
+		"language": "es",
+		"front": "and that is where the items that are added will be saved",
+		"back": "y es ahí donde se van a guardar los elementos que sean agregadas",
+		"whenCreated": "2024-12-29 02:21:47",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "to be responsible for adding",
+		"back": "que se encargue de agregar",
+		"whenCreated": "2024-12-29 02:13:28",
+		"extras": "conj=encargar; encargue is subjunctive; encargar = entrust / order; se encargar = take charge / handle"
+	},
+	{
+		"language": "es",
+		"front": "for it to be a closure, there must be a nested function",
+		"back": "para que sea un closure, debe haber una función anidada",
+		"whenCreated": "2024-12-28 22:34:26",
+		"extras": "rank=4.9"
+	},
+	{
+		"language": "es",
+		"front": "therefore, it has access to the variables",
+		"back": "por lo tanto, tiene acceso a las variables",
+		"whenCreated": "2024-12-28 22:29:38",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "since we have seen what a scope is",
+		"back": "ya que hemos visto qué es un scope",
+		"whenCreated": "2024-12-28 22:05:32",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "outside of any function",
+		"back": "por fuera de cualquier función",
+		"whenCreated": "2024-12-28 22:02:23",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "if remote access were denied, try to check if the server is offline",
+		"back": "si el acceso remoto fuere denegado, intenta verificar si el servidor está fuera de línea",
+		"whenCreated": "2024-12-28 21:58:47",
+		"extras": "note the difference between \"fuere\" and \"fuera\""
+	},
+	{
+		"language": "es",
+		"front": "outside the function",
+		"back": "por fuera de la función",
+		"whenCreated": "2024-12-28 21:56:11",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "when defining a variable",
+		"back": "al definir una variable",
+		"whenCreated": "2024-12-28 21:55:06",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "belongs to the local scope of that function",
+		"back": "pertenece al scope local de esa función",
+		"whenCreated": "2024-12-28 21:16:36",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "any variable that is created",
+		"back": "cualquier variable que sea creada",
+		"whenCreated": "2024-12-28 21:15:19",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "we refer to scope",
+		"back": "nos referimos a scope",
+		"whenCreated": "2024-12-28 13:33:58",
+		"extras": "this is reflexive, the same as \"nosotros nos referimos a scope\""
+	},
+	{
+		"language": "es",
+		"front": "funciones anidadas",
+		"back": "nested functions",
+		"whenCreated": "2024-12-28 13:32:40",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "before understanding what we are referring to",
+		"back": "antes de entender a qué hacemos referencia",
+		"whenCreated": "2024-12-28 13:31:59",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "Paco has traveled 20 units",
+		"back": "Paco ha recorrido 20 unidades",
+		"whenCreated": "2024-12-27 13:25:56",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "this time the number 20 has been printed",
+		"back": "esta vez se ha impreso el número 20",
+		"whenCreated": "2024-12-27 13:19:12",
+		"extras": "conj=imprimir; both imprimido and impreso are past participles of imprimir"
+	},
+	{
+		"language": "es",
+		"front": "whose constructor receives name and age",
+		"back": "cuyo constructor recibe nombre y edad",
+		"whenCreated": "2024-12-27 13:05:07",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "double underscore at the beginning and end",
+		"back": "doble guion bajo al inicio y al final",
+		"whenCreated": "2024-12-27 13:02:49",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "one that belongs to this",
+		"back": "uno que pertenece a esto",
+		"whenCreated": "2024-12-27 12:40:56",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "the code is a little more readable and easier to understand",
+		"back": "el código es un poco más legible y facíl de entender",
+		"whenCreated": "2024-12-25 15:34:07",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "since inherited classes can take advantage of functions that already exist in the parent class",
+		"back": "ya que las clases heredadas pueden aprovechar funciones que ya existen en la clase padre",
+		"whenCreated": "2024-12-25 15:32:44",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "it is important to highlight that",
+		"back": "es importante resaltar que",
+		"whenCreated": "2024-12-25 15:30:32",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "arguments required by the parent class",
+		"back": "argumentos requeridos por la clase padre",
+		"whenCreated": "2024-12-25 15:25:45",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "we can override the characteristics",
+		"back": "podemos sobrescribir las características",
+		"whenCreated": "2024-12-25 15:22:40",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "with the class statement",
+		"back": "con la sentencia class",
+		"whenCreated": "2024-12-25 15:13:32",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "it also has two methods",
+		"back": "también cuenta con dos métodos",
+		"whenCreated": "2024-12-25 15:09:10",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "they have methods of the class from which they are created",
+		"back": "tienen métodos de la clase a partir de la cual son creadas",
+		"whenCreated": "2024-12-25 14:46:22",
+		"extras": ""
+	},
+	{
+		"language": "es",
 		"front": "this time we got an error",
 		"back": "esta vez nos ha salido un error",
 		"whenCreated": "2024-12-24 08:55:29",
