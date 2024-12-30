@@ -1,3 +1,8 @@
+
+
+
+
+
 - ****
 - videos on tech video production and editing
 - capcut.com
@@ -24,7 +29,6 @@
 - https://www.linkedin.com/learning/next-js-grundkurs
 
 - pycharm
-- https://www.linkedin.com/learning/learning-python-with-pycharm-14509667/software-development-and-pycharm
 
 - accessibility, canvas; en; 2024; https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/design-better-presentations-in-canva
 accessibility; en; 2024; https://www.linkedin.com/learning/web-accessibility-for-developers/take-the-mystery-out-of-web-accessibility
@@ -238,7 +242,6 @@ haskell; sp; https://www.youtube.com/watch?v=mXroxy93nXg
 
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 
 
 
@@ -246,6 +249,13 @@ haskell; sp; https://www.youtube.com/watch?v=mXroxy93nXg
 
 
 ``ADD new courses
+- Svelte 5 topics: https://www.youtube.com/watch?v=SweBnOI2aVg&list=PLMCy_zQt47wz9hlw_CY-2yS7fe30sgkVi
+- Svelte 5 topics: https://www.youtube.com/watch?v=dgaPk6KRFfM&list=PLMCy_zQt47wwC7FWf5tZBcSB5GVSgrb_4
+- svelte hooks: https://www.youtube.com/watch?v=7KE3cjoPbSc
+- environment variables in svelte: https://www.youtube.com/watch?v=AAevpUqsoEI
+- do all these: https://www.youtube.com/@HunterScript/videos
+
+
 - french flask, 2024
 - french/sqlite/retro: https://www.linkedin.com/learning/l-essentiel-de-sqlite
 - french linux
@@ -353,3 +363,4 @@ CREATED: npm;fr;01:30:00;2019;4.42;https://www.linkedin.com/learning/l-essentiel
 CREATED: flash,python;fr;02:21:00;2024;4.99; https://www.linkedin.com/learning/l-essentiel-de-flask/bienvenue-dans-l-essentiel-de-flask ; L'essentiel de Flask ;Sylvain Labasse 2024, full course on Flash, very nice
 CREATED: python, ai;fr;02:00:00;2024;4.981;https://www.linkedin.com/learning/creer-des-agents-ia-avec-langchain-et-llamaindex; Créer des agents IA avec LangChain et LlamaIndex ;good French course for Python AI libraries, Madjid Khichane
 CREATED: scala;fr;02:48:00;2023;4.33;https://www.linkedin.com/learning/l-essentiel-de-scala/bienvenue-dans-l-essentiel-de-scala; L'essentiel de Scala ;Scala in French, new course
+CREATED: pycharm, python;en;02:25:00;2022;4.53;https://www.linkedin.com/learning/learning-python-with-pycharm-14509667/software-development-and-pycharm ; L'essentiel de Flask ;English course that shows how to use PyCharm, 2022

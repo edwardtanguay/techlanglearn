@@ -82,16 +82,8 @@ type Mutation {
 
 -
 
-## VOCAB - SPANISH
+## VOCAB - ITALIAN
 
 ```
-now let's move onto the terminal
-ahora pasemos a la terminal
-
-will return a result
-va a devolver un resultado
-
-just to give an example
-solo para dar un ejemplo
 
 ```

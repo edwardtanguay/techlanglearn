@@ -371,6 +371,27 @@
 		"extras": ""
 	},
 	{
+		"language": "it",
+		"front": "easy to maintain",
+		"back": "facili da mantenere",
+		"whenCreated": "2024-12-30 11:44:18",
+		"extras": "pr=[FAH-chee-lee da man-ten-NAIR-eh]"
+	},
+	{
+		"language": "it",
+		"front": "software development",
+		"back": "sviluppo del software",
+		"whenCreated": "2024-12-30 11:37:38",
+		"extras": "pr=zvee-LOOP-oh"
+	},
+	{
+		"language": "it",
+		"front": "in our programs",
+		"back": "nei nostri programmi",
+		"whenCreated": "2024-12-30 11:39:12",
+		"extras": "pr=nay"
+	},
+	{
 		"language": "es",
 		"front": "I'll guide you through everything",
 		"back": "voy a guiarte a través de todo",
@@ -668,27 +689,6 @@
 		"language": "es",
 		"front": "we want to add authentication",
 		"back": "queremos agregar autenticación",
-		"whenCreated": "2024-12-01 00:00:00",
-		"extras": ""
-	},
-	{
-		"language": "es",
-		"front": "now let's move onto the terminal",
-		"back": "ahora pasemos a la terminal",
-		"whenCreated": "2024-12-01 00:00:00",
-		"extras": ""
-	},
-	{
-		"language": "es",
-		"front": "will return a result",
-		"back": "va a devolver un resultado",
-		"whenCreated": "2024-12-01 00:00:00",
-		"extras": ""
-	},
-	{
-		"language": "es",
-		"front": "just to give an example",
-		"back": "solo para dar un ejemplo",
 		"whenCreated": "2024-12-01 00:00:00",
 		"extras": ""
 	},
@@ -3060,6 +3060,62 @@
 	},
 	{
 		"language": "es",
+		"front": "now let's move onto the terminal",
+		"back": "ahora pasemos a la terminal",
+		"whenCreated": "2024-12-01 00:00:00",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "will return a result",
+		"back": "va a devolver un resultado",
+		"whenCreated": "2024-12-01 00:00:00",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "just to give an example",
+		"back": "solo para dar un ejemplo",
+		"whenCreated": "2024-12-01 00:00:00",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "instead of leaving the number five by default",
+		"back": "en vez de dejar el número cinco por defecto",
+		"whenCreated": "2024-12-30 10:58:52",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "but what if we wanted to add a parameter to it",
+		"back": "pero qué pasaría si quisiéramos agregarle un parámetro",
+		"whenCreated": "2024-12-30 10:49:14",
+		"extras": "conj=querer; pasaría = conditional; quisiéramos = imperfect subjunctive 1; rank=4.93"
+	},
+	{
+		"language": "es",
+		"front": "the loop function",
+		"back": "la función recorrer ciclo",
+		"whenCreated": "2024-12-30 10:46:34",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "which iterates over a range of five",
+		"back": "que itera sobre un rango de cinco",
+		"whenCreated": "2024-12-30 10:43:49",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "that measures time",
+		"back": "que mide el tiempo",
+		"whenCreated": "2024-12-30 10:42:59",
+		"extras": ""
+	},
+	{
+		"language": "es",
 		"front": "the more optimized the code is, the better the performance will be",
 		"back": "cuanto más optimizado esté el código, mejor será el rendimiento",
 		"whenCreated": "2024-12-29 19:21:51",
@@ -4239,6 +4295,34 @@
 		"front": "stop using patterns unnecessarily complex",
 		"back": "dejar de usar patrones innecesariamente complejos",
 		"whenCreated": "2024-12-01 00:00:00",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "I define the first route",
+		"back": "je définis le premiere route",
+		"whenCreated": "2024-12-30 08:42:25",
+		"extras": "présent and passé simple: je définis"
+	},
+	{
+		"language": "fr",
+		"front": "since we will add more as we go along",
+		"back": "puisqu'on va en ajouter au fur et à mesure",
+		"whenCreated": "2024-12-30 08:37:39",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "as is customary on Python projects",
+		"back": "comme il est d'usage sur les projets Python",
+		"whenCreated": "2024-12-30 08:20:38",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "you will learn how to sketch and structure your web applications",
+		"back": "tu apprendras à esquisser et à structurer tes applications web",
+		"whenCreated": "2024-12-30 08:18:20",
 		"extras": ""
 	},
 	{

@@ -286,6 +286,19 @@
 		"status": "watched first 2 videos, fringe and no-code but interesting"
 	},
 	{
+		"topics": "pycharm, python",
+		"language": "en",
+		"duration": "02:25:00",
+		"year": "2022",
+		"rank": "4.53",
+		"url": "https://www.linkedin.com/learning/learning-python-with-pycharm-14509667/software-development-and-pycharm",
+		"title": "L'essentiel de Flask",
+		"description": "English course that shows how to use PyCharm, 2022",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-lessentiel-de-flask",
+		"status": ""
+	},
+	{
 		"topics": "go",
 		"language": "en",
 		"duration": "01:36:00",
@@ -634,7 +647,7 @@
 		"description": "another course by Ana María, she goes over classes, type hinting, mypy, closures, decorators, async, tests and SQLAlchemy",
 		"platform": "linkedInLearning",
 		"fileIdCode": "es-ll-python-avanzado-2",
-		"status": ""
+		"status": "good course, half way through, OOP, decorators, etc."
 	},
 	{
 		"topics": "react, monorepos",
@@ -748,7 +761,7 @@
 		"rank": "4.99",
 		"url": "https://www.linkedin.com/learning/l-essentiel-de-flask/bienvenue-dans-l-essentiel-de-flask",
 		"title": "L'essentiel de Flask",
-		"description": "Sylvain Labasse 2024, full course on Flash, very nice",
+		"description": "Sylvain Labasse 2024, full course on Flash, very nice, uses both VSCode and PyCharm side-by-side",
 		"platform": "linkedInLearning",
 		"fileIdCode": "fr-ll-lessentiel-de-flask",
 		"status": ""

@@ -8,6 +8,7 @@ https://www.linkedin.com/learning/python-avanzado-2/mejora-con-python-19000119
 - rank: 4.91
 - description: another course by Ana María, she goes over classes, type hinting, mypy, closures, decorators, async, tests and SQLAlchemy
 - year: 2023
+- status: good course, half way through, OOP, decorators, etc.
 
 ## Mejora con Python, 0:42, 2024-12-23
 
@@ -115,15 +116,50 @@ https://www.linkedin.com/learning/python-avanzado-2/como-crear-un-decorador-1899
 
 - example with a decorator that tells how long a function takes to execute
 
-## Decoradores y funciones con parámetros, 2:18, nnn
+## Decoradores y funciones con parámetros, 2:18, 2024-12-30
 
 https://www.linkedin.com/learning/python-avanzado-2/decoradores-y-funciones-con-parametros-18993505?autoSkip=true&resume=false
+
+- *args, **kwargs
+
+## Uso de múltiples decoradores de manera simultánea, 2:46, nnn
+
+https://www.linkedin.com/learning/python-avanzado-2/uso-de-multiples-decoradores-de-manera-simultanea-18997288?autoSkip=true&resume=false
 
 - nnn
 
 ## VOCAB - SPANISH
 
 ```
+now let's move onto the terminal
+ahora pasemos a la terminal
+
+will return a result
+va a devolver un resultado
+
+just to give an example
+solo para dar un ejemplo
+
+instead of leaving the number five by default
+en vez de dejar el número cinco por defecto
+2024-12-30 10:58:52
+
+but what if we wanted to add a parameter to it
+pero qué pasaría si quisiéramos agregarle un parámetro;conj=querer; pasaría = conditional; quisiéramos = imperfect subjunctive 1; rank=4.93
+2024-12-30 10:49:14
+
+the loop function
+la función recorrer ciclo
+2024-12-30 10:46:34
+
+which iterates over a range of five
+que itera sobre un rango de cinco
+2024-12-30 10:43:49
+
+that measures time
+que mide el tiempo
+2024-12-30 10:42:59
+
 the more optimized the code is, the better the performance will be
 cuanto más optimizado esté el código, mejor será el rendimiento;the adjective "cuanto" (without accent) describes the noun "más";esté is subjunctive of estar
 2024-12-29 19:21:51
