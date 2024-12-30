@@ -11,7 +11,7 @@ export const categories = (): Category[] => {
 		{
 			idCode: 'retro',
 			name: 'retro tech',
-			topics: ['vba', 'php', 'perl', 'java', 'googleSheets', 'regex', 'canvas'],
+			topics: ['vba', 'php', 'perl', 'java', 'googleSheets', 'regex', 'canvas', 'npm', 'webpack', 'scala'],
 			description: 'technology that reminds me of developing back in the day'
 		},
 		{

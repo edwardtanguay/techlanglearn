@@ -15,10 +15,9 @@
 - good teacher for devops: https://www.linkedin.com/learning/instructors/josh-samuelson
 
 - shadcn
-
 - clojure
 
-- full course on Flash/SQLAlchemy: https://www.youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX
+- full course on Flask/SQLAlchemy: https://www.youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX
 - css animations/transitions, french: https://www.linkedin.com/learning/css-animations-et-transitions-22819867/utiliser-la-transformation-translate
 
 - next.js 14, german
@@ -33,6 +32,7 @@ accessibility; en; 2024; https://www.linkedin.com/learning/web-accessibility-for
 - elasticsearch: https://www.linkedin.com/learning/elasticsearch-essential-training-18773441
 - elasticstack: https://www.linkedin.com/learning/learning-elastic-stack
 
+- frech/python teacher: https://www.linkedin.com/learning/instructors/madjid-khichane
 
 - git
 - VSCode for Python: https://www.youtube.com/watch?v=F60iJ3xxgtg
@@ -72,7 +72,7 @@ accessibility; en; 2024; https://www.linkedin.com/learning/web-accessibility-for
 - regex, en, 2024: https://www.linkedin.com/learning/learning-regular-expressions-15586553/write-text-matching-patterns
 - sp; 2023; https://www.linkedin.com/learning/domina-apache-kafka/aprendiendo-sobre-apache-kafka
 - rubyonrails
-- en; rubyonreails; 2024; https://www.linkedin.com/learning/hands-on-introduction-ruby-on-rails 
+- en; rubyonreails; 2024; https://www.linkedin.com/learning/hands-on-introduction-ruby-on-rails
 
 - FRINGE - probably won't use at a job, but interesting
 - Neovim: https://www.youtube.com/watch?v=m8C0Cq9Uv9o
@@ -141,33 +141,6 @@ accessibility; en; 2024; https://www.linkedin.com/learning/web-accessibility-for
 
 - english courses
 - https://www.linkedin.com/learning/topics/technology?durations=BETWEEN_30_TO_60_MIN~BETWEEN_1_TO_2_HOURS~BETWEEN_2_TO_3_HOURS~MORE_THAN_3_HOURS&entityType=COURSE&software=C%23~React.js~GitHub~Microsoft%20Excel~Python~JavaScript~Linux~CSS~ChatGPT&sortBy=RECENCY
-
-- french flask, 2024
-- https://www.linkedin.com/learning/l-essentiel-de-flask/bienvenue-dans-l-essentiel-de-flask
-- french linux
-- https://www.linkedin.com/learning/linux-l-administration-avancee/comprendre-le-principe-de-systemd?resume=false
-- french vue.js 3, 2024
-- https://www.linkedin.com/learning/l-essentiel-de-vue-js-22426755/installer-vue-js?resume=false
-- french dotnet 8 with VSCode
-- https://www.linkedin.com/learning/l-essentiel-de-dot-net-8/integrer-les-dates-et-le-temps?resume=false
-- french API with MongoDB, 2024
-- https://www.linkedin.com/learning/construire-des-api-restful-avec-node-js/bienvenue-dans-construire-des-api-restful-avec-node-js
-- french redux, context, reducer, recoil, 2024
-- https://www.linkedin.com/learning/react-js-gerer-les-etats-d-application-22389783/bienvenue-dans-react-js-gerer-les-etats-d-application
-- french React design patterns
-- https://www.linkedin.com/learning/react-design-patterns-10416007/bienvenue-dans-react-design-patterns
-- french css animations, 2023
-- https://www.linkedin.com/learning/css-animations-et-transitions-22819867/utiliser-la-transformation-translate
-- french grid
-- https://www.linkedin.com/learning/css-apprendre-le-grid-layout/bienvenue-dans-css-apprendre-le-grid-layout
-- french flexbox
-- https://www.linkedin.com/learning/css-maitriser-les-flexbox/bienvenue-dans-css-maitriser-les-flexbox
-- french, node and databases, 2023
-- https://www.linkedin.com/learning/node-js-les-bases-de-donnees/bienvenue-dans-node-js-les-bases-de-donnees
-- french javascript design patterns
-- https://www.linkedin.com/learning/javascript-les-design-patterns/utiliser-la-solution-du-module-design-pattern?resume=false
-- french create npm package
-- https://www.linkedin.com/learning/l-essentiel-de-node-package-manager-npm/ajouter-des-scripts-dans-package-json
 
 - github bots
 - https://www.linkedin.com/learning/building-github-bots/examples-of-github-bots?resume=false
@@ -261,6 +234,52 @@ go: do these videos https://www.youtube.com/@charmcli/videos
 ---
 haskell; sp; https://www.youtube.com/watch?v=mXroxy93nXg
 
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+
+
+
+
+
+
+``ADD new courses
+- french flask, 2024
+- french/sqlite/retro: https://www.linkedin.com/learning/l-essentiel-de-sqlite
+- french linux
+- https://www.linkedin.com/learning/linux-l-administration-avancee/comprendre-le-principe-de-systemd?resume=false
+- french vue.js 3, 2024
+- https://www.linkedin.com/learning/l-essentiel-de-vue-js-22426755/installer-vue-js?resume=false
+- french dotnet 8 with VSCode
+- https://www.linkedin.com/learning/l-essentiel-de-dot-net-8/integrer-les-dates-et-le-temps?resume=false
+- french API with MongoDB, 2024
+- https://www.linkedin.com/learning/construire-des-api-restful-avec-node-js/bienvenue-dans-construire-des-api-restful-avec-node-js
+- french redux, context, reducer, recoil, 2024
+- https://www.linkedin.com/learning/react-js-gerer-les-etats-d-application-22389783/bienvenue-dans-react-js-gerer-les-etats-d-application
+- french css animations, 2023
+- https://www.linkedin.com/learning/css-animations-et-transitions-22819867/utiliser-la-transformation-translate
+- french grid
+- https://www.linkedin.com/learning/css-apprendre-le-grid-layout/bienvenue-dans-css-apprendre-le-grid-layout
+- french flexbox
+- https://www.linkedin.com/learning/css-maitriser-les-flexbox/bienvenue-dans-css-maitriser-les-flexbox
+- french, node and databases, 2023
+- https://www.linkedin.com/learning/node-js-les-bases-de-donnees/bienvenue-dans-node-js-les-bases-de-donnees
+- french javascript design patterns
+- https://www.linkedin.com/learning/javascript-les-design-patterns/utiliser-la-solution-du-module-design-pattern?resume=false
+- french create npm package
+- https://www.linkedin.com/learning/l-essentiel-de-node-package-manager-npm/ajouter-des-scripts-dans-package-json
+
+https://www.linkedin.com/learning/python-les-fonctions-pour-la-data-science
+https://www.linkedin.com/learning/python-le-nettoyage-des-donnees
+https://www.linkedin.com/learning/python-l-analyse-de-donnees/effectuer-des-operations-avancees-sur-les-listes
+more python with Alison Patou: https://www.linkedin.com/learning/instructors/alison-patou
+
+
+fr, linux: https://www.linkedin.com/learning/linux-l-administration-avancee/aborder-ramdisk?resume=false
+
+
 ---
 CREATED: kinde; en; 00:09:37; 2024; 4.9; https://www.youtube.com/watch?v=_EjOHdRihjA; Add Auth & Protect Routes in React in 3 Minutes (Kinde); quick video showing how to build Kinde into a React site
 CREATED: api, mongo, jwt; sp; 03:50:00; 2023; 4.9; https://www.linkedin.com/learning/nodejs-restserver-con-clean-architecture; NodeJS: RestServer con Clean Architecture;  good, long, new course in Spanish to recap MERN skills including Mongo in Docker, authentication, etc.
@@ -326,26 +345,11 @@ CREATED: python;fr;02:08:00;2016;4.71;https://www.linkedin.com/learning/python-l
 CREATED: python;fr;02:33:00;2021;4.92;https://www.linkedin.com/learning/django-creer-un-blog; Django : Créer un blog ;Docstring has a clean accent, practical Django project
 CREATED: python;fr;01:16:00;2021;4.92;https://www.linkedin.com/learning/python-les-tests-unitaires; Python : Les tests unitaires ;Docstring, good course on Python testing
 CREATED: python;fr;02:06:00;2021;4.91;https://www.linkedin.com/learning/l-essentiel-de-django; L'essentiel de Django ;basics of Django, Docstring has nice accent, short
-
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
-
-
-
->>create>>python, pandas;fr;01:47:00;2021;4.95;https://www.linkedin.com/learning/pandas-pour-la-data-science; pandas pour la data science ;Docstring on pandas and Jupyter setup, good
-
-
-
-
-
-- ADD 2024-12-29
-https://www.linkedin.com/learning/python-les-fonctions-pour-la-data-science
-https://www.linkedin.com/learning/python-le-nettoyage-des-donnees
-https://www.linkedin.com/learning/python-l-analyse-de-donnees/effectuer-des-operations-avancees-sur-les-listes
-more python with Alison Patou: https://www.linkedin.com/learning/instructors/alison-patou
-
-
-fr, linux: https://www.linkedin.com/learning/linux-l-administration-avancee/aborder-ramdisk?resume=false
+CREATED: css;fr;06:23:00;2024;4.81;https://www.linkedin.com/learning/l-essentiel-des-css-2; L'essentiel des CSS ;a very up-to-date and solid course (6+ hours) on CSS, in French, nice accent (Damian Bruyndonckx), responsive, etc.
+CREATED: python, pandas;fr;01:47:00;2021;4.95;https://www.linkedin.com/learning/pandas-pour-la-data-science; pandas pour la data science ;Docstring on pandas and Jupyter setup, good
+CREATED: html, images;fr;02:18:00;2024;4.69;https://www.linkedin.com/learning/html-les-images-responsive; HTML : Les images responsive ;a nice French class, 2 hours, Damien Bruyndonckx nice accent, good way to get a good grasp of using images, even webp etc.
+CREATED: webpack;fr;02:14:00;2024;4.54;https://www.linkedin.com/learning/l-essentiel-de-webpack-5; L'essentiel de Webpack 5 ;a nice retro course with Damian Bruyndonckx in French
+CREATED: npm;fr;01:30:00;2019;4.42;https://www.linkedin.com/learning/l-essentiel-de-node-package-manager-npm; L'essentiel de Node Package Manager (npm) ;shows how to publish npm package, nice French with Damien Bruyndonckx
+CREATED: flash,python;fr;02:21:00;2024;4.99; https://www.linkedin.com/learning/l-essentiel-de-flask/bienvenue-dans-l-essentiel-de-flask ; L'essentiel de Flask ;Sylvain Labasse 2024, full course on Flash, very nice
+CREATED: python, ai;fr;02:00:00;2024;4.981;https://www.linkedin.com/learning/creer-des-agents-ia-avec-langchain-et-llamaindex; Créer des agents IA avec LangChain et LlamaIndex ;good French course for Python AI libraries, Madjid Khichane
+CREATED: scala;fr;02:48:00;2023;4.33;https://www.linkedin.com/learning/l-essentiel-de-scala/bienvenue-dans-l-essentiel-de-scala; L'essentiel de Scala ;Scala in French, new course

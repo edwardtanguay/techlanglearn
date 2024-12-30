@@ -689,6 +689,19 @@
 		"status": "not started yet"
 	},
 	{
+		"topics": "python, ai",
+		"language": "fr",
+		"duration": "02:00:00",
+		"year": "2024",
+		"rank": "4.981",
+		"url": "https://www.linkedin.com/learning/creer-des-agents-ia-avec-langchain-et-llamaindex",
+		"title": "Créer des agents IA avec LangChain et LlamaIndex",
+		"description": "good French course for Python AI libraries, Madjid Khichane",
+		"platform": "linkedInLearning",
+		"fileIdCode": "fr-ll-crer-des-agents-ia-avec-langchain-et-llamaindex",
+		"status": ""
+	},
+	{
 		"topics": "python",
 		"language": "fr",
 		"duration": "02:33:00",
@@ -702,6 +715,19 @@
 		"status": ""
 	},
 	{
+		"topics": "html, images",
+		"language": "fr",
+		"duration": "02:18:00",
+		"year": "2024",
+		"rank": "4.69",
+		"url": "https://www.linkedin.com/learning/html-les-images-responsive",
+		"title": "HTML : Les images responsive",
+		"description": "a nice French class, 2 hours, Damien Bruyndonckx nice accent, good way to get a good grasp of using images, even webp etc.",
+		"platform": "linkedInLearning",
+		"fileIdCode": "fr-ll-html-les-images-responsive",
+		"status": ""
+	},
+	{
 		"topics": "python",
 		"language": "fr",
 		"duration": "02:06:00",
@@ -712,6 +738,19 @@
 		"description": "basics of Django, Docstring has nice accent, short",
 		"platform": "linkedInLearning",
 		"fileIdCode": "fr-ll-lessentiel-de-django",
+		"status": ""
+	},
+	{
+		"topics": "flash,python",
+		"language": "fr",
+		"duration": "02:21:00",
+		"year": "2024",
+		"rank": "4.99",
+		"url": "https://www.linkedin.com/learning/l-essentiel-de-flask/bienvenue-dans-l-essentiel-de-flask",
+		"title": "L'essentiel de Flask",
+		"description": "Sylvain Labasse 2024, full course on Flash, very nice",
+		"platform": "linkedInLearning",
+		"fileIdCode": "fr-ll-lessentiel-de-flask",
 		"status": ""
 	},
 	{
@@ -738,6 +777,71 @@
 		"description": "Julian Layen teaches this, comprehensive, uses Laravel 10 released Feb 2023, version 11 was release Mar 2024, but this is a new, long course in French",
 		"platform": "linkedInLearning",
 		"fileIdCode": "fr-ll-lessentiel-de-laravel",
+		"status": ""
+	},
+	{
+		"topics": "npm",
+		"language": "fr",
+		"duration": "01:30:00",
+		"year": "2019",
+		"rank": "4.42",
+		"url": "https://www.linkedin.com/learning/l-essentiel-de-node-package-manager-npm",
+		"title": "L'essentiel de Node Package Manager (npm)",
+		"description": "shows how to publish npm package, nice French with Damien Bruyndonckx",
+		"platform": "linkedInLearning",
+		"fileIdCode": "fr-ll-lessentiel-de-node-package-manager-npm",
+		"status": ""
+	},
+	{
+		"topics": "scala",
+		"language": "fr",
+		"duration": "02:48:00",
+		"year": "2023",
+		"rank": "4.33",
+		"url": "https://www.linkedin.com/learning/l-essentiel-de-scala/bienvenue-dans-l-essentiel-de-scala",
+		"title": "L'essentiel de Scala",
+		"description": "Scala in French, new course",
+		"platform": "linkedInLearning",
+		"fileIdCode": "fr-ll-lessentiel-de-scala",
+		"status": ""
+	},
+	{
+		"topics": "webpack",
+		"language": "fr",
+		"duration": "02:14:00",
+		"year": "2024",
+		"rank": "4.54",
+		"url": "https://www.linkedin.com/learning/l-essentiel-de-webpack-5",
+		"title": "L'essentiel de Webpack 5",
+		"description": "a nice retro course with Damian Bruyndonckx in French",
+		"platform": "linkedInLearning",
+		"fileIdCode": "fr-ll-lessentiel-de-webpack-5",
+		"status": ""
+	},
+	{
+		"topics": "css",
+		"language": "fr",
+		"duration": "06:23:00",
+		"year": "2024",
+		"rank": "4.81",
+		"url": "https://www.linkedin.com/learning/l-essentiel-des-css-2",
+		"title": "L'essentiel des CSS",
+		"description": "a very up-to-date and solid course (6+ hours) on CSS, in French, nice accent (Damian Bruyndonckx), responsive, etc.",
+		"platform": "linkedInLearning",
+		"fileIdCode": "fr-ll-lessentiel-des-css",
+		"status": ""
+	},
+	{
+		"topics": "python, pandas",
+		"language": "fr",
+		"duration": "01:47:00",
+		"year": "2021",
+		"rank": "4.95",
+		"url": "https://www.linkedin.com/learning/pandas-pour-la-data-science",
+		"title": "pandas pour la data science",
+		"description": "Docstring on pandas and Jupyter setup, good",
+		"platform": "linkedInLearning",
+		"fileIdCode": "fr-ll-pandas-pour-la-data-science",
 		"status": ""
 	},
 	{
