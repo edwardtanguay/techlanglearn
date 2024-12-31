@@ -372,6 +372,34 @@
 	},
 	{
 		"language": "it",
+		"front": "if you can write",
+		"back": "se sei in grado di scrivere",
+		"whenCreated": "2024-12-31 15:31:35",
+		"extras": "pr=[seh SAY]; pr=SKREE-veh-reh"
+	},
+	{
+		"language": "it",
+		"front": "here's what I recommend",
+		"back": "ecco cosa ti consiglio",
+		"whenCreated": "2024-12-31 15:21:19",
+		"extras": "pr=con-SEE-leeoh"
+	},
+	{
+		"language": "it",
+		"front": "it's pretty simple",
+		"back": "è piuttosto semplice",
+		"whenCreated": "2024-12-31 15:13:42",
+		"extras": "pr=[eh pee-oo-TOH-sto SEM-plih-cheh]"
+	},
+	{
+		"language": "it",
+		"front": "in this course",
+		"back": "in questo corso",
+		"whenCreated": "2024-12-31 14:53:30",
+		"extras": "pr=KWEH-stoh"
+	},
+	{
+		"language": "it",
 		"front": "easy to maintain",
 		"back": "facili da mantenere",
 		"whenCreated": "2024-12-30 11:44:18",

@@ -1,5 +1,18 @@
 [
 	{
+		"topics": "pycharm, python",
+		"language": "en",
+		"duration": "02:25:00",
+		"year": "2022",
+		"rank": "4.53",
+		"url": "https://www.linkedin.com/learning/learning-python-with-pycharm-14509667/software-development-and-pycharm",
+		"title": "Learning Python with PyCharm",
+		"description": "English course that shows how to use PyCharm, 2022",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-learning-python-with-pycharm",
+		"status": ""
+	},
+	{
 		"topics": "python",
 		"language": "en",
 		"duration": "02:05:00",
@@ -124,10 +137,10 @@
 		"rank": "4.68",
 		"url": "https://www.linkedin.com/learning/flask-essential-training-24681038",
 		"title": "Flask Essential Training",
-		"description": "seems like a solid course on Flask",
+		"description": "seems like a solid course on Flask, Natasha has a nice clear accent",
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-flask-essential-training",
-		"status": "not started yet"
+		"status": "watched the intros"
 	},
 	{
 		"topics": "python,functionalProgramming",
@@ -284,19 +297,6 @@
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-learning-webflow",
 		"status": "watched first 2 videos, fringe and no-code but interesting"
-	},
-	{
-		"topics": "pycharm, python",
-		"language": "en",
-		"duration": "02:25:00",
-		"year": "2022",
-		"rank": "4.53",
-		"url": "https://www.linkedin.com/learning/learning-python-with-pycharm-14509667/software-development-and-pycharm",
-		"title": "L'essentiel de Flask",
-		"description": "English course that shows how to use PyCharm, 2022",
-		"platform": "linkedInLearning",
-		"fileIdCode": "en-ll-lessentiel-de-flask",
-		"status": ""
 	},
 	{
 		"topics": "go",
