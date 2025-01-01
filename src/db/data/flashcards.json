@@ -372,6 +372,83 @@
 	},
 	{
 		"language": "it",
+		"front": "so why choose Flask",
+		"back": "allora perché scegliere Flask",
+		"whenCreated": "2024-12-31 17:43:59",
+		"extras": "pr=sheh-lee-AIR-eh"
+	},
+	{
+		"language": "it",
+		"front": "check out the documentation",
+		"back": "dai un'occhiata alla documentazione",
+		"whenCreated": "2024-12-31 17:39:59",
+		"extras": "pr=oon-oh-key-AH-ta"
+	},
+	{
+		"language": "it",
+		"front": "on a large scale",
+		"back": "su larga scala",
+		"whenCreated": "2024-12-31 17:38:49",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "with just a few lines",
+		"back": "con solo poche righe",
+		"whenCreated": "2024-12-31 17:36:52",
+		"extras": "pr=POH-keh"
+	},
+	{
+		"language": "it",
+		"front": "as your project grows",
+		"back": "mentre il tuo progetto cresce",
+		"whenCreated": "2024-12-31 17:26:26",
+		"extras": "pr=CRAY-sha"
+	},
+	{
+		"language": "it",
+		"front": "Flask can handle it all",
+		"back": "Flask è in grado di gestire tutto",
+		"whenCreated": "2024-12-31 16:49:36",
+		"extras": "pr=jess-TEER-eh"
+	},
+	{
+		"language": "it",
+		"front": "you can add",
+		"back": "puoi aggiungere",
+		"whenCreated": "2024-12-31 16:43:20",
+		"extras": "pr=[poo-OH-ee ah-JOON-jer-eh]"
+	},
+	{
+		"language": "it",
+		"front": "five lines of code",
+		"back": "cinque righe di codice",
+		"whenCreated": "2024-12-31 16:42:00",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "here are some key features of Flask",
+		"back": "ecco alcune caratteristiche chiave di Flask",
+		"whenCreated": "2024-12-31 16:37:55",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "this means you can decide",
+		"back": "ciò significa che puoi decidere",
+		"whenCreated": "2024-12-31 16:30:23",
+		"extras": "pr=[chow, kay, POH-ee, day-CHEE-deh-reh]"
+	},
+	{
+		"language": "it",
+		"front": "it's light, easy",
+		"back": "è leggero, facile",
+		"whenCreated": "2024-12-31 16:16:06",
+		"extras": "pr=[leh-JEH-oh FAH-chee-lay\t]"
+	},
+	{
+		"language": "it",
 		"front": "if you can write",
 		"back": "se sei in grado di scrivere",
 		"whenCreated": "2024-12-31 15:31:35",
