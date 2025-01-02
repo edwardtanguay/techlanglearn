@@ -1,0 +1,15 @@
+	<li>stress on <b>third-to-last</b> syllable: 
+		<ul>	
+			<li>de<u>ci</u>dere</li>
+			<li>di<u>ffi</u>cile</li>
+			<li>ver<u>sa</u>tile</li>
+			<li><u>fa</u>cile</li>
+			<li><u>si</u>mile</li>
+			<li><u>mo</u>bile</li>
+			<li><u>su</u>bile</li>
+			<li>po<u>ssi</u>bile</li>
+			<li><u>sem</u>plice</li>
+			<li><u>co</u>dice</li>
+			<li>ven</u>gono</li>
+		</ul>	
+	</li>

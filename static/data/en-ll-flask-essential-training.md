@@ -5,10 +5,10 @@ https://www.linkedin.com/learning/flask-essential-training-24681038
 - duration: 02:02:00
 - language: en
 - topics: flask
-- rank: 4.68
-- description: seems like a solid course on Flask, Natasha has a nice clear accent
+- rank: 4.91
+- description: seems like a solid course on Flask, Natasha has a nice clear accent, builds example app: uses Flask-WTF for forms, and SQLite and Postgres, builds app, chart.js
 - year: 2024
-- status: watched the intros
+- status: watched all intro videos, starting now with coding videos
 
 ## Build a full stack app in Python with Flask, 0:38, 2024-12-31
 
@@ -28,15 +28,56 @@ https://www.linkedin.com/learning/flask-essential-training-24681038/what-is-flas
 
 - mentioned April fool's joke when it was created
 
-## Comparing Flask and Django, 3:14, nnn
+## Comparing Flask and Django, 3:14, 2025-01-01
 
 https://www.linkedin.com/learning/flask-essential-training-24681038/comparing-flask-and-django?autoSkip=true&resume=false
+
+- Flask is very flexible, for smaller projects
+- Django is large, structured, has less flexibility
+
+## Project step 1: Intro to the Health Tracker Dashboard project, 2:08, 2025-01-02
+
+https://www.linkedin.com/learning/flask-essential-training-24681038/project-step-1-introduction-to-the-health-tracker-dashboard-project?autoSkip=true&resume=false
+
+- showed the app she will build, has quite a bit of interesting tech in it, e.g. sqlite, chart.js 
+
+## Setting up your Flask environment and first application, 5:52, nnn
+
+https://www.linkedin.com/learning/flask-essential-training-24681038/setting-up-your-flask-environment-and-first-application?autoSkip=true&resume=false
 
 - nnn
 
 ## VOCAB - ITALIAN
 
 ```
+this means you will be able to submit your data
+ciò significa che sarai in grado di inviare i tuoi dati
+2025-01-02 07:56:41
+
+this form collects information
+questo modulo raccoglie informazioni;pr=rah-KOH-lee-eh
+2025-01-02 07:48:46
+
+and I'll leave you enough space
+e ti lascerò abbastanza spazio
+2025-01-02 07:46:50
+
+physical exercise
+l'esercizio fisico
+2025-01-02 07:43:43
+
+during the course, we will build a project
+durante il corso, costruiremo un progetto
+2025-01-02 07:41:44
+
+for science projects
+per i progetti di scienza;pr=SHENT-sa
+2025-01-01 09:36:19
+
+where each framework excels
+dove eccelle ogni framework
+2025-01-01 09:25:56
+
 it's light, keeps the core simple
 è leggero, mantiene el nucleo semplice;pr=leh-JER-oh; pr=SEM-plih-cheh
 2025-01-01 08:17:17
