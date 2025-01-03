@@ -39,17 +39,64 @@ https://www.linkedin.com/learning/flask-essential-training-24681038/comparing-fl
 
 https://www.linkedin.com/learning/flask-essential-training-24681038/project-step-1-introduction-to-the-health-tracker-dashboard-project?autoSkip=true&resume=false
 
-- showed the app she will build, has quite a bit of interesting tech in it, e.g. sqlite, chart.js 
+- showed the app she will build, has quite a bit of interesting tech in it, e.g. sqlite, chart.js
 
-## Setting up your Flask environment and first application, 5:52, nnn
+## Setting up your Flask environment and first application, 5:52, 2025-01-03
 
 https://www.linkedin.com/learning/flask-essential-training-24681038/setting-up-your-flask-environment-and-first-application?autoSkip=true&resume=false
+
+- sets up virtual environment
+- `mkdir flask-showcase-002`
+- `python -m venv venv` (venv is more standard than env)
+- `source venv/Scripts/activate`
+- `pip install Flask`
+- open VSCode
+- create `app.py`
+
+```
+from flask import Flask
+
+app = Flask(__name__)
+
+@app.route('/')
+def info():
+	return 'Info Site'
+
+if __name__ == '__main__':
+	app.run(debug=True)
+```
+
+- `http://localhost:5000`
+
+## Accessing the code repository on GitHub, 1:32, nnn
+
+https://www.linkedin.com/learning/flask-essential-training-24681038/accessing-code-repository-on-github?autoSkip=true&resume=false
 
 - nnn
 
 ## VOCAB - ITALIAN
 
 ```
+so we are all ready
+quindi siamo tutti pronti;pr=[pronti like "own"]
+2025-01-03 07:47:34
+
+so this will activate our virtual environment
+quindi questo attiverà il nostro ambiente virtuale; conj=attivare; attiverà = futuro simplice
+2025-01-03 07:41:32
+
+let's fix this
+correggiamo questo
+2025-01-03 07:26:06
+
+and to activate it
+e per attivarlo
+2025-01-03 07:22:45
+
+each project
+ciascun progetto;pr=chass-KOON
+2025-01-02 16:46:37
+
 this means you will be able to submit your data
 ciò significa che sarai in grado di inviare i tuoi dati
 2025-01-02 07:56:41

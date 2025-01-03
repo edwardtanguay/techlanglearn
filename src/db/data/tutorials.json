@@ -134,13 +134,13 @@
 		"language": "en",
 		"duration": "02:02:00",
 		"year": "2024",
-		"rank": "4.68",
+		"rank": "4.91",
 		"url": "https://www.linkedin.com/learning/flask-essential-training-24681038",
 		"title": "Flask Essential Training",
-		"description": "seems like a solid course on Flask, Natasha has a nice clear accent",
+		"description": "seems like a solid course on Flask, Natasha has a nice clear accent, builds example app: uses Flask-WTF for forms, and SQLite and Postgres, builds app, chart.js",
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-flask-essential-training",
-		"status": "watched the intros"
+		"status": "watched all intro videos, starting now with coding videos"
 	},
 	{
 		"topics": "python,functionalProgramming",
