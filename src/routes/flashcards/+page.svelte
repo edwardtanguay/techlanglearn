@@ -8,7 +8,7 @@
 
 	let inputRefs: Record<number, HTMLInputElement | null> = {};
 
-	const maxShow = 10;
+	const maxShow = 100;
 
 	const handleToggleFlashcard = (flashcard: Flashcard, index: number) => {
 		flashcard.status = 'answering';

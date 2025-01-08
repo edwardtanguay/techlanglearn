@@ -1,8 +1,10 @@
 - todo
-	- https://www.youtube.com/watch?v=Kn1De5uwrlY (AI conversations, from Patrick)
+- https://www.youtube.com/watch?v=Kn1De5uwrlY (AI conversations, from Patrick)
 
+- AI up-to-date: https://www.linkedin.com/learning/ai-trends/welcome-to-ai-trends
+- advanced Git: https://www.linkedin.com/learning/gitops-foundations/an-enhanced-approach-to-devops
 
-
+retro: maven: https://www.linkedin.com/learning/introducing-maven/building-java-the-maven-way
 
 - ****
 - videos on tech video production and editing
