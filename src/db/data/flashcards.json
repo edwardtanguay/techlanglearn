@@ -582,6 +582,118 @@
 	},
 	{
 		"language": "it",
+		"front": "at the same time",
+		"back": "allo stesso tempo",
+		"whenCreated": "2025-01-09 14:59:36",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "that you might use",
+		"back": "che potresti usare",
+		"whenCreated": "2025-01-09 14:45:23",
+		"extras": "conj=potere; potresti = conditional"
+	},
+	{
+		"language": "it",
+		"front": "easy for your team",
+		"back": "facile per il tuo team",
+		"whenCreated": "2025-01-09 14:41:52",
+		"extras": "pr=FACH-ee-lay"
+	},
+	{
+		"language": "it",
+		"front": "as we will see in a minute",
+		"back": "come vedremo tra un minuto",
+		"whenCreated": "2025-01-09 08:25:15",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "those files need to be saved",
+		"back": "quei file devono essere salvati",
+		"whenCreated": "2025-01-09 08:20:17",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "they will commit the file",
+		"back": "eseguiranno il commit del file",
+		"whenCreated": "2025-01-09 08:15:22",
+		"extras": "pr=eh-zeh-gwee-RAH-noh;conj=eseguire;eseguire = to execute"
+	},
+	{
+		"language": "it",
+		"front": "so in this scenario",
+		"back": "quindi in questo scenario",
+		"whenCreated": "2025-01-09 08:12:39",
+		"extras": "pr=sheh-NAR-ee-oh"
+	},
+	{
+		"language": "it",
+		"front": "this may cause commits to be overwritten",
+		"back": "ciò può causare la sovrascrittura dei commit",
+		"whenCreated": "2025-01-09 08:10:40",
+		"extras": "pr=chow-POO-oh"
+	},
+	{
+		"language": "it",
+		"front": "one of the mistakes you need to watch out for",
+		"back": "uno degli errori a cui devi fare attenzione",
+		"whenCreated": "2025-01-09 08:06:36",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "we have made our commit",
+		"back": "abbiamo fatto il nostro commit",
+		"whenCreated": "2025-01-09 01:28:41",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "their changes",
+		"back": "le loro modifiche",
+		"whenCreated": "2025-01-09 00:59:16",
+		"extras": "pr=moh-DEE-fee-keh"
+	},
+	{
+		"language": "it",
+		"front": "they open the file with vim",
+		"back": "aprono il file con vim",
+		"whenCreated": "2025-01-09 00:57:19",
+		"extras": "conj=aprire"
+	},
+	{
+		"language": "it",
+		"front": "user two would also like to edit the file",
+		"back": "l'utente due vorrebbe anche modificare il file",
+		"whenCreated": "2025-01-09 00:54:05",
+		"extras": "conj=volere; vorrebbe = conditional"
+	},
+	{
+		"language": "it",
+		"front": "and it's pretty simple",
+		"back": "e piuttosto semplice",
+		"whenCreated": "2025-01-08 21:16:55",
+		"extras": "pr=SEM-plee-chay"
+	},
+	{
+		"language": "it",
+		"front": "in this scenario",
+		"back": "in questo scenario",
+		"whenCreated": "2025-01-08 21:06:39",
+		"extras": "pr=sheh-NAH-ree-oh"
+	},
+	{
+		"language": "it",
+		"front": "with their team",
+		"back": "con il loro team",
+		"whenCreated": "2025-01-08 21:05:31",
+		"extras": ""
+	},
+	{
+		"language": "it",
 		"front": "keep this in mind",
 		"back": "tienilo a mente",
 		"whenCreated": "2025-01-07 22:30:28",

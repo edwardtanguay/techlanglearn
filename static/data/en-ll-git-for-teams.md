@@ -27,15 +27,116 @@ https://www.linkedin.com/learning/git-for-teams/fundamentals-of-git-collaboratio
 
 - talks about using Git in a team
 
-## Common pitfalls: Untracked pulls, 4:27, nnn
+## Common pitfalls: Untracked pulls, 4:27, 2025-01-08
 
 https://www.linkedin.com/learning/git-for-teams/common-pitfalls-untracked-pulls?autoSkip=true&resume=false
+
+- you could use git reset --hard
+- he resolved the merge, but in my example, I had to do a rebase
+
+## Common pitfalls: Force push, 3:16, 2025-01-09
+
+https://www.linkedin.com/learning/git-for-teams/common-pitfalls-force-push?autoSkip=true&resume=false
+
+- one of the most dangerous commands: push --force
+- `git ls-tree --full-tree -r HEAD`
+
+## Best practices: Committing and syncing, 3:29, 2025-01-09
+
+https://www.linkedin.com/learning/git-for-teams/best-practices-committing-and-syncing?autoSkip=true&resume=false
+
+- commit early and often
+- focus on a single feature per commit
+
+## Best practices: gitignore, 4:20, 2025-01-09
+
+https://www.linkedin.com/learning/git-for-teams/best-practices-gitignore?autoSkip=true&resume=false
+
+- uses a Java project in Eclipse
+- ignore directory with forward slash at end: bin/ and \*.class
+- `**bin` in any subdirectory
+
+## Standardize line endings with autocrlf, 5:20, nnn
+
+https://www.linkedin.com/learning/git-for-teams/standardize-line-endings-with-autocrlf-22334239?autoSkip=true&resume=false
 
 - nnn
 
 ## VOCAB - ITALIAN
 
 ```
+but it's just nice to know
+ma è solo bello saperlo
+2025-01-09 17:00:09
+
+you can do things like use two asterisks
+puoi fare cose come usare due asterischi;pr=puh-OY;pr=ah-stair-REE-skee;conj=potere
+2025-01-09 16:57:18
+
+this means
+ciò significa;pr=CHOH
+2025-01-09 16:52:41
+
+so anywhere inside our working directory
+quindi ovunque all'interno della nostra directory lavoro;pr=oh-VUN-kway
+2025-01-09 16:41:42
+
+these lines
+queste righe
+2025-01-09 16:37:47
+
+at the same time
+allo stesso tempo
+2025-01-09 14:59:36
+
+that you might use
+che potresti usare;conj=potere; potresti = conditional
+2025-01-09 14:45:23
+
+easy for your team
+facile per il tuo team;pr=FACH-ee-lay
+2025-01-09 14:41:52
+
+as we will see in a minute
+come vedremo tra un minuto
+2025-01-09 08:25:15
+
+those files need to be saved
+quei file devono essere salvati
+2025-01-09 08:20:17
+
+they will commit the file
+eseguiranno il commit del file;pr=eh-zeh-gwee-RAH-noh;conj=eseguire;eseguire = to execute
+2025-01-09 08:15:22
+
+so in this scenario
+quindi in questo scenario;pr=sheh-NAR-ee-oh
+2025-01-09 08:12:39
+
+this may cause commits to be overwritten
+ciò può causare la sovrascrittura dei commit;pr=chow-POO-oh
+2025-01-09 08:10:40
+
+one of the mistakes you need to watch out for
+uno degli errori a cui devi fare attenzione
+2025-01-09 08:06:36
+
+we have made our commit
+abbiamo fatto il nostro commit
+2025-01-09 01:28:41
+
+their changes
+le loro modifiche;pr=moh-DEE-fee-keh
+2025-01-09 00:59:16
+
+they open the file with vim
+aprono il file con vim;conj=aprire
+2025-01-09 00:57:19
+
+user two would also like to edit the file
+l'utente due vorrebbe anche modificare il file;conj=volere; vorrebbe = conditional
+2025-01-09 00:54:05
+
 and it's pretty simple
 e piuttosto semplice;pr=SEM-plee-chay
 2025-01-08 21:16:55
