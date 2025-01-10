@@ -582,6 +582,76 @@
 	},
 	{
 		"language": "it",
+		"front": "here are the options you have",
+		"back": "ecco le opzioni che hai",
+		"whenCreated": "2025-01-10 20:19:28",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "we have already seen",
+		"back": "abbiamo già visto",
+		"whenCreated": "2025-01-10 20:17:32",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "this can cause problems",
+		"back": "ciò puo causare problemi",
+		"whenCreated": "2025-01-10 19:29:05",
+		"extras": "pr=choh-POO-oh"
+	},
+	{
+		"language": "it",
+		"front": "Git provides a setting",
+		"back": "Git fornisce un'impostazione",
+		"whenCreated": "2025-01-10 19:16:27",
+		"extras": "pr=for-NEE-shay"
+	},
+	{
+		"language": "it",
+		"front": "they use both a carriage return and a line feed",
+		"back": "loro utilizzano sia un ritorno a capo che un line feed",
+		"whenCreated": "2025-01-10 19:14:01",
+		"extras": "rank=4.95"
+	},
+	{
+		"language": "it",
+		"front": "but it's just nice to know",
+		"back": "ma è solo bello saperlo",
+		"whenCreated": "2025-01-09 17:00:09",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "you can do things like use two asterisks",
+		"back": "puoi fare cose come usare due asterischi",
+		"whenCreated": "2025-01-09 16:57:18",
+		"extras": "pr=puh-OY;pr=ah-stair-REE-skee;conj=potere"
+	},
+	{
+		"language": "it",
+		"front": "this means",
+		"back": "ciò significa",
+		"whenCreated": "2025-01-09 16:52:41",
+		"extras": "pr=CHOH"
+	},
+	{
+		"language": "it",
+		"front": "so anywhere inside our working directory",
+		"back": "quindi ovunque all'interno della nostra directory lavoro",
+		"whenCreated": "2025-01-09 16:41:42",
+		"extras": "pr=oh-VUN-kway"
+	},
+	{
+		"language": "it",
+		"front": "these lines",
+		"back": "queste righe",
+		"whenCreated": "2025-01-09 16:37:47",
+		"extras": ""
+	},
+	{
+		"language": "it",
 		"front": "at the same time",
 		"back": "allo stesso tempo",
 		"whenCreated": "2025-01-09 14:59:36",
@@ -4827,6 +4897,104 @@
 		"front": "this in order to make your projects more reliable",
 		"back": "cela afin de fiabiliser vos projets",
 		"whenCreated": "2024-12-18 09:16:07",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "avoid putting display logic inside your controllers",
+		"back": "éviter de mettre de la logique d'affichage au sein de tes contrôleurs",
+		"whenCreated": "2025-01-10 23:03:11",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "it's starting from nothing",
+		"back": "c'est en partent de rien",
+		"whenCreated": "2025-01-10 22:50:06",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "this saves you from having to redevelop",
+		"back": "ça t'évite d'avoir à rédevelopper",
+		"whenCreated": "2025-01-10 22:47:22",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "since these are languages ​​that are compiled",
+		"back": "vu que c'est des langues qui sont compilés",
+		"whenCreated": "2025-01-10 21:41:17",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "a tree view of the folders",
+		"back": "une vue en arbre des dossiers",
+		"whenCreated": "2025-01-10 21:38:15",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "I can hit escape to cancel",
+		"back": "je peux faire échap pour annuler",
+		"whenCreated": "2025-01-10 21:36:18",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "tu as des raccourcis ici",
+		"back": "you have shortcuts here",
+		"whenCreated": "2025-01-10 21:29:40",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "which is displayed",
+		"back": "qui s'affiche",
+		"whenCreated": "2025-01-10 21:27:57",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "as soon as you have it installed",
+		"back": "dès que tu l'as installé",
+		"whenCreated": "2025-01-10 21:27:03",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "is supposed to directly detect",
+		"back": "est censé directement détecter",
+		"whenCreated": "2025-01-10 21:25:52",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "for a whole set of languages",
+		"back": "pour tout un ensemble de langages",
+		"whenCreated": "2025-01-10 21:23:48",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "throughout this training",
+		"back": "tout au long de cette formation",
+		"whenCreated": "2025-01-10 21:11:23",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "you have all the videos",
+		"back": "tu as l'ensemble des videos",
+		"whenCreated": "2025-01-10 21:10:08",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "from then on",
+		"back": "dès lors",
+		"whenCreated": "2025-01-10 21:08:45",
 		"extras": ""
 	},
 	{

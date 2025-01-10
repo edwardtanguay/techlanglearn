@@ -56,15 +56,45 @@ https://www.linkedin.com/learning/git-for-teams/best-practices-gitignore?autoSki
 - ignore directory with forward slash at end: bin/ and \*.class
 - `**bin` in any subdirectory
 
-## Standardize line endings with autocrlf, 5:20, nnn
+## Standardize line endings with autocrlf, 5:20, 2025-01-10
 
 https://www.linkedin.com/learning/git-for-teams/standardize-line-endings-with-autocrlf-22334239?autoSkip=true&resume=false
+
+- `git config --list`
+- look for: `core.autocrlf=true` (for Windows)
+- look for: `core.autocrlf=false` (for macOS/Linux)
+- he writes `git config core.autocrlf input` ensures that the repository always stores files with consistent LF line endings
+- he was in a different branch and did `git checkout master`
+
+## Branch naming, 1:46, nnn
+
+https://www.linkedin.com/learning/git-for-teams/branch-naming?autoSkip=true&resume=false
 
 - nnn
 
 ## VOCAB - ITALIAN
 
 ```
+here are the options you have
+ecco le opzioni che hai
+2025-01-10 20:19:28
+
+we have already seen
+abbiamo già visto
+2025-01-10 20:17:32
+
+this can cause problems
+ciò puo causare problemi;pr=choh-POO-oh
+2025-01-10 19:29:05
+
+Git provides a setting
+Git fornisce un'impostazione;pr=for-NEE-shay
+2025-01-10 19:16:27
+
+they use both a carriage return and a line feed
+loro utilizzano sia un ritorno a capo che un line feed; rank=4.95
+2025-01-10 19:14:01
+
 but it's just nice to know
 ma è solo bello saperlo
 2025-01-09 17:00:09

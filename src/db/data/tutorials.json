@@ -182,6 +182,19 @@
 		"status": ""
 	},
 	{
+		"topics": "git",
+		"language": "en",
+		"duration": "01:04:00",
+		"year": "2022",
+		"rank": "4.989",
+		"url": "https://www.linkedin.com/learning/git-workflows/github-flow-in-practice",
+		"title": "Git Workflows",
+		"description": "good course on how to structure Git in teams",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-git-workflows",
+		"status": ""
+	},
+	{
 		"topics": "go",
 		"language": "en",
 		"duration": "01:25:00",
@@ -787,7 +800,7 @@
 		"rank": "4.88",
 		"url": "https://www.linkedin.com/learning/l-essentiel-de-laravel",
 		"title": "L'essentiel de Laravel",
-		"description": "Julian Layen teaches this, comprehensive, uses Laravel 10 released Feb 2023, version 11 was release Mar 2024, but this is a new, long course in French",
+		"description": "Julian Layen teaches this, comprehensive, uses Laravel 10 released Feb 2023, version 11 was released Mar 2024, but this is a new, long course in French",
 		"platform": "linkedInLearning",
 		"fileIdCode": "fr-ll-lessentiel-de-laravel",
 		"status": ""
