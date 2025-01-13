@@ -227,7 +227,6 @@ grid, flexbox; fr; 2022; 4.4; https://www.linkedin.com/learning/la-mise-en-page-
 
 go, goreleaser; en; 2024; 4.1; https://www.youtube.com/watch?v=JFhzuIffPCo | Automate your Go binary releases with GoReleaser and Github Actions
 
-ai, llamaIndex, langchain; fr; https://www.linkedin.com/learning/creer-des-agents-ia-avec-langchain-et-llamaindex/etendre-un-llm-avec-un-agent-langchain?resume=false
 
 - javascript data structures:
 - https://www.linkedin.com/learning/instructors/tiffany-graves
@@ -246,7 +245,12 @@ haskell; sp; https://www.youtube.com/watch?v=mXroxy93nXg
 
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 
+>>nnncreate>>ai;fr;DURATION;YEAR;RANK;URL;TITLE;DESC
+
+ai, llamaIndex, langchain; fr; https://www.linkedin.com/learning/creer-des-agents-ia-avec-langchain-et-llamaindex/etendre-un-llm-avec-un-agent-langchain?resume=false
 
 
 - NEXT: - git workflows good - https://www.linkedin.com/learning/git-workflows/github-flow-in-practice
