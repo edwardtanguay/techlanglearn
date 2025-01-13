@@ -66,15 +66,31 @@ https://www.linkedin.com/learning/git-for-teams/standardize-line-endings-with-au
 - he writes `git config core.autocrlf input` ensures that the repository always stores files with consistent LF line endings
 - he was in a different branch and did `git checkout master`
 
-## Branch naming, 1:46, nnn
+## Branch naming, 1:46, 2025-01-13
 
 https://www.linkedin.com/learning/git-for-teams/branch-naming?autoSkip=true&resume=false
 
-- nnn
+- keep branch names short, consistent and informative
+- bug/123/menu-issue
+- feat/125/new-email-feature
+
+## Write descriptive commit messages, nnn
+
+https://www.linkedin.com/learning/git-for-teams/write-descriptive-commit-messages?autoSkip=true&resume=false
+
+- @1:00 setting up editor for a different kind of commit
 
 ## VOCAB - ITALIAN
 
 ```
+code changes
+modifiche al codice;moh-DEE-fee-keh
+2025-01-13 08:20:07
+
+let's take a look at how you can do it
+diamo un'occhiata a come puoi farlo; pr=oon-oh-key-AH-tah;conj=dare;diamo = let's give / we give;rule: drop final "e", so fare + lo becomes farlo
+2025-01-13 08:20:01
+
 here are the options you have
 ecco le opzioni che hai
 2025-01-10 20:19:28

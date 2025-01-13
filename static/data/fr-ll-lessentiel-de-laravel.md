@@ -36,15 +36,31 @@ https://www.linkedin.com/learning/l-essentiel-de-laravel/decouvrir-les-outils-du
 - request/response
 - blade templates
 
-## Requêter avec Request Lifecycle, 2:18, nnn
+## Requêter avec Request Lifecycle, 2:18, 2025-01-11
 
 https://www.linkedin.com/learning/l-essentiel-de-laravel/requeter-avec-request-lifecycle?autoSkip=true&resume=false
+
+- uses Apache or nginx
+- only public is exposed to the browser
+- everything passes through index.php
+
+## Gérer les dépendances avec Service Container, 2:01, nnn
+
+https://www.linkedin.com/learning/l-essentiel-de-laravel/gerer-les-dependances-avec-service-container?autoSkip=true&resume=false
 
 - nnn
 
 ## VOCAB - FRENCH
 
 ```
+on the one hand it affects
+d'une part ça touche
+2025-01-12 01:41:56
+
+all of the requests
+l'ensemble des requêtes
+2025-01-12 01:39:44
+
 avoid putting display logic inside your controllers
 éviter de mettre de la logique d'affichage au sein de tes contrôleurs
 2025-01-10 23:03:11

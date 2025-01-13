@@ -582,6 +582,20 @@
 	},
 	{
 		"language": "it",
+		"front": "code changes",
+		"back": "modifiche al codice",
+		"whenCreated": "2025-01-13 08:20:07",
+		"extras": "moh-DEE-fee-keh"
+	},
+	{
+		"language": "it",
+		"front": "let's take a look at how you can do it",
+		"back": "diamo un'occhiata a come puoi farlo",
+		"whenCreated": "2025-01-13 08:20:01",
+		"extras": "pr=oon-oh-key-AH-tah;conj=dare;diamo = let's give / we give;rule: drop final \"e\", so fare + lo becomes farlo"
+	},
+	{
+		"language": "it",
 		"front": "here are the options you have",
 		"back": "ecco le opzioni che hai",
 		"whenCreated": "2025-01-10 20:19:28",
@@ -1166,6 +1180,125 @@
 		"front": "and for this reason",
 		"back": "e per questo motivo",
 		"whenCreated": "2024-12-17 17:26:10",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "surgical modifications",
+		"back": "modifiche chirurgiche",
+		"whenCreated": "2025-01-13 21:45:34",
+		"extras": "pr=keer-RUHR-gee-keh"
+	},
+	{
+		"language": "it",
+		"front": "by the way",
+		"back": "a proposito",
+		"whenCreated": "2025-01-13 21:42:56",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "you can see it still appears here",
+		"back": "puoi vedere che appare ancora qui",
+		"whenCreated": "2025-01-13 21:42:04",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "without the emojis",
+		"back": "senza gli emoji",
+		"whenCreated": "2025-01-13 21:40:41",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "at the top of this list",
+		"back": "in cima a questo elenco",
+		"whenCreated": "2025-01-13 21:38:18",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "you can choose the school",
+		"back": "puoi scegliere la scuola",
+		"whenCreated": "2025-01-13 21:34:49",
+		"extras": "pr=SHEH-lih-ray"
+	},
+	{
+		"language": "it",
+		"front": "shorter or longer",
+		"back": "più corta o più lunga",
+		"whenCreated": "2025-01-13 21:31:59",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "the length",
+		"back": "la lunghezza",
+		"whenCreated": "2025-01-13 21:30:29",
+		"extras": "pr=loong-GEH-tsa"
+	},
+	{
+		"language": "it",
+		"front": "right here",
+		"back": "proprio qui",
+		"whenCreated": "2025-01-13 21:29:20",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "the area on the left works pretty much the same as normal",
+		"back": "l'area a sinistra funziona più o meno come il normale",
+		"whenCreated": "2025-01-13 21:28:38",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "when you use the arrows",
+		"back": "quando usi le frecce",
+		"whenCreated": "2025-01-13 21:25:51",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "after the first title",
+		"back": "dopo il primo titolo",
+		"whenCreated": "2025-01-13 21:19:37",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "it contains a preview of the results",
+		"back": "contiene un anteprima dei risultati",
+		"whenCreated": "2025-01-13 21:14:26",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "it was a long text",
+		"back": "era un testo lungo",
+		"whenCreated": "2025-01-13 21:05:06",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "the same prompt",
+		"back": "lo stesso prompt",
+		"whenCreated": "2025-01-13 21:04:34",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "first, it will create a new chat",
+		"back": "per prima cosa, creerà una nuova chat",
+		"whenCreated": "2025-01-13 21:03:34",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "and now more than ever",
+		"back": "e ora più che mai",
+		"whenCreated": "2025-01-13 20:40:58",
 		"extras": ""
 	},
 	{
@@ -4897,6 +5030,20 @@
 		"front": "this in order to make your projects more reliable",
 		"back": "cela afin de fiabiliser vos projets",
 		"whenCreated": "2024-12-18 09:16:07",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "on the one hand it affects",
+		"back": "d'une part ça touche",
+		"whenCreated": "2025-01-12 01:41:56",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "all of the requests",
+		"back": "l'ensemble des requêtes",
+		"whenCreated": "2025-01-12 01:39:44",
 		"extras": ""
 	},
 	{
