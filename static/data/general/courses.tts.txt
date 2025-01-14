@@ -250,7 +250,7 @@ haskell; sp; https://www.youtube.com/watch?v=mXroxy93nXg
 
 >>nnncreate>>ai;fr;DURATION;YEAR;RANK;URL;TITLE;DESC
 
-ai, llamaIndex, langchain; fr; https://www.linkedin.com/learning/creer-des-agents-ia-avec-langchain-et-llamaindex/etendre-un-llm-avec-un-agent-langchain?resume=false
+ai, llamaIndex, langchain; fr; https://www.linkedin.com/learning/creer-des-agents-ia-avec-langchain-et-llamaindex
 
 
 - NEXT: - git workflows good - https://www.linkedin.com/learning/git-workflows/github-flow-in-practice
