@@ -4929,6 +4929,20 @@
 	},
 	{
 		"language": "fr",
+		"front": "to learn how to design",
+		"back": "pour apprendre à concevoir",
+		"whenCreated": "2025-01-15 08:22:19",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "it is now possible",
+		"back": "il est désormais possible",
+		"whenCreated": "2025-01-14 08:54:58",
+		"extras": ""
+	},
+	{
+		"language": "fr",
 		"front": "I define the first route",
 		"back": "je définis le premiere route",
 		"whenCreated": "2024-12-30 08:42:25",

@@ -26,6 +26,19 @@
 		"status": ""
 	},
 	{
+		"topics": "nodered",
+		"language": "en",
+		"duration": "00:39:00",
+		"year": "2022",
+		"rank": "4.1",
+		"url": "https://www.linkedin.com/learning/build-sap-integration-with-node-red",
+		"title": "Build SAP Integration with Node-RED",
+		"description": "watching this for a coding challenge, gives quick overview of Node-RED",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-build-sap-integration-with-nodered",
+		"status": ""
+	},
+	{
 		"topics": "monorepos",
 		"language": "en",
 		"duration": "00:55:00",
@@ -349,6 +362,19 @@
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-nextjs-creating-and-hosting-a-fullstack-site",
 		"status": "watched intro videos"
+	},
+	{
+		"topics": "python, testing",
+		"language": "en",
+		"duration": "01:38:00",
+		"year": "2024",
+		"rank": "4.4",
+		"url": "https://www.linkedin.com/learning/python-automation-and-testing",
+		"title": "Python Automation and Testing",
+		"description": "a python testing course",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-python-automation-and-testing",
+		"status": ""
 	},
 	{
 		"topics": "python",
