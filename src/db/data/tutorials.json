@@ -455,6 +455,19 @@
 		"status": ""
 	},
 	{
+		"topics": "nodered",
+		"language": "en",
+		"duration": "01:00:00",
+		"year": "2020",
+		"rank": "4.3",
+		"url": "https://www.youtube.com/watch?v=ksGeUD26Mw0\u0026list=PLyNBB9VCLmo1hyO-4fIZ08gqFcXBkHy-6",
+		"title": "Node-RED Essentials",
+		"description": "19 videos to show the basics of Node-RED",
+		"platform": "youtube",
+		"fileIdCode": "en-ll-youtube-nodered-essentials",
+		"status": ""
+	},
+	{
 		"topics": "kinde",
 		"language": "en",
 		"duration": "00:09:37",

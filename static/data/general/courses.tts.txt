@@ -245,7 +245,8 @@ haskell; sp; https://www.youtube.com/watch?v=mXroxy93nXg
 
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+
+
 
 
 
@@ -381,3 +382,4 @@ CREATED: ai;en;02:00:00;2024;4.98;https://www.linkedin.com/learning/ai-trends/we
 CREATED: ai;fr;02:00:00;2024;4.96;https://www.linkedin.com/learning/creer-des-agents-ia-avec-langchain-et-llamaindex;Creating AI Agents with LangChain and LlamaIndex; an AI course that focuses on a specific technology
 CREATED: python, testing;en;01:38:00;2024;4.4;https://www.linkedin.com/learning/python-automation-and-testing;Python Automation and Testing;a python testing course
 CREATED: nodered;en;00:39:00;2022;4.1;https://www.linkedin.com/learning/build-sap-integration-with-node-red; Build SAP Integration with Node-RED ;watching this for a coding challenge, gives quick overview of Node-RED
+CREATED: nodered;en;01:00:00;2020;4.3;https://www.youtube.com/watch?v=ksGeUD26Mw0&list=PLyNBB9VCLmo1hyO-4fIZ08gqFcXBkHy-6;Node-RED Essentials;19 videos to show the basics of Node-RED
