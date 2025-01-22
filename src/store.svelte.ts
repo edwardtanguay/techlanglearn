@@ -9,7 +9,7 @@ const flashcards = $state(
 	dataModel.getFlashcards().sort((a, b) => (a.whenCreated < b.whenCreated ? 1 : -1))
 );
 const tutorials = $state(dataModel.getTutorials());
-const filteredTutorials = tutorials.filter((m) => m.topics.includes('go'));
+const filteredTutorials = $state(tutorials.filter((m) => m.topics.includes('go')));
 
 // errorMessage
 // TODO: pass through full array of errors, not just number
@@ -61,15 +61,15 @@ export const getStore = () => {
 		},
 		toggleSortColumn: (fieldIdCode: string) => {
 			if (fieldIdCode === 'rank') {
-				tutorials.sort((a, b) => (a.rank < b.rank ? 1 : -1));
+				filteredTutorials.sort((a, b) => (a.rank < b.rank ? 1 : -1));
 			}
 			if (fieldIdCode === 'year') {
-				tutorials.sort((a, b) =>
+				filteredTutorials.sort((a, b) =>
 					String(a.year) + String(a.rank) < String(b.year) + String(b.rank) ? 1 : -1
 				);
 			}
 			if (fieldIdCode === 'language') {
-				tutorials.sort((a, b) =>
+				filteredTutorials.sort((a, b) =>
 					a.language + String(a.rank) < b.language + String(b.rank) ? 1 : -1
 				);
 			}

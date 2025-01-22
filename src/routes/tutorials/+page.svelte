@@ -34,7 +34,7 @@
 
 <section class="pageTutorials">
 	<header class="flex gap-3">
-		<h1 class="main">{store.tutorials.length} Tutorials</h1>
+		<h1 class="main">{store.filteredTutorials.length} Tutorials</h1>
 		{#if showingControls}
 			<select
 				bind:value={selectedTopic}
