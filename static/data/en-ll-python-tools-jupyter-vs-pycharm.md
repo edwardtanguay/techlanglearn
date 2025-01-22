@@ -39,7 +39,7 @@ https://www.linkedin.com/learning/python-tools-jupyter-vs-pycharm/approaching-an
 - you have to run cells in sequence
 - each cell effects the overall global state space
 
-## PyCharm pros and cons, 2:07, 2025-01-23
+## PyCharm pros and cons, 2:07, 2025-01-22
 
 - is a Swiss Army knife IDE
 - you can enable scientific mode and write Jupyter Notebooks in PyCharm
