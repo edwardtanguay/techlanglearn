@@ -120,17 +120,39 @@ https://www.linkedin.com/learning/python-avanzado-2/como-crear-un-decorador-1899
 
 https://www.linkedin.com/learning/python-avanzado-2/decoradores-y-funciones-con-parametros-18993505?autoSkip=true&resume=false
 
-- *args, **kwargs
+- \*args, \*\*kwargs
 
-## Uso de múltiples decoradores de manera simultánea, 2:46, nnn
+## Uso de múltiples decoradores de manera simultánea, 2:46, 2025-01-21
 
 https://www.linkedin.com/learning/python-avanzado-2/uso-de-multiples-decoradores-de-manera-simultanea-18997288?autoSkip=true&resume=false
+
+- the order of the decorator functions are important
+
+## Uso de un decorador en la vida real, 1:18, nnn
+
+https://www.linkedin.com/learning/python-avanzado-2/uso-de-un-decorador-en-la-vida-real-18998252?autoSkip=true&resume=false
 
 - nnn
 
 ## VOCAB - SPANISH
 
 ```
+what happened here is
+lo que sucedió aqui es
+2025-01-22 05:01:30
+
+which would further extend its capabilities
+lo que extenderia aún mas sus capacidades
+2025-01-22 04:39:25
+
+a function can be decorated by more than one decorator
+una función puede ser decorada por más de un decorador
+2025-01-22 04:37:39
+
+puede hacer uso de un decorador
+you can make use of a decorator
+2025-01-21 16:28:42
+
 now let's move onto the terminal
 ahora pasemos a la terminal
 

@@ -3963,6 +3963,34 @@
 	},
 	{
 		"language": "es",
+		"front": "what happened here is",
+		"back": "lo que sucedió aqui es",
+		"whenCreated": "2025-01-22 05:01:30",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "which would further extend its capabilities",
+		"back": "lo que extenderia aún mas sus capacidades",
+		"whenCreated": "2025-01-22 04:39:25",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "a function can be decorated by more than one decorator",
+		"back": "una función puede ser decorada por más de un decorador",
+		"whenCreated": "2025-01-22 04:37:39",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "puede hacer uso de un decorador",
+		"back": "you can make use of a decorator",
+		"whenCreated": "2025-01-21 16:28:42",
+		"extras": ""
+	},
+	{
+		"language": "es",
 		"front": "now let's move onto the terminal",
 		"back": "ahora pasemos a la terminal",
 		"whenCreated": "2024-12-01 00:00:00",
