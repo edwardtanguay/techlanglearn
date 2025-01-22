@@ -1,5 +1,31 @@
 [
 	{
+		"topics": "ai",
+		"language": "de",
+		"duration": "01:23:00",
+		"year": "2024",
+		"rank": "4.998",
+		"url": "https://www.linkedin.com/learning/ki-unterstutztes-programmieren-mit-openai-und-chatgpt",
+		"title": "KI-unterstütztes Programmieren mit OpenAI und ChatGPT",
+		"description": "Ralph Steyer, AI in JavaScript and Python",
+		"platform": "linkedInLearning",
+		"fileIdCode": "de-ll-kiuntersttztes-programmieren-mit-openai-und-chatgpt",
+		"status": ""
+	},
+	{
+		"topics": "numpy, python",
+		"language": "de",
+		"duration": "02:00:00",
+		"year": "2024",
+		"rank": "4.92",
+		"url": "https://www.linkedin.com/learning/numpy-grundkurs",
+		"title": "NumPy Grundkurs",
+		"description": "Ralph Steyer deep course in numpy",
+		"platform": "linkedInLearning",
+		"fileIdCode": "de-ll-numpy-grundkurs",
+		"status": ""
+	},
+	{
 		"topics": "pycharm, python",
 		"language": "en",
 		"duration": "02:25:00",
@@ -50,6 +76,19 @@
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-building-a-scalable-monorepo-with-javascript-and-typescript",
 		"status": "not yet started"
+	},
+	{
+		"topics": "keras, ai",
+		"language": "en",
+		"duration": "01:50:00",
+		"year": "2024",
+		"rank": "4.3",
+		"url": "https://www.linkedin.com/learning/building-deep-learning-applications-with-keras",
+		"title": "Building Deep Learning Applications with Keras",
+		"description": "nice intro to Keras, mentions Neuron, TensorFlow, ResNet50, TensorBoard",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-building-deep-learning-applications-with-keras",
+		"status": ""
 	},
 	{
 		"topics": "react, redux",
@@ -429,6 +468,19 @@
 		"status": ""
 	},
 	{
+		"topics": "tensorflow, ai",
+		"language": "en",
+		"duration": "00:38:00",
+		"year": "2024",
+		"rank": "4.94",
+		"url": "https://www.linkedin.com/learning/tensorflow-practical-skills-in-constructing-training-and-optimizing-models",
+		"title": "TensorFlow: Practical Skills in Constructing, Training, and Optimizing Models",
+		"description": "good intro course to Tensorflow, only 30 minutes",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-tensorflow-practical-skills-in-constructing-training-and-optimizing-models",
+		"status": ""
+	},
+	{
 		"topics": "ai",
 		"language": "en",
 		"duration": "02:00:00",
@@ -624,6 +676,19 @@
 		"status": "not yet started"
 	},
 	{
+		"topics": "ai",
+		"language": "es",
+		"duration": "01:28:00",
+		"year": "2024",
+		"rank": "4.9988",
+		"url": "https://www.linkedin.com/learning/desarrollar-aplicaciones-basadas-en-llms-con-lanchain-semantic-kernel-y-prompt-flow",
+		"title": "Desarrollar aplicaciones basadas en LLMs con LanChain, Semantic Kernel y Prompt Flow",
+		"description": "Diana Diaz looks good, new course and mentions lots of AI: LangChain, Semantic Kernel, etc. and focuses on building apps",
+		"platform": "linkedInLearning",
+		"fileIdCode": "es-ll-desarrollar-aplicaciones-basadas-en-llms-con-lanchain-semantic-kernel-y-prompt-flow",
+		"status": ""
+	},
+	{
 		"topics": "docker",
 		"language": "es",
 		"duration": "02:34:00",
@@ -676,6 +741,19 @@
 		"status": "finished"
 	},
 	{
+		"topics": "python, pytorch, ai",
+		"language": "es",
+		"duration": "01:29:00",
+		"year": "2024",
+		"rank": "4.77",
+		"url": "https://www.linkedin.com/learning/domina-keras",
+		"title": "Domina Keras",
+		"description": "could intro course in Spanish, Lincy, the easier teacher",
+		"platform": "linkedInLearning",
+		"fileIdCode": "es-ll-domina-keras",
+		"status": ""
+	},
+	{
 		"topics": "python, fastapi",
 		"language": "es",
 		"duration": "01:24:00",
@@ -687,6 +765,32 @@
 		"platform": "linkedInLearning",
 		"fileIdCode": "es-ll-domina-python-fastapi",
 		"status": "finished"
+	},
+	{
+		"topics": "python, ai",
+		"language": "es",
+		"duration": "01:00:00",
+		"year": "2024",
+		"rank": "4.88",
+		"url": "https://www.linkedin.com/learning/domina-python-inteligencia-artificial",
+		"title": "Domina Python: Inteligencia artificial",
+		"description": "general course on AI with Ana María",
+		"platform": "linkedInLearning",
+		"fileIdCode": "es-ll-domina-python-inteligencia-artificial",
+		"status": ""
+	},
+	{
+		"topics": "python, ai, scikitlearn",
+		"language": "es",
+		"duration": "01:15:00",
+		"year": "2024",
+		"rank": "4.4",
+		"url": "https://www.linkedin.com/learning/domina-python-scikit-learn",
+		"title": "Domina Python: Scikit-learn",
+		"description": "Ana María on Scikit-learn",
+		"platform": "linkedInLearning",
+		"fileIdCode": "es-ll-domina-python-scikitlearn",
+		"status": ""
 	},
 	{
 		"topics": "gitlab",
@@ -739,6 +843,19 @@
 		"platform": "linkedInLearning",
 		"fileIdCode": "es-ll-react-hooks-esencial",
 		"status": "discontinued"
+	},
+	{
+		"topics": "tensorflow, ai",
+		"language": "es",
+		"duration": "03:32:00",
+		"year": "2019",
+		"rank": "4.68",
+		"url": "https://www.linkedin.com/learning/tensorflow-esencial/aprende-los-fundamentos-de-tensorflow",
+		"title": "TensorFlow esencial",
+		"description": "old but a long Spanish course, and ChatGPT suggested that not too many things have changed since then",
+		"platform": "linkedInLearning",
+		"fileIdCode": "es-ll-tensorflow-esencial",
+		"status": ""
 	},
 	{
 		"topics": "androidUser",
@@ -946,6 +1063,32 @@
 		"description": "Docstring, good course on Python testing",
 		"platform": "linkedInLearning",
 		"fileIdCode": "fr-ll-python-les-tests-unitaires",
+		"status": ""
+	},
+	{
+		"topics": "ai, python",
+		"language": "fr",
+		"duration": "01:41:00",
+		"year": "2024",
+		"rank": "4.87",
+		"url": "https://www.linkedin.com/learning/python-pour-le-machine-learning",
+		"title": "Python pour le machine learning",
+		"description": "Alison Patou, this course uses Jupyter, important for AI development",
+		"platform": "linkedInLearning",
+		"fileIdCode": "fr-ll-python-pour-le-machine-learning",
+		"status": ""
+	},
+	{
+		"topics": "ai,tensorflow",
+		"language": "fr",
+		"duration": "04:28:00",
+		"year": "2021",
+		"rank": "4.91",
+		"url": "https://www.linkedin.com/learning/tensorflow-pour-le-deep-learning",
+		"title": "TensorFlow pour le deep learning",
+		"description": "Madjid in French, 2021, good overview of TensorFlow, and very long",
+		"platform": "linkedInLearning",
+		"fileIdCode": "fr-ll-tensorflow-pour-le-deep-learning",
 		"status": ""
 	},
 	{

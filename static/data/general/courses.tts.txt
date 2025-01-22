@@ -263,28 +263,16 @@ haskell; sp; https://www.youtube.com/watch?v=mXroxy93nXg
 
 
 
->>create>>ai;de;01:23:00;2024;4.998;https://www.linkedin.com/learning/ki-unterstutztes-programmieren-mit-openai-und-chatgpt; KI-unterstütztes Programmieren mit OpenAI und ChatGPT ;Ralph Steyer, AI in JavaScript and Python
 
 
 
 
->>create>>numpy, python;de;02:00:00;2024;4.92;https://www.linkedin.com/learning/numpy-grundkurs; NumPy Grundkurs ;Ralph Steyer deep course in numpy
->>create>>ai, python;fr;01:41:00;2024;4.87;https://www.linkedin.com/learning/python-pour-le-machine-learning; Python pour le machine learning ;Alison Patou, this course uses Jupyter, important for AI development
->>create>>ai,tensorflow;fr;04:28:00;2021;4.91;https://www.linkedin.com/learning/tensorflow-pour-le-deep-learning; TensorFlow pour le deep learning ;Madjid in French, 2021, good overview of TensorFlow, and very long
->>create>>ai;es;01:28:00;2024;4.9988;https://www.linkedin.com/learning/desarrollar-aplicaciones-basadas-en-llms-con-lanchain-semantic-kernel-y-prompt-flow; Desarrollar aplicaciones basadas en LLMs con LanChain, Semantic Kernel y Prompt Flow ;Diana Diaz looks good, new course and mentions lots of AI: LangChain, Semantic Kernel, etc. and focuses on building apps
-
->>create>>tensorflow, ai;es;03:32:00;2019;4.68;https://www.linkedin.com/learning/tensorflow-esencial/aprende-los-fundamentos-de-tensorflow; TensorFlow esencial ;old but a long Spanish course, and ChatGPT suggested that not too many things have changed since then
-
->>create>>python, ai, scikitlearn;es;01:15:00;2024;4.4;https://www.linkedin.com/learning/domina-python-scikit-learn; Domina Python: Scikit-learn ;Ana María on Scikit-learn
->>create>>python, ai;es;01:00:00;2024;4.88;https://www.linkedin.com/learning/domina-python-inteligencia-artificial; Domina Python: Inteligencia artificial ;general course on AI with Ana María
->>create>>python, pytorch, ai;es;01:29:00;2024;4.77;https://www.linkedin.com/learning/domina-keras; Domina Keras ;could intro course in Spanish, Lincy, the easier teacher
-
->>create>>python, pytorch, ai;en;01;21:00;2024;4.4;https://www.linkedin.com/learning/pytorch-essential-training-deep-learning-23753149/deep-learning-with-pytorch; PyTorch Essential Training: Deep Learning;good starting course in PyTorch, Terezija is a good geek teacher
 
 
->>create>>keras, ai;en;01:50:00;2024;4.3;https://www.linkedin.com/learning/building-deep-learning-applications-with-keras; Building Deep Learning Applications with Keras ;nice intro to Keras, mentions Neuron, TensorFlow, ResNet50, TensorBoard
 
->>create>>tensorflow, ai;en;00:38:00;2024;4.94;https://www.linkedin.com/learning/tensorflow-practical-skills-in-constructing-training-and-optimizing-models;TensorFlow: Practical Skills in Constructing, Training, and Optimizing Models;good intro course to Tensorflow, only 30 minutes
+
+
+
 
 
 
@@ -425,3 +413,16 @@ CREATED: ai;fr;02:00:00;2024;4.96;https://www.linkedin.com/learning/creer-des-ag
 CREATED: python, testing;en;01:38:00;2024;4.4;https://www.linkedin.com/learning/python-automation-and-testing;Python Automation and Testing;a python testing course
 CREATED: nodered;en;00:39:00;2022;4.1;https://www.linkedin.com/learning/build-sap-integration-with-node-red; Build SAP Integration with Node-RED ;watching this for a coding challenge, gives quick overview of Node-RED
 CREATED: nodered;en;01:00:00;2020;4.3;https://www.youtube.com/watch?v=ksGeUD26Mw0&list=PLyNBB9VCLmo1hyO-4fIZ08gqFcXBkHy-6;Node-RED Essentials;19 videos to show the basics of Node-RED
+
+CREATED: ai;de;01:23:00;2024;4.998;https://www.linkedin.com/learning/ki-unterstutztes-programmieren-mit-openai-und-chatgpt; KI-unterstütztes Programmieren mit OpenAI und ChatGPT ;Ralph Steyer, AI in JavaScript and Python
+CREATED: numpy, python;de;02:00:00;2024;4.92;https://www.linkedin.com/learning/numpy-grundkurs; NumPy Grundkurs ;Ralph Steyer deep course in numpy
+CREATED: ai, python;fr;01:41:00;2024;4.87;https://www.linkedin.com/learning/python-pour-le-machine-learning; Python pour le machine learning ;Alison Patou, this course uses Jupyter, important for AI development
+CREATED: ai,tensorflow;fr;04:28:00;2021;4.91;https://www.linkedin.com/learning/tensorflow-pour-le-deep-learning; TensorFlow pour le deep learning ;Madjid in French, 2021, good overview of TensorFlow, and very long
+CREATED: ai;es;01:28:00;2024;4.9988;https://www.linkedin.com/learning/desarrollar-aplicaciones-basadas-en-llms-con-lanchain-semantic-kernel-y-prompt-flow; Desarrollar aplicaciones basadas en LLMs con LanChain, Semantic Kernel y Prompt Flow ;Diana Diaz looks good, new course and mentions lots of AI: LangChain, Semantic Kernel, etc. and focuses on building apps
+CREATED: tensorflow, ai;es;03:32:00;2019;4.68;https://www.linkedin.com/learning/tensorflow-esencial/aprende-los-fundamentos-de-tensorflow; TensorFlow esencial ;old but a long Spanish course, and ChatGPT suggested that not too many things have changed since then
+CREATED: python, ai, scikitlearn;es;01:15:00;2024;4.4;https://www.linkedin.com/learning/domina-python-scikit-learn; Domina Python: Scikit-learn ;Ana María on Scikit-learn
+CREATED: python, ai;es;01:00:00;2024;4.88;https://www.linkedin.com/learning/domina-python-inteligencia-artificial; Domina Python: Inteligencia artificial ;general course on AI with Ana María
+CREATED: python, pytorch, ai;es;01:29:00;2024;4.77;https://www.linkedin.com/learning/domina-keras; Domina Keras ;could intro course in Spanish, Lincy, the easier teacher
+CREATED: python, pytorch, ai;en;01;21:00;2024;4.4;https://www.linkedin.com/learning/pytorch-essential-training-deep-learning-23753149/deep-learning-with-pytorch; PyTorch Essential Training: Deep Learning;good starting course in PyTorch, Terezija is a good geek teacher
+CREATED: keras, ai;en;01:50:00;2024;4.3;https://www.linkedin.com/learning/building-deep-learning-applications-with-keras; Building Deep Learning Applications with Keras ;nice intro to Keras, mentions Neuron, TensorFlow, ResNet50, TensorBoard
+CREATED: tensorflow, ai;en;00:38:00;2024;4.94;https://www.linkedin.com/learning/tensorflow-practical-skills-in-constructing-training-and-optimizing-models;TensorFlow: Practical Skills in Constructing, Training, and Optimizing Models;good intro course to Tensorflow, only 30 minutes
