@@ -9,7 +9,7 @@ const flashcards = $state(
 	dataModel.getFlashcards().sort((a, b) => (a.whenCreated < b.whenCreated ? 1 : -1))
 );
 const tutorials = $state(dataModel.getTutorials());
-const filteredTutorials = tutorials.filter((m) => m.topics.includes('python'));
+const filteredTutorials = tutorials.filter((m) => m.topics.includes('go'));
 
 // errorMessage
 // TODO: pass through full array of errors, not just number

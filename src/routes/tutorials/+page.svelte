@@ -68,7 +68,7 @@
 				</tr>
 			</thead>
 			<tbody>
-				{#each store.tutorials as tutorial}
+				{#each store.filteredTutorials as tutorial}
 					<tr class={getStatusClass(tutorial)}>
 						<td>{tutorial.rank.toFixed(2)}</td>
 						<td>{tutorial.year === 0 ? '' : tutorial.year}</td>
