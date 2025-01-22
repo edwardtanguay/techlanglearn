@@ -455,6 +455,19 @@
 		"status": ""
 	},
 	{
+		"topics": "python, pytorch, ai",
+		"language": "en",
+		"duration": "01:21:00",
+		"year": "2024",
+		"rank": "4.4",
+		"url": "https://www.linkedin.com/learning/pytorch-essential-training-deep-learning-23753149/deep-learning-with-pytorch",
+		"title": "PyTorch Essential Training: Deep Learning",
+		"description": "good starting course in PyTorch, Terezija is a good geek teacher",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-pytorch-essential-training-deep-learning",
+		"status": ""
+	},
+	{
 		"topics": "python",
 		"language": "en",
 		"duration": "02:21:00",

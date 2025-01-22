@@ -9,7 +9,26 @@ const flashcards = $state(
 	dataModel.getFlashcards().sort((a, b) => (a.whenCreated < b.whenCreated ? 1 : -1))
 );
 const tutorials = $state(dataModel.getTutorials());
-const filteredTutorials = $state(tutorials.filter((m) => m.topics.includes('go')));
+let filteredTutorials = $state(tutorials);
+
+const topicList = (): string[] => {
+	const topicCounts: Record<string, number> = {};
+
+	for (const tutorial of tutorials) {
+		const tutorialTopics = tutorial.topics.split(',').map((topic) => topic.trim());
+		for (const topic of tutorialTopics) {
+			topicCounts[topic] = (topicCounts[topic] || 0) + 1;
+		}
+	}
+
+	return Object.keys(topicCounts).sort((a, b) => {
+		const countDiff = topicCounts[b] - topicCounts[a];
+		if (countDiff !== 0) {
+			return countDiff; 
+		}
+		return a.localeCompare(b); 
+	});
+};
 
 // errorMessage
 // TODO: pass through full array of errors, not just number
@@ -58,6 +77,12 @@ export const getStore = () => {
 		},
 		handleRandomFlashcardToggle: (f: Flashcard) => {
 			f.isOpen = !f.isOpen;
+		},
+		filterTutorials: (topic: string) => {
+			filteredTutorials = tutorials.filter((m) => m.topics.includes(topic));
+		},
+		getSelectableTopics: () => {
+			return topicList();
 		},
 		toggleSortColumn: (fieldIdCode: string) => {
 			if (fieldIdCode === 'rank') {

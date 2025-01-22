@@ -22,10 +22,10 @@
 	};
 
 	let showingControls = false;
-	const topics = ['all', 'topic1', 'topic2', 'topic3'];
+	const topics = store.getSelectableTopics();
 	let selectedTopic = topics[0];
 	const selectTopic = (topic: string) => {
-		selectedTopic = topic;
+		store.filterTutorials(topic);
 	};
 	setTimeout(() => {
 		showingControls = true;
