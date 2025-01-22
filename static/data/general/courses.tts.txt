@@ -399,7 +399,7 @@ CREATED: python;fr;02:33:00;2021;4.92;https://www.linkedin.com/learning/django-c
 CREATED: python;fr;01:16:00;2021;4.92;https://www.linkedin.com/learning/python-les-tests-unitaires; Python : Les tests unitaires ;Docstring, good course on Python testing
 CREATED: python;fr;02:06:00;2021;4.91;https://www.linkedin.com/learning/l-essentiel-de-django; L'essentiel de Django ;basics of Django, Docstring has nice accent, short
 CREATED: css;fr;06:23:00;2024;4.81;https://www.linkedin.com/learning/l-essentiel-des-css-2; L'essentiel des CSS ;a very up-to-date and solid course (6+ hours) on CSS, in French, nice accent (Damian Bruyndonckx), responsive, etc.
-CREATED: python, pandas;fr;01:47:00;2021;4.95;https://www.linkedin.com/learning/pandas-pour-la-data-science; pandas pour la data science ;Docstring on pandas and Jupyter setup, good
+CREATED: python, pandas, Jupyter;fr;01:47:00;2021;4.95;https://www.linkedin.com/learning/pandas-pour-la-data-science; pandas pour la data science ;Docstring on pandas and Jupyter setup, good
 CREATED: html, images;fr;02:18:00;2024;4.69;https://www.linkedin.com/learning/html-les-images-responsive; HTML : Les images responsive ;a nice French class, 2 hours, Damien Bruyndonckx nice accent, good way to get a good grasp of using images, even webp etc.
 CREATED: webpack;fr;02:14:00;2024;4.54;https://www.linkedin.com/learning/l-essentiel-de-webpack-5; L'essentiel de Webpack 5 ;a nice retro course with Damian Bruyndonckx in French
 CREATED: npm;fr;01:30:00;2019;4.42;https://www.linkedin.com/learning/l-essentiel-de-node-package-manager-npm; L'essentiel de Node Package Manager (npm) ;shows how to publish npm package, nice French with Damien Bruyndonckx

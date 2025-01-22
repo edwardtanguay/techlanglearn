@@ -4,7 +4,7 @@ https://www.linkedin.com/learning/python-pour-le-machine-learning
 
 - duration: 01:41:00
 - language: fr
-- topics: ai, python
+- topics: ai, python, jupyter
 - rank: 4.87
 - description: Alison Patou, this course uses Jupyter, important for AI development
 - year: 2024
@@ -16,4 +16,5 @@ https://www.linkedin.com/learning/python-pour-le-machine-learning
 ## VOCAB - SPANISH
 
 ```
+
 ```

@@ -5,7 +5,7 @@ https://www.linkedin.com/learning/python-tools-jupyter-vs-pycharm/pycharm-vs-the
 - duration: 00:29:00
 - language: en
 - topics: python, pycharm, jupyter
-- rank: 4.2
+- rank: 4.9992
 - description: simply shows how to use PyCharm and Jupyter
 - year: 2021
 

@@ -446,7 +446,7 @@
 		"language": "en",
 		"duration": "00:29:00",
 		"year": "2021",
-		"rank": "4.2",
+		"rank": "4.9992",
 		"url": "https://www.linkedin.com/learning/python-tools-jupyter-vs-pycharm/pycharm-vs-the-jupyter-notebook",
 		"title": "Python Tools: Jupyter vs. PyCharm",
 		"description": "simply shows how to use PyCharm and Jupyter",
@@ -1040,7 +1040,7 @@
 		"status": ""
 	},
 	{
-		"topics": "python, pandas",
+		"topics": "python, pandas, jupyter",
 		"language": "fr",
 		"duration": "01:47:00",
 		"year": "2021",
@@ -1079,7 +1079,7 @@
 		"status": ""
 	},
 	{
-		"topics": "ai, python",
+		"topics": "ai, python, jupyter",
 		"language": "fr",
 		"duration": "01:41:00",
 		"year": "2024",

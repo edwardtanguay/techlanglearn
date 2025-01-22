@@ -4,7 +4,7 @@ https://www.linkedin.com/learning/pandas-pour-la-data-science
 
 - duration: 01:47:00
 - language: fr
-- topics: python, pandas
+- topics: python, pandas, jupyter
 - rank: 4.95
 - description: Docstring on pandas and Jupyter setup, good
 - year: 2021
