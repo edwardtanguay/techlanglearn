@@ -8,6 +8,7 @@ https://www.linkedin.com/learning/python-tools-jupyter-vs-pycharm/pycharm-vs-the
 - rank: 4.9992
 - description: simply shows how to use PyCharm and Jupyter
 - year: 2021
+- status: did first of two main parts
 
 ## PyCharm vs. the Jupyter Notebook,1:13, 2025-01-22
 
