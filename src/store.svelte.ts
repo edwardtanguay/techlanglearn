@@ -21,13 +21,16 @@ const topicList = (): string[] => {
 		}
 	}
 
-	return Object.keys(topicCounts).sort((a, b) => {
+	const topics = Object.keys(topicCounts).sort((a, b) => {
 		const countDiff = topicCounts[b] - topicCounts[a];
 		if (countDiff !== 0) {
-			return countDiff; 
+			return countDiff;
 		}
-		return a.localeCompare(b); 
+		return a.localeCompare(b);
 	});
+
+	topics.unshift('ALL');
+	return topics;
 };
 
 // errorMessage
@@ -79,7 +82,11 @@ export const getStore = () => {
 			f.isOpen = !f.isOpen;
 		},
 		filterTutorials: (topic: string) => {
-			filteredTutorials = tutorials.filter((m) => m.topics.includes(topic));
+			if (topic === 'ALL') {
+				filteredTutorials = tutorials;
+			} else {
+				filteredTutorials = tutorials.filter((m) => m.topics.includes(topic));
+			}
 		},
 		getSelectableTopics: () => {
 			return topicList();
