@@ -20,11 +20,35 @@
 			return '';
 		}
 	};
+
+	let showingControls = false;
+	const topics = ['all', 'topic1', 'topic2', 'topic3'];
+	let selectedTopic = topics[0];
+	const selectTopic = (topic: string) => {
+		selectedTopic = topic;
+	};
+	setTimeout(() => {
+		showingControls = true;
+	}, 1000);
 </script>
 
 <section class="pageTutorials">
-	<header>
+	<header class="flex gap-3">
 		<h1 class="main">{store.tutorials.length} Tutorials</h1>
+		{#if showingControls}
+			<select
+				bind:value={selectedTopic}
+				class="inline-block rounded-md border border-gray-300 bg-gray-50 px-2 py-1 text-sm text-gray-700 focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500"
+			>
+				{#each topics as topic}
+					<option
+						value={topic}
+						selected={selectedTopic === topic}
+						on:click={() => selectTopic(topic)}>{topic}</option
+					>
+				{/each}
+			</select>
+		{/if}
 	</header>
 	<hr />
 
