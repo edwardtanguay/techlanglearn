@@ -1,0 +1,68 @@
+
+>>create>>numpy, python;de;02:00:00;2024;4.92;https://www.linkedin.com/learning/numpy-grundkurs; NumPy Grundkurs ;Ralph Steyer deep course in numpy
+>>create>>ai, python;fr;01:41:00;2024;4.87;https://www.linkedin.com/learning/python-pour-le-machine-learning; Python pour le machine learning ;Alison Patou, this course uses Jupyter, important for AI development
+>>create>>ai;tensorflow;fr;04:28:00;2021;4.91;https://www.linkedin.com/learning/tensorflow-pour-le-deep-learning; TensorFlow pour le deep learning ;Madjid in French, 2021, good overview of TensorFlow, and very long
+>>nnncreate>>ai;es;01:28:00;2024;4.9988;https://www.linkedin.com/learning/desarrollar-aplicaciones-basadas-en-llms-con-lanchain-semantic-kernel-y-prompt-flow; Desarrollar aplicaciones basadas en LLMs con LanChain, Semantic Kernel y Prompt Flow ;Diana Diaz looks good, new course and mentions lots of AI: LangChain, Semantic Kernel, etc. and focuses on building apps
+
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+
+
+>>create>>numpy, python;de;02:00:00;2024;4.92;https://www.linkedin.com/learning/numpy-grundkurs; NumPy Grundkurs ;Ralph Steyer deep course in numpy
+>>create>>ai, python;fr;01:41:00;2024;4.87;https://www.linkedin.com/learning/python-pour-le-machine-learning; Python pour le machine learning ;Alison Patou, this course uses Jupyter, important for AI development
+>>create>>ai;tensorflow;fr;04:28:00;2021;4.91;https://www.linkedin.com/learning/tensorflow-pour-le-deep-learning; TensorFlow pour le deep learning ;Madjid in French, 2021, good overview of TensorFlow, and very long
+>>nnncreate>>ai;es;01:28:00;2024;4.9988;https://www.linkedin.com/learning/desarrollar-aplicaciones-basadas-en-llms-con-lanchain-semantic-kernel-y-prompt-flow; Desarrollar aplicaciones basadas en LLMs con LanChain, Semantic Kernel y Prompt Flow ;Diana Diaz looks good, new course and mentions lots of AI: LangChain, Semantic Kernel, etc. and focuses on building apps
+
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+
+
+>>create>>numpy, python;de;02:00:00;2024;4.92;https://www.linkedin.com/learning/numpy-grundkurs; NumPy Grundkurs ;Ralph Steyer deep course in numpy
+>>create>>ai, python;fr;01:41:00;2024;4.87;https://www.linkedin.com/learning/python-pour-le-machine-learning; Python pour le machine learning ;Alison Patou, this course uses Jupyter, important for AI development
+>>create>>ai;tensorflow;fr;04:28:00;2021;4.91;https://www.linkedin.com/learning/tensorflow-pour-le-deep-learning; TensorFlow pour le deep learning ;Madjid in French, 2021, good overview of TensorFlow, and very long
+>>nnncreate>>ai;es;01:28:00;2024;4.9988;https://www.linkedin.com/learning/desarrollar-aplicaciones-basadas-en-llms-con-lanchain-semantic-kernel-y-prompt-flow; Desarrollar aplicaciones basadas en LLMs con LanChain, Semantic Kernel y Prompt Flow ;Diana Diaz looks good, new course and mentions lots of AI: LangChain, Semantic Kernel, etc. and focuses on building apps
+
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+
+
+>>create>>numpy, python;de;02:00:00;2024;4.92;https://www.linkedin.com/learning/numpy-grundkurs; NumPy Grundkurs ;Ralph Steyer deep course in numpy
+>>create>>ai, python;fr;01:41:00;2024;4.87;https://www.linkedin.com/learning/python-pour-le-machine-learning; Python pour le machine learning ;Alison Patou, this course uses Jupyter, important for AI development
+>>create>>ai;tensorflow;fr;04:28:00;2021;4.91;https://www.linkedin.com/learning/tensorflow-pour-le-deep-learning; TensorFlow pour le deep learning ;Madjid in French, 2021, good overview of TensorFlow, and very long
+>>nnncreate>>ai;es;01:28:00;2024;4.9988;https://www.linkedin.com/learning/desarrollar-aplicaciones-basadas-en-llms-con-lanchain-semantic-kernel-y-prompt-flow; Desarrollar aplicaciones basadas en LLMs con LanChain, Semantic Kernel y Prompt Flow ;Diana Diaz looks good, new course and mentions lots of AI: LangChain, Semantic Kernel, etc. and focuses on building apps
+
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+
+
+>>create>>numpy, python;de;02:00:00;2024;4.92;https://www.linkedin.com/learning/numpy-grundkurs; NumPy Grundkurs ;Ralph Steyer deep course in numpy
+>>create>>ai, python;fr;01:41:00;2024;4.87;https://www.linkedin.com/learning/python-pour-le-machine-learning; Python pour le machine learning ;Alison Patou, this course uses Jupyter, important for AI development
+>>create>>ai;tensorflow;fr;04:28:00;2021;4.91;https://www.linkedin.com/learning/tensorflow-pour-le-deep-learning; TensorFlow pour le deep learning ;Madjid in French, 2021, good overview of TensorFlow, and very long
+>>nnncreate>>ai;es;01:28:00;2024;4.9988;https://www.linkedin.com/learning/desarrollar-aplicaciones-basadas-en-llms-con-lanchain-semantic-kernel-y-prompt-flow; Desarrollar aplicaciones basadas en LLMs con LanChain, Semantic Kernel y Prompt Flow ;Diana Diaz looks good, new course and mentions lots of AI: LangChain, Semantic Kernel, etc. and focuses on building apps
+
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+
+
+>>create>>numpy, python;de;02:00:00;2024;4.92;https://www.linkedin.com/learning/numpy-grundkurs; NumPy Grundkurs ;Ralph Steyer deep course in numpy
+>>create>>ai, python;fr;01:41:00;2024;4.87;https://www.linkedin.com/learning/python-pour-le-machine-learning; Python pour le machine learning ;Alison Patou, this course uses Jupyter, important for AI development
+>>create>>ai;tensorflow;fr;04:28:00;2021;4.91;https://www.linkedin.com/learning/tensorflow-pour-le-deep-learning; TensorFlow pour le deep learning ;Madjid in French, 2021, good overview of TensorFlow, and very long
+>>nnncreate>>ai;es;01:28:00;2024;4.9988;https://www.linkedin.com/learning/desarrollar-aplicaciones-basadas-en-llms-con-lanchain-semantic-kernel-y-prompt-flow; Desarrollar aplicaciones basadas en LLMs con LanChain, Semantic Kernel y Prompt Flow ;Diana Diaz looks good, new course and mentions lots of AI: LangChain, Semantic Kernel, etc. and focuses on building apps
+
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+
+
+>>create>>numpy, python;de;02:00:00;2024;4.92;https://www.linkedin.com/learning/numpy-grundkurs; NumPy Grundkurs ;Ralph Steyer deep course in numpy
+>>create>>ai, python;fr;01:41:00;2024;4.87;https://www.linkedin.com/learning/python-pour-le-machine-learning; Python pour le machine learning ;Alison Patou, this course uses Jupyter, important for AI development
+>>create>>ai;tensorflow;fr;04:28:00;2021;4.91;https://www.linkedin.com/learning/tensorflow-pour-le-deep-learning; TensorFlow pour le deep learning ;Madjid in French, 2021, good overview of TensorFlow, and very long
+>>nnncreate>>ai;es;01:28:00;2024;4.9988;https://www.linkedin.com/learning/desarrollar-aplicaciones-basadas-en-llms-con-lanchain-semantic-kernel-y-prompt-flow; Desarrollar aplicaciones basadas en LLMs con LanChain, Semantic Kernel y Prompt Flow ;Diana Diaz looks good, new course and mentions lots of AI: LangChain, Semantic Kernel, etc. and focuses on building apps
+
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+
+
+>>create>>numpy, python;de;02:00:00;2024;4.92;https://www.linkedin.com/learning/numpy-grundkurs; NumPy Grundkurs ;Ralph Steyer deep course in numpy
+>>create>>ai, python;fr;01:41:00;2024;4.87;https://www.linkedin.com/learning/python-pour-le-machine-learning; Python pour le machine learning ;Alison Patou, this course uses Jupyter, important for AI development
+>>create>>ai;tensorflow;fr;04:28:00;2021;4.91;https://www.linkedin.com/learning/tensorflow-pour-le-deep-learning; TensorFlow pour le deep learning ;Madjid in French, 2021, good overview of TensorFlow, and very long
+>>nnncreate>>ai;es;01:28:00;2024;4.9988;https://www.linkedin.com/learning/desarrollar-aplicaciones-basadas-en-llms-con-lanchain-semantic-kernel-y-prompt-flow; Desarrollar aplicaciones basadas en LLMs con LanChain, Semantic Kernel y Prompt Flow ;Diana Diaz looks good, new course and mentions lots of AI: LangChain, Semantic Kernel, etc. and focuses on building apps
+
+
+
+>>create>>numpy, python;de;02:00:00;2024;4.92;https://www.linkedin.com/learning/numpy-grundkurs; NumPy Grundkurs ;Ralph Steyer deep course in numpy
+>>create>>ai, python;fr;01:41:00;2024;4.87;https://www.linkedin.com/learning/python-pour-le-machine-learning; Python pour le machine learning ;Alison Patou, this course uses Jupyter, important for AI development
+>>create>>ai;tensorflow;fr;04:28:00;2021;4.91;https://www.linkedin.com/learning/tensorflow-pour-le-deep-learning; TensorFlow pour le deep learning ;Madjid in French, 2021, good overview of TensorFlow, and very long
+>>nnncreate>>ai;es;01:28:00;2024;4.9988;https://www.linkedin.com/learning/desarrollar-aplicaciones-basadas-en-llms-con-lanchain-semantic-kernel-y-prompt-flow; Desarrollar aplicaciones basadas en LLMs con LanChain, Semantic Kernel y Prompt Flow ;Diana Diaz looks good, new course and mentions lots of AI: LangChain, Semantic Kernel, etc. and focuses on building apps
