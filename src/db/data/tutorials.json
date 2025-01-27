@@ -312,6 +312,19 @@
 		"status": ""
 	},
 	{
+		"topics": "koktlin",
+		"language": "en",
+		"duration": "04:42:00",
+		"year": "2022",
+		"rank": "4.78",
+		"url": "https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o",
+		"title": "Kotlin Essential Training: Functions, Collections, and I/O",
+		"description": "Good basic course on Kotlin, uses IntelliJ IDEA, community version is free",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-kotlin-essential-training-functions-collections-and-io",
+		"status": ""
+	},
+	{
 		"topics": "laravel",
 		"language": "en",
 		"duration": "03:14:00",
@@ -465,6 +478,19 @@
 		"description": "good starting course in PyTorch, Terezija is a good geek teacher",
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-pytorch-essential-training-deep-learning",
+		"status": ""
+	},
+	{
+		"topics": "firebase",
+		"language": "en",
+		"duration": "02:29:00",
+		"year": "2020",
+		"rank": "4.69",
+		"url": "https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase",
+		"title": "React: Cloud-Powered Apps with Firebase",
+		"description": "Quite a deep-dive into Firebase's setup, authentication, and storage",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-react-cloudpowered-apps-with-firebase",
 		"status": ""
 	},
 	{
@@ -663,6 +689,19 @@
 		"status": "finished"
 	},
 	{
+		"topics": "mobx",
+		"language": "en",
+		"duration": "00:13:02",
+		"year": "2021",
+		"rank": "4.68",
+		"url": "https://www.youtube.com/watch?v=nGZCL6Wd_zQ",
+		"title": "Typescript for React and MobX From Beginners to Masters",
+		"description": "Jack Harrington only 13 minutes but probably a good overview of what Mobx can do with TypeScript",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-typescript-for-react-and-mobx-from-beginners-to-masters",
+		"status": ""
+	},
+	{
 		"topics": "svelte5",
 		"language": "en",
 		"duration": "00:17:40",
@@ -856,6 +895,19 @@
 		"platform": "linkedInLearning",
 		"fileIdCode": "es-ll-react-hooks-esencial",
 		"status": "discontinued"
+	},
+	{
+		"topics": "springboot",
+		"language": "es",
+		"duration": "02:38:00",
+		"year": "2023",
+		"rank": "4.32",
+		"url": "https://www.linkedin.com/learning/spring-boot-esencial",
+		"title": "Spring Boot esencial",
+		"description": "Mariona has a nice Spanish voice, good basics for Spring Boot, does web and command line sections",
+		"platform": "linkedInLearning",
+		"fileIdCode": "es-ll-spring-boot-esencial",
+		"status": ""
 	},
 	{
 		"topics": "tensorflow, ai",

@@ -257,12 +257,8 @@ haskell; sp; https://www.youtube.com/watch?v=mXroxy93nXg
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 
->>create>>springboot;es;02:38:00;2023;4.32;https://www.linkedin.com/learning/spring-boot-esencial;Spring Boot esencial;Mariona has a nice Spanish voice, good basics for Spring Boot, does web and command line sections
 
->>create>>firebase;en;02:29:00;2020;4.69;https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase;React: Cloud-Powered Apps with Firebase;Quite a deep-dive into Firebase's setup, authentication, and storage
 
->>create>>mobx;en;00:13:02;2021;4.68;https://www.youtube.com/watch?v=nGZCL6Wd_zQ;Typescript for React and MobX From Beginners to Masters;Jack Harrington only 13 minutes but probably a good overview of what Mobx can do with TypeScript
->>create>>koktlin;en;04:42:00;2022;4.78;https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o; Kotlin Essential Training: Functions, Collections, and I/O ;Good basic course on Kotlin, uses IntelliJ IDEA, community version is free
 
 x kotlin: https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o
 x mobx: https://www.youtube.com/watch?v=nGZCL6Wd_zQ
@@ -431,3 +427,7 @@ CREATED: python, pytorch, ai;es;01:29:00;2024;4.77;https://www.linkedin.com/lear
 CREATED: keras, ai;en;01:50:00;2024;4.3;https://www.linkedin.com/learning/building-deep-learning-applications-with-keras; Building Deep Learning Applications with Keras ;nice intro to Keras, mentions Neuron, TensorFlow, ResNet50, TensorBoard
 CREATED: tensorflow, ai;en;00:38:00;2024;4.94;https://www.linkedin.com/learning/tensorflow-practical-skills-in-constructing-training-and-optimizing-models;TensorFlow: Practical Skills in Constructing, Training, and Optimizing Models;good intro course to Tensorflow, only 30 minutes
 CREATED: python, pytorch, ai;en;01:21:00;2024;4.4;https://www.linkedin.com/learning/pytorch-essential-training-deep-learning-23753149/deep-learning-with-pytorch; PyTorch Essential Training: Deep Learning;good starting course in PyTorch, Terezija is a good geek teacher
+CREATED: springboot;es;02:38:00;2023;4.32;https://www.linkedin.com/learning/spring-boot-esencial;Spring Boot esencial;Mariona has a nice Spanish voice, good basics for Spring Boot, does web and command line sections
+CREATED: firebase;en;02:29:00;2020;4.69;https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase;React: Cloud-Powered Apps with Firebase;Quite a deep-dive into Firebase's setup, authentication, and storage
+CREATED: mobx;en;00:13:02;2021;4.68;https://www.youtube.com/watch?v=nGZCL6Wd_zQ;Typescript for React and MobX From Beginners to Masters;Jack Harrington only 13 minutes but probably a good overview of what Mobx can do with TypeScript
+CREATED: koktlin;en;04:42:00;2022;4.78;https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o; Kotlin Essential Training: Functions, Collections, and I/O ;Good basic course on Kotlin, uses IntelliJ IDEA, community version is free
