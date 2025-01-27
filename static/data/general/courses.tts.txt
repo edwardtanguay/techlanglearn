@@ -256,13 +256,18 @@ haskell; sp; https://www.youtube.com/watch?v=mXroxy93nXg
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 
+>>create>>springboot;es;02:38:00;2023;4.32;https://www.linkedin.com/learning/spring-boot-esencial;Spring Boot esencial;Mariona has a nice Spanish voice, good basics for Spring Boot, does web and command line sections
 
+>>create>>firebase;en;02:29:00;2020;4.69;https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase;React: Cloud-Powered Apps with Firebase;Quite a deep-dive into Firebase's setup, authentication, and storage
 
+>>create>>mobx;en;00:13:02;2021;4.68;https://www.youtube.com/watch?v=nGZCL6Wd_zQ;Typescript for React and MobX From Beginners to Masters;Jack Harrington only 13 minutes but probably a good overview of what Mobx can do with TypeScript
+>>create>>koktlin;en;04:42:00;2022;4.78;https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o; Kotlin Essential Training: Functions, Collections, and I/O ;Good basic course on Kotlin, uses IntelliJ IDEA, community version is free
+
+x kotlin: https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o
+x mobx: https://www.youtube.com/watch?v=nGZCL6Wd_zQ
+x firebase: https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/structuring-your-apps-for-the-cloud
+x spring boot: https://www.linkedin.com/learning/spring-boot-esencial
 
 
 

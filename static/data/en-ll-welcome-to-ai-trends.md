@@ -27,9 +27,41 @@ https://www.linkedin.com/learning/ai-trends/openai-canvas?resume=false
 - say "use canvas" in ChatGPT-4o
 - you can use the "choose school level"
 
-## Agentic computer use from Claude, 1:58, nnn
+## Agentic computer use from Claude, 1:58, 2025-01-24
 
 https://www.linkedin.com/learning/ai-trends/claude-s-agentic-computer-use?autoSkip=true&resume=false
+
+- you set up computer use mode with the API
+
+## OpenAI o1, 3:57, 2025-01-24
+
+https://www.linkedin.com/learning/ai-trends/openai-o1?autoSkip=true&resume=false
+
+- full version Dec. 5, 2024
+- better than GPT-4o in mathematics
+  - but GPT-4o is 4x faster
+- reaches PhD levels for reasoning
+- not here to replace Gemini or GPT-4o
+- less optmial for doing simple tasks
+- more suitable for tasks that require data analysis
+- it's slow and expensive to run
+- less hallucinations or inaccuracies
+
+## GitHub models, 4:10, 2025-01-26
+
+https://www.linkedin.com/learning/ai-trends/github-models?autoSkip=true&resume=false
+
+- https://github.com/marketplace
+- https://github.com/marketplace?type=models
+- 50 requests per day
+- all models served off single end-point
+- get PAT, choose scopes: read:org, user
+- you can work in codespaces without a token
+- "GitHub models lowers the barriers of AI prototyping all the way down to the ground"
+
+## Claude Artifacts, 4:02, nnn
+
+https://www.linkedin.com/learning/ai-trends/claude-artifacts?autoSkip=true&resume=false
 
 - nnn
 
