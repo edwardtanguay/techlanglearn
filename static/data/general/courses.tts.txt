@@ -1,3 +1,8 @@
+- Airtable: https://www.linkedin.com/learning/learning-airtable
+- Zoro CRM: https://www.linkedin.com/learning/learning-zoho-crm
+
+
+
 -DESC NEXT: - git workflows good - https://www.linkedin.com/learning/git-workflows/github-flow-in-practice
 
 - todo
@@ -79,7 +84,6 @@ accessibility; en; 2024; https://www.linkedin.com/learning/web-accessibility-for
 - https://www.linkedin.com/learning/shopify-grundkurs
 - kafka
 - regex, en, 2024: https://www.linkedin.com/learning/learning-regular-expressions-15586553/write-text-matching-patterns
-- sp; 2023; https://www.linkedin.com/learning/domina-apache-kafka/aprendiendo-sobre-apache-kafka
 - rubyonrails
 - en; rubyonreails; 2024; https://www.linkedin.com/learning/hands-on-introduction-ruby-on-rails
 
@@ -255,10 +259,12 @@ haskell; sp; https://www.youtube.com/watch?v=mXroxy93nXg
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+
+>>create>>kafka;es;00:51:00;2023;4.23;https://www.linkedin.com/learning/domina-apache-kafka; Domina Apache Kafka ;with Lincy so simplified, decent course and recent
 
 
 
+- sp; 2023; https://www.linkedin.com/learning/domina-apache-kafka/aprendiendo-sobre-apache-kafka
 
 x kotlin: https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o
 x mobx: https://www.youtube.com/watch?v=nGZCL6Wd_zQ
