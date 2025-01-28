@@ -1555,6 +1555,13 @@
 	},
 	{
 		"language": "it",
+		"front": "it chose a language",
+		"back": "ha scelto un linguaggio",
+		"whenCreated": "2025-01-28 00:49:35",
+		"extras": "pr=SHELL-toh; pr=ling-GWAH-joh"
+	},
+	{
+		"language": "it",
 		"front": "surgical modifications",
 		"back": "modifiche chirurgiche",
 		"whenCreated": "2025-01-13 21:45:34",

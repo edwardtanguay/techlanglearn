@@ -59,15 +59,25 @@ https://www.linkedin.com/learning/ai-trends/github-models?autoSkip=true&resume=f
 - you can work in codespaces without a token
 - "GitHub models lowers the barriers of AI prototyping all the way down to the ground"
 
-## Claude Artifacts, 4:02, nnn
+## Claude Artifacts, 4:02, 2025-01-27
 
 https://www.linkedin.com/learning/ai-trends/claude-artifacts?autoSkip=true&resume=false
+
+- makes a React game with a prompt
+
+## Microsoft Build 2024: New computers and developer tools, 6:45, nnn
+
+https://www.linkedin.com/learning/ai-trends/microsoft-build-2024-new-computers-and-developer-tools?autoSkip=true&resume=false
 
 - nnn
 
 ## VOCAB - ITALIAN
 
 ```
+it chose a language
+ha scelto un linguaggio;pr=SHELL-toh; pr=ling-GWAH-joh
+2025-01-28 00:49:35
+
 surgical modifications
 modifiche chirurgiche; pr=keer-RUHR-gee-keh
 2025-01-13 21:45:34
