@@ -14,8 +14,7 @@ FROM JOB APPLICATIONS
 - Angular 19: en-yt-how-to-create-your-first-angular-19-application-standalone-modulebased-templates-explained
 - Angular Signals:en-yt-learn-angular-signals-the-future-of-state-management
 - Angular RxJS: en-yt-angular-signals-or-rxjs-they-are-not-a-replacement
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
-- Angular/NgRX: https://www.linkedin.com/learning/learning-ngrx/improve-your-angular-architecture-with-ngrx
+- Angular/NgRX: en-ll-learning-ngrx
 - Cypress: en-ll-endtoend-javascript-testing-with-cypressio.md
 
 - Thomann
@@ -511,3 +510,4 @@ CREATED: kafka;es;00:51:00;2023;4.23;https://www.linkedin.com/learning/domina-ap
 CREATED: angular;en;12:06;2024;4.8;https://www.youtube.com/watch?v=yowIIU5JgEE; How to Create Your First Angular 19 Application: Standalone & Module-Based Templates Explained ;Use to install Angular 19 and upgrade your site
 CREATED: angular, signals;en;00:10:01;2023;4.7;https://www.youtube.com/watch?v=RLoACfLYwPs;Learn Angular Signals - The Future of State Management;Good base video on signals, shows code
 CREATED: angular, signals, rxjs;en;00:07:25;2023;4.6;https://www.youtube.com/watch?v=WL7QEhdqh00; Angular Signals or RxJS - They are not a replacement ;Quick video on the topic
+CREATED: angular, ngrx;en;01:13:00;2018;4.2;https://www.linkedin.com/learning/learning-ngrx/improve-your-angular-architecture-with-ngrx; Learning NgRx ;old course, you learn how NgRx provides an Angular-specific implementation of Redux that supports lazy-loaded modules, observables, and asynchronous side effects

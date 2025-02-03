@@ -351,6 +351,19 @@
 		"status": ""
 	},
 	{
+		"topics": "angular, ngrx",
+		"language": "en",
+		"duration": "01:13:00",
+		"year": "2018",
+		"rank": "4.2",
+		"url": "https://www.linkedin.com/learning/learning-ngrx/improve-your-angular-architecture-with-ngrx",
+		"title": "Learning NgRx",
+		"description": "old course, you learn how NgRx provides an Angular-specific implementation of Redux that supports lazy-loaded modules, observables, and asynchronous side effects",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-learning-ngrx",
+		"status": ""
+	},
+	{
 		"topics": "playwright",
 		"language": "en",
 		"duration": "02:41:00",
