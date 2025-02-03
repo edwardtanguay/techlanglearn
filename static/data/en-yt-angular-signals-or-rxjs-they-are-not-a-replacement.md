@@ -8,6 +8,7 @@ https://www.youtube.com/watch?v=WL7QEhdqh00
 - rank: 4.6
 - description: Quick video on the topic
 - year: 2023
+- status: finished
 
 ## watchlog
 
@@ -16,11 +17,11 @@ https://www.youtube.com/watch?v=WL7QEhdqh00
 ## notes
 
 - RxJS vs signals
-	- you can't move to signals completely
-	- RxJS can be easily mixed with signals
-	- you want to use RxJS for more complex situations like implementing debounce
-		- use toObservable, toSignal from rxjs-interop
-		- so in effect you use signals, but then use RxJS inside them in order to implemment debounce
+  - you can't move to signals completely
+  - RxJS can be easily mixed with signals
+  - you want to use RxJS for more complex situations like implementing debounce
+    - use toObservable, toSignal from rxjs-interop
+    - so in effect you use signals, but then use RxJS inside them in order to implemment debounce
 
 ## VOCAB - SPANISH
 

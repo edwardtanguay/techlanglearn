@@ -1,19 +1,27 @@
 FROM JOB APPLICATIONS
 =======================================================
-- state management (Jonas)
-- Foray: A comparison of state management tools for React
-- State Management: https://www.linkedin.com/learning/react-state-management-22688323
-- Redux, Recoil, Mobx: https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/let-s-build-modern-projects-with-react
-- Mobx: C:\edward\projects\techlanglearn\static\data\en-yt-typescript-for-react-and-mobx-from-beginners-to-masters.md
+- STATE MANAGEMENT (JONAS)
+
+- .. make course
+- make techItem: state management and research first
+>>create>>stateManagement, react;en;01:49:00;2023;4.95;https://www.linkedin.com/learning/react-state-management-22688323;React: State Management;covers useReducer, useContext, Recoil, 
+- Mobx: en-yt-typescript-for-react-and-mobx-from-beginners-to-masters
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 - XState: https://www.youtube.com/watch?v=s0h34OkEVUE
-- Angular/NgRX: https://www.linkedin.com/learning/learning-ngrx/improve-your-angular-architecture-with-ngrx
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 - Zustand:https://www.youtube.com/watch?v=sqTPGMipjHk
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 - Jotai: https://www.youtube.com/watch?v=ZcKzPZN7Ids
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+- Redux, Recoil, Mobx: https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/let-s-build-modern-projects-with-react
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+- Angular/NgRX: https://www.linkedin.com/learning/learning-ngrx/improve-your-angular-architecture-with-ngrx
+- Foray: A comparison of state management tools for React
 
 - ASSECOR
 - Angular 19: en-yt-how-to-create-your-first-angular-19-application-standalone-modulebased-templates-explained
 - x Angular Signals:en-yt-learn-angular-signals-the-future-of-state-management
-- .. Angular RxJS: en-yt-angular-signals-or-rxjs-they-are-not-a-replacement
+- x Angular RxJS: en-yt-angular-signals-or-rxjs-they-are-not-a-replacement
 - Angular/NgRX: en-ll-learning-ngrx
 - Cypress: en-ll-endtoend-javascript-testing-with-cypressio.md
 

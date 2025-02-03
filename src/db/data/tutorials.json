@@ -595,7 +595,7 @@
 		"description": "Quick video on the topic",
 		"platform": "youtube",
 		"fileIdCode": "en-yt-angular-signals-or-rxjs-they-are-not-a-replacement",
-		"status": ""
+		"status": "finished"
 	},
 	{
 		"topics": "go, graphql, nextjs, gin",
