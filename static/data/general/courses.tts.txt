@@ -12,8 +12,8 @@ FROM JOB APPLICATIONS
 
 - ASSECOR
 - Angular 19: en-yt-how-to-create-your-first-angular-19-application-standalone-modulebased-templates-explained
-- Angular Signals:en-yt-learn-angular-signals-the-future-of-state-management
-- Angular RxJS: en-yt-angular-signals-or-rxjs-they-are-not-a-replacement
+- x Angular Signals:en-yt-learn-angular-signals-the-future-of-state-management
+- .. Angular RxJS: en-yt-angular-signals-or-rxjs-they-are-not-a-replacement
 - Angular/NgRX: en-ll-learning-ngrx
 - Cypress: en-ll-endtoend-javascript-testing-with-cypressio.md
 
