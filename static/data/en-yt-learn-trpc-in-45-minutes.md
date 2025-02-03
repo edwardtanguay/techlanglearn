@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=UfUbBWIFdJs&t=82s
 
 ## watchlog
 
-00:00 - nnn
+nnn - 00:00
 
 ## notes
 

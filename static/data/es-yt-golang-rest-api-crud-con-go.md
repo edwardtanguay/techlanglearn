@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=pQAV8A9KLwk
 
 ## watchlog
 
-00:00 - nnn
+nnn - 00:00
 
 ## notes
 

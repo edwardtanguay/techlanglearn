@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=WL7QEhdqh00
 
 ## watchlog
 
-00:00 - nnn
+nnn - 00:00
 
 ## notes
 
@@ -20,4 +20,5 @@ https://www.youtube.com/watch?v=WL7QEhdqh00
 ## VOCAB - SPANISH
 
 ```
+
 ```
