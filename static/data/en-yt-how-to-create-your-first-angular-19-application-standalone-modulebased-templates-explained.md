@@ -2,7 +2,7 @@
 
 https://www.youtube.com/watch?v=yowIIU5JgEE
 
-- duration: 12:06
+- duration: 00:12:06
 - language: en
 - topics: angular
 - rank: 4.8
