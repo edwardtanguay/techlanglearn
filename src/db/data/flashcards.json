@@ -1555,6 +1555,20 @@
 	},
 	{
 		"language": "it",
+		"front": "with the rise of 3D",
+		"back": "con l'ascesa del 3D",
+		"whenCreated": "2025-01-30 22:28:34",
+		"extras": "pr=la-SHEH-zah, pr=TRAY-dee"
+	},
+	{
+		"language": "it",
+		"front": "but even before this",
+		"back": "ma anche prima di questo",
+		"whenCreated": "2025-01-29 23:58:31",
+		"extras": ""
+	},
+	{
+		"language": "it",
 		"front": "it chose a language",
 		"back": "ha scelto un linguaggio",
 		"whenCreated": "2025-01-28 00:49:35",

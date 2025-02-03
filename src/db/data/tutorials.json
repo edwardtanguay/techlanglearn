@@ -754,6 +754,19 @@
 		"status": "not yet started"
 	},
 	{
+		"topics": "kafka",
+		"language": "es",
+		"duration": "00:51:00",
+		"year": "2023",
+		"rank": "4.23",
+		"url": "https://www.linkedin.com/learning/domina-apache-kafka",
+		"title": "Domina Apache Kafka",
+		"description": "with Lincy so simplified, decent course and recent",
+		"platform": "linkedInLearning",
+		"fileIdCode": "es-ll-domina-apache-kafka",
+		"status": ""
+	},
+	{
 		"topics": "go",
 		"language": "es",
 		"duration": "00:34:00",

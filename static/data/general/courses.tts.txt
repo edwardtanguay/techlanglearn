@@ -1,5 +1,74 @@
+FROM JOB APPLICATIONS
+=======================================================
+- state management (Jonas)
+- Foray: A comparison of state management tools for React
+- State Management: https://www.linkedin.com/learning/react-state-management-22688323
+- Redux, Recoil, Mobx: https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/let-s-build-modern-projects-with-react
+- Mobx: C:\edward\projects\techlanglearn\static\data\en-yt-typescript-for-react-and-mobx-from-beginners-to-masters.md
+- XState: https://www.youtube.com/watch?v=s0h34OkEVUE
+- Angular/NgRX: https://www.linkedin.com/learning/learning-ngrx/improve-your-angular-architecture-with-ngrx
+- Zustand:https://www.youtube.com/watch?v=sqTPGMipjHk
+- Jotai: https://www.youtube.com/watch?v=ZcKzPZN7Ids
+- Assecor
+- Foray: Get up to speed with Angular
+- Angular 19: https://www.youtube.com/watch?v=yowIIU5JgEE
+- Angular Signals: https://www.youtube.com/watch?v=RLoACfLYwPs
+- Angular RxJS: https://www.youtube.com/watch?v=WL7QEhdqh00
+- Angular/NgRX: https://www.linkedin.com/learning/learning-ngrx/improve-your-angular-architecture-with-ngrx
+- Cypress: C:\edward\projects\techlanglearn\static\data\en-ll-endtoend-javascript-testing-with-cypressio.md
+- Thomann
+- Foray: Get up to speed with PHP 8.3
+- Make forays for the rest
+- PHP 8.2: https://www.linkedin.com/learning/api-testing-and-validation-22610641
+- Laravel: search files here "laravel"
+- PHPUnit
+- Twig
+- Webpack/Babel
+- Memcached
+- Cypress
+- MySQL
+- Openshift: Based on Kubernetes, with extra developer tools
+- LESS
+- PSR (PHP Standards Recommendations)
+- https://www.php-fig.org/psr
+- Docker
+- React/TypeScript
+- Tailwind
+
+
+
+
+- OpenAPI (Java/Node): https://www.linkedin.com/learning/building-apis-with-swagger-and-the-openapi-specification
+- OAuth & OpenID Connect: https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424
 - Airtable: https://www.linkedin.com/learning/learning-airtable
 - Zoro CRM: https://www.linkedin.com/learning/learning-zoho-crm
+- Web3: https://www.linkedin.com/learning/building-web3-decentralized-apps-in-ethereum
+- Solidity: https://www.linkedin.com/learning/blockchain-learning-solidity-22873764
+- BigQuery: https://www.linkedin.com/learning/learning-bigquery
+- Quarkus: https://www.linkedin.com/learning/learning-quarkus
+- Jakarte EE: https://www.linkedin.com/learning/jakarta-ee-building-your-first-application
+- Elastic Search: https://www.linkedin.com/learning/elasticsearch-essential-training-18773441
+- S3: https://www.linkedin.com/learning/aws-for-developers-cli-tips
+- EC2: https://www.linkedin.com/learning/amazon-ec2-essential-training
+- AWS Lambda: https://www.linkedin.com/learning/learning-amazon-web-services-lambda-22774748
+- AWS Services: https://www.linkedin.com/learning/aws-certified-sysops-administrator-associate-soa-c02-cert-prep
+- AWS SNS, SQS, SWF: https://www.linkedin.com/learning/aws-for-developers-sns-sqs-and-swf
+- Kinesis: https://www.linkedin.com/learning/aws-for-developers-data-driven-serverless-applications-with-kinesis-23377054
+- Websockets: https://www.linkedin.com/learning/websocket-communications-with-node-and-angular
+- RabbitMQ: https://www.linkedin.com/learning/learning-rabbitmq
+- Bitbucket: https://www.linkedin.com/learning/learning-bitbucket
+- Jira: https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823
+- Confluence: https://www.linkedin.com/learning/learning-confluence-22306456
+- Datadog: https://www.linkedin.com/learning/monitoring-and-observability-with-datadog
+- Argo CD: https://www.linkedin.com/learning/kubernetes-gitops-with-argocd
+- Grafana: https://www.linkedin.com/learning/graphite-and-grafana-visualizing-application-performance
+- GCP: https://www.linkedin.com/learning/google-cloud-platform-gcp-essential-training-for-developers
+- Blockchain: https://www.linkedin.com/learning/blockchain-basics-14414119
+- Cryptocurrency: https://www.linkedin.com/learning/cryptocurrency-foundations-17185357
+- Web3: https://www.linkedin.com/learning/what-is-web3
+- Supabase: https://www.linkedin.com/learning/supabase-essential-training
+
+=======================================================
 
 
 
@@ -260,7 +329,6 @@ haskell; sp; https://www.youtube.com/watch?v=mXroxy93nXg
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 
->>create>>kafka;es;00:51:00;2023;4.23;https://www.linkedin.com/learning/domina-apache-kafka; Domina Apache Kafka ;with Lincy so simplified, decent course and recent
 
 
 
@@ -437,3 +505,4 @@ CREATED: springboot;es;02:38:00;2023;4.32;https://www.linkedin.com/learning/spri
 CREATED: firebase;en;02:29:00;2020;4.69;https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase;React: Cloud-Powered Apps with Firebase;Quite a deep-dive into Firebase's setup, authentication, and storage
 CREATED: mobx;en;00:13:02;2021;4.68;https://www.youtube.com/watch?v=nGZCL6Wd_zQ;Typescript for React and MobX From Beginners to Masters;Jack Harrington only 13 minutes but probably a good overview of what Mobx can do with TypeScript
 CREATED: kotlin;en;04:42:00;2022;4.78;https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o; Kotlin Essential Training: Functions, Collections, and I/O ;Good basic course on Kotlin, uses IntelliJ IDEA, community version is free
+CREATED: kafka;es;00:51:00;2023;4.23;https://www.linkedin.com/learning/domina-apache-kafka; Domina Apache Kafka ;with Lincy so simplified, decent course and recent

@@ -65,15 +65,49 @@ https://www.linkedin.com/learning/ai-trends/claude-artifacts?autoSkip=true&resum
 
 - makes a React game with a prompt
 
-## Microsoft Build 2024: New computers and developer tools, 6:45, nnn
+## Microsoft Build 2024: New computers and developer tools, 6:45, 2025-01-29
 
 https://www.linkedin.com/learning/ai-trends/microsoft-build-2024-new-computers-and-developer-tools?autoSkip=true&resume=false
 
+- NPU
+- the local AI can better serve you if it knows everything you do on your computer
+- Recall
+- Cocreator
+- over 40 language models
+- expanding partnership with hugging face
+
+## NPUs vs. GPUs vs. CPUs, 2:45, 2025-01-30
+
+https://www.linkedin.com/learning/ai-trends/npus-vs-gpus-vs-cpus?autoSkip=true&resume=false
+
+- NPU = Neural Processing Unit
+  - excel at AI calculations
+- GPUs can have thousands of cores
+
+## New Google Gemini Models and Google I/O Announcements, 4:44, 2025-02-02
+
+https://www.linkedin.com/learning/ai-trends/new-google-gemini-models-and-google-io-announcements?autoSkip=true&resume=false
+
+- Gemini Advanced has 1 million token context window
+
+## GPT-4o, multimodal AI, and more, 5:04, nnn
+
+https://www.linkedin.com/learning/ai-trends/gpt-4o-multimodal-ai-and-more?autoSkip=true&resume=false
+
 - nnn
+
 
 ## VOCAB - ITALIAN
 
 ```
+with the rise of 3D
+con l'ascesa del 3D;pr=la-SHEH-zah, pr=TRAY-dee
+2025-01-30 22:28:34
+
+but even before this
+ma anche prima di questo
+2025-01-29 23:58:31
+
 it chose a language
 ha scelto un linguaggio;pr=SHELL-toh; pr=ling-GWAH-joh
 2025-01-28 00:49:35
