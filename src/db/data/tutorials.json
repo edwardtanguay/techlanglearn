@@ -585,6 +585,19 @@
 		"status": "3 of 14 videos watched"
 	},
 	{
+		"topics": "angular",
+		"language": "en",
+		"duration": "12:06",
+		"year": "2024",
+		"rank": "4.8",
+		"url": "https://www.youtube.com/watch?v=yowIIU5JgEE",
+		"title": "How to Create Your First Angular 19 Application: Standalone \u0026 Module-Based Templates Explained",
+		"description": "Use to install Angular 19 and upgrade your site",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-how-to-create-your-first-angular-19-application-standalone-modulebased-templates-explained",
+		"status": ""
+	},
+	{
 		"topics": "ink",
 		"language": "en",
 		"duration": "00:14:46",

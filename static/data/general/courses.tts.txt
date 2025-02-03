@@ -10,12 +10,14 @@ FROM JOB APPLICATIONS
 - Zustand:https://www.youtube.com/watch?v=sqTPGMipjHk
 - Jotai: https://www.youtube.com/watch?v=ZcKzPZN7Ids
 - Assecor
-- Foray: Get up to speed with Angular
-- Angular 19: https://www.youtube.com/watch?v=yowIIU5JgEE
+- Angular 19: en-yt-how-to-create-your-first-angular-19-application-standalone-modulebased-templates-explained
+>>create>>angular, signals;en;00:10:01;2023;4.7;https://www.youtube.com/watch?v=RLoACfLYwPs;Learn Angular Signals - The Future of State Management;Good base video on signals, shows code
 - Angular Signals: https://www.youtube.com/watch?v=RLoACfLYwPs
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 - Angular RxJS: https://www.youtube.com/watch?v=WL7QEhdqh00
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 - Angular/NgRX: https://www.linkedin.com/learning/learning-ngrx/improve-your-angular-architecture-with-ngrx
-- Cypress: C:\edward\projects\techlanglearn\static\data\en-ll-endtoend-javascript-testing-with-cypressio.md
+- Cypress: en-ll-endtoend-javascript-testing-with-cypressio.md
 - Thomann
 - Foray: Get up to speed with PHP 8.3
 - Make forays for the rest
@@ -506,3 +508,4 @@ CREATED: firebase;en;02:29:00;2020;4.69;https://www.linkedin.com/learning/react-
 CREATED: mobx;en;00:13:02;2021;4.68;https://www.youtube.com/watch?v=nGZCL6Wd_zQ;Typescript for React and MobX From Beginners to Masters;Jack Harrington only 13 minutes but probably a good overview of what Mobx can do with TypeScript
 CREATED: kotlin;en;04:42:00;2022;4.78;https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o; Kotlin Essential Training: Functions, Collections, and I/O ;Good basic course on Kotlin, uses IntelliJ IDEA, community version is free
 CREATED: kafka;es;00:51:00;2023;4.23;https://www.linkedin.com/learning/domina-apache-kafka; Domina Apache Kafka ;with Lincy so simplified, decent course and recent
+CREATED: angular;en;12:06;2024;4.8;https://www.youtube.com/watch?v=yowIIU5JgEE; How to Create Your First Angular 19 Application: Standalone & Module-Based Templates Explained ;Use to install Angular 19 and upgrade your site
