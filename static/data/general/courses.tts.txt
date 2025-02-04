@@ -1,10 +1,26 @@
-FROM JOB APPLICATIONS
 =======================================================
 - STATE MANAGEMENT (JONAS)
 
+- ADVANCED REACT
+- https://www.youtube.com/results?search_query=react+performance+optimization
+- https://www.linkedin.com/learning/react-testing-and-debugging
+- https://www.youtube.com/results?search_query=service+worker+react
+
+- SENIOR
+- Git 
+	- (current course)
+	- https://www.linkedin.com/learning/coding-exercises-github/challenge-yourself-with-github-challenges
+- AI (current courses)
+
+- JONAS
+- https://www.youtube.com/results?search_query=mock+service+worker+react
+- https://www.linkedin.com/learning/search?entityType=COURSE&keywords=playwright
+- https://www.youtube.com/results?search_query=tanstack
+- https://www.youtube.com/results?search_query=interactive+rebase+git
+
 - .. make course
 - make techItem: state management and research first
->>create>>stateManagement, react;en;01:49:00;2023;4.95;https://www.linkedin.com/learning/react-state-management-22688323;React: State Management;covers useReducer, useContext, Recoil, 
+- state management: en-ll-react-state-management
 - Mobx: en-yt-typescript-for-react-and-mobx-from-beginners-to-masters
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 - XState: https://www.youtube.com/watch?v=s0h34OkEVUE
@@ -519,3 +535,4 @@ CREATED: angular;en;12:06;2024;4.8;https://www.youtube.com/watch?v=yowIIU5JgEE; 
 CREATED: angular, signals;en;00:10:01;2023;4.7;https://www.youtube.com/watch?v=RLoACfLYwPs;Learn Angular Signals - The Future of State Management;Good base video on signals, shows code
 CREATED: angular, signals, rxjs;en;00:07:25;2023;4.6;https://www.youtube.com/watch?v=WL7QEhdqh00; Angular Signals or RxJS - They are not a replacement ;Quick video on the topic
 CREATED: angular, ngrx;en;01:13:00;2018;4.2;https://www.linkedin.com/learning/learning-ngrx/improve-your-angular-architecture-with-ngrx; Learning NgRx ;old course, you learn how NgRx provides an Angular-specific implementation of Redux that supports lazy-loaded modules, observables, and asynchronous side effects
+CREATED: stateManagement, react;en;01:49:00;2023;4.95;https://www.linkedin.com/learning/react-state-management-22688323;React: State Management;covers useReducer, useContext, Recoil,

@@ -507,6 +507,19 @@
 		"status": ""
 	},
 	{
+		"topics": "stateManagement, react",
+		"language": "en",
+		"duration": "01:49:00",
+		"year": "2023",
+		"rank": "4.95",
+		"url": "https://www.linkedin.com/learning/react-state-management-22688323",
+		"title": "React: State Management",
+		"description": "covers useReducer, useContext, Recoil,",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-react-state-management",
+		"status": ""
+	},
+	{
 		"topics": "python",
 		"language": "en",
 		"duration": "02:21:00",
