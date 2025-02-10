@@ -1,15 +1,18 @@
 =======================================================
 - STATE MANAGEMENT (JONAS)
 
+- ASP.NET C#
+	- https://www.linkedin.com/learning/advanced-web-apis-with-asp-dot-net-core-in-dot-net-6
+
 - ADVANCED REACT
 - https://www.youtube.com/results?search_query=react+performance+optimization
 - https://www.linkedin.com/learning/react-testing-and-debugging
 - https://www.youtube.com/results?search_query=service+worker+react
 
 - SENIOR
-- Git 
-	- (current course)
-	- https://www.linkedin.com/learning/coding-exercises-github/challenge-yourself-with-github-challenges
+- Git
+- (current course)
+- https://www.linkedin.com/learning/coding-exercises-github/challenge-yourself-with-github-challenges
 - AI (current courses)
 
 - JONAS

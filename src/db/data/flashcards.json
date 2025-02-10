@@ -1555,6 +1555,20 @@
 	},
 	{
 		"language": "it",
+		"front": "secondly",
+		"back": "in secondo luogo",
+		"whenCreated": "2025-02-07 02:28:33",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "there are some ways, however",
+		"back": "ci sono alcuni modi, tuttavia",
+		"whenCreated": "2025-02-06 00:40:12",
+		"extras": ""
+	},
+	{
+		"language": "it",
 		"front": "with the rise of 3D",
 		"back": "con l'ascesa del 3D",
 		"whenCreated": "2025-01-30 22:28:34",

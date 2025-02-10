@@ -90,9 +90,47 @@ https://www.linkedin.com/learning/ai-trends/new-google-gemini-models-and-google-
 
 - Gemini Advanced has 1 million token context window
 
-## GPT-4o, multimodal AI, and more, 5:04, nnn
+## GPT-4o, multimodal AI, and more, 5:04, 2025-02-04
 
 https://www.linkedin.com/learning/ai-trends/gpt-4o-multimodal-ai-and-more?autoSkip=true&resume=false
+
+- improved verseion of GPT-4
+  - first model to integrate text, image, audio
+  - 2x faster
+  - 50% cheaper
+  - free for everyone
+  - when use limits, back to GPT-3.5
+  - can interrupt
+  - can respond to your emotional state
+- ChatGPT desktop app, Mac only
+
+## OpenAI Sora: Text-to-video, 1:34, 2025-02-05
+
+https://www.linkedin.com/learning/ai-trends/openai-sora-text-to-video?autoSkip=true&resume=false
+
+- Sora
+  - OpenAI has not publicly released Sora for general use (2025-02-06)
+  - stars with a noisy video, then refines it
+
+## AI regulations, 6:48, 2025-02-06
+
+https://www.linkedin.com/learning/ai-trends/ai-regulations?autoSkip=true&resume=false
+
+- make sure you implement privacy by design 
+
+## General artificial intelligence, 3:43, 2025-02-08
+
+https://www.linkedin.com/learning/ai-trends/general-artificial-intelligence?autoSkip=true&resume=false
+
+- general AI is still a ways off
+- we will have to ask ourselves: what could a human do that creates new value
+- general artificial intelligence works best when partnered with human beings
+  - point out the problems that need to be solved
+  - help them understand the context
+
+## The LLM landscape, 2:43, nnn
+
+https://www.linkedin.com/learning/ai-trends/the-llm-landscape?autoSkip=true&resume=false
 
 - nnn
 
@@ -100,6 +138,14 @@ https://www.linkedin.com/learning/ai-trends/gpt-4o-multimodal-ai-and-more?autoSk
 ## VOCAB - ITALIAN
 
 ```
+secondly
+in secondo luogo
+2025-02-07 02:28:33
+
+there are some ways, however
+ci sono alcuni modi, tuttavia
+2025-02-06 00:40:12
+
 with the rise of 3D
 con l'ascesa del 3D;pr=la-SHEH-zah, pr=TRAY-dee
 2025-01-30 22:28:34
