@@ -1555,6 +1555,13 @@
 	},
 	{
 		"language": "it",
+		"front": "as far as I know",
+		"back": "per quanto ne so",
+		"whenCreated": "2025-02-15 00:30:07",
+		"extras": ""
+	},
+	{
+		"language": "it",
 		"front": "secondly",
 		"back": "in secondo luogo",
 		"whenCreated": "2025-02-07 02:28:33",

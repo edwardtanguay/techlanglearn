@@ -116,7 +116,7 @@ https://www.linkedin.com/learning/ai-trends/openai-sora-text-to-video?autoSkip=t
 
 https://www.linkedin.com/learning/ai-trends/ai-regulations?autoSkip=true&resume=false
 
-- make sure you implement privacy by design 
+- make sure you implement privacy by design
 
 ## General artificial intelligence, 3:43, 2025-02-08
 
@@ -128,16 +128,73 @@ https://www.linkedin.com/learning/ai-trends/general-artificial-intelligence?auto
   - point out the problems that need to be solved
   - help them understand the context
 
-## The LLM landscape, 2:43, nnn
+## The LLM landscape, 2:43, 2025-02-10
 
 https://www.linkedin.com/learning/ai-trends/the-llm-landscape?autoSkip=true&resume=false
 
-- nnn
+- the computer doesn't see the information as words, but as arithmatic
+- the use transformers
+- it doesn't weight each token equally
+  - this attention mechanism is key of transformers
+- paper: "Attention is all you need"
+- LLMs are trying to continue the texts in your prompts
+- they are being tricked into answering your questions
 
+## Multimodal prompting, 3:11, 2025-02-11
+
+https://www.linkedin.com/learning/ai-trends/multi-modal-prompting?resume=false
+
+- most focus today is on single input and single output
+
+## Assistant GPTs, 3:21, 2025-02-12
+
+https://www.linkedin.com/learning/ai-trends/assistant-gpts?autoSkip=true&resume=false
+
+- APIs from OpenAI were difficult to use
+
+## Google Gemini, 3:40, 2025-02-13
+
+- https://www.linkedin.com/learning/ai-trends/google-gemini?autoSkip=true&resume=false
+
+- comes in three versions:
+  - Nano
+    - on device usage
+    - the smallest model
+    - for small scale and mobile applications
+  - Pro
+    - intermediate level projects
+  - Ultra
+    - most advanced
+    - in private preview
+    - large scale applications
+- integrated with Google Cloud services such as Vertex AI
+- processes image, text and video simultaneously
+  - a quite unique characteristic
+- RAG - Retrieval Augmented Generation
+  - looks up information first
+
+## Claude, 4:08, 2025-02-14
+
+https://www.linkedin.com/learning/ai-trends/claude?autoSkip=true&resume=false
+
+- he says Claude can only be accessed from Google or Amazon
+- you might find an LLM that is suitable for your prompting style
+- can access it via AWS Bedrock
+  - simplifies the process of building, training, and deploying machine learning models at scale
+
+## GPT-4, 5:07, nnn
+
+https://www.linkedin.com/learning/ai-trends/gpt-4?autoSkip=true&resume=false
+
+- nnn
 
 ## VOCAB - ITALIAN
 
 ```
+as far as I know
+per quanto ne so
+2025-02-15 00:30:07
+
 secondly
 in secondo luogo
 2025-02-07 02:28:33
