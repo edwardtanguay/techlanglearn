@@ -1555,6 +1555,55 @@
 	},
 	{
 		"language": "it",
+		"front": "here is an example",
+		"back": "ecco un esempio",
+		"whenCreated": "2025-02-18 00:57:58",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "pr. three hundred sixty five",
+		"back": "trecento sessantacinque",
+		"whenCreated": "2025-02-17 01:02:11",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "pr. HTML",
+		"back": "AH-ta, tee, EM-eh, ell",
+		"whenCreated": "2025-02-17 00:57:50",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "twenty five thousand",
+		"back": "venticinquemila",
+		"whenCreated": "2025-02-17 00:46:03",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "in other words",
+		"back": "in altre parole",
+		"whenCreated": "2025-02-17 00:40:46",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "seguire, eseguire",
+		"back": "to follow, to perform",
+		"whenCreated": "2025-02-17 00:37:49",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "in the way it performs tasks",
+		"back": "nel modo in cui esegue le attività",
+		"whenCreated": "2025-02-17 00:36:33",
+		"extras": "pr=eh-ZEG-weh"
+	},
+	{
+		"language": "it",
 		"front": "as far as I know",
 		"back": "per quanto ne so",
 		"whenCreated": "2025-02-15 00:30:07",

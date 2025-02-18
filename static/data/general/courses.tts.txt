@@ -1,4 +1,5 @@
 =======================================================
+- web sockets
 
 - Gemini: https://www.linkedin.com/learning/advanced-gemini-for-developers/use-agent-builder-with-cloud-builder-21428137?resume=false
 
@@ -29,7 +30,9 @@
 - make techItem: state management and research first
 - state management: en-ll-react-state-management
 - Mobx: en-yt-typescript-for-react-and-mobx-from-beginners-to-masters
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+
+>>create>>architecture;en;00:47:00;2021;4.1;https://www.linkedin.com/learning/software-architecture-from-developer-to-architect; Software Architecture: From Developer to Architect ;Course about moving from developer to architect, watching quickly
+
 - XState: https://www.youtube.com/watch?v=s0h34OkEVUE
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 - Zustand:https://www.youtube.com/watch?v=sqTPGMipjHk

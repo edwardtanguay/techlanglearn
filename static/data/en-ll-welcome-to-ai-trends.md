@@ -182,15 +182,80 @@ https://www.linkedin.com/learning/ai-trends/claude?autoSkip=true&resume=false
 - can access it via AWS Bedrock
   - simplifies the process of building, training, and deploying machine learning models at scale
 
-## GPT-4, 5:07, nnn
+## GPT-4, 5:07, 2025-02-15
 
 https://www.linkedin.com/learning/ai-trends/gpt-4?autoSkip=true&resume=false
+
+- GPT-4o
+  - improved verseion of GPT-4
+    - first model to integrate text, image, audio
+    - 2x faster
+    - 50% cheaper
+    - free for everyone
+    - when use limits, back to GPT-3.5
+  - can interrupt
+  - can respond to your emotional state
+  - ChatGPT desktop app, Mac only
+- GPT
+  - Generative Pre-Trained Transformer
+  - tries to infer your intent
+
+## ChatGPT, 3:54, 2025-02-17
+
+https://www.linkedin.com/learning/ai-trends/chatgpt?autoSkip=true&resume=false
+
+- Chat GPT
+  - November 2022
+  - reached 1 million users in 5 days
+  - it creates new content
+  - has to do with how people write sentences
+  - Open AI
+    - DALL-E2
+      - generates images from textual descriptions
+    - Whisper
+      - speech recognition
+  - autoregressive
+    - trying to predict results based on past values
+    - it tries to understand what you mean
+    - helps humans iterate on ideas
+
+## Prompt engineering, 3:25, nnn
+
+https://www.linkedin.com/learning/ai-trends/prompt-engineering?autoSkip=true&resume=false
 
 - nnn
 
 ## VOCAB - ITALIAN
 
 ```
+here is an example
+ecco un esempio
+2025-02-18 00:57:58
+
+pr. three hundred sixty five
+trecento sessantacinque
+2025-02-17 01:02:11
+
+pr. HTML
+AH-ta, tee, EM-eh, ell
+2025-02-17 00:57:50
+
+twenty five thousand
+venticinquemila
+2025-02-17 00:46:03
+
+in other words
+in altre parole
+2025-02-17 00:40:46
+
+seguire, eseguire
+to follow, to perform
+2025-02-17 00:37:49
+
+in the way it performs tasks
+nel modo in cui esegue le attività; pr=eh-ZEG-weh
+2025-02-17 00:36:33
+
 as far as I know
 per quanto ne so
 2025-02-15 00:30:07
