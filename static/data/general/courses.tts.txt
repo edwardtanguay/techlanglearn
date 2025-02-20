@@ -1,4 +1,11 @@
 =======================================================
+
+
+- Elastic Search: https://www.linkedin.com/learning/elasticsearch-essential-training-18773441
+https://www.linkedin.com/learning/elasticsearch-in-depth/much-more-than-full-text-searches
+
+
+
 - web sockets
 
 - Gemini: https://www.linkedin.com/learning/advanced-gemini-for-developers/use-agent-builder-with-cloud-builder-21428137?resume=false
@@ -31,7 +38,6 @@
 - state management: en-ll-react-state-management
 - Mobx: en-yt-typescript-for-react-and-mobx-from-beginners-to-masters
 
->>create>>architecture;en;00:47:00;2021;4.1;https://www.linkedin.com/learning/software-architecture-from-developer-to-architect; Software Architecture: From Developer to Architect ;Course about moving from developer to architect, watching quickly
 
 - XState: https://www.youtube.com/watch?v=s0h34OkEVUE
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
@@ -82,7 +88,6 @@
 - BigQuery: https://www.linkedin.com/learning/learning-bigquery
 - Quarkus: https://www.linkedin.com/learning/learning-quarkus
 - Jakarte EE: https://www.linkedin.com/learning/jakarta-ee-building-your-first-application
-- Elastic Search: https://www.linkedin.com/learning/elasticsearch-essential-training-18773441
 - S3: https://www.linkedin.com/learning/aws-for-developers-cli-tips
 - EC2: https://www.linkedin.com/learning/amazon-ec2-essential-training
 - AWS Lambda: https://www.linkedin.com/learning/learning-amazon-web-services-lambda-22774748
@@ -546,3 +551,4 @@ CREATED: angular, signals;en;00:10:01;2023;4.7;https://www.youtube.com/watch?v=R
 CREATED: angular, signals, rxjs;en;00:07:25;2023;4.6;https://www.youtube.com/watch?v=WL7QEhdqh00; Angular Signals or RxJS - They are not a replacement ;Quick video on the topic
 CREATED: angular, ngrx;en;01:13:00;2018;4.2;https://www.linkedin.com/learning/learning-ngrx/improve-your-angular-architecture-with-ngrx; Learning NgRx ;old course, you learn how NgRx provides an Angular-specific implementation of Redux that supports lazy-loaded modules, observables, and asynchronous side effects
 CREATED: stateManagement, react;en;01:49:00;2023;4.95;https://www.linkedin.com/learning/react-state-management-22688323;React: State Management;covers useReducer, useContext, Recoil,
+CREATED: architecture;en;00:47:00;2021;4.1;https://www.linkedin.com/learning/software-architecture-from-developer-to-architect; Software Architecture: From Developer to Architect ;Course about moving from developer to architect, watching quickly

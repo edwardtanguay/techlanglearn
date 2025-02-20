@@ -533,6 +533,19 @@
 		"status": ""
 	},
 	{
+		"topics": "architecture",
+		"language": "en",
+		"duration": "00:47:00",
+		"year": "2021",
+		"rank": "4.1",
+		"url": "https://www.linkedin.com/learning/software-architecture-from-developer-to-architect",
+		"title": "Software Architecture: From Developer to Architect",
+		"description": "Course about moving from developer to architect, watching quickly",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-software-architecture-from-developer-to-architect",
+		"status": "course finished, decent, good overview of an area that was new"
+	},
+	{
 		"topics": "tensorflow, ai",
 		"language": "en",
 		"duration": "00:38:00",

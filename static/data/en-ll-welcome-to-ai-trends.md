@@ -219,15 +219,50 @@ https://www.linkedin.com/learning/ai-trends/chatgpt?autoSkip=true&resume=false
     - it tries to understand what you mean
     - helps humans iterate on ideas
 
-## Prompt engineering, 3:25, nnn
+## Prompt engineering, 3:25, 2025-02-18
 
 https://www.linkedin.com/learning/ai-trends/prompt-engineering?autoSkip=true&resume=false
+
+- prompt engineering
+  - can have
+    - instructions
+    - a question
+    - input data
+    - examples
+  - component of generative IA
+  - an LLM can prompt an LLM
+  - AIs will be talking to themselves and learning about each other
+  - LLMs creating text for text-to-image LLMs
+  - prompt engineering concerns itself with managing this at scale
+
+## Generative AI, 3:32, 2025-02-19
+
+https://www.linkedin.com/learning/ai-trends/generative-ai-22276299?autoSkip=true&resume=false
+
+- generative AI
+	- basically they create rules to predict what is coming up next
+	- computers can map out patterns in an image to be able to recognize it again, e.g. a human face
+	- e.g. differences between parts of the face
+	- you can give it thousands of pictures of noses, it will create rules, then it could create new noses
+	- shortens the time it takes to handle repetitive tasks
+
+## Facial recognition, nnn
+
+https://www.linkedin.com/learning/ai-trends/facial-recognition-22273283?autoSkip=true&resume=false
 
 - nnn
 
 ## VOCAB - ITALIAN
 
 ```
+and as I said before
+e come ho detto prima
+2025-02-19 00:09:42
+
+in the context of AI
+nel contesto dell'IA; pr=LEE-ah
+2025-02-19 00:05:27
+
 here is an example
 ecco un esempio
 2025-02-18 00:57:58

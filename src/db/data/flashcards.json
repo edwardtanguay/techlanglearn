@@ -1555,6 +1555,20 @@
 	},
 	{
 		"language": "it",
+		"front": "and as I said before",
+		"back": "e come ho detto prima",
+		"whenCreated": "2025-02-19 00:09:42",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "in the context of AI",
+		"back": "nel contesto dell'IA",
+		"whenCreated": "2025-02-19 00:05:27",
+		"extras": "pr=LEE-ah"
+	},
+	{
+		"language": "it",
 		"front": "here is an example",
 		"back": "ecco un esempio",
 		"whenCreated": "2025-02-18 00:57:58",
