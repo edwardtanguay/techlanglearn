@@ -1,8 +1,13 @@
 =======================================================
 
 
-- Elastic Search: https://www.linkedin.com/learning/elasticsearch-essential-training-18773441
-https://www.linkedin.com/learning/elasticsearch-in-depth/much-more-than-full-text-searches
+>>create>>elasticsearch;de;02:20:00;2017;4.1;https://www.linkedin.com/learning/elasticsearch-grundkurs;Elasticsearch Grundkurs,in German but old 2017
+
+>>create>>elasticsearch;fr;01:59:00;2022;4.8;https://www.linkedin.com/learning/l-essentiel-de-elasticsearch;L'essentiel de Elasticsearch;good overview, in French
+
+>>create>>elasticsearch;en;01:40:00;2023;4.7;https://www.linkedin.com/learning/elasticsearch-essential-training-18773441;Elasticsearch Essential Training;good overview, normal voice
+
+>>create>>elasticsearch;en;;2023;4.6;https://www.linkedin.com/learning/elasticsearch-in-depth; Elasticsearch in Depth;shows how elasticsearch can do "more than full-text search", nice voice
 
 
 
