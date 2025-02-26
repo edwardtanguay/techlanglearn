@@ -5454,6 +5454,342 @@
 	},
 	{
 		"language": "fr",
+		"front": "widely used on platforms",
+		"back": "très usités sur les plateformes",
+		"whenCreated": "2025-02-25 17:37:30",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "to refine the results",
+		"back": "pour affiner les résultats",
+		"whenCreated": "2025-02-25 17:36:18",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "Elasticsearch querying allows fast document searches",
+		"back": "le requêtage Elasticsearch permet de rechercher des documents rapidement",
+		"whenCreated": "2025-02-25 17:33:44",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "on the fly",
+		"back": "à la volée",
+		"whenCreated": "2025-02-25 17:31:59",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "and so on",
+		"back": "ainsi de suite",
+		"whenCreated": "2025-02-25 17:28:25",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "they are distributed by day",
+		"back": "elles sont répartie par jour",
+		"whenCreated": "2025-02-25 17:24:04",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "as we saw earlier",
+		"back": "comme nous l'avions vu toute à l'heure",
+		"whenCreated": "2025-02-25 17:16:19",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "this is done with",
+		"back": "cela se fait avec",
+		"whenCreated": "2025-02-25 17:07:25",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "distribution of our documents",
+		"back": "répartition de nos documents",
+		"whenCreated": "2025-02-25 17:05:56",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "however",
+		"back": "pour autant",
+		"whenCreated": "2025-02-25 12:09:59",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "to overcome this problem",
+		"back": "pour pallier ce problème",
+		"whenCreated": "2025-02-25 11:05:48",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "side effects",
+		"back": "des effets de bords",
+		"whenCreated": "2025-02-25 11:02:19",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "completely deleted",
+		"back": "carrément supprimé",
+		"whenCreated": "2025-02-25 10:58:58",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "from a business point of view",
+		"back": "d'un point de vue métier",
+		"whenCreated": "2025-02-25 10:45:05",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "to get down to business",
+		"back": "de s'atteler à la tâche",
+		"whenCreated": "2025-02-25 10:05:54",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "we realize that",
+		"back": "on se rende compte que",
+		"whenCreated": "2025-02-25 09:10:17",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "indexing one by one can be very expensive",
+		"back": "indexer un par un peu peut s'avérer très coûteux",
+		"whenCreated": "2025-02-25 09:02:52",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "some bandwidth",
+		"back": "un peu de bande passante",
+		"whenCreated": "2025-02-25 08:35:18",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "which we can also verify",
+		"back": "ce qu'on peut d'ailleurs vérifier",
+		"whenCreated": "2025-02-25 08:20:59",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "as well as data",
+		"back": "ainsi que des données",
+		"whenCreated": "2025-02-25 08:19:21",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "to retrieve a document from the datastore",
+		"back": "pour récupérer un document de la base de données",
+		"whenCreated": "2025-02-25 08:05:02",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "to sort",
+		"back": "pour faire du tri",
+		"whenCreated": "2025-02-25 00:54:59",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "in fact",
+		"back": "en fait",
+		"whenCreated": "2025-02-25 00:50:37",
+		"extras": "pr=en fett"
+	},
+	{
+		"language": "fr",
+		"front": "a nested object",
+		"back": "un objet imbriqué",
+		"whenCreated": "2025-02-24 23:03:51",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "once the installation is complete",
+		"back": "une fois l'installation achevée",
+		"whenCreated": "2025-02-24 22:19:25",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "the same in a search engine",
+		"back": "idem dans un moteur de recherche",
+		"whenCreated": "2025-02-24 20:58:12",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "since it is sorted alphabetically",
+		"back": "puisqu'il est trié de façon alphabétique",
+		"whenCreated": "2025-02-24 20:56:16",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "did he tidy up my data",
+		"back": "a-t-il rangé ma donnée",
+		"whenCreated": "2025-02-24 20:50:15",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "the expected results",
+		"back": "les résultats escomptés",
+		"whenCreated": "2025-02-24 20:48:35",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "and typos",
+		"back": "et les fautes de frappe",
+		"whenCreated": "2025-02-24 20:46:19",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "we are lucky because",
+		"back": "on a de la chance puisque",
+		"whenCreated": "2025-02-24 20:44:43",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "what will have to be done",
+		"back": "ce qu'il va falloir faire",
+		"whenCreated": "2025-02-24 20:41:14",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "if our user types \"cd\"",
+		"back": "si notre utilisateur saisit \"cd\"",
+		"whenCreated": "2025-02-24 20:37:32",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "a way to get out",
+		"back": "une façon de s'en sortir",
+		"whenCreated": "2025-02-24 20:35:27",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "it doesn't bring any hits",
+		"back": "ça ne ramène aucun hit",
+		"whenCreated": "2025-02-24 20:32:57",
+		"extras": "conj=ramener; ramener = to bring back"
+	},
+	{
+		"language": "fr",
+		"front": "compared to a search",
+		"back": "par rapport à une recherche",
+		"whenCreated": "2025-02-24 20:29:30",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "an integration layer",
+		"back": "une couche d'intégration",
+		"whenCreated": "2025-02-24 10:52:00",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "as part of this discovery",
+		"back": "dans le cadre de cette découverte",
+		"whenCreated": "2025-02-24 10:26:35",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "to block them before they spread",
+		"back": "de les bloques avant qu'elles ne se propagent",
+		"whenCreated": "2025-02-24 10:25:24",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "manage more data",
+		"back": "gérer davantage de données",
+		"whenCreated": "2025-02-24 10:23:10",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "materials made available to him",
+		"back": "matérielles mises à sa disposition",
+		"whenCreated": "2025-02-24 09:32:57",
+		"extras": "conj=mettre; mises = past participle (feminine plural)"
+	},
+	{
+		"language": "fr",
+		"front": "extend vertically",
+		"back": "s'étendre verticalement",
+		"whenCreated": "2025-02-24 09:30:48",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "on a data field",
+		"back": "sur un champ données",
+		"whenCreated": "2025-02-24 09:28:58",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "research on value ranges",
+		"back": "de la recherche sur des plages de valeur",
+		"whenCreated": "2025-02-24 09:26:05",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "and regardless of the source",
+		"back": "y ce quelle qu'en soit la source",
+		"whenCreated": "2025-02-24 09:10:23",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "which will allow us to search",
+		"back": "qui nous permettront de rechercher",
+		"whenCreated": "2025-02-24 09:06:30",
+		"extras": "conj=permettre, permettront = third-person future"
+	},
+	{
+		"language": "fr",
+		"front": "timestamped",
+		"back": "horodatées",
+		"whenCreated": "2025-02-24 09:04:35",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "allows you to dig into their data",
+		"back": "permet de fouiller dans leurs données",
+		"whenCreated": "2025-02-24 09:03:52",
+		"extras": ""
+	},
+	{
+		"language": "fr",
 		"front": "I define the first route",
 		"back": "je définis le premiere route",
 		"whenCreated": "2024-12-30 08:42:25",

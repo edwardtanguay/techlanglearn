@@ -1,5 +1,18 @@
 [
 	{
+		"topics": "elasticsearch",
+		"language": "de",
+		"duration": "02:20:00",
+		"year": "2017",
+		"rank": "4.1",
+		"url": "https://www.linkedin.com/learning/elasticsearch-grundkurs",
+		"title": "Elasticsearch Grundkurs",
+		"description": "in German but old 2017",
+		"platform": "linkedInLearning",
+		"fileIdCode": "de-ll-elasticsearch-grundkurs",
+		"status": ""
+	},
+	{
 		"topics": "ai",
 		"language": "de",
 		"duration": "01:23:00",
@@ -166,6 +179,32 @@
 		"description": "Leticia Portella, nice voice, seems competent, long basic course on Django, good place to start, authentication, login, logout, signup, released Dec 2024 (note she has a unit testing course as well)",
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-django-essential-training",
+		"status": ""
+	},
+	{
+		"topics": "elasticsearch",
+		"language": "en",
+		"duration": "01:40:00",
+		"year": "2023",
+		"rank": "4.7",
+		"url": "https://www.linkedin.com/learning/elasticsearch-essential-training-18773441",
+		"title": "Elasticsearch Essential Training",
+		"description": "good overview, normal voice",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-elasticsearch-essential-training",
+		"status": ""
+	},
+	{
+		"topics": "elasticsearch",
+		"language": "en",
+		"duration": "",
+		"year": "2023",
+		"rank": "4.6",
+		"url": "https://www.linkedin.com/learning/elasticsearch-in-depth",
+		"title": "Elasticsearch in Depth",
+		"description": "shows how elasticsearch can do \"more than full-text search\", nice voice",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-elasticsearch-in-depth",
 		"status": ""
 	},
 	{
@@ -1089,6 +1128,19 @@
 		"description": "basics of Django, Docstring has nice accent, short",
 		"platform": "linkedInLearning",
 		"fileIdCode": "fr-ll-lessentiel-de-django",
+		"status": ""
+	},
+	{
+		"topics": "elasticsearch",
+		"language": "fr",
+		"duration": "01:59:00",
+		"year": "2022",
+		"rank": "4.8",
+		"url": "https://www.linkedin.com/learning/l-essentiel-de-elasticsearch",
+		"title": "L'essentiel de Elasticsearch",
+		"description": "good overview, in French",
+		"platform": "linkedInLearning",
+		"fileIdCode": "fr-ll-lessentiel-de-elasticsearch",
 		"status": ""
 	},
 	{

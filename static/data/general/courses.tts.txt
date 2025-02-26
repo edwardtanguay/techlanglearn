@@ -2,13 +2,9 @@
 
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 
->>create>>elasticsearch;de;02:20:00;2017;4.1;https://www.linkedin.com/learning/elasticsearch-grundkurs;Elasticsearch Grundkurs;in German but old 2017
 
->>create>>elasticsearch;fr;01:59:00;2022;4.8;https://www.linkedin.com/learning/l-essentiel-de-elasticsearch;L'essentiel de Elasticsearch;good overview, in French
 
->>create>>elasticsearch;en;01:40:00;2023;4.7;https://www.linkedin.com/learning/elasticsearch-essential-training-18773441;Elasticsearch Essential Training;good overview, normal voice
 
->>create>>elasticsearch;en;;2023;4.6;https://www.linkedin.com/learning/elasticsearch-in-depth; Elasticsearch in Depth;shows how elasticsearch can do "more than full-text search", nice voice
 
 
 
@@ -558,3 +554,7 @@ CREATED: angular, signals, rxjs;en;00:07:25;2023;4.6;https://www.youtube.com/wat
 CREATED: angular, ngrx;en;01:13:00;2018;4.2;https://www.linkedin.com/learning/learning-ngrx/improve-your-angular-architecture-with-ngrx; Learning NgRx ;old course, you learn how NgRx provides an Angular-specific implementation of Redux that supports lazy-loaded modules, observables, and asynchronous side effects
 CREATED: stateManagement, react;en;01:49:00;2023;4.95;https://www.linkedin.com/learning/react-state-management-22688323;React: State Management;covers useReducer, useContext, Recoil,
 CREATED: architecture;en;00:47:00;2021;4.1;https://www.linkedin.com/learning/software-architecture-from-developer-to-architect; Software Architecture: From Developer to Architect ;Course about moving from developer to architect, watching quickly
+CREATED: elasticsearch;de;02:20:00;2017;4.1;https://www.linkedin.com/learning/elasticsearch-grundkurs;Elasticsearch Grundkurs;in German but old 2017
+CREATED: elasticsearch;fr;01:59:00;2022;4.8;https://www.linkedin.com/learning/l-essentiel-de-elasticsearch;L'essentiel de Elasticsearch;good overview, in French
+CREATED: elasticsearch;en;01:40:00;2023;4.7;https://www.linkedin.com/learning/elasticsearch-essential-training-18773441;Elasticsearch Essential Training;good overview, normal voice
+CREATED: elasticsearch;en;;2023;4.6;https://www.linkedin.com/learning/elasticsearch-in-depth; Elasticsearch in Depth;shows how elasticsearch can do "more than full-text search", nice voice

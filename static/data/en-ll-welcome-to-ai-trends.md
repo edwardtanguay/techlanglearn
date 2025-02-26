@@ -240,15 +240,21 @@ https://www.linkedin.com/learning/ai-trends/prompt-engineering?autoSkip=true&res
 https://www.linkedin.com/learning/ai-trends/generative-ai-22276299?autoSkip=true&resume=false
 
 - generative AI
-	- basically they create rules to predict what is coming up next
-	- computers can map out patterns in an image to be able to recognize it again, e.g. a human face
-	- e.g. differences between parts of the face
-	- you can give it thousands of pictures of noses, it will create rules, then it could create new noses
-	- shortens the time it takes to handle repetitive tasks
+  - basically they create rules to predict what is coming up next
+  - computers can map out patterns in an image to be able to recognize it again, e.g. a human face
+  - e.g. differences between parts of the face
+  - you can give it thousands of pictures of noses, it will create rules, then it could create new noses
+  - shortens the time it takes to handle repetitive tasks
 
-## Facial recognition, nnn
+## Facial recognition, 5:56, 2025-02-24
 
 https://www.linkedin.com/learning/ai-trends/facial-recognition-22273283?autoSkip=true&resume=false
+
+- most social media platforms have a way to opt out of facial recognition
+
+## Microsoft Security Copilot, 3:20, nnn
+
+https://www.linkedin.com/learning/ai-trends/microsoft-security-copilot?resume=false
 
 - nnn
 
