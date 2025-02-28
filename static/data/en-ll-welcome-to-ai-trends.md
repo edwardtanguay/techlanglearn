@@ -252,15 +252,63 @@ https://www.linkedin.com/learning/ai-trends/facial-recognition-22273283?autoSkip
 
 - most social media platforms have a way to opt out of facial recognition
 
-## Microsoft Security Copilot, 3:20, nnn
+## Microsoft Security Copilot, 3:20, 2025-02-27
 
 https://www.linkedin.com/learning/ai-trends/microsoft-security-copilot?resume=false
+
+- helps security professionals
+
+## Azure AI Studio, 6:28, 2025-02-28
+
+https://www.linkedin.com/learning/ai-trends/azure-ai-studio?autoSkip=true&resume=false
+
+- nnn
+
+## OpenAI API, 3:21, nnn
+
+https://www.linkedin.com/learning/ai-trends/openai-api
 
 - nnn
 
 ## VOCAB - ITALIAN
 
 ```
+to compare different prompts
+per confrontare diversi prompt
+2025-02-28 06:50:43
+
+the use of the service, the use of the services
+l'uso del servizio, l'uso dei servizi
+2025-02-28 06:21:28
+
+of natural language
+del linguaggio naturale
+2025-02-28 06:12:48
+
+I have the piece of information, he has some information
+ho l'informazione, lui ha delle informazioni
+2025-02-28 05:51:24
+
+let's talk about why it exists
+parliamo del motivo per cui esiste;per cui = for which
+2025-02-27 13:53:42
+
+which increases their capability
+che aumenta la loro capacità
+2025-02-27 11:43:24
+
+which increases their capabilities
+che aumenta le loro capacità
+2025-02-27 11:42:54
+
+VERB: to be able to, present
+potere: posso, puoi, può, possiamo, potete, possonno
+2025-02-27 11:05:53
+
+with this tool
+con questo strumento
+2025-02-27 09:39:33
+
 and as I said before
 e come ho detto prima
 2025-02-19 00:09:42

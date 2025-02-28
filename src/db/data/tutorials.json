@@ -65,6 +65,19 @@
 		"status": ""
 	},
 	{
+		"topics": "aws, jobrad",
+		"language": "en",
+		"duration": "04:08:00",
+		"year": "2023",
+		"rank": "4.89",
+		"url": "https://www.linkedin.com/learning/aws-essential-training-for-developers-17237791",
+		"title": "AWS Essential Training for Developers",
+		"description": "good base course on AWS, RDS, S3, and shows how to use them",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-aws-essential-training-for-developers",
+		"status": ""
+	},
+	{
 		"topics": "nodered",
 		"language": "en",
 		"duration": "00:39:00",

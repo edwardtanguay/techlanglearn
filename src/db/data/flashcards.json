@@ -1555,6 +1555,69 @@
 	},
 	{
 		"language": "it",
+		"front": "to compare different prompts",
+		"back": "per confrontare diversi prompt",
+		"whenCreated": "2025-02-28 06:50:43",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "the use of the service, the use of the services",
+		"back": "l'uso del servizio, l'uso dei servizi",
+		"whenCreated": "2025-02-28 06:21:28",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "of natural language",
+		"back": "del linguaggio naturale",
+		"whenCreated": "2025-02-28 06:12:48",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "I have the piece of information, he has some information",
+		"back": "ho l'informazione, lui ha delle informazioni",
+		"whenCreated": "2025-02-28 05:51:24",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "let's talk about why it exists",
+		"back": "parliamo del motivo per cui esiste",
+		"whenCreated": "2025-02-27 13:53:42",
+		"extras": "per cui = for which"
+	},
+	{
+		"language": "it",
+		"front": "which increases their capability",
+		"back": "che aumenta la loro capacità",
+		"whenCreated": "2025-02-27 11:43:24",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "which increases their capabilities",
+		"back": "che aumenta le loro capacità",
+		"whenCreated": "2025-02-27 11:42:54",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "VERB: to be able to, present",
+		"back": "potere: posso, puoi, può, possiamo, potete, possonno",
+		"whenCreated": "2025-02-27 11:05:53",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "with this tool",
+		"back": "con questo strumento",
+		"whenCreated": "2025-02-27 09:39:33",
+		"extras": ""
+	},
+	{
+		"language": "it",
 		"front": "and as I said before",
 		"back": "e come ho detto prima",
 		"whenCreated": "2025-02-19 00:09:42",
@@ -5450,6 +5513,118 @@
 		"front": "it is now possible",
 		"back": "il est désormais possible",
 		"whenCreated": "2025-01-14 08:54:58",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "this may prove useful",
+		"back": "cela peut s'avérer utile",
+		"whenCreated": "2025-02-26 01:01:23",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "basically",
+		"back": "en gros",
+		"whenCreated": "2025-02-26 00:49:33",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "apart from the date",
+		"back": "mise à part la date",
+		"whenCreated": "2025-02-26 00:47:40",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "the convert processor will help us",
+		"back": "le processeur convert va nous aider",
+		"whenCreated": "2025-02-26 00:40:21",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "we wish to make it",
+		"back": "nous souhaitons en faire",
+		"whenCreated": "2025-02-26 00:38:40",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "opening and closing bracket",
+		"back": "crochet ouvrant et fermant",
+		"whenCreated": "2025-02-26 00:35:12",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "Let's focus on some processors",
+		"back": "attardons-nous sur quelques processeurs",
+		"whenCreated": "2025-02-26 00:31:48",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "whatever it was",
+		"back": "quoi que ce soit",
+		"whenCreated": "2025-02-26 00:28:10",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "alleviate",
+		"back": "alléger",
+		"whenCreated": "2025-02-26 00:19:04",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "such as a return code",
+		"back": "telles qu'un code retour",
+		"whenCreated": "2025-02-26 00:16:17",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "upper left",
+		"back": "superior gauche",
+		"whenCreated": "2025-02-26 00:04:23",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "we are on a scale of a few centimeters",
+		"back": "on est à l'échelle de quelques centimètres",
+		"whenCreated": "2025-02-25 23:58:43",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "as I go, I will withdraw the request",
+		"back": "en passant, je vais retirer la requête",
+		"whenCreated": "2025-02-25 23:54:35",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "all or part of our",
+		"back": "tout ou partie de nos",
+		"whenCreated": "2025-02-25 23:53:00",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "are distributed",
+		"back": "sont réparties",
+		"whenCreated": "2025-02-25 23:51:29",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "rings",
+		"back": "des anneaux",
+		"whenCreated": "2025-02-25 23:50:37",
 		"extras": ""
 	},
 	{
