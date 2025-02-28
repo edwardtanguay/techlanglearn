@@ -1169,6 +1169,20 @@
 		"extras": "pr=nay"
 	},
 	{
+		"language": "it",
+		"front": "of the network, of the networks, it is a network",
+		"back": "della rete, delle reti, è una rete",
+		"whenCreated": "2025-02-28 09:18:50",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "from the machine, from the machines",
+		"back": "dalla macchina, dalle macchine",
+		"whenCreated": "2025-02-28 08:13:21",
+		"extras": ""
+	},
+	{
 		"language": "es",
 		"front": "I'll guide you through everything",
 		"back": "voy a guiarte a través de todo",

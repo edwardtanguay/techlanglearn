@@ -65,19 +65,6 @@
 		"status": ""
 	},
 	{
-		"topics": "aws, jobrad",
-		"language": "en",
-		"duration": "04:08:00",
-		"year": "2023",
-		"rank": "4.89",
-		"url": "https://www.linkedin.com/learning/aws-essential-training-for-developers-17237791",
-		"title": "AWS Essential Training for Developers",
-		"description": "good base course on AWS, RDS, S3, and shows how to use them",
-		"platform": "linkedInLearning",
-		"fileIdCode": "en-ll-aws-essential-training-for-developers",
-		"status": ""
-	},
-	{
 		"topics": "nodered",
 		"language": "en",
 		"duration": "00:39:00",
@@ -361,6 +348,19 @@
 		"description": "interesting mix of gRPC and Go, by Miki Tebeka",
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-grpc-in-go",
+		"status": ""
+	},
+	{
+		"topics": "aws,jobrad",
+		"language": "en",
+		"duration": "12:00:00",
+		"year": "2024",
+		"rank": "4.92",
+		"url": "https://www.linkedin.com/learning/hands-on-development-in-aws",
+		"title": "Hands-On Development in AWS",
+		"description": "a 12-hour course, covers everything, presenter just reads but technical, mostly powerpoints but some code, \"goal is not to teach you how to write code, but how to use AWS so you don't have to code'\", a lot at the command line",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-handson-development-in-aws",
 		"status": ""
 	},
 	{

@@ -1,7 +1,6 @@
 =======================================================
 
 - jobrad
--
 
 - AI
 - 4.99, https://www.linkedin.com/learning/building-apps-with-ai-tools-chatgpt-semantic-kernel-and-langchain
@@ -567,3 +566,4 @@ CREATED: elasticsearch;fr;01:59:00;2022;4.8;https://www.linkedin.com/learning/l-
 CREATED: elasticsearch;en;01:40:00;2023;4.7;https://www.linkedin.com/learning/elasticsearch-essential-training-18773441;Elasticsearch Essential Training;good overview, normal voice
 CREATED: elasticsearch;en;;2023;4.6;https://www.linkedin.com/learning/elasticsearch-in-depth; Elasticsearch in Depth;shows how elasticsearch can do "more than full-text search", nice voice
 CREATED: AWS,jobrad;en;04:08:00;2023;4.89;https://www.linkedin.com/learning/aws-essential-training-for-developers-17237791; AWS Essential Training for Developers;good base course on AWS, RDS, S3, and shows how to use them
+CREATED: aws,jobrad;en;12:00:00;2024;4.92;https://www.linkedin.com/learning/hands-on-development-in-aws;Hands-On Development in AWS;a 12-hour course, covers everything, presenter just reads but technical, mostly powerpoints but some code
