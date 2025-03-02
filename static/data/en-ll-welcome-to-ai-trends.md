@@ -262,17 +262,35 @@ https://www.linkedin.com/learning/ai-trends/microsoft-security-copilot?resume=fa
 
 https://www.linkedin.com/learning/ai-trends/azure-ai-studio?autoSkip=true&resume=false
 
-- nnn
+- has Microsoft Prompt Flow
 
-## OpenAI API, 3:21, nnn
+## OpenAI API, 3:21, 2025-03-01
 
 https://www.linkedin.com/learning/ai-trends/openai-api
+
+- assistants, threads, runs
+
+## Bing and OpenAI, 2:51, nnn
+
+https://www.linkedin.com/learning/ai-trends/bing-and-openai?autoSkip=true&resume=false
 
 - nnn
 
 ## VOCAB - ITALIAN
 
 ```
+one important thing to note
+una cosa importante da notare
+2025-03-02 11:08:21
+
+this means that
+ciò significa che
+2025-03-02 11:07:21
+
+it was a lot of work
+è stato un lavoro intensivo
+2025-03-01 22:36:48
+
 to compare different prompts
 per confrontare diversi prompt
 2025-02-28 06:50:43

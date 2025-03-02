@@ -1569,6 +1569,27 @@
 	},
 	{
 		"language": "it",
+		"front": "one important thing to note",
+		"back": "una cosa importante da notare",
+		"whenCreated": "2025-03-02 11:08:21",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "this means that",
+		"back": "ciò significa che",
+		"whenCreated": "2025-03-02 11:07:21",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "it was a lot of work",
+		"back": "è stato un lavoro intensivo",
+		"whenCreated": "2025-03-01 22:36:48",
+		"extras": ""
+	},
+	{
+		"language": "it",
 		"front": "to compare different prompts",
 		"back": "per confrontare diversi prompt",
 		"whenCreated": "2025-02-28 06:50:43",

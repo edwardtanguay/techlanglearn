@@ -17,7 +17,14 @@ https://www.linkedin.com/learning/hands-on-development-in-aws
 
 - only 4% of businesses save their data solely on their own servers
 
-## Requisites overview, 2:03, nnn
+## Requisites overview, 2:03, 2025-02-28
+
+- code is either Node or Python
+- free trial except for Kinesis
+
+## Why move to the cloud, 9:32, nnn
+
+https://www.linkedin.com/learning/hands-on-development-in-aws/why-move-to-the-cloud?resume=false
 
 - nnn
 
