@@ -3,32 +3,17 @@
 - OpenAI API
 -
 -
+-
 - 
-- https://www.linkedin.com/learning/openai-api-introduction
-- https://www.linkedin.com/learning/openai-api-speech
-- https://www.linkedin.com/learning/openai-api-working-with-files
-- https://www.linkedin.com/learning/openai-api-realtime-api-on-the-server
-- https://www.linkedin.com/learning/openai-api-embeddings
-- https://www.linkedin.com/learning/level-up-llm-applications-development-with-langchain-and-openai
-- https://www.linkedin.com/learning/openai-api-building-front-end-voice-apps-with-the-realtime-api-and-webrtc
-- https://www.linkedin.com/learning/openai-api-fine-tuning-21058733
-- https://www.linkedin.com/learning/openai-api-moderation
-- https://www.linkedin.com/learning/openai-api-function-calling
-- https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e
-- https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis
 
-- https://www.linkedin.com/learning/hands-on-ai-building-llm-powered-apps
-- https://www.linkedin.com/learning/openai-api-for-python-developers
+- 
 
->>create>>openai, ai, python;en;00:34:00;2023;4.4;https://www.linkedin.com/learning/openai-api-building-assistants; OpenAI API: Building Assistants ;Morten is the teacher, short, Python but he uses the API, shows how to use the Playground
 
->>create>>ai, node, openai;fr;01:32:00;2024;4.9999;https://www.linkedin.com/learning/l-essentiel-d-openai-et-des-modeles-de-langage-gpt-pour-node-js; L'essentiel d'OpenAI et des modèles de langage GPT pour Node.js ;Sandy Ludosky, French, uses OpenAI in Node, June 2024 recent
 
->>create>>openai, ai, python;fr;01:39:00;2024;4.9988;https://www.linkedin.com/learning/l-essentiel-d-openai-pour-le-developpement-en-python; L'essentiel d'OpenAI pour le développement en Python ;Sandy Ludosky, French, Python, connects to OpenAI API with key, etc.
 
->>create>>ai, openai, python;es;01:28:00;2023;4.999888;https://www.linkedin.com/learning/openai-para-desarrollo-esencial; OpenAI para desarrollo esencial ;Rodrigo Días Concha, OpenAI with Python, he had the same course in English
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>create>>ai, node, openai;en;00:36:00;2024;4.78;https://www.linkedin.com/learning/openai-api-working-with-files; OpenAI API: Working with Files ;shorter but uses Node to access OpenAI to upload and store files
+>>create>>openai, ai, python;en;02:18:00;2024;4.91;https://www.linkedin.com/learning/openai-api-for-python-developers; OpenAI API for Python Developers ;Sandy Ludosky, basic Python and OpenAI API, longer course
+
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
@@ -612,3 +597,7 @@ CREATED: aws,jobrad;en;12:00:00;2024;4.92;https://www.linkedin.com/learning/hand
 CREATED: nextjs, ai;en;01:17:00;2024;4.987;https://www.linkedin.com/learning/ai-for-react-developers; AI for React Developers ;Uses Next.js and v0, nice, no Italian subtitles so will do Dutch
 CREATED: openai, python, ai;en;01:32:00;2023;4.8;https://www.linkedin.com/learning/building-apps-with-ai-tools-chatgpt-semantic-kernel-and-langchain; Building Apps with AI Tools: ChatGPT, Semantic Kernel, and Langchain ;uses the OpenAI API with Python
 CREATED: openai, python, ai;en;00:59:00;2024;4.8;https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution; Hands-On OpenAI API: Building a Real-World Solution ;transcribes audio files with OpenAI, uses Python
+CREATED: openai, ai, python;en;00:34:00;2023;4.4;https://www.linkedin.com/learning/openai-api-building-assistants; OpenAI API: Building Assistants ;Morten is the teacher, short, Python but he uses the API, shows how to use the Playground
+CREATED: ai, node, openai;fr;01:32:00;2024;4.9999;https://www.linkedin.com/learning/l-essentiel-d-openai-et-des-modeles-de-langage-gpt-pour-node-js; L'essentiel d'OpenAI et des modèles de langage GPT pour Node.js ;Sandy Ludosky, French, uses OpenAI in Node, June 2024 recent
+CREATED: openai, ai, python;fr;01:39:00;2024;4.9988;https://www.linkedin.com/learning/l-essentiel-d-openai-pour-le-developpement-en-python; L'essentiel d'OpenAI pour le développement en Python ;Sandy Ludosky, French, Python, connects to OpenAI API with key, etc.
+CREATED: ai, openai, python;es;01:28:00;2023;4.999888;https://www.linkedin.com/learning/openai-para-desarrollo-esencial; OpenAI para desarrollo esencial ;Rodrigo Días Concha, OpenAI with Python, he had the same course in English

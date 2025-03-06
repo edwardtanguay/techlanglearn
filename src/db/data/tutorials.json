@@ -520,6 +520,19 @@
 		"status": "watched intro videos"
 	},
 	{
+		"topics": "openai, ai, python",
+		"language": "en",
+		"duration": "00:34:00",
+		"year": "2023",
+		"rank": "4.4",
+		"url": "https://www.linkedin.com/learning/openai-api-building-assistants",
+		"title": "OpenAI API: Building Assistants",
+		"description": "Morten is the teacher, short, Python but he uses the API, shows how to use the Playground",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-openai-api-building-assistants",
+		"status": ""
+	},
+	{
 		"topics": "python, testing",
 		"language": "en",
 		"duration": "01:38:00",
@@ -1040,6 +1053,19 @@
 		"status": "discontinued"
 	},
 	{
+		"topics": "ai, openai, python",
+		"language": "es",
+		"duration": "01:28:00",
+		"year": "2023",
+		"rank": "4.999888",
+		"url": "https://www.linkedin.com/learning/openai-para-desarrollo-esencial",
+		"title": "OpenAI para desarrollo esencial",
+		"description": "Rodrigo Días Concha, OpenAI with Python, he had the same course in English",
+		"platform": "linkedInLearning",
+		"fileIdCode": "es-ll-openai-para-desarrollo-esencial",
+		"status": ""
+	},
+	{
 		"topics": "python",
 		"language": "es",
 		"duration": "01:44:00",
@@ -1284,6 +1310,32 @@
 		"description": "a very up-to-date and solid course (6+ hours) on CSS, in French, nice accent (Damian Bruyndonckx), responsive, etc.",
 		"platform": "linkedInLearning",
 		"fileIdCode": "fr-ll-lessentiel-des-css",
+		"status": ""
+	},
+	{
+		"topics": "ai, node, openai",
+		"language": "fr",
+		"duration": "01:32:00",
+		"year": "2024",
+		"rank": "4.9999",
+		"url": "https://www.linkedin.com/learning/l-essentiel-d-openai-et-des-modeles-de-langage-gpt-pour-node-js",
+		"title": "L'essentiel d'OpenAI et des modèles de langage GPT pour Node.js",
+		"description": "Sandy Ludosky, French, uses OpenAI in Node, June 2024 recent",
+		"platform": "linkedInLearning",
+		"fileIdCode": "fr-ll-lessentiel-dopenai-et-des-modles-de-langage-gpt-pour-nodejs",
+		"status": ""
+	},
+	{
+		"topics": "openai, ai, python",
+		"language": "fr",
+		"duration": "01:39:00",
+		"year": "2024",
+		"rank": "4.9988",
+		"url": "https://www.linkedin.com/learning/l-essentiel-d-openai-pour-le-developpement-en-python",
+		"title": "L'essentiel d'OpenAI pour le développement en Python",
+		"description": "Sandy Ludosky, French, Python, connects to OpenAI API with key, etc.",
+		"platform": "linkedInLearning",
+		"fileIdCode": "fr-ll-lessentiel-dopenai-pour-le-dveloppement-en-python",
 		"status": ""
 	},
 	{
