@@ -104,6 +104,19 @@
 		"status": "not yet started"
 	},
 	{
+		"topics": "openai, python, ai",
+		"language": "en",
+		"duration": "01:32:00",
+		"year": "2023",
+		"rank": "4.8",
+		"url": "https://www.linkedin.com/learning/building-apps-with-ai-tools-chatgpt-semantic-kernel-and-langchain",
+		"title": "Building Apps with AI Tools: ChatGPT, Semantic Kernel, and Langchain",
+		"description": "uses the OpenAI API with Python",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-building-apps-with-ai-tools-chatgpt-semantic-kernel-and-langchain",
+		"status": ""
+	},
+	{
 		"topics": "keras, ai",
 		"language": "en",
 		"duration": "01:50:00",
@@ -374,6 +387,19 @@
 		"description": "a 12-hour course, covers everything, presenter just reads but technical, mostly powerpoints but some code, \"goal is not to teach you how to write code, but how to use AWS so you don't have to code'\", a lot at the command line",
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-handson-development-in-aws",
+		"status": ""
+	},
+	{
+		"topics": "openai, python, ai",
+		"language": "en",
+		"duration": "00:59:00",
+		"year": "2024",
+		"rank": "4.8",
+		"url": "https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution",
+		"title": "Hands-On OpenAI API: Building a Real-World Solution",
+		"description": "transcribes audio files with OpenAI, uses Python",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-handson-openai-api-building-a-realworld-solution",
 		"status": ""
 	},
 	{
