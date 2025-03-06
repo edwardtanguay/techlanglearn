@@ -767,6 +767,32 @@
 		"status": "3 of 14 videos watched"
 	},
 	{
+		"topics": "openai, ai, nextjs",
+		"language": "en",
+		"duration": "00:08:01",
+		"year": "2024",
+		"rank": "4.99999",
+		"url": "https://www.youtube.com/watch?v=sHuIIX79MOs",
+		"title": "Build Your First AI Chatbot in 8 Minutes (with Next.js \u0026 OpenAI)",
+		"description": "8-minute video on Next.js and OpenAI",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-build-your-first-ai-chatbot-in-8-minutes-with-nextjs-openai",
+		"status": ""
+	},
+	{
+		"topics": "openai, ai, nextjs",
+		"language": "en",
+		"duration": "00:07:41",
+		"year": "2024",
+		"rank": "4.99999",
+		"url": "https://www.youtube.com/watch?v=I14_HrJktIs",
+		"title": "ChatGPT Bot with NEXT.JS 13 and OpenAI API in 10 minutes",
+		"description": "looks good, only four months ago",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-chatgpt-bot-with-nextjs-13-and-openai-api-in-10-minutes",
+		"status": ""
+	},
+	{
 		"topics": "angular",
 		"language": "en",
 		"duration": "00:12:06",

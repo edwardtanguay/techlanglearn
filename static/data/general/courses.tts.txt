@@ -12,8 +12,6 @@
 
 
 
->>create>>openai, ai, nextjs;en;00:08:01;2024;4.99999;https://www.youtube.com/watch?v=sHuIIX79MOs; Build Your First AI Chatbot in 8 Minutes (with Next.js & OpenAI) ;8-minute video on Next.js and OpenAI
->>create>>openai, ai, nextjs;en;00:07:41;2024;4.99999; https://www.youtube.com/watch?v=I14_HrJktIs;ChatGPT Bot with NEXT.JS 13 and OpenAI API in 10 minutes; looks good, only four months ago
 
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
@@ -602,3 +600,5 @@ CREATED: openai, ai, python;fr;01:39:00;2024;4.9988;https://www.linkedin.com/lea
 CREATED: ai, openai, python;es;01:28:00;2023;4.999888;https://www.linkedin.com/learning/openai-para-desarrollo-esencial; OpenAI para desarrollo esencial ;Rodrigo Días Concha, OpenAI with Python, he had the same course in English
 CREATED: ai, node, openai;en;00:36:00;2024;4.78;https://www.linkedin.com/learning/openai-api-working-with-files; OpenAI API: Working with Files ;shorter but uses Node to access OpenAI to upload and store files
 CREATED: openai, ai, python;en;02:18:00;2024;4.91;https://www.linkedin.com/learning/openai-api-for-python-developers; OpenAI API for Python Developers ;Sandy Ludosky, basic Python and OpenAI API, longer course
+CREATED: openai, ai, nextjs;en;00:08:01;2024;4.99999;https://www.youtube.com/watch?v=sHuIIX79MOs; Build Your First AI Chatbot in 8 Minutes (with Next.js & OpenAI) ;8-minute video on Next.js and OpenAI
+CREATED: openai, ai, nextjs;en;00:07:41;2024;4.99999; https://www.youtube.com/watch?v=I14_HrJktIs;ChatGPT Bot with NEXT.JS 13 and OpenAI API in 10 minutes; looks good, only four months ago
