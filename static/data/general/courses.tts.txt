@@ -1,8 +1,49 @@
 =======================================================
 
+- OpenAI API
+	- 
+	- 
+	- https://www.linkedin.com/learning/openai-api-building-assistants
+	- https://www.linkedin.com/learning/openai-api-introduction
+	- https://www.linkedin.com/learning/openai-api-speech
+	- https://www.linkedin.com/learning/openai-api-working-with-files
+	- https://www.linkedin.com/learning/openai-api-realtime-api-on-the-server
+	- https://www.linkedin.com/learning/openai-api-embeddings
+	- https://www.linkedin.com/learning/level-up-llm-applications-development-with-langchain-and-openai
+	- https://www.linkedin.com/learning/openai-api-building-front-end-voice-apps-with-the-realtime-api-and-webrtc
+	- https://www.linkedin.com/learning/openai-api-fine-tuning-21058733
+	- https://www.linkedin.com/learning/openai-api-moderation
+	- https://www.linkedin.com/learning/openai-api-function-calling
+	- https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e
+	- https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis
+
+	- https://www.linkedin.com/learning/hands-on-ai-building-llm-powered-apps
+	- https://www.linkedin.com/learning/openai-api-for-python-developers
+
+>>create>>openai, python, ai;en;01:32:00;2023;4.8;https://www.linkedin.com/learning/building-apps-with-ai-tools-chatgpt-semantic-kernel-and-langchain; Building Apps with AI Tools: ChatGPT, Semantic Kernel, and Langchain ;uses the OpenAI API with Python
+>>create>>openai, python, ai;en;00:59:00;2024;4.8;https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution; Hands-On OpenAI API: Building a Real-World Solution ;transcribes audio files with OpenAI, uses Python
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+
 - jobrad
 
+- ESLint: https://www.linkedin.com/learning/search?entityType=COURSE&keywords=eslint
+
+- css: https://www.linkedin.com/learning/css-refactoring-style-sheets/css-refactoring-and-optimization
+
 - AI
+- https://www.linkedin.com/learning/practical-github-copilot/using-copilot-on-projects
 - 4.99, https://www.linkedin.com/learning/building-apps-with-ai-tools-chatgpt-semantic-kernel-and-langchain
 - LangChain: https://www.linkedin.com/learning/prompt-engineering-with-langchain
 
@@ -567,3 +608,4 @@ CREATED: elasticsearch;en;01:40:00;2023;4.7;https://www.linkedin.com/learning/el
 CREATED: elasticsearch;en;;2023;4.6;https://www.linkedin.com/learning/elasticsearch-in-depth; Elasticsearch in Depth;shows how elasticsearch can do "more than full-text search", nice voice
 CREATED: AWS,jobrad;en;04:08:00;2023;4.89;https://www.linkedin.com/learning/aws-essential-training-for-developers-17237791; AWS Essential Training for Developers;good base course on AWS, RDS, S3, and shows how to use them
 CREATED: aws,jobrad;en;12:00:00;2024;4.92;https://www.linkedin.com/learning/hands-on-development-in-aws;Hands-On Development in AWS;a 12-hour course, covers everything, presenter just reads but technical, mostly powerpoints but some code
+CREATED: nextjs, ai;en;01:17:00;2024;4.987;https://www.linkedin.com/learning/ai-for-react-developers; AI for React Developers ;Uses Next.js and v0, nice, no Italian subtitles so will do Dutch

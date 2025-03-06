@@ -22,15 +22,29 @@ https://www.linkedin.com/learning/hands-on-development-in-aws
 - code is either Node or Python
 - free trial except for Kinesis
 
-## Why move to the cloud, 9:32, nnn
+## Why move to the cloud, 9:32, 2025-03-02
 
 https://www.linkedin.com/learning/hands-on-development-in-aws/why-move-to-the-cloud?resume=false
+
+- switching from capital expenditure to operational expenditure
+- there are ways to connect the Cloud to your own premise infrastructure
+- AWS shared responsibility model
+  - they guarantee the security of your data
+- pay as you go, pay as your grow
+
+## Exploring cloud providers, 6:06, nnn
+
+https://www.linkedin.com/learning/hands-on-development-in-aws/exploring-cloud-providers?autoSkip=true&resume=false
 
 - nnn
 
 ## VOCAB - ITALIAN
 
 ```
+you all remember that, you (tu) remember that, you (Lei) remember that
+ricordate che, ricorda che, ricordi che
+2025-03-02 12:04:57
+
 of the network, of the networks, it is a network
 della rete, delle reti, è una rete
 2025-02-28 09:18:50

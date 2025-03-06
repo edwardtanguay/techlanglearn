@@ -270,15 +270,70 @@ https://www.linkedin.com/learning/ai-trends/openai-api
 
 - assistants, threads, runs
 
-## Bing and OpenAI, 2:51, nnn
+## Bing and OpenAI, 2:51, 2025-03-03
 
 https://www.linkedin.com/learning/ai-trends/bing-and-openai?autoSkip=true&resume=false
+
+- Bing plus Open AI
+  - "the copilot of Web"
+
+## AI agents, 6:04, 2025-03-03
+
+- future
+  - you will likely be dealing with AI agents than LLMs
+    - currently you have to do most of the work yourself with LLMs
+  - AI agents are multi-prompt loops that leverage the capabiliteis of LLMs
+  - two charactersistics make agents possible
+    - long-term memory
+      - LLMs have limited context windows
+      - agents summarize every response and store it in long-term memory
+      - then they add these summaries as contexts to future prompts
+    - have ability to perform actions on behalf of the user
+      - filling out forms
+      - installing software
+    - three big questions
+      - are AI agents safe to use?
+        - in their infancy
+        - experimental
+        - safety is not guaranteed
+        - for careful experimentation, yes
+        - for anything important, no
+      - should I start using AI agents today?
+        - June 2023, no, unless it is to specifically experiment with these tools
+        - right now, AI agents are interesting toys
+        - currently, you get better results working directly with the LLMs
+      - are AI agents the future of AI?
+
+## Google AI products: Bard, PaLM, and more, 3:56, 2025-03-03
+
+- PaLM (Pathways Language Model) an LLM developed by Google, transitioned also into Gemini
+  - Sec PaLM
+  - Med PaLM
+    - the first system to pass the Medical License Exam with 85.4%
+  - Codey
+    - AI-driven coding assistant, designed to enhance software development by assisting with code generation, completion, and debugging across multiple programming languages
+  - Imagen
+    - an advanced text-to-image diffusion model developed by Google DeepMind
+  - Chirp
+    - speech recognition model integrated into Google Cloud's Speech-to-Text API. Chirp represents Google's advancements in automatic speech recognition (ASR), offering high accuracy and multilingual support
+  - MusicLM
+    - an experimental AI model developed by Google that generates high-fidelity music from textual descriptions. Introduced in early 2023, MusicLM can transform prompts like "a calming violin melody backed by a distorted guitar riff" into coherent musical compositions
+
+## PaLM 2 and Bard, 3:08, nnn
 
 - nnn
 
 ## VOCAB - ITALIAN
 
 ```
+from my point of view
+dal mio punto di vista
+2025-03-04 00:47:28
+
+so, in simple terms
+quindi, in termini semplici
+2025-03-04 00:39:15
+
 one important thing to note
 una cosa importante da notare
 2025-03-02 11:08:21
