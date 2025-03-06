@@ -533,6 +533,32 @@
 		"status": ""
 	},
 	{
+		"topics": "openai, ai, python",
+		"language": "en",
+		"duration": "02:18:00",
+		"year": "2024",
+		"rank": "4.91",
+		"url": "https://www.linkedin.com/learning/openai-api-for-python-developers",
+		"title": "OpenAI API for Python Developers",
+		"description": "Sandy Ludosky, basic Python and OpenAI API, longer course",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-openai-api-for-python-developers",
+		"status": ""
+	},
+	{
+		"topics": "ai, node, openai",
+		"language": "en",
+		"duration": "00:36:00",
+		"year": "2024",
+		"rank": "4.78",
+		"url": "https://www.linkedin.com/learning/openai-api-working-with-files",
+		"title": "OpenAI API: Working with Files",
+		"description": "shorter but uses Node to access OpenAI to upload and store files",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-openai-api-working-with-files",
+		"status": ""
+	},
+	{
 		"topics": "python, testing",
 		"language": "en",
 		"duration": "01:38:00",

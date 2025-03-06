@@ -4,15 +4,13 @@
 -
 -
 -
-- 
+-
 
-- 
-
-
+-
 
 
->>create>>ai, node, openai;en;00:36:00;2024;4.78;https://www.linkedin.com/learning/openai-api-working-with-files; OpenAI API: Working with Files ;shorter but uses Node to access OpenAI to upload and store files
->>create>>openai, ai, python;en;02:18:00;2024;4.91;https://www.linkedin.com/learning/openai-api-for-python-developers; OpenAI API for Python Developers ;Sandy Ludosky, basic Python and OpenAI API, longer course
+
+
 
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
@@ -601,3 +599,5 @@ CREATED: openai, ai, python;en;00:34:00;2023;4.4;https://www.linkedin.com/learni
 CREATED: ai, node, openai;fr;01:32:00;2024;4.9999;https://www.linkedin.com/learning/l-essentiel-d-openai-et-des-modeles-de-langage-gpt-pour-node-js; L'essentiel d'OpenAI et des modèles de langage GPT pour Node.js ;Sandy Ludosky, French, uses OpenAI in Node, June 2024 recent
 CREATED: openai, ai, python;fr;01:39:00;2024;4.9988;https://www.linkedin.com/learning/l-essentiel-d-openai-pour-le-developpement-en-python; L'essentiel d'OpenAI pour le développement en Python ;Sandy Ludosky, French, Python, connects to OpenAI API with key, etc.
 CREATED: ai, openai, python;es;01:28:00;2023;4.999888;https://www.linkedin.com/learning/openai-para-desarrollo-esencial; OpenAI para desarrollo esencial ;Rodrigo Días Concha, OpenAI with Python, he had the same course in English
+CREATED: ai, node, openai;en;00:36:00;2024;4.78;https://www.linkedin.com/learning/openai-api-working-with-files; OpenAI API: Working with Files ;shorter but uses Node to access OpenAI to upload and store files
+CREATED: openai, ai, python;en;02:18:00;2024;4.91;https://www.linkedin.com/learning/openai-api-for-python-developers; OpenAI API for Python Developers ;Sandy Ludosky, basic Python and OpenAI API, longer course
