@@ -1,15 +1,6 @@
 =======================================================
 
 - OpenAI API
--
--
--
--
-
--
-
-
-
 
 
 
@@ -20,6 +11,8 @@
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 
 - jobrad
+	- grid, flex
+		- also with Tailwind
 
 - ESLint: https://www.linkedin.com/learning/search?entityType=COURSE&keywords=eslint
 
