@@ -1,8 +1,15 @@
 =======================================================
 
+- REACT
+- https://www.linkedin.com/learning/topics/react-js?difficultyLevel=ADVANCED&entityType=COURSE&sortBy=RECENCY
+
+- next for all: https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/let-s-build-modern-projects-with-react
+- https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/build-your-own-full-stack-website-using-react
 - OpenAI API
 
-
+- Drizzle: https://www.youtube.com/watch?v=cTu9-C2rd-0
+- prisma/next.js: https://www.youtube.com/watch?v=QXxy8Uv1LnQ
+- authentication: https://www.youtube.com/watch?v=bwRj1O30JWg
 
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
@@ -11,9 +18,12 @@
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 
 - jobrad
-	- grid, flex
-		- also with Tailwind
+- grid, flex
+- also with Tailwind
+- *** TAILWIND 4: https://www.linkedin.com/learning/tailwind-css-4-essential-training/meet-tailwind-css
 
+
+- ESLint: https://www.linkedin.com/learning/topics/eslint
 - ESLint: https://www.linkedin.com/learning/search?entityType=COURSE&keywords=eslint
 
 - css: https://www.linkedin.com/learning/css-refactoring-style-sheets/css-refactoring-and-optimization
