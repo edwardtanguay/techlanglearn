@@ -673,6 +673,90 @@
 	},
 	{
 		"language": "it",
+		"front": "your source code",
+		"back": "tuo codice sorgente",
+		"whenCreated": "2025-03-26 00:10:23",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "your source code",
+		"back": "tuo codice sorgente",
+		"whenCreated": "2025-03-26 00:08:36",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "as long as you have this message",
+		"back": "finchè hai questo messaggio",
+		"whenCreated": "2025-03-22 07:34:19",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "the bad news is",
+		"back": "la cattiva notizia è",
+		"whenCreated": "2025-03-22 07:14:53",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "there will be plenty of commands you can use",
+		"back": "ci saranno molti comandi che potrai usare",
+		"whenCreated": "2025-03-19 19:37:01",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "and it will take some time",
+		"back": "e ci vorrà del tempo",
+		"whenCreated": "2025-03-19 19:29:56",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "this will ensure that you get",
+		"back": "cìo garantirà di ottenere",
+		"whenCreated": "2025-03-18 11:08:07",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "so, if, for example",
+		"back": "quindi, se, ad esempio",
+		"whenCreated": "2025-03-18 10:54:36",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "so there are some folders that",
+		"back": "quindi ci sono alcune cartelle che",
+		"whenCreated": "2025-03-18 10:53:38",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "which have been made",
+		"back": "che sono state apportate",
+		"whenCreated": "2025-03-18 10:48:12",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "you're jumping around",
+		"back": "stai saltando in giro",
+		"whenCreated": "2025-03-18 10:31:00",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "a before and an after",
+		"back": "un primo e un dopo",
+		"whenCreated": "2025-03-18 10:20:56",
+		"extras": ""
+	},
+	{
+		"language": "it",
 		"front": "so we are all ready",
 		"back": "quindi siamo tutti pronti",
 		"whenCreated": "2025-01-03 07:47:34",
@@ -1943,6 +2027,20 @@
 		"front": "if you are watching this course",
 		"back": "se stai guardando questo corso",
 		"whenCreated": "2025-01-22 23:42:28",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "once this is done",
+		"back": "una volta fatto questo",
+		"whenCreated": "2025-03-16 15:16:28",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "the topics we will cover",
+		"back": "gli argomenti che tratteremo",
+		"whenCreated": "2025-03-16 15:04:13",
 		"extras": ""
 	},
 	{

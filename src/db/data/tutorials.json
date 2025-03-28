@@ -169,6 +169,19 @@
 		"status": "only 3 more videos"
 	},
 	{
+		"topics": "react,aws",
+		"language": "en",
+		"duration": "02:47:00",
+		"year": "2021",
+		"rank": "4.88",
+		"url": "https://www.linkedin.com/learning/creating-a-serverless-application-using-react-in-aws/2392677",
+		"title": "Creating a Serverless Application Using React in AWS",
+		"description": "good course about React running on AWS, takes HTML/CSS and converts to React",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-creating-a-serverless-application-using-react-in-aws",
+		"status": ""
+	},
+	{
 		"topics": "grid",
 		"language": "en",
 		"duration": "02:28:00",
@@ -621,6 +634,19 @@
 		"description": "good starting course in PyTorch, Terezija is a good geek teacher",
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-pytorch-essential-training-deep-learning",
+		"status": ""
+	},
+	{
+		"topics": "react, authentication",
+		"language": "en",
+		"duration": "05:12:00",
+		"year": "2021",
+		"rank": "4.7",
+		"url": "https://www.linkedin.com/learning/react-authentication",
+		"title": "React: Authentication",
+		"description": "long, Shawn Wassel but 2021, does have Kinde or the like",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-react-authentication",
 		"status": ""
 	},
 	{

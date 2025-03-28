@@ -1,5 +1,10 @@
 =======================================================
 
+
+- REACT/AWS
+- https://www.linkedin.com/learning/creating-a-serverless-application-using-react-in-aws/2392677
+- others: https://www.linkedin.com/learning/instructors/brett-mclaughlin
+
 - REACT
 - https://www.linkedin.com/learning/topics/react-js?difficultyLevel=ADVANCED&entityType=COURSE&sortBy=RECENCY
 
@@ -15,7 +20,7 @@
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+
 
 - jobrad
 - grid, flex
@@ -605,3 +610,5 @@ CREATED: ai, node, openai;en;00:36:00;2024;4.78;https://www.linkedin.com/learnin
 CREATED: openai, ai, python;en;02:18:00;2024;4.91;https://www.linkedin.com/learning/openai-api-for-python-developers; OpenAI API for Python Developers ;Sandy Ludosky, basic Python and OpenAI API, longer course
 CREATED: openai, ai, nextjs;en;00:08:01;2024;4.99999;https://www.youtube.com/watch?v=sHuIIX79MOs; Build Your First AI Chatbot in 8 Minutes (with Next.js & OpenAI) ;8-minute video on Next.js and OpenAI
 CREATED: openai, ai, nextjs;en;00:07:41;2024;4.99999; https://www.youtube.com/watch?v=I14_HrJktIs;ChatGPT Bot with NEXT.JS 13 and OpenAI API in 10 minutes; looks good, only four months ago
+CREATED: react, authentication;en;05:12:00;2021;4.7;https://www.linkedin.com/learning/react-authentication; React: Authentication ;long, Shawn Wassel but 2021, does have Kinde or the like
+CREATED: react,aws;en;02:47:00;2021;4.88;https://www.linkedin.com/learning/creating-a-serverless-application-using-react-in-aws/2392677; Creating a Serverless Application Using React in AWS ; good course about React running on AWS
