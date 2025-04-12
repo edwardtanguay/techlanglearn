@@ -64,15 +64,19 @@ https://www.linkedin.com/learning/creating-a-serverless-application-using-react-
 
 - says they should split up the components
 
-## Solution: Build a menu based on dynamic data , 8:06, nnn
+## Solution: Build a menu based on dynamic data , 8:06, 2025-04-08
+
+- showed how to put header/footer in
+
+## Use JSON as a Mock for Dynamically-Loaded Data, 5:24, 2025-04-11
+
+- reads data from a JSON file
+
+## Load JSON as data in your React component, 4:25, nnn
 
 ## VOCAB - ITALIAN
 
 ```
-your source code
-tuo codice sorgente
-2025-03-26 00:10:23
-
 your source code
 tuo codice sorgente
 2025-03-26 00:08:36
