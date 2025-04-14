@@ -72,7 +72,23 @@ https://www.linkedin.com/learning/creating-a-serverless-application-using-react-
 
 - reads data from a JSON file
 
-## Load JSON as data in your React component, 4:25, nnn
+## Load JSON as data in your React component, 4:25, 2025-04-12
+
+- make dynamic
+
+## Challenge: Convert your components to use dynamic data, 2:13, 2025-04-12
+
+- explains
+
+## Solution: Convert your components to use dynamic data, 7:38, 2025-04-13
+
+- talks about JSON and databases
+
+## Always be deploying, 1:35, 2025-04-13
+
+- always push, but not clear
+
+## Download and install the AWS Command Line Interface, 2:31, nnn
 
 ## VOCAB - ITALIAN
 
