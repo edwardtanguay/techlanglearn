@@ -975,6 +975,19 @@
 		"status": "2 minutes of 18"
 	},
 	{
+		"topics": "csharp",
+		"language": "es",
+		"duration": "01:52:00",
+		"year": "2022",
+		"rank": "4.5",
+		"url": "https://www.linkedin.com/learning/c-sharp-avanzado-2",
+		"title": "C# avanzado 2",
+		"description": "Noemí León, a good overview of C# to get back into it",
+		"platform": "linkedInLearning",
+		"fileIdCode": "es-ll-c-avanzado-2",
+		"status": ""
+	},
+	{
 		"topics": "css",
 		"language": "es",
 		"duration": "01:05:00",

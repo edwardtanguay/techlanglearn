@@ -2570,6 +2570,34 @@
 	},
 	{
 		"language": "es",
+		"front": "nowadays",
+		"back": "hoy en día",
+		"whenCreated": "2025-04-15 11:58:19",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "pattern matching",
+		"back": "coincidencias de patrones",
+		"whenCreated": "2025-04-15 11:56:57",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "we will go deeper into each topic",
+		"back": "profundizaremos en cada tema",
+		"whenCreated": "2025-04-15 11:56:09",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "we will go further",
+		"back": "iremos más allá",
+		"whenCreated": "2025-04-15 11:55:30",
+		"extras": ""
+	},
+	{
+		"language": "es",
 		"front": "the file will be overwritten",
 		"back": "el archivo se sobrescribirá",
 		"whenCreated": "2024-12-01 00:00:00",

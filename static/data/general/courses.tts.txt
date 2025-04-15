@@ -1,5 +1,8 @@
 =======================================================
 
+C#
+https://www.linkedin.com/learning/c-sharp-avanzado-1/expresiones-lambda-usando-tuplas
+https://www.linkedin.com/learning/c-sharp-interfaces-delegados-eventos-y-genericos-esencial
 
 - REACT/AWS
 - https://www.linkedin.com/learning/creating-a-serverless-application-using-react-in-aws/2392677
@@ -616,4 +619,4 @@ CREATED: react,aws;en;02:47:00;2021;4.88;https://www.linkedin.com/learning/creat
 
 
 
->>nnncreate>>csharp;es;01:52:00;2022;4.5;https://www.linkedin.com/learning/c-sharp-avanzado-2; C# avanzado 2;Noemí León, a good overview of C# to get back into it
+CREATED: csharp;es;01:52:00;2022;4.5;https://www.linkedin.com/learning/c-sharp-avanzado-2; C# avanzado 2;Noemí León, a good overview of C# to get back into it
