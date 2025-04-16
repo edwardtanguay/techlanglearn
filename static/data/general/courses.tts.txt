@@ -1,15 +1,33 @@
 =======================================================
 
-C#
+=== C#
 https://www.linkedin.com/learning/c-sharp-avanzado-1/expresiones-lambda-usando-tuplas
 https://www.linkedin.com/learning/c-sharp-interfaces-delegados-eventos-y-genericos-esencial
 
-Ruby
+=== Ruby
 - ES: https://github.com/edwardtanguay/test-ruby-scripts
 - ES: https://github.com/edwardtanguay/test-ruby-scripts
 
-Elixir
+=== Elixir
 - EN-2022: https://www.linkedin.com/learning/elixir-101-essential-functional-programming-techniques
+
+=== Bash
+bash, linux;sp; 2022;4.78;https://www.linkedin.com/learning/aprende-shell-scripting-en-linux
+bash; de; 2024; 4.3; https://www.linkedin.com/learning/bash-shell-scripting-lernen
+bash; de; 2023; 4.2; https://www.linkedin.com/learning/bash-shell-scripting-fur-fortgeschrittene-variablen-funktionen-und-prozessmanagement
+bash; fr; 2017; 3.7; https://www.linkedin.com/learning/decouvrir-l-ecriture-de-scripts-en-bash
+- https://www.linkedin.com/learning/bash-shell-scripting-lernen/willkommen-zu-shell-programmierung-lernen
+- https://www.linkedin.com/learning/bash-shell-scripting-fur-fortgeschrittene-variablen-funktionen-und-prozessmanagement/einstieg-in-die-fortgeschrittene-shell-programmierung
+- https://www.linkedin.com/learning/shells-und-shell-skripte-in-linux-lpic-1-102/der-read-befehl
+
+=== PHP
+ES-2022: https://www.linkedin.com/learning/php-avanzado-19675676
+
+=== Rust
+ES-2024: https://www.linkedin.com/learning/rust-esencial-24011472
+
+=== Haskell
+EN-2025: https://www.youtube.com/watch?v=qThX0aoW9YI&list=PLF1Z-APd9zK7usPMx3LGMZEHrECUGodd3&index=1
 
 - REACT/AWS
 - https://www.linkedin.com/learning/creating-a-serverless-application-using-react-in-aws/2392677
@@ -285,10 +303,6 @@ accessibility; en; 2024; https://www.linkedin.com/learning/web-accessibility-for
 - https://www.linkedin.com/learning/web-apis-mit-asp-dot-net-core-8/controller-mit-der-dot-net-cli-anlegen?resume=false
 - french vba
 - https://www.linkedin.com/learning/excel-le-vba-avance/creer-une-feuille?resume=false
-- bash shell
-- https://www.linkedin.com/learning/bash-shell-scripting-lernen/willkommen-zu-shell-programmierung-lernen
-- https://www.linkedin.com/learning/bash-shell-scripting-fur-fortgeschrittene-variablen-funktionen-und-prozessmanagement/einstieg-in-die-fortgeschrittene-shell-programmierung
-- https://www.linkedin.com/learning/shells-und-shell-skripte-in-linux-lpic-1-102/der-read-befehl
 - Java
 - webpack 5
 - Perl: https://www.linkedin.com/learning/perl-5-essential-training/welcome
@@ -367,7 +381,6 @@ go, cobra; en; 4.92;https://www.youtube.com/watch?v=yiFhQGJeRJk
 
 jwt;fastapi: https://www.youtube.com/watch?v=0A_GCXBCNUQ
 
-bash, linux;sp; 2022;4.78;https://www.linkedin.com/learning/aprende-shell-scripting-en-linux
 rust; sp; 2024;3.8; https://www.linkedin.com/learning/rust-avanzado-24014033
 rust; sp; 2024;4.1; https://www.linkedin.com/learning/rust-esencial-24011472
 typescript;sp;2024;4.6; https://www.linkedin.com/learning/domina-typescript
@@ -379,14 +392,11 @@ docker;sp;2022;3.68;https://www.linkedin.com/learning/despliegue-de-mysql-con-do
 webassembly; de; 2024; 4.2; https://www.linkedin.com/learning/webassembly-grundlagen
 ansible; de; 2023; 4.1; https://www.linkedin.com/learning/ansible-grundkurs
 terraform; de; 2021;3.6; https://www.linkedin.com/learning/terraform-lernen
-bash; de; 2024; 4.3; https://www.linkedin.com/learning/bash-shell-scripting-lernen
-bash; de; 2023; 4.2; https://www.linkedin.com/learning/bash-shell-scripting-fur-fortgeschrittene-variablen-funktionen-und-prozessmanagement
 typescript; de;2023; 4.5; https://www.linkedin.com/learning/code-challenges-fur-typescript
 hooks; de; 2021; 4.2; https://www.linkedin.com/learning/react-hooks-grundkurs
 python, flask; fr; 2024; 4.5; https://www.linkedin.com/learning/l-essentiel-de-flask/bienvenue-dans-l-essentiel-de-flask
 ansible; fr; 2020; 4.1; https://www.linkedin.com/learning/l-essentiel-d-ansible/installer-ansible
 linux; fr; 2024; 3.9; https://www.linkedin.com/learning/linux-l-administration-avancee
-bash; fr; 2017; 3.7; https://www.linkedin.com/learning/decouvrir-l-ecriture-de-scripts-en-bash
 flexbox; fr; 2024; 4.3; https://www.linkedin.com/learning/css-maitriser-les-flexbox
 grid, flexbox; fr; 2022; 4.4; https://www.linkedin.com/learning/la-mise-en-page-css-combiner-les-flex-et-les-grids
 
