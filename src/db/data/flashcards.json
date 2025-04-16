@@ -2570,6 +2570,76 @@
 	},
 	{
 		"language": "es",
+		"front": "saving lines of code",
+		"back": "el ahorro en líneas de código",
+		"whenCreated": "2025-04-15 13:45:30",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "this means that",
+		"back": "esto quiere decir que",
+		"whenCreated": "2025-04-15 13:41:35",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "will be delayed until its value is required",
+		"back": "se va a retrasar hasta que su valor sea requerido",
+		"whenCreated": "2025-04-15 13:40:55",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "our data source",
+		"back": "nuestra fuente de datos",
+		"whenCreated": "2025-04-15 13:38:53",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "an extremely reduced manner",
+		"back": "una manera sumamente reducida",
+		"whenCreated": "2025-04-15 13:31:52",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "I check if the length is greater than six",
+		"back": "reviso si la longitud es mayor que seis",
+		"whenCreated": "2025-04-15 13:30:54",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "what did I do",
+		"back": "qué fue lo que hice",
+		"whenCreated": "2025-04-15 13:29:58",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "with a \"for\" loop",
+		"back": "con un ciclo \"for\"",
+		"whenCreated": "2025-04-15 13:26:10",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "to be able to know more about",
+		"back": "para poder conocer más acerca de",
+		"whenCreated": "2025-04-15 12:37:19",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "through practices and exercises",
+		"back": "por medio de practicas y ejercicios",
+		"whenCreated": "2025-04-15 12:29:36",
+		"extras": ""
+	},
+	{
+		"language": "es",
 		"front": "nowadays",
 		"back": "hoy en día",
 		"whenCreated": "2025-04-15 11:58:19",
