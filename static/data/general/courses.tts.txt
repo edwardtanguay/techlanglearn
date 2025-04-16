@@ -1,12 +1,22 @@
 =======================================================
 
+=== Go
+=== Python
+=== PHP
+https://www.linkedin.com/learning/php-la-programmation-orientee-objet
+
 === C#
 https://www.linkedin.com/learning/c-sharp-avanzado-1/expresiones-lambda-usando-tuplas
 https://www.linkedin.com/learning/c-sharp-interfaces-delegados-eventos-y-genericos-esencial
 
+== Typescript
+https://www.linkedin.com/learning/typescript-avanzado/generacion-y-declaracion-de-tipos-de-datos?resume=false
+https://www.linkedin.com/learning/typescript-trucos
+FR-2025 https://www.linkedin.com/learning/l-essentiel-de-typescript
+
 === Ruby
-- ES: https://github.com/edwardtanguay/test-ruby-scripts
-- ES: https://github.com/edwardtanguay/test-ruby-scripts
+ES-2024: https://www.linkedin.com/learning/domina-ruby-strings-arrays-y-hashes
+ES-2024: https://www.linkedin.com/learning/domina-ruby-scripting-archivos-clases-modulos-y-metodos
 
 === Elixir
 - EN-2022: https://www.linkedin.com/learning/elixir-101-essential-functional-programming-techniques
@@ -20,14 +30,18 @@ bash; fr; 2017; 3.7; https://www.linkedin.com/learning/decouvrir-l-ecriture-de-s
 - https://www.linkedin.com/learning/bash-shell-scripting-fur-fortgeschrittene-variablen-funktionen-und-prozessmanagement/einstieg-in-die-fortgeschrittene-shell-programmierung
 - https://www.linkedin.com/learning/shells-und-shell-skripte-in-linux-lpic-1-102/der-read-befehl
 
-=== PHP
-ES-2022: https://www.linkedin.com/learning/php-avanzado-19675676
+
 
 === Rust
 ES-2024: https://www.linkedin.com/learning/rust-esencial-24011472
 
 === Haskell
 EN-2025: https://www.youtube.com/watch?v=qThX0aoW9YI&list=PLF1Z-APd9zK7usPMx3LGMZEHrECUGodd3&index=1
+
+
+
+
+
 
 - REACT/AWS
 - https://www.linkedin.com/learning/creating-a-serverless-application-using-react-in-aws/2392677
@@ -44,6 +58,12 @@ EN-2025: https://www.youtube.com/watch?v=qThX0aoW9YI&list=PLF1Z-APd9zK7usPMx3LGM
 - prisma/next.js: https://www.youtube.com/watch?v=QXxy8Uv1LnQ
 - authentication: https://www.youtube.com/watch?v=bwRj1O30JWg
 
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
@@ -637,3 +657,4 @@ CREATED: react,aws;en;02:47:00;2021;4.88;https://www.linkedin.com/learning/creat
 
 
 CREATED: csharp;es;01:52:00;2022;4.5;https://www.linkedin.com/learning/c-sharp-avanzado-2; C# avanzado 2;Noemí León, a good overview of C# to get back into it
+CREATED: php;es;01:44:00;2022;4.8;https://www.linkedin.com/learning/php-avanzado-19675676; PHP avanzado ;Gabriela García, nice voice

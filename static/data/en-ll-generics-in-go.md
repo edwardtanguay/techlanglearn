@@ -4,7 +4,7 @@ https://www.linkedin.com/learning/generics-in-go/function-argument-type-inferenc
 
 - duration: 00:42:00
 - language: en
-- topics: go
+- topics: go,dpod
 - rank: 4.87
 - description: teacher is a bit difficult to understand but a shorter course and good overview of generics
 - year: 2023

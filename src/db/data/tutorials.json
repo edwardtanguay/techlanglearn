@@ -286,7 +286,7 @@
 		"status": ""
 	},
 	{
-		"topics": "go",
+		"topics": "go,dpod",
 		"language": "en",
 		"duration": "00:42:00",
 		"year": "2023",
@@ -598,7 +598,7 @@
 		"status": ""
 	},
 	{
-		"topics": "python",
+		"topics": "python,dpod",
 		"language": "en",
 		"duration": "01:55:00",
 		"year": "2023",
@@ -975,7 +975,7 @@
 		"status": "2 minutes of 18"
 	},
 	{
-		"topics": "csharp",
+		"topics": "csharp,dpod",
 		"language": "es",
 		"duration": "01:52:00",
 		"year": "2022",
@@ -1154,6 +1154,19 @@
 		"description": "Rodrigo Días Concha, OpenAI with Python, he had the same course in English",
 		"platform": "linkedInLearning",
 		"fileIdCode": "es-ll-openai-para-desarrollo-esencial",
+		"status": ""
+	},
+	{
+		"topics": "php,dpod",
+		"language": "es",
+		"duration": "01:44:00",
+		"year": "2022",
+		"rank": "4.8",
+		"url": "https://www.linkedin.com/learning/php-avanzado-19675676",
+		"title": "PHP avanzado",
+		"description": "Gabriela García, nice voice",
+		"platform": "linkedInLearning",
+		"fileIdCode": "es-ll-php-avanzado",
 		"status": ""
 	},
 	{

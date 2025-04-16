@@ -4852,6 +4852,55 @@
 	},
 	{
 		"language": "es",
+		"front": "let's keep watching",
+		"back": "sigamos viendo",
+		"whenCreated": "2025-04-16 16:51:33",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "likewise, we can use characters",
+		"back": "asimismo, podemos utilizar caracteres",
+		"whenCreated": "2025-04-16 16:43:26",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "the timestamp",
+		"back": "la marca de tiempo",
+		"whenCreated": "2025-04-16 16:42:02",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "if we leave it blank",
+		"back": "si la dejamos en blanco",
+		"whenCreated": "2025-04-16 16:36:47",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "displays the timestamp",
+		"back": "muestra la marca de tiempo",
+		"whenCreated": "2025-04-16 16:10:32",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "when we request data",
+		"back": "cuando solicitamos datos",
+		"whenCreated": "2025-04-16 16:09:42",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "to level up",
+		"back": "para subir de nivel",
+		"whenCreated": "2025-04-16 16:05:52",
+		"extras": ""
+	},
+	{
+		"language": "es",
 		"front": "what happened here is",
 		"back": "lo que sucedió aqui es",
 		"whenCreated": "2025-01-22 05:01:30",
