@@ -273,6 +273,19 @@
 		"status": ""
 	},
 	{
+		"topics": "elixir,dpod",
+		"language": "en",
+		"duration": "03:04:00",
+		"year": "2022",
+		"rank": "4.99",
+		"url": "https://www.linkedin.com/learning/elixir-101-essential-functional-programming-techniques",
+		"title": "Elixir 101: Essential Functional Programming Techniques",
+		"description": "Vanessa Lee, very long course, all Elixir basics",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-elixir-101-essential-functional-programming-techniques",
+		"status": ""
+	},
+	{
 		"topics": "cypress",
 		"language": "en",
 		"duration": "02:06:00",

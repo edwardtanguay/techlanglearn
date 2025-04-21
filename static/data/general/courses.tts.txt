@@ -13,6 +13,9 @@ x Ruby
 === Elixir
 - EN-2022: https://www.linkedin.com/learning/elixir-101-essential-functional-programming-techniques
 
+
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 
@@ -678,3 +681,4 @@ CREATED: ruby,dpod;es;01:09:00;2024;4.96;https://www.linkedin.com/learning/domin
 CREATED: ruby,dpod;es;00:38:00;2024;4.93;https://www.linkedin.com/learning/domina-ruby-scripting-archivos-clases-modulos-y-metodos;  Domina Ruby: Scripting, archivos, clases, módulos y métodos ;Carla Urrea Stabile, nice voice, Spanish, more good basics plus for Ruby
 CREATED: ruby,dpod;en;04:02:05;2018;4.89;https://youtu.be/t_ispmWmdjY?list=PL_EzhIKp343lBMH4UuklrMRL_WkilGoXe&t=10;Ruby Programming Language - Full Course;Mike at Free Code Camp, speaks cleanly so subtitles can be displayed in other languages, four hour thorough overview of Ruby
 CREATED: ruby,dpod;en;04:02:05;2018;4.89;https://www.youtube.com/watch?v=t_ispmWmdjY&list=PL_EzhIKp343lBMH4UuklrMRL_WkilGoXe;Ruby Programming Language - Full Course;Mike at Free Code Camp, speaks cleanly so subtitles can be displayed in other languages, four hour thorough overview of Ruby
+CREATED: elixir,dpod;en;03:04:00;2022;4.99;https://www.linkedin.com/learning/elixir-101-essential-functional-programming-techniques; Elixir 101: Essential Functional Programming Techniques ; Vanessa Lee, very long course, all Elixir basics
