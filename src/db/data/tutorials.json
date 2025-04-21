@@ -52,7 +52,7 @@
 		"status": ""
 	},
 	{
-		"topics": "python",
+		"topics": "python,dpod",
 		"language": "en",
 		"duration": "02:05:00",
 		"year": "2024",
@@ -598,7 +598,7 @@
 		"status": ""
 	},
 	{
-		"topics": "python",
+		"topics": "python,dpod",
 		"language": "en",
 		"duration": "02:12:00",
 		"year": "2021",
@@ -1170,6 +1170,19 @@
 		"status": ""
 	},
 	{
+		"topics": "python,dpod",
+		"language": "es",
+		"duration": "01:23:00",
+		"year": "2023",
+		"rank": "4.51",
+		"url": "https://www.linkedin.com/learning/domina-python",
+		"title": "Domina Python",
+		"description": "Ana María Pinto, deep concepts, images, etc.",
+		"platform": "linkedInLearning",
+		"fileIdCode": "es-ll-domina-python",
+		"status": ""
+	},
+	{
 		"topics": "typescript, dpod",
 		"language": "es",
 		"duration": "01:45:00",
@@ -1222,7 +1235,7 @@
 		"status": ""
 	},
 	{
-		"topics": "python",
+		"topics": "python,dpod",
 		"language": "es",
 		"duration": "01:44:00",
 		"year": "2023",
@@ -1547,7 +1560,7 @@
 		"status": ""
 	},
 	{
-		"topics": "python",
+		"topics": "python,dpod",
 		"language": "fr",
 		"duration": "02:08:00",
 		"year": "2016",
@@ -1560,7 +1573,7 @@
 		"status": ""
 	},
 	{
-		"topics": "python",
+		"topics": "python,dpod",
 		"language": "fr",
 		"duration": "01:16:00",
 		"year": "2021",

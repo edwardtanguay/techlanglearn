@@ -7,10 +7,8 @@
 === DPOD TECH
 x Typescript
 x Go
+x Python
 
-
-
-=== Python
 === PHP
 https://www.linkedin.com/learning/php-la-programmation-orientee-objet
 
@@ -676,3 +674,4 @@ CREATED: typescript,dpod;es;02:45:00;2021;4.83;https://www.linkedin.com/learning
 CREATED: typescript,rust,go,dpod;en;02:10:00;2025;4.97;https://www.linkedin.com/learning/choosing-the-right-back-end-language-typescript-go-or-rust-for-your-greenfield-project; Choosing the Right Back-End Language: TypeScript, Go, or Rust for Your Greenfield Project ;Nice course to give good background and comparison for each of these three languages, save to tech-quote site
 CREATED: typescript,dpod;es;01:54:00;2024;4.52;https://www.linkedin.com/learning/advanced-typescript-concepts; Advanced TypeScript Concepts ;Maikke van Putten, interesting teacher (Dutch?), advanced topics: e.g. reflection, patterns
 CREATED: typescript,dpod;en;01:03:00;2020;4.4;https://www.linkedin.com/learning/typescript-object-oriented-programming; TypeScript: Object-Oriented Programming ;the basics of OOP in TypeScript, a good overview
+CREATED: python,dpod;es;01:23:00;2023;4.51;https://www.linkedin.com/learning/domina-python;Domina Python;Ana María Pinto, deep concepts, images, etc.
