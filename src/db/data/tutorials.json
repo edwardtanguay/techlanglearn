@@ -728,6 +728,19 @@
 		"status": ""
 	},
 	{
+		"topics": "typescript,dpod",
+		"language": "en",
+		"duration": "01:03:00",
+		"year": "2020",
+		"rank": "4.4",
+		"url": "https://www.linkedin.com/learning/typescript-object-oriented-programming",
+		"title": "TypeScript: Object-Oriented Programming",
+		"description": "the basics of OOP in TypeScript, a good overview",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-typescript-objectoriented-programming",
+		"status": ""
+	},
+	{
 		"topics": "ai",
 		"language": "en",
 		"duration": "02:00:00",
@@ -986,6 +999,19 @@
 		"platform": "youtube",
 		"fileIdCode": "en-yt-use-svelte-5-snippets-to-reuse-markup-without-creating-components",
 		"status": "2 minutes of 18"
+	},
+	{
+		"topics": "typescript,dpod",
+		"language": "es",
+		"duration": "01:54:00",
+		"year": "2024",
+		"rank": "4.52",
+		"url": "https://www.linkedin.com/learning/advanced-typescript-concepts",
+		"title": "Advanced TypeScript Concepts",
+		"description": "Maikke van Putten, interesting teacher (Dutch?), advanced topics: e.g. reflection, patterns",
+		"platform": "linkedInLearning",
+		"fileIdCode": "es-ll-advanced-typescript-concepts",
+		"status": ""
 	},
 	{
 		"topics": "csharp,dpod",
