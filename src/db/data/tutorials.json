@@ -1,5 +1,18 @@
 [
 	{
+		"topics": "bash,dpod",
+		"language": "de",
+		"duration": "03:12:00",
+		"year": "2024",
+		"rank": "4.93",
+		"url": "https://www.linkedin.com/learning/bash-shell-scripting-lernen",
+		"title": "Bash-Shell-Scripting lernen",
+		"description": "Tim Schürmann, nice voice, good examples (renamining files in directory in three lines)",
+		"platform": "linkedInLearning",
+		"fileIdCode": "de-ll-bashshellscripting-lernen",
+		"status": ""
+	},
+	{
 		"topics": "elasticsearch",
 		"language": "de",
 		"duration": "02:20:00",
@@ -1076,6 +1089,19 @@
 		"description": "Maikke van Putten, interesting teacher (Dutch?), advanced topics: e.g. reflection, patterns",
 		"platform": "linkedInLearning",
 		"fileIdCode": "es-ll-advanced-typescript-concepts",
+		"status": ""
+	},
+	{
+		"topics": "bash,dpod",
+		"language": "es",
+		"duration": "02:26:00",
+		"year": "2024",
+		"rank": "4.78",
+		"url": "https://www.linkedin.com/learning/aprende-shell-scripting-en-linux",
+		"title": "Aprende Shell Scripting en Linux",
+		"description": "shell scripting in Spanish, seems like the basics",
+		"platform": "linkedInLearning",
+		"fileIdCode": "es-ll-aprende-shell-scripting-en-linux",
 		"status": ""
 	},
 	{
