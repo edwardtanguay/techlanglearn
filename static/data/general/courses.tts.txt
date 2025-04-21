@@ -10,7 +10,7 @@ x Go
 x Python
 
 === PHP
-https://www.linkedin.com/learning/php-la-programmation-orientee-objet
+
 
 === C#
 https://www.linkedin.com/learning/c-sharp-avanzado-1/expresiones-lambda-usando-tuplas
@@ -675,3 +675,6 @@ CREATED: typescript,rust,go,dpod;en;02:10:00;2025;4.97;https://www.linkedin.com/
 CREATED: typescript,dpod;es;01:54:00;2024;4.52;https://www.linkedin.com/learning/advanced-typescript-concepts; Advanced TypeScript Concepts ;Maikke van Putten, interesting teacher (Dutch?), advanced topics: e.g. reflection, patterns
 CREATED: typescript,dpod;en;01:03:00;2020;4.4;https://www.linkedin.com/learning/typescript-object-oriented-programming; TypeScript: Object-Oriented Programming ;the basics of OOP in TypeScript, a good overview
 CREATED: python,dpod;es;01:23:00;2023;4.51;https://www.linkedin.com/learning/domina-python;Domina Python;Ana María Pinto, deep concepts, images, etc.
+CREATED: php,dpod;fr;02:29:00;2023;4.97;https://www.linkedin.com/learning/php-la-programmation-orientee-objet; PHP : La programmation orientée objet ;Laurent N'Daw, long course and good updated basics of classes
+CREATED: php,dpod;fr;01:56:00;2024;4.83;https://www.linkedin.com/learning/php-l-architecture-mvc; PHP : L'architecture MVC ;Laurent N'Daw shorter course, French, but MVC
+CREATED: php, dpod;fr;01:59:00;2024;4.93;https://www.linkedin.com/learning/php-la-programmation-orientee-objet-avec-les-bases-de-donnees; PHP : La programmation orientée objet avec les bases de données ;also Laurent N'Daw, French with OOP and data, good combination, does active record, etc.

@@ -5,7 +5,7 @@ https://www.linkedin.com/learning/php-avanzado-19675676
 - duration: 01:44:00
 - language: es
 - topics: php,dpod
-- rank: 4.8
+- rank: 4.92
 - description: Gabriela García, nice voice
 - year: 2022
 
