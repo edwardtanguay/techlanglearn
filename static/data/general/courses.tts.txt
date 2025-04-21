@@ -6,9 +6,10 @@
 
 === DPOD TECH
 x Typescript
+x Go
 
 
-=== Go
+
 === Python
 === PHP
 https://www.linkedin.com/learning/php-la-programmation-orientee-objet

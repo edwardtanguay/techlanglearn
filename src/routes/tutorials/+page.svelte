@@ -62,7 +62,7 @@
 						>Language</th
 					>
 					<th>Topics</th>
-					<th>Category</th>
+					<!-- <th>Category</th> -->
 					<th>Duration</th>
 					<th>Title</th>
 				</tr>
@@ -74,9 +74,9 @@
 						<td>{tutorial.year === 0 ? '' : tutorial.year}</td>
 						<td>{tutorial.language}</td>
 						<td>{tutorial.topics}</td>
-						<td title={tutorial.category?.description}
+						<!-- <td title={tutorial.category?.description}
 							>{tutorial.category !== null ? tutorial.category.name : ''}</td
-						>
+						> -->
 						<td>{tutorial.duration}</td>
 						<td>
 							<p class="flex gap-2">

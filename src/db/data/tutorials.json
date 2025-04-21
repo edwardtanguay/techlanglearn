@@ -338,11 +338,11 @@
 		"status": ""
 	},
 	{
-		"topics": "go",
+		"topics": "go,dpod",
 		"language": "en",
 		"duration": "01:25:00",
 		"year": "2021",
-		"rank": "4.96",
+		"rank": "4.987",
 		"url": "https://www.linkedin.com/learning/go-design-patterns",
 		"title": "Go Design Patterns",
 		"description": "Joe Marini, quality course, all the patterns from OOP",
@@ -351,7 +351,7 @@
 		"status": ""
 	},
 	{
-		"topics": "go",
+		"topics": "go,dpod",
 		"language": "en",
 		"duration": "04:36:00",
 		"year": "2024",
@@ -390,7 +390,7 @@
 		"status": ""
 	},
 	{
-		"topics": "go, grpc",
+		"topics": "go, grpc,  dpod",
 		"language": "en",
 		"duration": "01:09:00",
 		"year": "2023",
@@ -507,7 +507,7 @@
 		"status": "watched first 2 videos, fringe and no-code but interesting"
 	},
 	{
-		"topics": "go",
+		"topics": "go,dpod",
 		"language": "en",
 		"duration": "01:36:00",
 		"year": "2022",
@@ -754,7 +754,7 @@
 		"status": "started"
 	},
 	{
-		"topics": "go",
+		"topics": "go,dpod",
 		"language": "en",
 		"duration": "00:47:00",
 		"year": "2024",

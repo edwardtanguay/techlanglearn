@@ -4,7 +4,7 @@ https://www.linkedin.com/learning/go-for-developers-practical-techniques-for-eff
 
 - duration: 04:36:00
 - language: en
-- topics: go
+- topics: go,dpod
 - rank: 4.85
 - description: a basic course but long and comprehensive, just listen and take notes over a month or so
 - year: 2024
