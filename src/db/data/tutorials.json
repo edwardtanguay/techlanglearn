@@ -975,6 +975,19 @@
 		"status": "finished"
 	},
 	{
+		"topics": "ruby,dpod",
+		"language": "en",
+		"duration": "04:02:05",
+		"year": "2018",
+		"rank": "4.89",
+		"url": "https://www.youtube.com/watch?v=t_ispmWmdjY\u0026list=PL_EzhIKp343lBMH4UuklrMRL_WkilGoXe",
+		"title": "Ruby Programming Language - Full Course",
+		"description": "Mike at Free Code Camp, speaks cleanly so subtitles can be displayed in other languages, four hour thorough overview of Ruby",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-ruby-programming-language-full-course",
+		"status": ""
+	},
+	{
 		"topics": "skeleton, svelte",
 		"language": "en",
 		"duration": "00:16:12",
