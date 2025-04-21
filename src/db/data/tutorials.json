@@ -2,6 +2,19 @@
 	{
 		"topics": "bash,dpod",
 		"language": "de",
+		"duration": "02:58:00",
+		"year": "2024",
+		"rank": "4.93",
+		"url": "https://www.linkedin.com/learning/bash-shell-scripting-fur-fortgeschrittene-variablen-funktionen-und-prozessmanagement",
+		"title": "Bash-Shell-Scripting für Fortgeschrittene: Variablen, Funktionen und Prozessmanagement",
+		"description": "the advanced course by Tim, nice voice, solid concepts and examples",
+		"platform": "linkedInLearning",
+		"fileIdCode": "de-ll-bashshellscripting-fr-fortgeschrittene-variablen-funktionen-und-prozessmanagement",
+		"status": ""
+	},
+	{
+		"topics": "bash,dpod",
+		"language": "de",
 		"duration": "03:12:00",
 		"year": "2024",
 		"rank": "4.93",
@@ -88,6 +101,19 @@
 		"description": "Uses Next.js and v0, nice, no Italian subtitles so will do Dutch, Sep 2024 so recent",
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-ai-for-react-developers",
+		"status": ""
+	},
+	{
+		"topics": "bash,dpod,awk",
+		"language": "en",
+		"duration": "02:01:00",
+		"year": "2022",
+		"rank": "4.97",
+		"url": "https://www.linkedin.com/learning/awk-essential-training",
+		"title": "AWK Essential Training",
+		"description": "good, solid, long course on AWK",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-awk-essential-training",
 		"status": ""
 	},
 	{
@@ -962,6 +988,19 @@
 		"status": ""
 	},
 	{
+		"topics": "bash,dpod,sed",
+		"language": "en",
+		"duration": "00:15:24",
+		"year": "2022",
+		"rank": "4.94",
+		"url": "https://www.youtube.com/watch?v=nXLnx8ncZyE",
+		"title": "Linux Crash Course - The sed Command",
+		"description": "basic short video on SED basics",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-linux-crash-course-the-sed-command",
+		"status": ""
+	},
+	{
 		"topics": "python",
 		"language": "en",
 		"duration": "00:09:04",
@@ -1557,6 +1596,19 @@
 		"description": "good French course for Python AI libraries, Madjid Khichane",
 		"platform": "linkedInLearning",
 		"fileIdCode": "fr-ll-crer-des-agents-ia-avec-langchain-et-llamaindex",
+		"status": ""
+	},
+	{
+		"topics": "bash,dpod",
+		"language": "fr",
+		"duration": "01:42:00",
+		"year": "2017",
+		"rank": "4.88",
+		"url": "https://www.linkedin.com/learning/decouvrir-l-ecriture-de-scripts-en-bash",
+		"title": "Découvrir l'écriture de scripts en Bash",
+		"description": "Rudi Bruchez for old times sake, basic course on bash scripting",
+		"platform": "linkedInLearning",
+		"fileIdCode": "fr-ll-dcouvrir-lcriture-de-scripts-en-bash",
 		"status": ""
 	},
 	{

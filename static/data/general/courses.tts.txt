@@ -9,6 +9,7 @@ x C#
 x PHP
 x Ruby
 x Elixir
+x Bash
 
 
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
@@ -16,20 +17,6 @@ x Elixir
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
-
->>nnncreate>>bash,dpod;de;01:00:00;2024;4.93;URL;TITLE;DESC
->>nnncreate>>bash,dpod;de;01:00:00;2024;4.93;URL;TITLE;DESC
->>nnncreate>>bash,dpod;de;01:00:00;2024;4.93;URL;TITLE;DESC
->>nnncreate>>bash,dpod;de;01:00:00;2024;4.93;URL;TITLE;DESC
->>nnncreate>>bash,dpod;de;01:00:00;2024;4.93;URL;TITLE;DESC
-
-
-
-=== Bash
-bash; de; 2024; 4.3; https://www.linkedin.com/learning/bash-shell-scripting-lernen
-bash; de; 2023; 4.2; https://www.linkedin.com/learning/bash-shell-scripting-fur-fortgeschrittene-variablen-funktionen-und-prozessmanagement
-bash; fr; 2017; 3.7; https://www.linkedin.com/learning/decouvrir-l-ecriture-de-scripts-en-bash
-- https://www.linkedin.com/learning/shells-und-shell-skripte-in-linux-lpic-1-102
 
 === Rust
 ES-2024: https://www.linkedin.com/learning/rust-esencial-24011472
@@ -38,6 +25,10 @@ FR-2022: https://www.linkedin.com/learning/decouvrir-rust
 === Kotlin
 ES-2022: https://www.linkedin.com/learning/kotlin-esencial
 ES-2022: https://www.linkedin.com/learning/kotlin-avanzado-2
+
+
+
+
 =============================================================
 
 fr, angular: https://www.linkedin.com/learning/angular-gerer-les-etats-d-application-avec-redux-et-ngrx
@@ -687,3 +678,7 @@ CREATED: ruby,dpod;en;04:02:05;2018;4.89;https://www.youtube.com/watch?v=t_ispmW
 CREATED: elixir,dpod;en;03:04:00;2022;4.99;https://www.linkedin.com/learning/elixir-101-essential-functional-programming-techniques; Elixir 101: Essential Functional Programming Techniques ; Vanessa Lee, very long course, all Elixir basics
 CREATED: bash,dpod;es;02:26:00;2024;4.78;https://www.linkedin.com/learning/aprende-shell-scripting-en-linux; Aprende Shell Scripting en Linux ;shell scripting in Spanish, seems like the basics
 CREATED: bash,dpod;de;03:12:00;2024;4.93;https://www.linkedin.com/learning/bash-shell-scripting-lernen; Bash-Shell-Scripting lernen ;Tim Schürmann, nice voice, good examples (renamining files in directory in three lines)
+CREATED: bash,dpod;de;02:58:00;2024;4.93;https://www.linkedin.com/learning/bash-shell-scripting-fur-fortgeschrittene-variablen-funktionen-und-prozessmanagement; Bash-Shell-Scripting für Fortgeschrittene: Variablen, Funktionen und Prozessmanagement ;the advanced course by Tim, nice voice, solid concepts and examples
+CREATED: bash,dpod;fr;01:42:00;2017;4.88;https://www.linkedin.com/learning/decouvrir-l-ecriture-de-scripts-en-bash; Découvrir l'écriture de scripts en Bash ;Rudi Bruchez for old times sake, basic course on bash scripting
+CREATED: bash,dpod,awk;en;02:01:00;2022;4.97;https://www.linkedin.com/learning/awk-essential-training; AWK Essential Training ;good, solid, long course on AWK
+CREATED: bash,dpod,sed;en;00:15:24;2022;4.94;https://www.youtube.com/watch?v=nXLnx8ncZyE; Linux Crash Course - The sed Command ;basic short video on SED basics
