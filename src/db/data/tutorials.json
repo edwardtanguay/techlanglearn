@@ -156,6 +156,19 @@
 		"status": "not yet started"
 	},
 	{
+		"topics": "typescript,rust,go,dpod",
+		"language": "en",
+		"duration": "02:10:00",
+		"year": "2025",
+		"rank": "4.97",
+		"url": "https://www.linkedin.com/learning/choosing-the-right-back-end-language-typescript-go-or-rust-for-your-greenfield-project",
+		"title": "Choosing the Right Back-End Language: TypeScript, Go, or Rust for Your Greenfield Project",
+		"description": "Nice course to give good background and comparison for each of these three languages, save to tech-quote site",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-choosing-the-right-backend-language-typescript-go-or-rust-for-your-greenfield-project",
+		"status": ""
+	},
+	{
 		"topics": "gitlab",
 		"language": "en",
 		"duration": "01:27:00",
@@ -1131,6 +1144,19 @@
 		"status": ""
 	},
 	{
+		"topics": "typescript, dpod",
+		"language": "es",
+		"duration": "01:45:00",
+		"year": "2020",
+		"rank": "4.73",
+		"url": "https://www.linkedin.com/learning/typescript-trucos",
+		"title": "Generación dinámica de tipos de datos",
+		"description": "Sergio, long course, Spanish, a good overview course and some depth",
+		"platform": "linkedInLearning",
+		"fileIdCode": "es-ll-generacin-dinmica-de-tipos-de-datos",
+		"status": ""
+	},
+	{
 		"topics": "gitlab",
 		"language": "es",
 		"duration": "03:11:00",
@@ -1246,6 +1272,19 @@
 		"platform": "linkedInLearning",
 		"fileIdCode": "es-ll-trucos-semanales-para-usuarios-de-android",
 		"status": "not yet started"
+	},
+	{
+		"topics": "typescript,dpod",
+		"language": "es",
+		"duration": "02:45:00",
+		"year": "2021",
+		"rank": "4.83",
+		"url": "https://www.linkedin.com/learning/typescript-avanzado",
+		"title": "TypeScript avanzado",
+		"description": "Sergio, extra topics like NPM package, etc. good course and Spanish",
+		"platform": "linkedInLearning",
+		"fileIdCode": "es-ll-typescript-avanzado",
+		"status": ""
 	},
 	{
 		"topics": "mux",
@@ -1401,6 +1440,19 @@
 		"description": "Scala in French, new course",
 		"platform": "linkedInLearning",
 		"fileIdCode": "fr-ll-lessentiel-de-scala",
+		"status": ""
+	},
+	{
+		"topics": "typescript,dpod",
+		"language": "fr",
+		"duration": "02:21:00",
+		"year": "2025",
+		"rank": "4.8",
+		"url": "https://www.linkedin.com/learning/l-essentiel-de-typescript",
+		"title": "L'essentiel de TypeScript",
+		"description": "French, very new, essentials but goes into advanced topics",
+		"platform": "linkedInLearning",
+		"fileIdCode": "fr-ll-lessentiel-de-typescript",
 		"status": ""
 	},
 	{
