@@ -4,7 +4,7 @@ https://www.linkedin.com/learning/advanced-python-working-with-data
 
 - duration: 02:05:00
 - language: en
-- topics: python
+- topics: python,dpod
 - rank: 4.89
 - description: Joe Marini, watch quickly but all about data serialization, etc.
 - year: 2024

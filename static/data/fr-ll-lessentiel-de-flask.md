@@ -4,7 +4,7 @@ https://www.linkedin.com/learning/l-essentiel-de-flask/bienvenue-dans-l-essentie
 
 - duration: 02:21:00
 - language: fr
-- topics: flash,python
+- topics: flask,python
 - rank: 4.99
 - description: Sylvain Labasse 2024, full course on Flash, very nice, uses both VSCode and PyCharm side-by-side
 - year: 2024

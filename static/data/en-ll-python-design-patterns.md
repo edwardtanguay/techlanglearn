@@ -4,7 +4,7 @@ https://www.linkedin.com/learning/python-design-patterns-14304845
 
 - duration: 02:12:00
 - language: en
-- topics: python
+- topics: python,dpod
 - rank: 4.91
 - description: Jungwoo Ryoo, good course, explains concept of pattern first then an example
 - year: 2021

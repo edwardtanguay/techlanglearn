@@ -4,7 +4,7 @@ https://www.linkedin.com/learning/python-avanzado-2/mejora-con-python-19000119
 
 - duration: 01:44:00
 - language: es
-- topics: python
+- topics: python,dpod
 - rank: 4.91
 - description: another course by Ana María, she goes over classes, type hinting, mypy, closures, decorators, async, tests and SQLAlchemy
 - year: 2023
