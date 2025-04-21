@@ -1261,6 +1261,19 @@
 		"status": "not started yet"
 	},
 	{
+		"topics": "angular,ngrx,redux",
+		"language": "fr",
+		"duration": "01:58:00",
+		"year": "2021",
+		"rank": "4.51",
+		"url": "https://www.linkedin.com/learning/angular-gerer-les-etats-d-application-avec-redux-et-ngrx",
+		"title": "Angular : Gérer les états d'application avec Redux et NgRx",
+		"description": "Elise Patrikainen, nice voice, nice advanced Angular course but 2021, but should work with newer versions",
+		"platform": "linkedInLearning",
+		"fileIdCode": "fr-ll-angular-grer-les-tats-dapplication-avec-redux-et-ngrx",
+		"status": ""
+	},
+	{
 		"topics": "python, ai",
 		"language": "fr",
 		"duration": "02:00:00",
