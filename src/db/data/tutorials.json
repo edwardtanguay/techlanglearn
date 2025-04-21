@@ -1261,6 +1261,32 @@
 		"status": ""
 	},
 	{
+		"topics": "ruby,dpod",
+		"language": "es",
+		"duration": "00:38:00",
+		"year": "2024",
+		"rank": "4.93",
+		"url": "https://www.linkedin.com/learning/domina-ruby-scripting-archivos-clases-modulos-y-metodos",
+		"title": "Domina Ruby: Scripting, archivos, clases, módulos y métodos",
+		"description": "Carla Urrea Stabile, nice voice, Spanish, more good basics plus for Ruby",
+		"platform": "linkedInLearning",
+		"fileIdCode": "es-ll-domina-ruby-scripting-archivos-clases-mdulos-y-mtodos",
+		"status": ""
+	},
+	{
+		"topics": "ruby,dpod",
+		"language": "es",
+		"duration": "01:09:00",
+		"year": "2024",
+		"rank": "4.96",
+		"url": "https://www.linkedin.com/learning/domina-ruby-strings-arrays-y-hashes",
+		"title": "Domina Ruby: Strings, Arrays y Hashes",
+		"description": "Carla Urrea Stabile, nice voice, Spanish, good basics plus for Ruby",
+		"platform": "linkedInLearning",
+		"fileIdCode": "es-ll-domina-ruby-strings-arrays-y-hashes",
+		"status": ""
+	},
+	{
 		"topics": "typescript, dpod",
 		"language": "es",
 		"duration": "01:45:00",

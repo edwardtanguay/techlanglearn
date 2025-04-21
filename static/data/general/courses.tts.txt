@@ -7,18 +7,16 @@ x Go
 x Python
 x C#
 x PHP
+x Ruby
 
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 
-=== Ruby
-ES-2024: https://www.linkedin.com/learning/domina-ruby-strings-arrays-y-hashes
-ES-2024: https://www.linkedin.com/learning/domina-ruby-scripting-archivos-clases-modulos-y-metodos
+>>create>>ruby,dpod;en;04:02:05;2018;4.89;https://youtu.be/t_ispmWmdjY?list=PL_EzhIKp343lBMH4UuklrMRL_WkilGoXe&t=10;Ruby Programming Language - Full Course;Mike at Free Code Camp, speaks cleanly so subtitles can be displayed in other languages, four hour thorough overview of Ruby
 
 === Elixir
 - EN-2022: https://www.linkedin.com/learning/elixir-101-essential-functional-programming-techniques
+
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 
 === Bash
 bash, linux;sp; 2022;4.78;https://www.linkedin.com/learning/aprende-shell-scripting-en-linux
@@ -678,3 +676,6 @@ CREATED: csharp,dpod;fr;00:48:00;2022;4.96;https://www.linkedin.com/learning/10-
 CREATED: csharp,python,dpod;en;02:15:00;2025;4.21;https://www.linkedin.com/learning/transition-from-c-sharp-to-python; Transition from C# to Python ;Joe Marini, unique class
 CREATED: csharp,dpod;en;02:31:00;2024;4.94;https://www.linkedin.com/learning/nail-your-c-sharp-interview; Nail Your C# Interview ;Kathyrn Hodge, a bit forced, but good concepts, e.g. using TryDequeue in a while loop
 CREATED: csharp,dpod;en;01:56:00;2025;4.93;https://www.linkedin.com/learning/c-sharp-hands-on-practice-with-data-structures; C# Hands-on Practice with Data-Structures ;DESC
+CREATED: ruby,dpod;es;01:09:00;2024;4.96;https://www.linkedin.com/learning/domina-ruby-strings-arrays-y-hashes; Domina Ruby: Strings, Arrays y Hashes ;Carla Urrea Stabile, nice voice, Spanish, good basics plus for Ruby
+CREATED: ruby,dpod;es;00:38:00;2024;4.93;https://www.linkedin.com/learning/domina-ruby-scripting-archivos-clases-modulos-y-metodos;  Domina Ruby: Scripting, archivos, clases, módulos y métodos ;Carla Urrea Stabile, nice voice, Spanish, more good basics plus for Ruby
+CREATED: ruby,dpod;en;04:02:05;2018;4.89;https://youtu.be/t_ispmWmdjY?list=PL_EzhIKp343lBMH4UuklrMRL_WkilGoXe&t=10;Ruby Programming Language - Full Course;Mike at Free Code Camp, speaks cleanly so subtitles can be displayed in other languages, four hour thorough overview of Ruby
