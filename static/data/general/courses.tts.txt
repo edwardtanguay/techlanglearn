@@ -10,23 +10,13 @@ x PHP
 x Ruby
 x Elixir
 x Bash
+x Rust
+x Kotlin
 
 
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
-
-=== Rust
-ES-2024: https://www.linkedin.com/learning/rust-esencial-24011472
-FR-2022: https://www.linkedin.com/learning/decouvrir-rust
-
-=== Kotlin
-ES-2022: https://www.linkedin.com/learning/kotlin-esencial
-ES-2022: https://www.linkedin.com/learning/kotlin-avanzado-2
-
-
 
 
 =============================================================
@@ -682,3 +672,17 @@ CREATED: bash,dpod;de;02:58:00;2024;4.93;https://www.linkedin.com/learning/bash-
 CREATED: bash,dpod;fr;01:42:00;2017;4.88;https://www.linkedin.com/learning/decouvrir-l-ecriture-de-scripts-en-bash; Découvrir l'écriture de scripts en Bash ;Rudi Bruchez for old times sake, basic course on bash scripting
 CREATED: bash,dpod,awk;en;02:01:00;2022;4.97;https://www.linkedin.com/learning/awk-essential-training; AWK Essential Training ;good, solid, long course on AWK
 CREATED: bash,dpod,sed;en;00:15:24;2022;4.94;https://www.youtube.com/watch?v=nXLnx8ncZyE; Linux Crash Course - The sed Command ;basic short video on SED basics
+CREATED: rust,dpod;es;02:26:00;2024;4.95;https://www.linkedin.com/learning/rust-esencial-24011472; Rust Esencial ;solid Rust course in Spanish, Eliezer López, nice voice, professional
+CREATED: rust,dpod;fr;01:59:00;2022;4.93;https://www.linkedin.com/learning/decouvrir-rust; Découvrir Rust ;solid course on Rust in French, Benjamin Coenen, nice voice
+CREATED: rust,dpod,javascript;en;01:17:00;2023;4.92;https://www.linkedin.com/learning/rust-for-javascript-developers; Rust for JavaScript Developers ;nice comparison course, showing Rust from a JavaScript perspective
+CREATED: rust,dpod,leptos;es;01:21:00;2022;4.78;https://www.linkedin.com/learning/full-stack-web-applications-with-rust-and-leptos; Full-Stack Web Applications with Rust and Leptos ;Rust in action, will be interesting to get to know Leptos, very practical teacher, simply blogging application, for Hetzner
+CREATED: rust,python,dpod;en;01:32:00;2024;4.98;https://www.linkedin.com/learning/using-rust-with-python; Using Rust with Python ;experienced teacher, "use Rust for what it's best at, and Python for what it's best at, moving them closer together"
+CREATED: rust,dpod;en;06:35:00;2024;4.78;https://www.linkedin.com/learning/rust-programming-from-fundamentals-to-advanced-concepts-with-ai-assisted-development; Rust Programming: From Fundamentals to Advanced Concepts with AI-Assisted Development ;interesting course, six hours, says it uses AI but didn't see how, he compares languages in his explanations, seems experienced
+CREATED: rust,dpod;de;02:26:00;2021;4.89;https://www.linkedin.com/learning/rust-lernen;Rust lernen;Tim Schürmann, very organized and clear
+CREATED: rust,dpod;en;06:47:00;2021;4.91;https://www.linkedin.com/learning/rust-essential-training; Rust Essential Training ;nice, long tour of Rust starting from the basics
+CREATED: rust,dpod;en;01:30:00;2022;4.89;https://www.linkedin.com/learning/practice-it-rust-file-manipulation; Practice It: Rust File Manipulation ;Rust and files, nice focus
+CREATED: kotlin,dpod;es;04:52:00;2022;4.976;https://www.linkedin.com/learning/kotlin-esencial; Kotlin esencial ;María Puy Arrastia Lana, nice voice, long course in Kotlin in Spanish
+CREATED: kotlin,dpod;es;01:52:00;2022;4.576;https://www.linkedin.com/learning/kotlin-avanzado-2; Kotlin avanzado ;María Puy Arrastia Lana, nice voice, advanced course in Kotlin in Spanish
+CREATED: kotlin,dpod;en;02:34:00;2022;4.95;https://www.linkedin.com/learning/transitioning-from-java-to-kotlin; Transitioning from Java to Kotlin ;Nate Ebel, nice comparison course, nice voice
+CREATED: kotlin,dpod;en;02:51:00;2022;4.96;https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code; Kotlin Essential Training: Object-Oriented and Async Code  ;Nate Ebel, nice OOP course on Kotlin, nice voice
+CREATED: kotlin,dpod;en;04:42:00;2022;4.95;https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o; Kotlin Essential Training: Functions, Collections, and I/O ;Nate Ebel, file I/O and other useful topic, nice voice

@@ -4,9 +4,9 @@ https://www.linkedin.com/learning/kotlin-essential-training-functions-collection
 
 - duration: 04:42:00
 - language: en
-- topics: kotlin
-- rank: 4.78
-- description: Good basic course on Kotlin, uses IntelliJ IDEA, community version is free
+- topics: kotlin,dpod
+- rank: 4.95
+- description: Nate Ebel, file I/O and other useful topic, nice voice
 - year: 2022
 
 ## TITLE, TIME, nnn

@@ -65,6 +65,19 @@
 		"status": ""
 	},
 	{
+		"topics": "rust,dpod",
+		"language": "de",
+		"duration": "02:26:00",
+		"year": "2021",
+		"rank": "4.89",
+		"url": "https://www.linkedin.com/learning/rust-lernen",
+		"title": "Rust lernen",
+		"description": "Tim Schürmann, very organized and clear",
+		"platform": "linkedInLearning",
+		"fileIdCode": "de-ll-rust-lernen",
+		"status": ""
+	},
+	{
 		"topics": "pycharm, python",
 		"language": "en",
 		"duration": "02:25:00",
@@ -494,16 +507,29 @@
 		"status": ""
 	},
 	{
-		"topics": "kotlin",
+		"topics": "kotlin,dpod",
 		"language": "en",
 		"duration": "04:42:00",
 		"year": "2022",
-		"rank": "4.78",
+		"rank": "4.95",
 		"url": "https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o",
 		"title": "Kotlin Essential Training: Functions, Collections, and I/O",
-		"description": "Good basic course on Kotlin, uses IntelliJ IDEA, community version is free",
+		"description": "Nate Ebel, file I/O and other useful topic, nice voice",
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-kotlin-essential-training-functions-collections-and-io",
+		"status": ""
+	},
+	{
+		"topics": "kotlin,dpod",
+		"language": "en",
+		"duration": "02:51:00",
+		"year": "2022",
+		"rank": "4.96",
+		"url": "https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code",
+		"title": "Kotlin Essential Training: Object-Oriented and Async Code",
+		"description": "Nate Ebel, nice OOP course on Kotlin, nice voice",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-kotlin-essential-training-objectoriented-and-async-code",
 		"status": ""
 	},
 	{
@@ -663,6 +689,19 @@
 		"status": ""
 	},
 	{
+		"topics": "rust,dpod",
+		"language": "en",
+		"duration": "01:30:00",
+		"year": "2022",
+		"rank": "4.89",
+		"url": "https://www.linkedin.com/learning/practice-it-rust-file-manipulation",
+		"title": "Practice It: Rust File Manipulation",
+		"description": "Rust and files, nice focus",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-practice-it-rust-file-manipulation",
+		"status": ""
+	},
+	{
 		"topics": "python, testing",
 		"language": "en",
 		"duration": "01:38:00",
@@ -767,6 +806,45 @@
 		"status": ""
 	},
 	{
+		"topics": "rust,dpod",
+		"language": "en",
+		"duration": "06:47:00",
+		"year": "2021",
+		"rank": "4.91",
+		"url": "https://www.linkedin.com/learning/rust-essential-training",
+		"title": "Rust Essential Training",
+		"description": "nice, long tour of Rust starting from the basics",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-rust-essential-training",
+		"status": ""
+	},
+	{
+		"topics": "rust,dpod,javascript",
+		"language": "en",
+		"duration": "01:17:00",
+		"year": "2023",
+		"rank": "4.92",
+		"url": "https://www.linkedin.com/learning/rust-for-javascript-developers",
+		"title": "Rust for JavaScript Developers",
+		"description": "nice comparison course, showing Rust from a JavaScript perspective",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-rust-for-javascript-developers",
+		"status": ""
+	},
+	{
+		"topics": "rust,dpod",
+		"language": "en",
+		"duration": "06:35:00",
+		"year": "2024",
+		"rank": "4.78",
+		"url": "https://www.linkedin.com/learning/rust-programming-from-fundamentals-to-advanced-concepts-with-ai-assisted-development",
+		"title": "Rust Programming: From Fundamentals to Advanced Concepts with AI-Assisted Development",
+		"description": "interesting course, six hours, says it uses AI but didn't see how, he compares languages in his explanations, seems experienced",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-rust-programming-from-fundamentals-to-advanced-concepts-with-aiassisted-development",
+		"status": ""
+	},
+	{
 		"topics": "python",
 		"language": "en",
 		"duration": "02:21:00",
@@ -819,6 +897,19 @@
 		"status": ""
 	},
 	{
+		"topics": "kotlin,dpod",
+		"language": "en",
+		"duration": "02:34:00",
+		"year": "2022",
+		"rank": "4.95",
+		"url": "https://www.linkedin.com/learning/transitioning-from-java-to-kotlin",
+		"title": "Transitioning from Java to Kotlin",
+		"description": "Nate Ebel, nice comparison course, nice voice",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-transitioning-from-java-to-kotlin",
+		"status": ""
+	},
+	{
 		"topics": "typescript,dpod",
 		"language": "en",
 		"duration": "01:03:00",
@@ -829,6 +920,19 @@
 		"description": "the basics of OOP in TypeScript, a good overview",
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-typescript-objectoriented-programming",
+		"status": ""
+	},
+	{
+		"topics": "rust,python,dpod",
+		"language": "en",
+		"duration": "01:32:00",
+		"year": "2024",
+		"rank": "4.98",
+		"url": "https://www.linkedin.com/learning/using-rust-with-python",
+		"title": "Using Rust with Python",
+		"description": "experienced teacher, \"use Rust for what it's best at, and Python for what it's best at, moving them closer together\"",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-using-rust-with-python",
 		"status": ""
 	},
 	{
@@ -1378,6 +1482,19 @@
 		"status": ""
 	},
 	{
+		"topics": "rust,dpod,leptos",
+		"language": "es",
+		"duration": "01:21:00",
+		"year": "2022",
+		"rank": "4.78",
+		"url": "https://www.linkedin.com/learning/full-stack-web-applications-with-rust-and-leptos",
+		"title": "Full-Stack Web Applications with Rust and Leptos",
+		"description": "Rust in action, will be interesting to get to know Leptos, very practical teacher, simply blogging application, for Hetzner",
+		"platform": "linkedInLearning",
+		"fileIdCode": "es-ll-fullstack-web-applications-with-rust-and-leptos",
+		"status": ""
+	},
+	{
 		"topics": "typescript, dpod",
 		"language": "es",
 		"duration": "01:45:00",
@@ -1402,6 +1519,32 @@
 		"platform": "linkedInLearning",
 		"fileIdCode": "es-ll-gitlab-esencial",
 		"status": "discontinued"
+	},
+	{
+		"topics": "kotlin,dpod",
+		"language": "es",
+		"duration": "01:52:00",
+		"year": "2022",
+		"rank": "4.576",
+		"url": "https://www.linkedin.com/learning/kotlin-avanzado-2",
+		"title": "Kotlin avanzado",
+		"description": "María Puy Arrastia Lana, nice voice, advanced course in Kotlin in Spanish",
+		"platform": "linkedInLearning",
+		"fileIdCode": "es-ll-kotlin-avanzado",
+		"status": ""
+	},
+	{
+		"topics": "kotlin,dpod",
+		"language": "es",
+		"duration": "04:52:00",
+		"year": "2022",
+		"rank": "4.976",
+		"url": "https://www.linkedin.com/learning/kotlin-esencial",
+		"title": "Kotlin esencial",
+		"description": "María Puy Arrastia Lana, nice voice, long course in Kotlin in Spanish",
+		"platform": "linkedInLearning",
+		"fileIdCode": "es-ll-kotlin-esencial",
+		"status": ""
 	},
 	{
 		"topics": "ai, openai, python",
@@ -1467,6 +1610,19 @@
 		"platform": "linkedInLearning",
 		"fileIdCode": "es-ll-react-hooks-esencial",
 		"status": "discontinued"
+	},
+	{
+		"topics": "rust,dpod",
+		"language": "es",
+		"duration": "02:26:00",
+		"year": "2024",
+		"rank": "4.95",
+		"url": "https://www.linkedin.com/learning/rust-esencial-24011472",
+		"title": "Rust Esencial",
+		"description": "solid Rust course in Spanish, Eliezer López, nice voice, professional",
+		"platform": "linkedInLearning",
+		"fileIdCode": "es-ll-rust-esencial",
+		"status": ""
 	},
 	{
 		"topics": "springboot",
@@ -1609,6 +1765,19 @@
 		"description": "Rudi Bruchez for old times sake, basic course on bash scripting",
 		"platform": "linkedInLearning",
 		"fileIdCode": "fr-ll-dcouvrir-lcriture-de-scripts-en-bash",
+		"status": ""
+	},
+	{
+		"topics": "rust,dpod",
+		"language": "fr",
+		"duration": "01:59:00",
+		"year": "2022",
+		"rank": "4.93",
+		"url": "https://www.linkedin.com/learning/decouvrir-rust",
+		"title": "Découvrir Rust",
+		"description": "solid course on Rust in French, Benjamin Coenen, nice voice",
+		"platform": "linkedInLearning",
+		"fileIdCode": "fr-ll-dcouvrir-rust",
 		"status": ""
 	},
 	{
