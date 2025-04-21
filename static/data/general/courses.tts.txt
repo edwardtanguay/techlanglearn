@@ -1,28 +1,21 @@
 =======================================================
 
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 
 === DPOD TECH
 x Typescript
 x Go
 x Python
+x C#
+x PHP
 
-=== PHP
-
-
-=== C#
-https://www.linkedin.com/learning/c-sharp-avanzado-1/expresiones-lambda-usando-tuplas
-https://www.linkedin.com/learning/c-sharp-interfaces-delegados-eventos-y-genericos-esencial
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 
 === Ruby
 ES-2024: https://www.linkedin.com/learning/domina-ruby-strings-arrays-y-hashes
 ES-2024: https://www.linkedin.com/learning/domina-ruby-scripting-archivos-clases-modulos-y-metodos
-
-=== Kotlin
-ES-2022: https://www.linkedin.com/learning/kotlin-esencial
-ES-2022: https://www.linkedin.com/learning/kotlin-avanzado-2
 
 === Elixir
 - EN-2022: https://www.linkedin.com/learning/elixir-101-essential-functional-programming-techniques
@@ -36,21 +29,19 @@ bash; fr; 2017; 3.7; https://www.linkedin.com/learning/decouvrir-l-ecriture-de-s
 - https://www.linkedin.com/learning/bash-shell-scripting-fur-fortgeschrittene-variablen-funktionen-und-prozessmanagement/einstieg-in-die-fortgeschrittene-shell-programmierung
 - https://www.linkedin.com/learning/shells-und-shell-skripte-in-linux-lpic-1-102/der-read-befehl
 
-
-
 === Rust
 ES-2024: https://www.linkedin.com/learning/rust-esencial-24011472
 FR-2022: https://www.linkedin.com/learning/decouvrir-rust
 
-=== Haskell
-EN-2025: https://www.youtube.com/watch?v=qThX0aoW9YI&list=PLF1Z-APd9zK7usPMx3LGMZEHrECUGodd3&index=1
-
-
+=== Kotlin
+ES-2022: https://www.linkedin.com/learning/kotlin-esencial
+ES-2022: https://www.linkedin.com/learning/kotlin-avanzado-2
+=============================================================
 
 fr, angular: https://www.linkedin.com/learning/angular-gerer-les-etats-d-application-avec-redux-et-ngrx
 
-
-=============================================================
+=== Haskell
+EN-2025: https://www.youtube.com/watch?v=qThX0aoW9YI&list=PLF1Z-APd9zK7usPMx3LGMZEHrECUGodd3&index=1
 
 - REACT/AWS
 - https://www.linkedin.com/learning/creating-a-serverless-application-using-react-in-aws/2392677
@@ -678,3 +669,12 @@ CREATED: python,dpod;es;01:23:00;2023;4.51;https://www.linkedin.com/learning/dom
 CREATED: php,dpod;fr;02:29:00;2023;4.97;https://www.linkedin.com/learning/php-la-programmation-orientee-objet; PHP : La programmation orientée objet ;Laurent N'Daw, long course and good updated basics of classes
 CREATED: php,dpod;fr;01:56:00;2024;4.83;https://www.linkedin.com/learning/php-l-architecture-mvc; PHP : L'architecture MVC ;Laurent N'Daw shorter course, French, but MVC
 CREATED: php, dpod;fr;01:59:00;2024;4.93;https://www.linkedin.com/learning/php-la-programmation-orientee-objet-avec-les-bases-de-donnees; PHP : La programmation orientée objet avec les bases de données ;also Laurent N'Daw, French with OOP and data, good combination, does active record, etc.
+CREATED: csharp,dpod;es;02:23:00;2017;4.94;https://www.linkedin.com/learning/c-sharp-programacion-orientada-a-objetos;C#: Programación orientada a objetos;Noemí León, decent overview, but a bit old (2017), but Spanish
+CREATED: csharp,dpod;es;02:24:00;2019;4.91;https://www.linkedin.com/learning/c-sharp-interfaces-delegados-eventos-y-genericos-esencial; C#: Interfaces, delegados, eventos y genéricos esencial ; topics beyond OOP, Juan José Montiel Pérez, nice voice, older 2019 but long
+CREATED: csharp,dpod;es;01:46:00;2020;4.92;https://www.linkedin.com/learning/c-sharp-avanzado-1; C# avanzado 1 ;Noemí León, good overview course to get back into C#, and in Spanish
+CREATED: csharp,dpod;fr;01:09:00;2018;4.81;https://www.linkedin.com/learning/c-sharp-delegues-evenements-et-expressions-lambdas;  C# : Délégués, évènements et expressions lambdas ; Sylvain Labasse, good advanced class
+CREATED: csharp,dpod;fr;01:03:00;2018;4.87;https://www.linkedin.com/learning/c-sharp-les-collections-et-generiques;  C# : Les collections et génériques ; Sylvain Labasse, good advanced class
+CREATED: csharp,dpod;fr;00:48:00;2022;4.96;https://www.linkedin.com/learning/10-astuces-a-connaitre-en-c-sharp; 10 astuces à connaître en C# ;Sylvain Labasse, good course to build examples into dpod
+CREATED: csharp,python,dpod;en;02:15:00;2025;4.21;https://www.linkedin.com/learning/transition-from-c-sharp-to-python; Transition from C# to Python ;Joe Marini, unique class
+CREATED: csharp,dpod;en;02:31:00;2024;4.94;https://www.linkedin.com/learning/nail-your-c-sharp-interview; Nail Your C# Interview ;Kathyrn Hodge, a bit forced, but good concepts, e.g. using TryDequeue in a while loop
+CREATED: csharp,dpod;en;01:56:00;2025;4.93;https://www.linkedin.com/learning/c-sharp-hands-on-practice-with-data-structures; C# Hands-on Practice with Data-Structures ;DESC

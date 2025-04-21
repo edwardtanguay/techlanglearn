@@ -156,6 +156,19 @@
 		"status": "not yet started"
 	},
 	{
+		"topics": "csharp,dpod",
+		"language": "en",
+		"duration": "01:56:00",
+		"year": "2025",
+		"rank": "4.93",
+		"url": "https://www.linkedin.com/learning/c-sharp-hands-on-practice-with-data-structures",
+		"title": "C# Hands-on Practice with Data-Structures",
+		"description": "DESC",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-c-handson-practice-with-datastructures",
+		"status": ""
+	},
+	{
 		"topics": "typescript,rust,go,dpod",
 		"language": "en",
 		"duration": "02:10:00",
@@ -533,6 +546,19 @@
 		"status": "watched intro videos"
 	},
 	{
+		"topics": "csharp,dpod",
+		"language": "en",
+		"duration": "02:31:00",
+		"year": "2024",
+		"rank": "4.94",
+		"url": "https://www.linkedin.com/learning/nail-your-c-sharp-interview",
+		"title": "Nail Your C# Interview",
+		"description": "Kathyrn Hodge, a bit forced, but good concepts, e.g. using TryDequeue in a while loop",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-nail-your-c-interview",
+		"status": ""
+	},
+	{
 		"topics": "nextjs, mongo",
 		"language": "en",
 		"duration": "03:54:00",
@@ -725,6 +751,19 @@
 		"description": "good intro course to Tensorflow, only 30 minutes",
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-tensorflow-practical-skills-in-constructing-training-and-optimizing-models",
+		"status": ""
+	},
+	{
+		"topics": "csharp,python,dpod",
+		"language": "en",
+		"duration": "02:15:00",
+		"year": "2025",
+		"rank": "4.21",
+		"url": "https://www.linkedin.com/learning/transition-from-c-sharp-to-python",
+		"title": "Transition from C# to Python",
+		"description": "Joe Marini, unique class",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-transition-from-c-to-python",
 		"status": ""
 	},
 	{
@@ -1016,6 +1055,19 @@
 	{
 		"topics": "csharp,dpod",
 		"language": "es",
+		"duration": "01:46:00",
+		"year": "2020",
+		"rank": "4.92",
+		"url": "https://www.linkedin.com/learning/c-sharp-avanzado-1",
+		"title": "C# avanzado 1",
+		"description": "Noemí León, good overview course to get back into C#, and in Spanish",
+		"platform": "linkedInLearning",
+		"fileIdCode": "es-ll-c-avanzado-1",
+		"status": ""
+	},
+	{
+		"topics": "csharp,dpod",
+		"language": "es",
 		"duration": "01:52:00",
 		"year": "2022",
 		"rank": "4.5",
@@ -1024,6 +1076,32 @@
 		"description": "Noemí León, a good overview of C# to get back into it",
 		"platform": "linkedInLearning",
 		"fileIdCode": "es-ll-c-avanzado-2",
+		"status": ""
+	},
+	{
+		"topics": "csharp,dpod",
+		"language": "es",
+		"duration": "02:24:00",
+		"year": "2019",
+		"rank": "4.91",
+		"url": "https://www.linkedin.com/learning/c-sharp-interfaces-delegados-eventos-y-genericos-esencial",
+		"title": "C#: Interfaces, delegados, eventos y genéricos esencial",
+		"description": "topics beyond OOP, Juan José Montiel Pérez, nice voice, older 2019 but long",
+		"platform": "linkedInLearning",
+		"fileIdCode": "es-ll-c-interfaces-delegados-eventos-y-genricos-esencial",
+		"status": ""
+	},
+	{
+		"topics": "csharp,dpod",
+		"language": "es",
+		"duration": "02:23:00",
+		"year": "2017",
+		"rank": "4.94",
+		"url": "https://www.linkedin.com/learning/c-sharp-programacion-orientada-a-objetos",
+		"title": "C#: Programación orientada a objetos",
+		"description": "Noemí León, decent overview, but a bit old (2017), but Spanish",
+		"platform": "linkedInLearning",
+		"fileIdCode": "es-ll-c-programacin-orientada-a-objetos",
 		"status": ""
 	},
 	{
@@ -1339,6 +1417,19 @@
 		"status": "not started yet"
 	},
 	{
+		"topics": "csharp,dpod",
+		"language": "fr",
+		"duration": "00:48:00",
+		"year": "2022",
+		"rank": "4.96",
+		"url": "https://www.linkedin.com/learning/10-astuces-a-connaitre-en-c-sharp",
+		"title": "10 astuces à connaître en C#",
+		"description": "Sylvain Labasse, good course to build examples into dpod",
+		"platform": "linkedInLearning",
+		"fileIdCode": "fr-ll-10-astuces-connatre-en-c",
+		"status": ""
+	},
+	{
 		"topics": "angular,ngrx,redux",
 		"language": "fr",
 		"duration": "01:58:00",
@@ -1349,6 +1440,32 @@
 		"description": "Elise Patrikainen, nice voice, nice advanced Angular course but 2021, but should work with newer versions",
 		"platform": "linkedInLearning",
 		"fileIdCode": "fr-ll-angular-grer-les-tats-dapplication-avec-redux-et-ngrx",
+		"status": ""
+	},
+	{
+		"topics": "csharp,dpod",
+		"language": "fr",
+		"duration": "01:09:00",
+		"year": "2018",
+		"rank": "4.81",
+		"url": "https://www.linkedin.com/learning/c-sharp-delegues-evenements-et-expressions-lambdas",
+		"title": "C# : Délégués, évènements et expressions lambdas",
+		"description": "Sylvain Labasse, good advanced class",
+		"platform": "linkedInLearning",
+		"fileIdCode": "fr-ll-c-dlgus-vnements-et-expressions-lambdas",
+		"status": ""
+	},
+	{
+		"topics": "csharp,dpod",
+		"language": "fr",
+		"duration": "01:03:00",
+		"year": "2018",
+		"rank": "4.87",
+		"url": "https://www.linkedin.com/learning/c-sharp-les-collections-et-generiques",
+		"title": "C# : Les collections et génériques",
+		"description": "Sylvain Labasse, good advanced class",
+		"platform": "linkedInLearning",
+		"fileIdCode": "fr-ll-c-les-collections-et-gnriques",
 		"status": ""
 	},
 	{
@@ -1590,7 +1707,7 @@
 		"language": "fr",
 		"duration": "01:56:00",
 		"year": "2024",
-		"rank": "4.83",
+		"rank": "4.90",
 		"url": "https://www.linkedin.com/learning/php-l-architecture-mvc",
 		"title": "PHP : L'architecture MVC",
 		"description": "Laurent N'Daw shorter course, French, but MVC",
