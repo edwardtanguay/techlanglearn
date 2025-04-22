@@ -750,6 +750,20 @@
 	},
 	{
 		"language": "it",
+		"front": "try starting a session",
+		"back": "prova ad avviare una sessione",
+		"whenCreated": "2025-04-21 22:15:31",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "if there are two",
+		"back": "se ce ne sono due",
+		"whenCreated": "2025-04-21 22:03:56",
+		"extras": ""
+	},
+	{
+		"language": "it",
 		"front": "so we are all ready",
 		"back": "quindi siamo tutti pronti",
 		"whenCreated": "2025-01-03 07:47:34",
