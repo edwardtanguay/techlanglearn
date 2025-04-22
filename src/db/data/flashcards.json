@@ -750,6 +750,27 @@
 	},
 	{
 		"language": "it",
+		"front": "we got off to a great start",
+		"back": "siamo partiti alle grande",
+		"whenCreated": "2025-04-22 12:34:58",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "but in a nutshell",
+		"back": "ma in poche parole",
+		"whenCreated": "2025-04-22 12:33:05",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "the arguments are optional",
+		"back": "gli argomenti sono facoltativi",
+		"whenCreated": "2025-04-22 12:30:41",
+		"extras": ""
+	},
+	{
+		"language": "it",
 		"front": "try starting a session",
 		"back": "prova ad avviare una sessione",
 		"whenCreated": "2025-04-21 22:15:31",

@@ -30,11 +30,27 @@ https://www.linkedin.com/learning/elixir-101-essential-functional-programming-te
 
 - also recursion
 
-## Getting started , 5:41, nnn
+## Getting started , 5:41, 2025-04-22
+
+- recompile
+
+## The usual suspects, 9:09, nnn
 
 ## VOCAB - ITALIAN
 
 ```
+we got off to a great start
+siamo partiti alle grande
+2025-04-22 12:34:58
+
+but in a nutshell
+ma in poche parole
+2025-04-22 12:33:05
+
+the arguments are optional
+gli argomenti sono facoltativi
+2025-04-22 12:30:41
+
 try starting a session
 prova ad avviare una sessione
 2025-04-21 22:15:31
