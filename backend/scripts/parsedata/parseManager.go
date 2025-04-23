@@ -195,7 +195,7 @@ func getFlashcardsFromFile(lines []string) ([]Flashcard, error) {
 		lineBlock = padLineBlock(lineBlock, 4)
 		flashcard := Flashcard{
 			Language:    language,
-			Front:       lineBlock[0],
+			Front:       lineBlock[0] + "nnn",
 			Back:        lineBlock[1],
 			WhenCreated: "",
 			Extras:      "",
