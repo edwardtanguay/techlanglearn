@@ -18,6 +18,7 @@ x Kotlin
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 
 
 =============================================================
@@ -687,3 +688,6 @@ CREATED: kotlin,dpod;es;01:52:00;2022;4.576;https://www.linkedin.com/learning/ko
 CREATED: kotlin,dpod;en;02:34:00;2022;4.95;https://www.linkedin.com/learning/transitioning-from-java-to-kotlin; Transitioning from Java to Kotlin ;Nate Ebel, nice comparison course, nice voice
 CREATED: kotlin,dpod;en;02:51:00;2022;4.96;https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code; Kotlin Essential Training: Object-Oriented and Async Code  ;Nate Ebel, nice OOP course on Kotlin, nice voice
 CREATED: kotlin,dpod;en;04:42:00;2022;4.95;https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o; Kotlin Essential Training: Functions, Collections, and I/O ;Nate Ebel, file I/O and other useful topic, nice voice
+CREATED: csharp,dpod;en;01:18:00;2024;4.95;https://www.linkedin.com/learning/advanced-c-sharp-classes-records-and-structs; Advanced C#: Classes, Records, and Structs ;Good base OOP course, short, but by Joe Marini
+CREATED: csharp,dpdoing;en;01:46:00;2023;4.991;https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming; Advanced C#: Object-Oriented Programming ;Joe Marini, longer OOP course, very good
+CREATED: csharp,dpod;en;03:10:00;2024;4.983;https://www.linkedin.com/learning/advanced-c-sharp-functional-programming-patterns-25066789; Advanced C#: Functional Programming Patterns ;Very detailed course on functional programming in C#
