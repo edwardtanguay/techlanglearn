@@ -4,7 +4,7 @@ https://www.linkedin.com/learning/python-object-oriented-programming-22888296
 
 - duration: 01:55:00
 - language: en
-- topics: python,dpod
+- topics: python,dpdoing
 - rank: 4.93
 - description: Joe Marini, good course, in depth with OOP for Python
 - year: 2023

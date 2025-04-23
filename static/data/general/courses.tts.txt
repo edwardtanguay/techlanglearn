@@ -1,5 +1,6 @@
 =======================================================
 
+- good teacher, Python, C#: https://www.linkedin.com/learning/instructors/joe-marini
 
 === DPOD TECH
 x Typescript

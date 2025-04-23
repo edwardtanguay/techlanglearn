@@ -4,10 +4,11 @@ https://www.linkedin.com/learning/elixir-101-essential-functional-programming-te
 
 - duration: 03:04:00
 - language: en
-- topics: elixir,dpod
+- topics: elixir,dpdoing
 - rank: 4.99
 - description: Vanessa Lee, very long course, all Elixir basics
 - year: 2022
+- status: starting with the main programming concepts
 
 ## Welcome to Learning Elixir , 1:20, 2025-04-21
 

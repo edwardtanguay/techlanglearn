@@ -1296,6 +1296,62 @@
 	},
 	{
 		"language": "it",
+		"front": "for this to work",
+		"back": "perché questo funzioni",
+		"whenCreated": "2025-04-22 21:07:17",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "priority must be from zero to five",
+		"back": "la priorità deve essere da zero a cinque",
+		"whenCreated": "2025-04-22 21:06:12",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "so, in that case",
+		"back": "quindi, in tal caso",
+		"whenCreated": "2025-04-22 21:04:27",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "note that",
+		"back": "si noti che",
+		"whenCreated": "2025-04-22 20:32:21",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "I selected a collection",
+		"back": "ho selezionato una raccolta",
+		"whenCreated": "2025-04-22 17:28:30",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "each of these folders",
+		"back": "ognuna di queste cartelle",
+		"whenCreated": "2025-04-22 17:10:55",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "I put them here",
+		"back": "li ho messi qui",
+		"whenCreated": "2025-04-22 17:09:51",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "and so on",
+		"back": "e così via",
+		"whenCreated": "2025-04-22 16:17:13",
+		"extras": ""
+	},
+	{
+		"language": "it",
 		"front": "easy to maintain",
 		"back": "facili da mantenere",
 		"whenCreated": "2024-12-30 11:44:18",

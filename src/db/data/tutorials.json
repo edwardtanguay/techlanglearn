@@ -325,7 +325,7 @@
 		"status": ""
 	},
 	{
-		"topics": "elixir,dpod",
+		"topics": "elixir,dpdoing",
 		"language": "en",
 		"duration": "03:04:00",
 		"year": "2022",
@@ -335,7 +335,7 @@
 		"description": "Vanessa Lee, very long course, all Elixir basics",
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-elixir-101-essential-functional-programming-techniques",
-		"status": ""
+		"status": "starting with the main programming concepts"
 	},
 	{
 		"topics": "cypress",
@@ -416,7 +416,7 @@
 		"status": ""
 	},
 	{
-		"topics": "go,dpod",
+		"topics": "go,dpdoing",
 		"language": "en",
 		"duration": "01:25:00",
 		"year": "2021",
@@ -426,7 +426,7 @@
 		"description": "Joe Marini, quality course, all the patterns from OOP",
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-go-design-patterns",
-		"status": ""
+		"status": "did first intro video"
 	},
 	{
 		"topics": "go,dpod",
@@ -715,20 +715,7 @@
 		"status": ""
 	},
 	{
-		"topics": "python,dpod",
-		"language": "en",
-		"duration": "02:12:00",
-		"year": "2021",
-		"rank": "4.91",
-		"url": "https://www.linkedin.com/learning/python-design-patterns-14304845",
-		"title": "Python: Design Patterns",
-		"description": "Jungwoo Ryoo, good course, explains concept of pattern first then an example",
-		"platform": "linkedInLearning",
-		"fileIdCode": "en-ll-python-design-patterns",
-		"status": ""
-	},
-	{
-		"topics": "python,dpod",
+		"topics": "python,dpdoing",
 		"language": "en",
 		"duration": "01:55:00",
 		"year": "2023",
@@ -910,7 +897,7 @@
 		"status": ""
 	},
 	{
-		"topics": "typescript,dpod",
+		"topics": "typescript,dpdoing",
 		"language": "en",
 		"duration": "01:03:00",
 		"year": "2020",
