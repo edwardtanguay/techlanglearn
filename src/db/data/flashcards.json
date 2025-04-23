@@ -2009,6 +2009,20 @@
 		"extras": ""
 	},
 	{
+		"language": "es",
+		"front": "the house",
+		"back": "la casa",
+		"whenCreated": "2025-04-23 08:36:45",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "nl; I go to the store",
+		"back": "ik ga naar de winkel",
+		"whenCreated": "2025-04-23 08:41:25",
+		"extras": ""
+	},
+	{
 		"language": "it",
 		"front": "that pushes",
 		"back": "che spinge",

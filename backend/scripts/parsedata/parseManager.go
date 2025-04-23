@@ -159,7 +159,7 @@ func getFlashcardsFromFile(lines []string) ([]Flashcard, error) {
 	config, _ := LoadConfig()
 
 	flashcards := []Flashcard{}
-	language := ""
+	baseLanguage := ""
 	marker := "## VOCAB"
 
 	// get all lines in the general vocab block (currently at end of file)
@@ -171,18 +171,18 @@ func getFlashcardsFromFile(lines []string) ([]Flashcard, error) {
 	}
 	restOfLine := getRestOfLine(vocabBlockLines[0], marker)
 	if softIncludes(restOfLine, "spanish") {
-		language = "es"
+		baseLanguage = "es"
 	}
 	if softIncludes(restOfLine, "italian") {
-		language = "it"
+		baseLanguage = "it"
 	}
 
 	if softIncludes(restOfLine, "french") {
-		language = "fr"
+		baseLanguage = "fr"
 	}
 
 	if softIncludes(restOfLine, "dutch") {
-		language = "nl"
+		baseLanguage = "nl"
 	}
 
 	// define vocabLines (only the text of the flashcards themselves)
@@ -193,9 +193,13 @@ func getFlashcardsFromFile(lines []string) ([]Flashcard, error) {
 
 	for _, lineBlock := range lineBlocks {
 		lineBlock = padLineBlock(lineBlock, 4)
+
+		rawFront := lineBlock[0]
+		
+
 		flashcard := Flashcard{
-			Language:    language,
-			Front:       lineBlock[0] + "nnn",
+			Language:    baseLanguage,
+			Front:       rawFront,
 			Back:        lineBlock[1],
 			WhenCreated: "",
 			Extras:      "",
