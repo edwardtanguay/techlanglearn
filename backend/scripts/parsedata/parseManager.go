@@ -155,7 +155,6 @@ func convertToIntervalTimes(timeUnits []TimeUnit) ([]TimeUnit, error) {
 }
 
 func getFlashcardsFromFile(lines []string) ([]Flashcard, error) {
-
 	config, _ := LoadConfig()
 
 	flashcards := []Flashcard{}
@@ -176,11 +175,9 @@ func getFlashcardsFromFile(lines []string) ([]Flashcard, error) {
 	if softIncludes(restOfLine, "italian") {
 		baseLanguage = "it"
 	}
-
 	if softIncludes(restOfLine, "french") {
 		baseLanguage = "fr"
 	}
-
 	if softIncludes(restOfLine, "dutch") {
 		baseLanguage = "nl"
 	}
@@ -195,11 +192,20 @@ func getFlashcardsFromFile(lines []string) ([]Flashcard, error) {
 		lineBlock = padLineBlock(lineBlock, 4)
 
 		rawFront := lineBlock[0]
-		
+		front := ""
+		language := baseLanguage
+
+		if strings.Contains(rawFront, ">>") {
+			parts := strings.SplitN(rawFront, ">>", 2)
+			language = strings.TrimSpace(parts[0])
+			front = strings.TrimSpace(parts[1])
+		} else {
+			front = rawFront
+		}
 
 		flashcard := Flashcard{
-			Language:    baseLanguage,
-			Front:       rawFront,
+			Language:    language,
+			Front:       front,
 			Back:        lineBlock[1],
 			WhenCreated: "",
 			Extras:      "",

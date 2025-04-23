@@ -2016,8 +2016,8 @@
 		"extras": ""
 	},
 	{
-		"language": "es",
-		"front": "nl; I go to the store",
+		"language": "nl",
+		"front": "I go to the store",
 		"back": "ik ga naar de winkel",
 		"whenCreated": "2025-04-23 08:41:25",
 		"extras": ""

@@ -20,7 +20,7 @@ the house
 la casa
 2025-04-23 08:36:45
 
-nl; I go to the store
+nl>> I go to the store
 ik ga naar de winkel
 2025-04-23 08:41:25
 
