@@ -181,6 +181,9 @@ func getFlashcardsFromFile(lines []string) ([]Flashcard, error) {
 	if softIncludes(restOfLine, "dutch") {
 		baseLanguage = "nl"
 	}
+	if softIncludes(restOfLine, "polish") {
+		baseLanguage = "pl"
+	}
 
 	// define vocabLines (only the text of the flashcards themselves)
 	vocabLines := vocabBlockLines[1:] // remove first line (language heading)

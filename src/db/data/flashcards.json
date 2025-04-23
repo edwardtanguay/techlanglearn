@@ -1,5 +1,12 @@
 [
 	{
+		"language": "pl",
+		"front": "for programmers",
+		"back": "dla programistów",
+		"whenCreated": "2025-04-23 16:57:11",
+		"extras": ""
+	},
+	{
 		"language": "nl",
 		"front": "but that's not bad",
 		"back": "maar dat is niet erg",

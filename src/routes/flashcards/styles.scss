@@ -11,6 +11,9 @@
 	.front-lang-nl {
 		border-bottom: 3px solid goldenrod;
 	}
+	.front-lang-pl {
+		border-bottom: 3px solid rgb(0, 183, 196);
+	}
 	.back {
 		background-color: #fff;
 		border-left: 1px solid #bbb;
@@ -32,5 +35,8 @@
 
 	.back-lang-fr {
 		color: navy;
+	}
+	.back-lang-pl {
+		color: rgb(0, 183, 196);
 	}
 }
