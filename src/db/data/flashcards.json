@@ -2009,17 +2009,94 @@
 		"extras": ""
 	},
 	{
-		"language": "es",
-		"front": "the house",
-		"back": "la casa",
-		"whenCreated": "2025-04-23 08:36:45",
+		"language": "it",
+		"front": "once this is done",
+		"back": "una volta fatto questo",
+		"whenCreated": "2025-04-23 12:10:07",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "and by the way the word is new",
+		"back": "e tra l'altro la parola è nuova",
+		"whenCreated": "2025-04-23 12:06:19",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "a quick review of some of the terms",
+		"back": "un rapida rassegna di alcuni dei termini",
+		"whenCreated": "2025-04-23 11:13:46",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "as programs become more complex",
+		"back": "man mano che i programmi diventano più complessi",
+		"whenCreated": "2025-04-23 11:05:18",
 		"extras": ""
 	},
 	{
 		"language": "nl",
-		"front": "I go to the store",
-		"back": "ik ga naar de winkel",
-		"whenCreated": "2025-04-23 08:41:25",
+		"front": "ongeacht of uw antwoord juist is",
+		"back": "regardless of whether your answer is correct",
+		"whenCreated": "2025-04-23 09:29:53",
+		"extras": ""
+	},
+	{
+		"language": "nl",
+		"front": "give a brief explanation of how this function works",
+		"back": "een korte uitleg geven over hoe deze functie werkt",
+		"whenCreated": "2025-04-23 09:25:38",
+		"extras": ""
+	},
+	{
+		"language": "nl",
+		"front": "depending on the challenge",
+		"back": "afhankelijk van de iutdaging",
+		"whenCreated": "2025-04-23 09:24:00",
+		"extras": ""
+	},
+	{
+		"language": "nl",
+		"front": "I assume that you",
+		"back": "ik ga ervan uit dat je",
+		"whenCreated": "2025-04-23 09:07:45",
+		"extras": ""
+	},
+	{
+		"language": "nl",
+		"front": "I suggest that you use VSCode",
+		"back": "ik raad je aan om VSCode te gebruiken",
+		"whenCreated": "2025-04-23 09:05:51",
+		"extras": ""
+	},
+	{
+		"language": "nl",
+		"front": "to integrate closely",
+		"back": "nauw te integreren",
+		"whenCreated": "2025-04-23 09:01:49",
+		"extras": ""
+	},
+	{
+		"language": "nl",
+		"front": "we will also see how",
+		"back": "we zullen ook zien hoe",
+		"whenCreated": "2025-04-23 09:00:56",
+		"extras": ""
+	},
+	{
+		"language": "nl",
+		"front": "organized, expandable and easy",
+		"back": "georganiseerd, uitbreidbaar en gemakkelijk",
+		"whenCreated": "2025-04-23 08:58:13",
+		"extras": ""
+	},
+	{
+		"language": "nl",
+		"front": "but as your projects get bigger",
+		"back": "maar naarmate je projecten groter worden",
+		"whenCreated": "2025-04-23 08:55:34",
 		"extras": ""
 	},
 	{
