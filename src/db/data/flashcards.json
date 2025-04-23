@@ -1,6 +1,111 @@
 [
 	{
 		"language": "pl",
+		"front": "outside the code",
+		"back": "poza kodem",
+		"whenCreated": "2025-04-23 20:03:40",
+		"extras": ""
+	},
+	{
+		"language": "pl",
+		"front": "and then I can",
+		"back": "a potem mogę",
+		"whenCreated": "2025-04-23 20:01:25",
+		"extras": ""
+	},
+	{
+		"language": "pl",
+		"front": "so we'll write to the console",
+		"back": "wieć napiszemy do konsoli",
+		"whenCreated": "2025-04-23 19:41:08",
+		"extras": ""
+	},
+	{
+		"language": "pl",
+		"front": "and then",
+		"back": "a potem",
+		"whenCreated": "2025-04-23 19:39:58",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "if you go to the search box here",
+		"back": "se vai alla casella di ricerca qui",
+		"whenCreated": "2025-04-23 19:15:53",
+		"extras": ""
+	},
+	{
+		"language": "it",
+		"front": "so I'll type dotnet",
+		"back": "quindi digiterò dotnet",
+		"whenCreated": "2025-04-23 19:14:39",
+		"extras": ""
+	},
+	{
+		"language": "pl",
+		"front": "all you have to do",
+		"back": "wszystko, co musisz zrobić",
+		"whenCreated": "2025-04-23 18:02:41",
+		"extras": ""
+	},
+	{
+		"language": "pl",
+		"front": "so you can work",
+		"back": "możesz więc pracować",
+		"whenCreated": "2025-04-23 18:01:28",
+		"extras": ""
+	},
+	{
+		"language": "pl",
+		"front": "on your computer",
+		"back": "na swoim komputerze",
+		"whenCreated": "2025-04-23 17:21:46",
+		"extras": ""
+	},
+	{
+		"language": "pl",
+		"front": "to the menu code",
+		"back": "do menu kod",
+		"whenCreated": "2025-04-23 17:19:15",
+		"extras": ""
+	},
+	{
+		"language": "pl",
+		"front": "it's quite easy",
+		"back": "jest to dość łatwe",
+		"whenCreated": "2025-04-23 17:16:54",
+		"extras": ""
+	},
+	{
+		"language": "pl",
+		"front": "if you want to download",
+		"back": "jeśli chcesz pobrać",
+		"whenCreated": "2025-04-23 17:14:52",
+		"extras": ""
+	},
+	{
+		"language": "pl",
+		"front": "the course content is",
+		"back": "treść kursu jest",
+		"whenCreated": "2025-04-23 17:12:12",
+		"extras": ""
+	},
+	{
+		"language": "pl",
+		"front": "several",
+		"back": "kilka",
+		"whenCreated": "2025-04-23 17:10:55",
+		"extras": ""
+	},
+	{
+		"language": "pl",
+		"front": "you don't have to be an expert",
+		"back": "nie musisz być ekspertem",
+		"whenCreated": "2025-04-23 17:07:11",
+		"extras": ""
+	},
+	{
+		"language": "pl",
 		"front": "for programmers",
 		"back": "dla programistów",
 		"whenCreated": "2025-04-23 16:57:11",
