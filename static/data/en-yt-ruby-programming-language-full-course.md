@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=t_ispmWmdjY&list=PL_EzhIKp343lBMH4UuklrMRL_WkilG
 - language: en
 - topics: ruby,dpod
 - rank: 4.89
-- description: Mike at Free Code Camp, speaks cleanly so subtitles can be displayed in other languages, four hour thorough overview of Ruby
+- description: Mike at Free Code Camp, speaks cleanly so subtitles can be displayed in more languages (e.g. Russian), four hour thorough overview of Ruby
 - year: 2018
 
 ## watchlog

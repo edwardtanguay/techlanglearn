@@ -7236,5 +7236,180 @@
 		"back": "peut-être que cela pourrait être un rappel",
 		"whenCreated": "2025-01-07 08:00:30",
 		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "we'll come back to this a little later",
+		"back": "on va revenir dessus un peu plus tard",
+		"whenCreated": "2025-04-24 08:30:29",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "in relation to its size",
+		"back": "par rapport à sa taille",
+		"whenCreated": "2025-04-23 23:47:53",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "and so on",
+		"back": "et ainsi de suite",
+		"whenCreated": "2025-04-23 23:46:22",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "as much as I want",
+		"back": "autant que je veux",
+		"whenCreated": "2025-04-23 23:44:40",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "how many wheels will my car have",
+		"back": "combien de roues aura ma voiture",
+		"whenCreated": "2025-04-23 23:42:15",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "given that the projects",
+		"back": "étant donné aue les pojets",
+		"whenCreated": "2025-04-23 23:38:15",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "at the program maintenance level",
+		"back": "au niveau de l'entretien du programme",
+		"whenCreated": "2025-04-23 23:34:14",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "same for the basket",
+		"back": "pareil pour le panier",
+		"whenCreated": "2025-04-23 23:32:23",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "for this reason",
+		"back": "de ce fait",
+		"whenCreated": "2025-04-23 23:31:41",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "as part of an application",
+		"back": "dans le cadre d'une application",
+		"whenCreated": "2025-04-23 23:30:08",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "so from top to bottom",
+		"back": "donc de haut en bas",
+		"whenCreated": "2025-04-23 23:27:59",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "basically a procedure",
+		"back": "en gros, une procédure",
+		"whenCreated": "2025-04-23 23:27:04",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "which will rely on procedures",
+		"back": "qui va s'appuyer sur des procédures",
+		"whenCreated": "2025-04-23 23:25:55",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "VSCode will launch",
+		"back": "VSCode va se lancer",
+		"whenCreated": "2025-04-23 23:00:06",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "following the installation of VSCod",
+		"back": "suite à l'installation de VSCode",
+		"whenCreated": "2025-04-23 22:59:23",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "I will leave it checked",
+		"back": "je vais laisser coché",
+		"whenCreated": "2025-04-23 22:51:56",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "I just have to wait",
+		"back": "je n'ai plus qu'à attendre",
+		"whenCreated": "2025-04-23 22:51:07",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "here we go",
+		"back": "c'est parti",
+		"whenCreated": "2025-04-23 22:46:39",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "to get by easily",
+		"back": "de vous en sortir largement",
+		"whenCreated": "2025-04-23 22:43:23",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "affectations de variables",
+		"back": "variable assignments",
+		"whenCreated": "2025-04-23 22:41:49",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "as well as for beginners",
+		"back": "aussi bien à des débutants",
+		"whenCreated": "2025-04-23 22:39:58",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "to take up the challenge",
+		"back": "à relever le challenge",
+		"whenCreated": "2025-04-23 22:35:18",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "with practical application",
+		"back": "avec de la mise en pratique",
+		"whenCreated": "2025-04-23 22:34:13",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "in depth",
+		"back": "de façon approfondie",
+		"whenCreated": "2025-04-23 22:33:11",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "you are in a good place",
+		"back": "tu es dans un bon endroit",
+		"whenCreated": "2025-04-23 21:47:07",
+		"extras": ""
 	}
 ]
