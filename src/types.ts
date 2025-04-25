@@ -1,7 +1,7 @@
 import { z } from 'zod';
 
 export const SourceFlashcardSchema = z.object({
-	language: z.enum(['it', 'es', 'fr', 'nl', 'pl']),
+	language: z.enum(['it', 'es', 'fr', 'nl', 'pl', 'de']),
 	front: z.string().min(1, { message: 'cannot be empty' }),
 	back: z.string().min(1, { message: 'cannot be empty' }),
 	whenCreated: z.string().refine((value) => /^\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}$/.test(value), {

@@ -1,5 +1,19 @@
 [
 	{
+		"language": "de",
+		"front": "information about possible pitfalls",
+		"back": "Hinweise auf möglichen Stolperfallen",
+		"whenCreated": "2025-04-25 22:06:10",
+		"extras": ""
+	},
+	{
+		"language": "de",
+		"front": "the training is aimed at",
+		"back": "das Training richtet sich an",
+		"whenCreated": "2025-04-25 22:03:25",
+		"extras": ""
+	},
+	{
 		"language": "pl",
 		"front": "outside the code",
 		"back": "poza kodem",
@@ -4974,6 +4988,62 @@
 		"front": "don't miss the opportunity to take your skills to the next level",
 		"back": "no te pierdas la oportunidad de llevar tus habilidades al siguiente nivel",
 		"whenCreated": "2024-12-01 00:00:00",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "does not return any type of output",
+		"back": "no devuelve ningún tipo de salida",
+		"whenCreated": "2025-04-25 18:47:08",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "as well as the name",
+		"back": "así como el nombre",
+		"whenCreated": "2025-04-25 18:30:09",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "a line break",
+		"back": "un salto de linea",
+		"whenCreated": "2025-04-25 18:28:19",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "I'm going to separate them by line breaks",
+		"back": "you los voy a separar por saltos de líneas",
+		"whenCreated": "2025-04-25 18:23:00",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "these are two ways you can use commands",
+		"back": "estas son dos formas con las que puedes usar comandos",
+		"whenCreated": "2025-04-25 15:39:08",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "right now",
+		"back": "ahora mismo",
+		"whenCreated": "2025-04-25 15:22:40",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "next we are going to learn",
+		"back": "a continuación vamos a aprender",
+		"whenCreated": "2025-04-25 15:21:52",
+		"extras": ""
+	},
+	{
+		"language": "es",
+		"front": "lenguajes mejor pagados",
+		"back": "highest-paid languages",
+		"whenCreated": "2025-04-25 15:12:06",
 		"extras": ""
 	},
 	{

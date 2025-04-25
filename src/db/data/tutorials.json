@@ -23,7 +23,7 @@
 		"description": "Tim Schürmann, nice voice, good examples (renamining files in directory in three lines)",
 		"platform": "linkedInLearning",
 		"fileIdCode": "de-ll-bashshellscripting-lernen",
-		"status": ""
+		"status": "started"
 	},
 	{
 		"topics": "elasticsearch",
@@ -1177,7 +1177,7 @@
 		"rank": "4.89",
 		"url": "https://www.youtube.com/watch?v=t_ispmWmdjY\u0026list=PL_EzhIKp343lBMH4UuklrMRL_WkilGoXe",
 		"title": "Ruby Programming Language - Full Course",
-		"description": "Mike at Free Code Camp, speaks cleanly so subtitles can be displayed in other languages, four hour thorough overview of Ruby",
+		"description": "Mike at Free Code Camp, speaks cleanly so subtitles can be displayed in more languages (e.g. Russian), four hour thorough overview of Ruby",
 		"platform": "youtube",
 		"fileIdCode": "en-yt-ruby-programming-language-full-course",
 		"status": ""
@@ -1482,7 +1482,7 @@
 		"status": ""
 	},
 	{
-		"topics": "ruby,dpod",
+		"topics": "ruby,dpdoing",
 		"language": "es",
 		"duration": "00:38:00",
 		"year": "2024",
@@ -1492,7 +1492,7 @@
 		"description": "Carla Urrea Stabile, nice voice, Spanish, more good basics plus for Ruby",
 		"platform": "linkedInLearning",
 		"fileIdCode": "es-ll-domina-ruby-scripting-archivos-clases-mdulos-y-mtodos",
-		"status": ""
+		"status": "started"
 	},
 	{
 		"topics": "ruby,dpod",
