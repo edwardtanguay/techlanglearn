@@ -8,6 +8,7 @@ https://www.linkedin.com/learning/php-la-programmation-orientee-objet
 - rank: 4.97
 - description: Laurent N'Daw, long course and good updated basics of classes
 - year: 2023
+- status: started
 
 ## Bienvenue dans « PHP : La programmation orientée objet » , 0:41, 2025-04-23
 

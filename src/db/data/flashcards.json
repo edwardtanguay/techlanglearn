@@ -1,6 +1,69 @@
 [
 	{
 		"language": "de",
+		"front": "furthermore, you can",
+		"back": "des weiteren kannst du",
+		"whenCreated": "2025-04-25 23:31:41",
+		"extras": ""
+	},
+	{
+		"language": "de",
+		"front": "a list of the most important programs",
+		"back": "eine Aufstellung der wichtigsten Programme",
+		"whenCreated": "2025-04-25 23:21:24",
+		"extras": ""
+	},
+	{
+		"language": "de",
+		"front": "to use for their own purposes",
+		"back": "für ihre Zwecke einspannen",
+		"whenCreated": "2025-04-25 23:13:00",
+		"extras": ""
+	},
+	{
+		"language": "de",
+		"front": "my head is spinning",
+		"back": "mir schwirrt der Kopf",
+		"whenCreated": "2025-04-25 23:09:17",
+		"extras": ""
+	},
+	{
+		"language": "de",
+		"front": "not as trivial as it sounds at first",
+		"back": "nicht so trivial wie es zunächst klingt",
+		"whenCreated": "2025-04-25 23:07:58",
+		"extras": ""
+	},
+	{
+		"language": "de",
+		"front": "not as trivial as it sounds at first",
+		"back": "nicht so trivial wie es zunächst klingt",
+		"whenCreated": "2025-04-25 23:03:33",
+		"extras": ""
+	},
+	{
+		"language": "de",
+		"front": "this improves the overview",
+		"back": "das steigert die Übersicht",
+		"whenCreated": "2025-04-25 23:01:42",
+		"extras": ""
+	},
+	{
+		"language": "de",
+		"front": "in other words",
+		"back": "mit Anderen Worten",
+		"whenCreated": "2025-04-25 22:55:32",
+		"extras": ""
+	},
+	{
+		"language": "de",
+		"front": "this quickly turns into work",
+		"back": "das artet schnell in Arbeit aus",
+		"whenCreated": "2025-04-25 22:49:22",
+		"extras": ""
+	},
+	{
+		"language": "de",
 		"front": "information about possible pitfalls",
 		"back": "Hinweise auf möglichen Stolperfallen",
 		"whenCreated": "2025-04-25 22:06:10",
@@ -6542,6 +6605,216 @@
 		"front": "it is now possible",
 		"back": "il est désormais possible",
 		"whenCreated": "2025-01-14 08:54:58",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "compared to",
+		"back": "par rapport à",
+		"whenCreated": "2025-04-26 11:47:10",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "under the hood",
+		"back": "sous le capot",
+		"whenCreated": "2025-04-26 11:46:32",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "we will see together afterwards what it looks like",
+		"back": "on va voir esemble après à quoi il ressemble",
+		"whenCreated": "2025-04-26 11:45:41",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "we will also remind you of a point",
+		"back": "on va aussi rappeler un point",
+		"whenCreated": "2025-04-26 11:29:20",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "will suddenly force us",
+		"back": "va du coup nous forcer",
+		"whenCreated": "2025-04-26 11:28:05",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "it's pretty amazing to have that",
+		"back": "c'est assez incroyable d'avoir ça",
+		"whenCreated": "2025-04-26 11:27:21",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "without necessarily having",
+		"back": "sans pour autant avoir",
+		"whenCreated": "2025-04-26 11:25:57",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "one of the greatest assets",
+		"back": "un des plus grands atouts",
+		"whenCreated": "2025-04-26 11:25:16",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "which means that",
+		"back": "ce qui veut dire que",
+		"whenCreated": "2025-04-26 11:22:57",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "except that here",
+		"back": "sauf que ici",
+		"whenCreated": "2025-04-26 11:22:13",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "to carry out sorting",
+		"back": "pour effectuer des tris",
+		"whenCreated": "2025-04-26 11:21:33",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "we will see it later",
+		"back": "on va le voir par la suite",
+		"whenCreated": "2025-04-26 11:20:38",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "incur costs",
+		"back": "engendrer de coût",
+		"whenCreated": "2025-04-26 11:20:00",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "as well as management",
+		"back": "ainsi que la gestion",
+		"whenCreated": "2025-04-26 11:18:39",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "strongly typed",
+		"back": "fortement typé",
+		"whenCreated": "2025-04-26 11:17:51",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "so it tries to compensate",
+		"back": "donc il essaye de pallier",
+		"whenCreated": "2025-04-26 11:16:33",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "due to its history",
+		"back": "dues à son historique",
+		"whenCreated": "2025-04-26 11:15:37",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "it is partly also for",
+		"back": "c'est en partie aussi pour",
+		"whenCreated": "2025-04-26 10:55:13",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "they then made the decision",
+		"back": "ils ont ensuite pris la décision",
+		"whenCreated": "2025-04-26 10:54:02",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "to overcome this",
+		"back": "pour pallier ça",
+		"whenCreated": "2025-04-26 10:53:00",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "concerns about memory security",
+		"back": "des soucis sur la sécurité mémoire",
+		"whenCreated": "2025-04-26 10:52:13",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "due to undefined behaviors",
+		"back": "dus à des comportements indéfinis",
+		"whenCreated": "2025-04-26 10:51:05",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "what it means to use",
+		"back": "ce que ça induit d'utiliser",
+		"whenCreated": "2025-04-26 10:45:13",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "it is supposed to be acquired, known in advance",
+		"back": "c'est censé être acquis, connu au préalable",
+		"whenCreated": "2025-04-26 10:44:06",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "but for all that",
+		"back": "mais pour autant",
+		"whenCreated": "2025-04-26 10:42:13",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "to explain to you what it is for",
+		"back": "de vous expliquer à quoi cela sert",
+		"whenCreated": "2025-04-26 10:41:42",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "I assume that",
+		"back": "je pars du principe que",
+		"whenCreated": "2025-04-26 10:39:57",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "it should already be acquired",
+		"back": "ça devrais être déjà acquis",
+		"whenCreated": "2025-04-26 10:39:05",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "you should have already used",
+		"back": "il faudrait avoir déjà utilisé",
+		"whenCreated": "2025-04-26 10:36:40",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "address the prerequisites",
+		"back": "aborder les prérequis",
+		"whenCreated": "2025-04-26 10:34:19",
 		"extras": ""
 	},
 	{

@@ -13,7 +13,7 @@
 		"status": ""
 	},
 	{
-		"topics": "bash,dpod",
+		"topics": "bash,dpdoing",
 		"language": "de",
 		"duration": "03:12:00",
 		"year": "2024",
@@ -1560,7 +1560,7 @@
 		"status": ""
 	},
 	{
-		"topics": "kotlin,dpod",
+		"topics": "kotlin,dpdoing",
 		"language": "es",
 		"duration": "04:52:00",
 		"year": "2022",
@@ -1570,7 +1570,7 @@
 		"description": "María Puy Arrastia Lana, nice voice, long course in Kotlin in Spanish",
 		"platform": "linkedInLearning",
 		"fileIdCode": "es-ll-kotlin-esencial",
-		"status": ""
+		"status": "started"
 	},
 	{
 		"topics": "ai, openai, python",
@@ -1794,7 +1794,7 @@
 		"status": ""
 	},
 	{
-		"topics": "rust,dpod",
+		"topics": "rust,dpdoing",
 		"language": "fr",
 		"duration": "01:59:00",
 		"year": "2022",
@@ -1804,7 +1804,7 @@
 		"description": "solid course on Rust in French, Benjamin Coenen, nice voice",
 		"platform": "linkedInLearning",
 		"fileIdCode": "fr-ll-dcouvrir-rust",
-		"status": ""
+		"status": "started"
 	},
 	{
 		"topics": "python",
@@ -2025,7 +2025,7 @@
 		"description": "Laurent N'Daw, long course and good updated basics of classes",
 		"platform": "linkedInLearning",
 		"fileIdCode": "fr-ll-php-la-programmation-oriente-objet",
-		"status": ""
+		"status": "started"
 	},
 	{
 		"topics": "php,dpod",
@@ -2090,19 +2090,6 @@
 		"description": "Madjid in French, 2021, good overview of TensorFlow, and very long",
 		"platform": "linkedInLearning",
 		"fileIdCode": "fr-ll-tensorflow-pour-le-deep-learning",
-		"status": ""
-	},
-	{
-		"topics": "kotlin",
-		"language": "es",
-		"duration": "04:52:00",
-		"year": "2022",
-		"rank": "4.89",
-		"url": "https://www.linkedin.com/learning/kotlin-esencial",
-		"title": "Kotlin esencial",
-		"description": "very long course on the basics",
-		"platform": "linkedInLearning",
-		"fileIdCode": "sp-ll-kotlin-esencial",
 		"status": ""
 	}
 ]
