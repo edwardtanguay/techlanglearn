@@ -4,6 +4,26 @@
 	"totalDuration": "24:25:43",
 	"timeUnits": [
 		{
+			"calendarDate": "2025-05-01",
+			"duration": "00:00:00"
+		},
+		{
+			"calendarDate": "2025-04-30",
+			"duration": "00:00:00"
+		},
+		{
+			"calendarDate": "2025-04-29",
+			"duration": "00:00:00"
+		},
+		{
+			"calendarDate": "2025-04-28",
+			"duration": "00:00:00"
+		},
+		{
+			"calendarDate": "2025-04-27",
+			"duration": "00:00:00"
+		},
+		{
 			"calendarDate": "2025-04-26",
 			"duration": "00:21:26"
 		},
