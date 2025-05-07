@@ -1781,7 +1781,7 @@
 		"status": ""
 	},
 	{
-		"topics": "bash,dpod",
+		"topics": "bash,dpdoing",
 		"language": "fr",
 		"duration": "01:42:00",
 		"year": "2017",
@@ -1791,7 +1791,7 @@
 		"description": "Rudi Bruchez for old times sake, basic course on bash scripting",
 		"platform": "linkedInLearning",
 		"fileIdCode": "fr-ll-dcouvrir-lcriture-de-scripts-en-bash",
-		"status": ""
+		"status": "started"
 	},
 	{
 		"topics": "rust,dpdoing",
