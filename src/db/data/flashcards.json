@@ -7880,5 +7880,19 @@
 		"back": "tu es dans un bon endroit",
 		"whenCreated": "2025-04-23 21:47:07",
 		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "how we sort them",
+		"back": "comment on les trie",
+		"whenCreated": "2025-05-07 20:54:10",
+		"extras": ""
+	},
+	{
+		"language": "fr",
+		"front": "this training is for you",
+		"back": "cette formation t'est destinée",
+		"whenCreated": "2025-05-07 20:20:47",
+		"extras": ""
 	}
 ]

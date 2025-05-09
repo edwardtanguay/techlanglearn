@@ -2041,7 +2041,7 @@
 		"status": ""
 	},
 	{
-		"topics": "python,dpod",
+		"topics": "python,dpdoing",
 		"language": "fr",
 		"duration": "02:08:00",
 		"year": "2016",
@@ -2051,7 +2051,7 @@
 		"description": "old course (2016) but retro with Rudi Bruchez, unique, all about data",
 		"platform": "linkedInLearning",
 		"fileIdCode": "fr-ll-python-les-structures-de-donnes",
-		"status": ""
+		"status": "started"
 	},
 	{
 		"topics": "python,dpod",
